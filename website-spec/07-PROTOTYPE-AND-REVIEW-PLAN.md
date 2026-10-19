@@ -1,6 +1,7 @@
 # Prototype brief and review gates
 
-**This is a brief for later approval, not authorization to begin.** The present deliverable is the written specification. Stuart and Felix review it before any prototype; the prototype then receives its own review before a full website.
+**Current authorization:** Dave Paul has requested the design prototype and live preview in a separate `sw-arts-website` repository. The provisional Audo #11 direction is for review; production and live transactions still require a later approval. Project day one is November 1, 2026. Earlier specification-stage descriptions below describe the review sequence, not a current prohibition on the authorized prototype.
+**This is the brief for the now-authorized design prototype.** Dave Paul and Felix will review the concrete prototype before a full production website. Prototype publication does not authorize live financial or booking actions.
 
 ## Review the specification first
 
@@ -54,4 +55,4 @@ The future prototype review should include a clickable private preview, mobile a
 
 Production authorization follows prototype acceptance and a funded operating model. Before live release, secure seller/partner permissions, image licenses, confirmed inventory, operator responsibilities, payment/fulfillment readiness, staff capacity and final accessibility/security/performance validation. Launch a small private buying pilot before broad promotion.
 
-Suggested sequence after approval: one week to resolve the visual direction and content permissions; two to three weeks for the coherent prototype and formative revision; then scope production from the approved design and operational readiness. These are planning ranges, not promised delivery dates or a current authorization.
+Project kickoff is November 1, 2026, distinct from the authorized preparation prototype. Suggested effort sequence: one week to resolve the visual direction and content permissions; two to three weeks for the coherent prototype and formative revision; then scope production from the approved design and operational readiness. These are planning ranges, not promised delivery dates or a current authorization.

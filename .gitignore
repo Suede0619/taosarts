@@ -6,3 +6,6 @@ private/
 __pycache__/
 *.pyc
 .venv/
+
+# Independent prototype repository
+/sw-arts-website/

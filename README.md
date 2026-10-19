@@ -1,15 +1,17 @@
 # Taos Arts — revival, livelihoods, and a year of execution
 
-A document repository for Stuart and Felix Kay's work to help Taos artists sell art, remain in the community, and reach a wider public. Taos Fall Arts Festival is the initial focus; a separate curated Southwest arts guide is a proposed year-round partner product.
+A document repository for Dave Paul and Felix Kay's work to help Taos artists sell art, remain in the community, and reach a wider public. Taos Fall Arts Festival is the initial focus; a separate curated Southwest arts guide is a proposed year-round partner product.
 
-**Prepared October 19, 2026. Planning period: today through October 18, 2027.** The plan begins after the 2026 festival, not before a future move to Taos. Stuart is already based in Arroyo Seco. This is a working proposal, not an approved festival program or a promise of sales.
+**Prepared October 19, 2026. Day one: November 1, 2026. Year one: November 1, 2026–October 31, 2027.** The plan begins after the 2026 festival, not before a future move to Taos. Dave Paul is already based in Arroyo Seco. This is a working proposal, not an approved festival program or a promise of sales.
+
+[Current project baseline](PROJECT-BASELINE.md) records Dave Paul (also David Paul), the common timeline, pre-kickoff dates, current website decisions and the distinction from older financial illustrations. November 1 is project kickoff, not an automatic website launch or billing date.
 
 ## Start here
 
 | Document | What it provides |
 |---|---|
 | [Southwest Art website — specification for review](website-spec/README.md) | Taos-first website spec, proposed Atomic design, contextual AI, zero direct-artist commission, commerce/partner pricing and researched launch candidates. **Review before prototype; no website built.** |
-| [Felix meeting — consolidated](FelixMeet) | One detailed account replacing four overlapping note versions, with Stuart's HeyTaos correction and House of Fire contact details. Kept at the original extensionless path. |
+| [Felix meeting — consolidated](FelixMeet) | One detailed account replacing four overlapping note versions, with Dave Paul's HeyTaos correction and House of Fire contact details. Kept at the original extensionless path. |
 | [PRD and business plan](planning/01-PRD-and-Business-Plan-2027.md) | Mission, audiences, offers, business model, outcomes, governance, and launch conditions. |
 | [Financial model and targets](planning/02-Financial-Model-and-Targets.md) | $1m / $3m / $5m art-sales scenarios, artist shares, operating budget, break-even and cash risk. |
 | [Roadmap and first 90 days](planning/03-Twelve-Month-Roadmap-and-First-90-Days.md) | Dated tasks, proposed owners, decision gates, and a manageable pilot. |
@@ -22,9 +24,9 @@ A document repository for Stuart and Felix Kay's work to help Taos artists sell 
 
 Public sources establish the festival's history and an organizational financial record, but **not a reliable annual series of total artwork sales or unique attendance**. Unknowns are left unknown. Felix's forthcoming 2026 folder should help reconstruct the baseline.
 
-The base plan aims at **$3m completed art value**, with a proposed **$1.98m artist share before production costs/tax**, **$579,000 operating income**, and **$485,000 operating expenses**. These are assumptions to test. The low case has a deficit; even an annually profitable case can run short of cash before festival sales arrive. Artist balances cannot finance operations.
+The older commission-bearing financial illustration models **$3m completed art value**, with a proposed **$1.98m artist share before production costs/tax**, **$579,000 operating income**, and **$485,000 operating expenses**. These are assumptions to test. The low case has a deficit; even an annually profitable case can run short of cash before festival sales arrive. Artist balances cannot finance operations.
 
-The newer website specification requires **zero Southwest Art commission on direct artist sales** and separately addresses funding payment fees. Its economics supersede the older website assumptions; they do not silently change the festival model quoted above. The Atomic design choice and permission to prototype remain pending.
+The newer website specification requires **zero Southwest Art commission on direct artist sales** and separately addresses funding payment fees. Its economics supersede the older website assumptions. The older illustration above is not the current website budget or an approved consolidated forecast. Dave has now authorized building and publishing a design prototype in the separate `sw-arts-website` repository; production selling still requires a further review. Audo #11 is a provisional prototype direction, not a finalized brand decision.
 
 **Near-term action:** determine immediately whether the authorized festival applicant must submit New Mexico Arts advance review by **October 23, 2026, 11:59pm Mountain**. The FY28 request is $5,000, with eligibility, match, public-program, and reimbursement conditions. Final applications are due December 18. [Funding plan and official links](planning/07-Funding-and-Sponsorship-Plan.md).
 

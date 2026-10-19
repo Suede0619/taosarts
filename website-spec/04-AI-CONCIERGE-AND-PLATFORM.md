@@ -116,4 +116,4 @@ Create 150 real task prompts before production: 40 art discovery/filtering, 25 o
 
 Required: zero invented work IDs/prices/sale statuses in the evaluated set; correct hard constraints and visible undo; truthful uncertainty; no unauthorized access or side effects; correct distinction between unique works and reproductions; source/date support for local factual answers; human handoff when relevant. Also measure tone, reading effort, latency, cost and successful next actions. Passing the sample is a release condition, not proof that all future answers are correct.
 
-The prototype should simulate representative conversations and their UI changes so Stuart and Felix can review the experience without funding or connecting the live model yet. Clearly label simulated responses in the review build.
+The prototype should simulate representative conversations and their UI changes so Dave Paul and Felix can review the experience without funding or connecting the live model yet. Clearly label simulated responses in the review build.

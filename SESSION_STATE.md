@@ -1,105 +1,56 @@
 # Session handoff — October 19, 2026
 
-This is a dated snapshot for a new session. Check the current date, Git history, and user's latest direction before treating an action as current. Stable working rules are in [AGENTS.md](AGENTS.md).
+Read [AGENTS.md](AGENTS.md) and [PROJECT-BASELINE.md](PROJECT-BASELINE.md) first. Check the current date, Git history and newest user instruction before treating an old source snapshot as current.
 
-## Latest work — Southwest Art website specification awaiting review
+## Latest instructions and stage
 
-The newest user request is **a written website specification in a new ART folder**, working brand Southwest Art, region-first with Taos v1. The purpose is collector credibility, exceptional design/images/service, completed art sales and artist livelihood, with free artist/experience discovery and paid gallery/hospitality services. The user explicitly requires **spec → user review → UI/design prototype → user review → full website**. **Do not build or deploy the prototype/site yet.**
+- The user is **Dave Paul**, also **David Paul**. Use Dave Paul in documents and Dave in conversation. Canonical ART references have been corrected. Immutable private originals and Git history are not rewritten.
+- **November 1, 2026 is day one**; year one ends October 31, 2027. Dave already lives in Arroyo Seco. Historical/research dates remain October 19 where that was the actual observation.
+- Finish alignment first, then **build and publish a design prototype**, in a new folder and separate repository: `https://github.com/Suede0619/sw-arts-website`. This supersedes the earlier wait-before-prototype instruction. Production remains a separate review; no real purchases, booking or seller enrollment are authorized by a prototype.
+- Atomic Audo Copenhagen #11 is the provisional prototype direction, with Aesop #35 an alternative. A concrete prototype does not finalize the brand/design decision.
 
-The new [website-spec package](website-spec/README.md) contains sixteen Markdown documents and four CSVs: the main spec, future regions, design direction, AI recommendation, commerce/pricing, technology/content, prototype acceptance, collector growth, four local content research modules, source register, data guide and scoped agent instructions.
+## Completed baseline before this alignment
 
-Key current decisions and evidence:
+The initial 31-file festival/history/business package was pushed in **f74b047**; agent/handoff guidance in **f0a4f43**; the twenty-file website specification/research package in **e987f7f**. Read only the relevant modules instead of repeating all research.
 
-- Recommend Atomic **Audo Copenhagen #11**, adapted; Aesop #35 is the alternative. The actual supplied Atlas/source was reviewed. A design-choice question was submitted, but no answer has been received. **Choice remains pending**, as does permission to prototype.
-- Use one contextual concierge across sections. Recommend OpenAI Responses API / **`gpt-6.1-sol`** as the initial candidate, based on current official docs, with an explicit task evaluation against alternatives before final production choice. No model API is connected.
-- The newest website direction is **zero Southwest Art commission on direct-artist sales**. Literal full-art-price payout needs funded platform/sponsor processing fees. Gallery/estate/resale offers have distinct seller terms. The older festival model below remains separate and unchanged.
-- Founding paid-service proposals: gallery $150/month, restaurant $99/month, lodging $199/month. All 28 commercial targets paying would yield $4,184/month; the economics expose an operating/processing-subsidy gap. None has agreed.
-- Research covers **10 artist candidates × 6 = 60 work records**, with **31 published prices**, **23 unconfirmed units** and **42 unknown artwork years**. These are not sixty confirmed newest/highest-priced available offers. Six Miguel Martinez pages have source conflicts. Every work has no obtained seller authority, uncleared rights and checkout disabled. Editions/reproductions, sold originals and possible resale are distinguished.
-- Place research covers **12 gallery businesses/groups, 10 experiences, 8 restaurants and 8 lodging properties**. The 98-row image-reference manifest has 92 nonblank URLs, no cleared licenses and no production-enabled assets. No third-party image files are included in the public package.
-- Date-sensitive corrections: Revolt's displayed summer shows have ended; selected Gonske newsletter works are sold; 192 at The Blake may be seasonally closed after October 17 and needs confirmation; Ojo's own page still says the new cold plunge is under construction; static inn rates are not live quotes. Taos Art Museum/Fechin House was selected over Earthship for the core ten experiences.
-- Southwest Art is a working name already used by an established magazine in the same market; no public-name/domain clearance performed. This does not prevent the requested internal specification work.
-
-**Next action is the user's specification/design review.** Read [website-spec/AGENTS.md](website-spec/AGENTS.md), then the main spec and review brief. Do not treat review silence, these proposed budgets, or committing documents as authorization for implementation, outreach, billing, bookings or payments.
-
-Website-document validation checked relative file links; exact artist/work/place/asset counts; unique IDs; positive-or-blank prices; disabled checkout/production assets; missing values; and new commercial arithmetic. The source raw-page directory remains ignored. No application/model/checkout was built or tested, and the unchanged festival financial model was not regenerated. The website work starts from ART baseline **`f0a4f43`**; use Git history for this update's resulting commit.
-
-## What the user asked for
-
-Make ART a document repository connected to the user-created `Suede0619/taosarts` repository. Consolidate four versions of Felix meeting notes into one detailed account. Research Taos Fall Arts history and economics, international festival practices, and a complete executable year-ahead PRD/business plan aimed at millions in art sales, artist livelihood, and broad public access. Correct “TellUs” to HeyTaos and include the House of Fire business contact details.
-
-## What is complete
-
-The initial **31-file public package** was committed and pushed to `main` as **`f74b0471272081157f42128f748455e9732fcd24`**. A subsequent user request to add/commit/push found no further changes; a push confirmed it was up to date. The continuity update **`f0a4f43`** added this handoff and `AGENTS.md` to ART, with separate workspace guidance committed in the parent repository. The latest website specification is described above.
-
-| Deliverable | Location |
+| Topic | Current entry point |
 |---|---|
-| One comprehensive meeting summary | [FelixMeet](FelixMeet) |
-| Historical scene, milestones, organizational financial table, missing attendance/sales evidence | [Taos history and economics](research/01-Taos-Fall-Arts-History-and-Economics.md) |
-| Sixteen international/regional event models, financial/attendance distinctions and transferable practices | [Global comparisons](research/02-Global-Festival-Benchmarks.md) |
-| HeyTaos offer, partner roles, proposed pilot and regional expansion | [Partnership research](research/03-HeyTaos-and-Regional-Partnerships.md) |
-| Sources, excluded claims, evidence limits and open questions | [Source register](research/04-Source-Register-and-Open-Questions.md) |
-| Detailed PRD/business plan and seven execution modules | [Business plan](planning/01-PRD-and-Business-Plan-2027.md), then README navigation |
-| Historical CSVs, assumptions, cash flow and sensitivity | [Data index](data/README.md) |
-| Reproducible standard-library model | [tools/financial_model.py](tools/financial_model.py) |
-| Archive intake, partnership, buyer, seller and weekly reporting templates | [README working tools](README.md#working-tools) |
+| Common identity, timeline, fixed dates and controlling website decisions | [PROJECT-BASELINE.md](PROJECT-BASELINE.md) |
+| Consolidated meeting | [FelixMeet](FelixMeet), extensionless canonical document |
+| Website specification | [website-spec/README.md](website-spec/README.md) |
+| Dated first ninety days and year one | [Roadmap](planning/03-Twelve-Month-Roadmap-and-First-90-Days.md) |
+| Zero-commission website economics | [Website commerce](website-spec/05-COMMERCE-PRICING-AND-OPERATIONS.md) |
+| Older commission-bearing financial illustration | [Financial plan](planning/02-Financial-Model-and-Targets.md), [model inputs](data/model-inputs.json) |
+| Festival history / missing historical sales evidence | [History](research/01-Taos-Fall-Arts-History-and-Economics.md) |
+| Global benchmarks / original source register | [Benchmarks](research/02-Global-Festival-Benchmarks.md), [sources](research/04-Source-Register-and-Open-Questions.md) |
 
-The plan covers **October 19, 2026–October 18, 2027**. Stuart already lives in **Arroyo Seco**. The 2026 festival has ended; a 2027 festival date is not confirmed. The separate regional brand and AI concierge remain proposals. No website, payment system, live inventory service, partnership, grant submission, booking, or outreach was created by this document work.
+## What alignment changes
 
-## Key findings and decisions to preserve
+The roadmap uses Nov 1–30, Dec 1–30, and Dec 31–Jan 29 for its first 30/60/90-day phases. Calendar cash flow runs November 2026–October 2027. The older model's monetary assumptions are retained and explicitly labeled **not the current website budget or an approved consolidated forecast**. Its 20% direct-festival illustration cannot be applied to direct-artist Southwest Art website sales.
 
-- The festival's own history uses **1974**. The official 2026 promotion gives **September 18–October 4**. Older/aggregator pages can conflict or mix editions; source each edition explicitly.
-- Public research did **not** establish a dependable annual total-art-sales or unique-attendance series. Do not treat that absence as zero sales or proof of a continuous post-pandemic decline.
-- Organizational figures were reconstructed for **2014–2023 from ProPublica's IRS extraction** and **2024 from Cause IQ**. Full underlying filings were not reviewed. Public 2025/2026 organizational figures were not found.
-- HeyTaos is a possible complementary partner. Published advertising asking prices are not achieved revenue, audience size, or ROI.
-- Felix's role and House of Fire contact are recorded in the meeting summary; the festival board retains its own authority. A separate commercial guide cannot assume ownership of nonprofit assets, contacts, or funding.
-- Core artist participation should be free in the proposed model, with funded services and clear commissions where agreed. Paid commercial services must not purchase editorial selection.
+The newer website rules control: Taos-only v1; ten artist candidates and sixty work records; twelve gallery businesses/groups; ten experiences; eight restaurant/eight lodging targets; free core artist/experience inclusion; zero direct-artist platform commission; funded processing if promising the full art subtotal; founding profile proposals $150/$99/$199 monthly. The old 100-work pilot target is superseded; start with a manageable 12–20 cleared works and grow only if ready. Full cohort profile income is $4,184/month or $25,104 for six paid months on average; none is agreed revenue.
 
-## Financial baseline — assumptions, not achieved results
+Website research has 31 published asking prices, 23 unconfirmed dimension units and 42 unknown art years among sixty work records. All research work records remain disabled for checkout, without obtained seller authority or cleared image rights. Six Miguel Martinez records have source conflicts. The 98-row artwork/place image manifest contains 92 reference URLs, not licensed assets. Production/prototype imagery must be original or suitably licensed and must not misattribute demo art to living artists.
 
-| Scenario | Completed art value | Operating income | Operating costs | Surplus / deficit before unresolved tax |
-|---|---:|---:|---:|---:|
-| Low | $1,000,000 | $207,000 | $265,000 | −$58,000 |
-| Base | $3,000,000 | $579,000 | $485,000 | $94,000 |
-| Stretch | $5,000,000 | $973,000 | $700,000 | $273,000 |
+## Fixed dates before kickoff
 
-Base assumptions: 30% direct festival sales at a 20% fee, 50% gallery-referred sales at a 4% fee paid from gallery margin, and 20% commission/procurement projects at a 15% fee. Weighted artist share is 66%, or **$1.98m before artists' production costs and tax**; gallery retained is 23%; project transaction income is 11%. These are proposed terms requiring agreement.
+- **October 23, 2026, 11:59pm Mountain:** New Mexico Arts FY28 advance review if required. Authorized existing applicant must verify account/history; this is not a website grant entitlement. Final deadline **December 18** is in days 31–60.
+- **October 22:** Larry Bell/Michelle Cooke opening at Taos Center for the Arts; optional local research, not a project deadline. Ron Cooper/Arnoldi/Dill show in Santa Fe is scheduled to close that day.
+- **October 31:** Michelle Cooke's Santa Fe solo exhibition scheduled to end; optional.
+- Meeting reference to an **October 24** Art as a Teacher launch remains unverified, including year. Do not treat it as confirmed.
 
-The base funnel assumes 2,000 opt-in prospect households, 800 qualified households, 440 buying households, and 550 orders. Its **55% qualified-to-buyer conversion is aggressive and unvalidated**. Higher-value inventory and procurement capacity are also unproved.
+Official links and verification context are in the baseline. PASEO announces Sept 17–18, 2027 but is separate from Fall Arts, whose 2027 dates remain unconfirmed.
 
-The base model assumes $50,000 opening unrestricted financing, not committed cash or operating income. Its minimum modeled cash balance is $19,550. A 20% art-sales shortfall produces a temporary negative cash balance despite an annual surplus. The low scenario is underfunded as written. See [the financial plan](planning/02-Financial-Model-and-Targets.md) before repeating any figure.
+## Preserve these evidence and operating limits
 
-## Date-sensitive items as of this handoff
+Felix Kay is Gallery Director at HOUSE of FIRE; his precise festival role/year/authority remains unconfirmed. His 2026 archive has not arrived. HeyTaos is the corrected identity behind TellUs and a potential complementary partner, not an agreed audience/data supplier. No historic annual total-art-sales/unique-attendance series was established; organization finances are not art GMV.
 
-These dates were researched for the October 19 session. Recheck current official sources before acting; a future session must not describe passed dates as pending.
+Revolt's visible summer shows have ended; source newsletters can include now-sold Gonske work; 192 at The Blake may be seasonally closed; Ojo's new cold plunge source says under construction; static inn rates are not live quotes. Refresh all date-sensitive facts before a real visit or production listing.
 
-- **New Mexico Arts FY28:** advance review, if required, October 23, 2026, 11:59pm Mountain; final application December 18, 2026. Published request $5,000, with match, eligibility and reimbursement conditions. Activity period July 2027–June 2028, generally with a May completion term. It cannot by itself fund the full revival. Check applicant history and authority; no submission has occurred. [Funding plan and official sources](planning/07-Funding-and-Sponsorship-Plan.md).
-- **PASEO:** its own call lists September 17–18, 2027. It is a separate organization/event, not an agreed art-sales partner. It explicitly says its program does not feature booths or sales. Coordinate without assuming its dates are Fall Arts dates.
-- The research notes a Larry Bell/Michelle Cooke exhibition announced October 22–November 29, 2026 and a Harwood March 2027 closure/partial reopening. Reconfirm with the venues before an itinerary or visit.
+The original private meeting archive remains unchanged at `private/source/FelixMeet.original-2026-10-19.txt`, SHA-256 `8a0598a5dfaca65b80e27b7a70b99b3da727831c2a1cf7ffc7aece50204b7d9b`. Private raw sources and buyer/financial records stay outside public Git.
 
-## Outstanding inputs and next useful work
+## Repository boundaries and continuation
 
-The newest website review gate above takes precedence over older implementation suggestions in this list. Continue independent document work if requested; wait for review/authorization before a prototype or production build.
+ART is the public **taosarts** document repository. The prototype will have its own **sw-arts-website** repository and must be ignored by ART rather than accidentally added as an embedded repository. The surrounding TAOS repository has unrelated staged housing work; preserve it. Commit and push only each repository's intended files.
 
-1. **Felix's 2026 archive has not arrived.** Use the intake template; recover completed art sales, payouts, liabilities, attendance methods, contracts, sponsor restrictions, costs and permissions. Reconcile privately before publishing aggregates.
-2. Confirm authorized festival decision makers, Felix's precise role/year, the exact recent pause/2025 edition status, and the festival/guide relationship.
-3. Obtain actual available cash, weekly founder capacity, and an approved pilot ceiling. A question about cash and time was asked during the work but no answer was supplied. Scenarios were used instead; the proposed first-90-day ceiling is $15,000, not authorization to spend.
-4. Test buyer demand, available works, fees and seller/settlement responsibilities through the small manual concierge pilot before custom software or major event spending.
-5. Obtain venue, staffing, insurance, access and handling quotes; replace budget envelopes and reassess cash timing.
-6. Prepare specific partner proposals if requested, with rights, consent, measurement and commercial terms. HeyTaos and other named organizations are uncommitted.
-7. Qualify funding sources. The modeled $50,000 base grants are unawarded, and most of that amount is not tied to an identified eligible award.
-
-Continue independent work when an input is delayed. Do not fabricate archive contents, represent the plan as approved, or repeat all completed research merely to regain context.
-
-## Local archive and validation already performed
-
-The unchanged original meeting notes are preserved **locally, ignored** at `private/source/FelixMeet.original-2026-10-19.txt`. SHA-256:
-
-```text
-8a0598a5dfaca65b80e27b7a70b99b3da727831c2a1cf7ffc7aece50204b7d9b
-```
-
-The private source folder also contains retrieved research material. None is required to run the public model; none should be assumed present in a fresh clone.
-
-Initial validation checked relative document links, the original-note checksum, staged private paths and credential patterns, whitespace, model arithmetic and cash reconciliation, and identical model outputs from a clean repository export without private files. A 54-link HTTP check returned 52 successes; Frieze and Setouchi blocked automated requests with 403 responses. Further source links were added during the final research pass; do not describe every external link as automatically tested. The published initial commit matched remote `main`, with a clean ART worktree.
-
-For the next session: inspect actual status/history, read only the relevant modules, and revalidate the changes you make. Update this handoff after meaningful work.
+Alignment is complete from baseline **e987f7f**. Validation passed for canonical names, relative links, contiguous Nov–Oct cash-flow periods, exact first-ninety-day dates, unchanged model monetary results, and the preserved private-archive checksum. The model generator passed its allocation/timing/cash checks. Commit alignment before implementing the prototype, then update this handoff with actual build/deployment results and URLs. A failed build/deployment does not justify claiming the site is live. Further production work waits for prototype review.

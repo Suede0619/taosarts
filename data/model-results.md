@@ -2,6 +2,9 @@
 
 Planning assumptions only. Rebuild with `python3 tools/financial_model.py` from the ART repository.
 
+Planning period: **2026-11-01 through 2027-10-31**.
+Model scope: **Legacy commission-bearing festival/integrated illustration; not the current Southwest Art zero-commission website budget or approved consolidated forecast**.
+
 | Scenario | Art value | Artist proceeds | Gallery retained | Transaction income | Operating income | Expenses | Surplus / deficit |
 |---|---:|---:|---:|---:|---:|---:|---:|
 | low | $1,000,000 | $660,000 | $230,000 | $110,000 | $207,000 | $265,000 | −$58,000 |

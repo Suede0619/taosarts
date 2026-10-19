@@ -6,7 +6,7 @@
 
 Recommended mission policy: **the artist receives the agreed artwork subtotal; Southwest Art takes no art-sales commission and funds normal processor costs through its own operating/sponsor budget**. Tax and agreed shipping/insurance are separately itemized and routed to the responsible party. Returns/refunds and legitimate contractual obligations are not falsely described as permanent artist income.
 
-If that fee subsidy is not funded, the truthful alternative is “No Southwest Art commission; payment processing and other agreed costs apply.” That alternative needs Stuart/Felix review rather than silently weakening the promise. Do not display “100% to the artist” while subtracting ordinary processing costs from their payout.
+If that fee subsidy is not funded, the truthful alternative is “No Southwest Art commission; payment processing and other agreed costs apply.” That alternative needs Dave Paul/Felix review rather than silently weakening the promise. Do not display “100% to the artist” while subtracting ordinary processing costs from their payout.
 
 This policy applies to **authorized direct-artist inventory**. A gallery seller may have a valid artist commission, estate ownership or resale arrangement. Those sales must name the actual seller and must not claim that all proceeds reach a living artist. Represented artists cannot use our site to evade an agreement. Resolve routing before publishing a buy action.
 
@@ -112,6 +112,6 @@ Use private order and settlement records, dual control for material payments and
 
 Tax treatment, sales-tax/GRT/marketplace duties, charitable recognition and international consumer obligations require review for the actual arrangement. The earlier [operations guidance](../planning/05-Festival-Operations-Artist-Equity-and-Governance.md) supplies relevant primary sources and questions; it is not approval of this website's final structure.
 
-## Decisions for Stuart and Felix
+## Decisions for Dave Paul and Felix
 
 Confirm whether literal full-art-price payout with platform-funded fees is the policy; identify its funding source; review the three partner prices and service scope; choose the initial affiliate/direct-referral approach; and confirm who will actually deliver concierge, content and settlement work. These decisions precede real checkout, partner billing or public claims.

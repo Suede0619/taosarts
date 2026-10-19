@@ -1,6 +1,6 @@
 # Design direction — recommendation awaiting approval
 
-**Decision status: pending Stuart's choice.** The user explicitly asked to review the selected system before it is finalized. This document proposes a direction; it does not finalize it or authorize a prototype.
+**Decision status: provisional Audo #11 prototype authorized; final design choice remains for review.** The user explicitly asked to review the selected system before it is finalized. This document proposes a direction; it does not finalize it or authorize a prototype.
 
 ## The actual Atomic options reviewed
 

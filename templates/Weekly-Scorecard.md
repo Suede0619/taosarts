@@ -2,7 +2,11 @@
 
 Use a private working copy. Public updates should contain approved aggregates only.
 
-Week ending: ____ · Owner: ____ · Scenario in use: ____ · Cash forecast updated: ____
+Project day one: November 1, 2026 · Project year: Nov 1, 2026–Oct 31, 2027
+
+Week ending: ____ · Owner: ____ · Scenario/scope in use: ____ · Cash forecast updated: ____
+
+Year-to-date below means the project year from November 1, not a January reset. Distinguish the current website budget from the legacy commission-bearing illustration.
 
 | Metric | This week | Year to date | Definition / exception |
 |---|---:|---:|---|

@@ -1,8 +1,9 @@
 # Southwest Art — website specification for review
 
-**Version 0.1 · October 19, 2026 · Owners for review: Stuart and Felix Kay**
+**Current authorization:** Dave Paul has requested the design prototype and live preview in a separate `sw-arts-website` repository. The provisional Audo #11 direction is for review; production and live transactions still require a later approval. Project day one is November 1, 2026. Earlier specification-stage descriptions below describe the review sequence, not a current prohibition on the authorized prototype.
+**Version 0.1 · October 19, 2026 · Owners for review: Dave Paul and Felix Kay**
 
-**Stage: specification only.** The next step is review, then a separately authorized visual/interaction prototype, then a second review before production. The working brand, Atomic design direction, pricing, partner targets, inventory, and technical choices are proposals. No site or live commerce has been built.
+**Stage: design prototype authorized.** Dave has requested a prototype and live preview; its review precedes production. The working brand, Atomic design direction, pricing, partner targets, inventory, and technical choices are proposals. No site or live commerce has been built.
 
 Use **Southwest Art** as requested for this stage. An established [Southwest Art Magazine](https://www.southwestart.com/) already uses the name in this market; review the public identity/domain and possible confusion before launch. No name clearance has been performed.
 
@@ -233,7 +234,7 @@ Record task success, time, confusion, trust and observed failure, not just wheth
 
 Use the [technical/content requirements](06-DATA-TECHNICAL-AND-CONTENT-SPEC.md), [prototype review brief](07-PROTOTYPE-AND-REVIEW-PLAN.md), and [collector growth plan](08-COLLECTOR-GROWTH-AND-LAUNCH.md) as the supporting delivery modules.
 
-**Gate A — this specification:** Stuart and Felix review the proposition, Atomic direction, navigation, content shortlist, artist economics, partner pricing and prototype scope. Resolve the design choice explicitly. No implementation begins before authorization.
+**Gate A — this specification:** Dave Paul and Felix review the proposition, Atomic direction, navigation, content shortlist, artist economics, partner pricing and prototype scope. Resolve the design choice explicitly. No implementation begins before authorization.
 
 **Gate B — design prototype:** after approval, build a small coherent UI with clearly marked demonstration data and licensed imagery or appropriate placeholders. Include the Taos gateway, art search, artist/work detail, experience, gallery, dining/lodging, contextual assistant, saved plan and simulated checkout. Review desktop/mobile behavior and design, then revise.
 

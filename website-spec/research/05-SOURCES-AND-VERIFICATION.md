@@ -7,7 +7,7 @@
 1. Artist, authorized seller, operator, museum, Pueblo or land-manager information for facts they control. Public inventory is still not our permission to sell.
 2. Current official technical/platform documentation for documented capabilities and fees.
 3. Named review/marketplace/destination sources for their own ratings/listings, explicitly identified and dated as retrieved snapshots.
-4. Stuart/Felix meeting and user accounts, labeled as supplied rather than independently verified.
+4. Dave Paul/Felix meeting and user accounts, labeled as supplied rather than independently verified.
 5. Our proposals, manual travel estimates, budgets, editorial selection and design judgments, explicitly separated from source facts.
 
 Raw fetched pages and extraction scripts remain under ignored `ART/private/source/website-spec/`. They are not a public archive or a production content license. Public deliverables contain concise original summaries, factual metadata and source/image-reference URLs. No account access, social login or CAPTCHA restriction was bypassed. Some local HTTP fetches returned errors, incomplete JavaScript pages or access blocks; usable alternative primary sources were used where available.
@@ -58,13 +58,13 @@ No social account is treated as a source merely because a name matches. Limited 
 
 The [experience research](02-TAOS-EXPERIENCES.md) contains the authority/operator links and separate review snapshots. Tripadvisor scores/counts are cached evidence with varying ages, not live statistics or a licensed display feed. NM River Adventures has inconsistent rounded scores/counts across retrieved versions; the range is disclosed. Williams Lake's old Forest Service PDF establishes a route reference, not today's access. Travel bands are our manual estimates pending routing.
 
-The [gallery research](03-TAOS-GALLERIES.md) links the twelve targets. Revolt's “current/upcoming” shows have past dates; Lake Object's visible exhibitions are historical; R.C. Gorman's Taos location is taken from its current own-site location list. Bryans and mismatched/recycled gallery domains were excluded. House of Fire details come from Stuart; the promised Felix archive is absent.
+The [gallery research](03-TAOS-GALLERIES.md) links the twelve targets. Revolt's “current/upcoming” shows have past dates; Lake Object's visible exhibitions are historical; R.C. Gorman's Taos location is taken from its current own-site location list. Bryans and mismatched/recycled gallery domains were excluded. House of Fire details come from Dave Paul; the promised Felix archive is absent.
 
 The [hospitality research](04-TAOS-FOOD-AND-LODGING.md) links menus and rooms. PDF facts were extracted for concise factual samples; no complete menus are reproduced. Some menu PDFs are undated; file dates are not a guarantee. Juliette is the Hotel Willa restaurant. Orlando's own linked domain was unhelpful, so no official current menu/price was asserted. 192's current operation is unresolved after an October 17 seasonal-close listing. Static inn rate ranges are not live booking quotes. Hacienda del Sol is the Taos property, not a same-name Tucson/Mexico hotel.
 
 ## Inputs needed for the next authorized stage
 
-1. Stuart/Felix specification review and an explicit Atomic design choice; no prototype yet.
+1. Dave Paul/Felix specification review and an explicit Atomic design choice; no prototype yet.
 2. Felix-approved artist/gallery cohort, actual seller relationships and current object sheets.
 3. Artist/photographer permission and usable masters for the prototype; separate authority for live selling.
 4. Confirmed partner willingness, actual current menus/rooms/prices/hours/access and allowed booking/referral paths.

@@ -2,9 +2,11 @@
 
 Version 1.0, October 19, 2026. This specifies a future product. No production website, payment service, inventory database, or AI concierge has been built by this repository work.
 
+**Superseded website detail:** the newer [Southwest Art website specification](../website-spec/README.md) controls routes, design proposal, AI platform, content counts and commerce. This document remains supporting service/data background. Day one is November 1, 2026. Dave has authorized the design prototype/live preview; production remains a separate gate.
+
 ## Product promise
 
-Find art worth seeing, know whether it is available, and reach a person who can help you view and buy it. Make a small number of excellent choices easy to understand on a phone. A human concierge is the first implementation; automation follows observed demand.
+Find art worth seeing, know whether it is available, and reach a person who can help you view and buy it. Make a small number of excellent choices easy to understand on a phone. A human concierge supports the service; the authorized design prototype demonstrates contextual assistance and the production proposal includes grounded AI after evaluation.
 
 ### Primary journeys
 
@@ -29,14 +31,14 @@ Find art worth seeing, know whether it is available, and reach a person who can 
 | P0 | Measurement and privacy | Source tags and consent retained; public repo contains no real buyer/settlement records. |
 | P1 | Saved shortlists and remote viewing | Minimal buyer friction, consented communications, current availability reconfirmed. |
 | P1 | Partner feed and referral dashboard | Written license, corrections, expiration and aggregate reporting. |
-| P1 | AI discovery assistant | Passes the groundedness and routing criteria below; manual route remains available. |
+| P0 for production website; simulated in prototype | AI discovery assistant | Passes the groundedness and routing criteria below; manual route remains available. |
 | P2 | Room visualizations, complex recommendation or collection tools | Implement only when rights, demand, cost, and accuracy are established. |
 
 Public browse and a contact form can launch before account systems or live checkout. Use the existing seller's secure invoice process until settlement is mature. Do not create a marketplace tax/payment burden casually for the sake of a seamless-looking checkout.
 
 ## Information architecture
 
-Start with **Discover art**, **Artists and galleries**, **Visit Taos**, **Festival**, **How to buy**, and **About / selection and support**. Put art and real next actions ahead of a large editorial feed. Gallery profiles should distinguish a location from the artists it represents. Itineraries should state total travel assumptions and who checked them.
+The current primary navigation is **Art & Artists**, **Galleries**, **Experiences**, **Eat & Stay**, and **Plan a Visit**. Festival material is dated Taos content rather than a separate implied approved event. Put art and real next actions ahead of a large editorial feed. Gallery profiles should distinguish a location from the artists it represents. Itineraries should state total travel assumptions and who checked them.
 
 Design direction: calm typography, consistent image treatment, concise artist-led stories, visible prices, restrained motion, and fast mobile pages. Short process films should be captioned and optional. The design responds to the meeting's preferences; conversion tests should decide whether it helps people complete tasks.
 
@@ -100,6 +102,6 @@ A/B tests should answer concrete questions: visible price bands versus no bands;
 
 ## Delivery and build-versus-buy
 
-Weeks 1–4: permissioned spreadsheet/database, manual service, simple public catalog prototype. Weeks 5–8: usable mobile catalog, inquiry ownership, source tagging, seller workflow. Weeks 9–12: reconcile pilot orders and decide what repetitive work warrants automation. Add AI only after the source data and manual routing are reliable.
+Use the [dated roadmap](03-Twelve-Month-Roadmap-and-First-90-Days.md): days 1–30 are November 1–30, days 31–60 December 1–30, and days 61–90 December 31–January 29. A design prototype/live preview is now authorized as preparation; review it before production. Demo assistance and checkout stay clearly simulated. Real AI, stock, payments and seller operations follow separate production readiness and approval, not an automatic week number.
 
 Prefer maintainable existing tools for content, customer records, forms, booking, secure payment, and email. Choose vendors after confirming cost, exportability, privacy, accessibility, and staff capability. Keep a portable data export and documented ownership. Custom software is justified by a demonstrated service gap, not the desire to call the project an AI platform.

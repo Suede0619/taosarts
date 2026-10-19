@@ -30,7 +30,7 @@ Test: two sessions, $1,500 incremental cap each. Success: paid purchases or a do
 
 Participating sellers keep control of their relationships but share a minimal, permissioned availability ledger. It solves a basic problem: the same work cannot be promised to two buyers. Each seller sees only the data needed for their role; commercial terms are agreed rather than collusively standardized.
 
-Test: five galleries and 100 works using a simple tool; no bespoke platform initially. Success: at least 98% availability accuracy and faster replies. Stop if the administrative burden exceeds value or permissions cannot be managed. Owner: inventory lead.
+Test: up to five galleries and sixty works, beginning with a smaller cleared set using a simple tool; no bespoke platform initially. Success: at least 98% availability accuracy and faster replies. Stop if the administrative burden exceeds value or permissions cannot be managed. Owner: inventory lead.
 
 ## 6. A sponsor funds the obstacle, not just the banner
 

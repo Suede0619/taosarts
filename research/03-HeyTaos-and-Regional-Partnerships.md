@@ -4,9 +4,9 @@ October 19, 2026. This is a partnership proposal, not evidence of an agreement o
 
 ## Correct identity and complementary roles
 
-“TellUs” in the meeting notes means **[HeyTaos](https://heytaos.com/)**, as Stuart subsequently clarified. Its broad coverage includes dining, lodging, shopping, activities, events, and trip planning. Its public business offer includes a [free basic listing](https://heytaos.com/pages/get-found-on-heytaos).
+“TellUs” in the meeting notes means **[HeyTaos](https://heytaos.com/)**, as Dave Paul subsequently clarified. Its broad coverage includes dining, lodging, shopping, activities, events, and trip planning. Its public business offer includes a [free basic listing](https://heytaos.com/pages/get-found-on-heytaos).
 
-Stuart's direction is that HeyTaos is broader and less selectively curated than the envisioned arts guide, and is a promising partner. The arts project should add a trusted artistic perspective and verified buying service. HeyTaos can remain a broad discovery platform. There is no need to duplicate every business listing or compete on total coverage.
+Dave Paul's direction is that HeyTaos is broader and less selectively curated than the envisioned arts guide, and is a promising partner. The arts project should add a trusted artistic perspective and verified buying service. HeyTaos can remain a broad discovery platform. There is no need to duplicate every business listing or compete on total coverage.
 
 ### What its published commercial offer does and does not show
 
@@ -22,6 +22,8 @@ Stuart's direction is that HeyTaos is broader and less selectively curated than 
 | Secondary in-page / events secondary | $295 |
 
 Source: [HeyTaos advertising page](https://heytaos.com/pages/advertise-on-heytaos), reviewed October 19, 2026. These are **asking prices**, not achieved revenue, sold inventory, audience size, or proven return on investment. A new arts guide cannot assume that it can charge the same prices.
+
+Project day one is November 1, 2026. Any partner pilot starts only after its actual agreement; the project’s first ninety days do not imply an agreed HeyTaos campaign. Current website scope/pricing is in the [baseline](../PROJECT-BASELINE.md).
 
 ## A 90-day pilot to propose
 
@@ -56,9 +58,9 @@ No listed organization is committed. Felix's gallery must be subject to the same
 
 ## Regional expansion sequence
 
-1. Prove inventory accuracy and buyer service in Taos during the first 90 days.
+1. Prepare and test Taos inventory/service during November 1–January 29; real sales require authorized readiness. Start smaller and grow toward the sixty-work v1 goal.
 2. Add Santa Fe/Albuquerque and a Denver buyer-facing program through willing partners, not a second expensive event.
 3. Publish a few edited regional itineraries only when the underlying hours, permissions, and experience are reliable.
 4. Consider Arizona, Utah, southern Colorado, and southern Texas after repeat transactions and partner retention demonstrate demand.
 
-“Southwest Arts” remains a working name. Check existing organizations, domains, trademark issues, cultural implications, and governance before buying a brand system or announcing a launch. The first year's commercial advantage should be **depth of knowledge and dependable service in Taos**.
+**Southwest Art** is the current working name. Check existing organizations, domains, trademark issues, cultural implications, and governance before buying a brand system or announcing a launch. The first year's commercial advantage should be **depth of knowledge and dependable service in Taos**.

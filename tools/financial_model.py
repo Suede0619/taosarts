@@ -91,6 +91,8 @@ def main():
     write_csv('sensitivity.csv',stress)
     text=['# Generated model results','',
           'Planning assumptions only. Rebuild with `python3 tools/financial_model.py` from the ART repository.','',
+          f'Planning period: **{config["period"]}**.',
+          f'Model scope: **{config["status"]}**.','',
           '| Scenario | Art value | Artist proceeds | Gallery retained | Transaction income | Operating income | Expenses | Surplus / deficit |',
           '|---|---:|---:|---:|---:|---:|---:|---:|']
     for r in results:

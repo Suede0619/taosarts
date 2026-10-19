@@ -1,6 +1,7 @@
 # Southwest Art — website specification
 
-**Prepared October 19, 2026 for Stuart and Felix Kay. Stage: written specification for review.**
+**Current authorization:** Dave Paul has requested the design prototype and live preview in a separate `sw-arts-website` repository. The provisional Audo #11 direction is for review; production and live transactions still require a later approval. Project day one is November 1, 2026. Earlier specification-stage descriptions below describe the review sequence, not a current prohibition on the authorized prototype.
+**Prepared October 19, 2026 for Dave Paul and Felix Kay. Stage: design prototype and live preview authorized; production awaits prototype review.**
 
 The website's purpose is to sell art so artists can keep living and working in Taos. The proposed service combines an exceptional art catalog, thoughtful human/AI assistance, dependable buying and delivery, and a curated reason to visit. **Taos is the only v1 region**, with Arroyo Seco visible in location choices and trip planning.
 
@@ -56,4 +57,4 @@ Published brochure room ranges are distinguished from live date-specific quotes.
 5. Review partner pricing, experience referral model and actual staff capacity.
 6. Approve the prototype scope and identify the imagery we may use.
 
-The design choice has been submitted for review and remains pending. The next implementation stage waits for the user's authorization. Future sessions must read [AGENTS.md](AGENTS.md) before continuing.
+The design choice has been submitted for review and remains pending. The prototype stage is now authorized. Production implementation waits for the user's later prototype review and authorization. Future sessions must read [AGENTS.md](AGENTS.md) before continuing.

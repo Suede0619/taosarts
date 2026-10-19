@@ -8,7 +8,10 @@ Help artists sell work so they can afford to remain in Taos. Revive Taos Fall Ar
 
 Preserve these corrections:
 
-- **“TellUs” means [HeyTaos](https://heytaos.com/)**. Stuart sees it as a potential complementary partner: broader and less curated than the proposed arts guide. No partnership is agreed.
+- The user is **Dave Paul**, also **David Paul**. Use Dave Paul in documents and Dave in conversation.
+- **November 1, 2026 is day one**; year one ends October 31, 2027. Preserve actual historical/source dates and fixed external deadlines. Read [PROJECT-BASELINE.md](PROJECT-BASELINE.md) for dates and controlling decisions.
+
+- **“TellUs” means [HeyTaos](https://heytaos.com/)**. Dave Paul sees it as a potential complementary partner: broader and less curated than the proposed arts guide. No partnership is agreed.
 - Felix Kay is **Gallery Director at HOUSE of FIRE**. User-supplied business contact details are in [FelixMeet](FelixMeet).
 - Felix's precise festival leadership year, title, and delegated authority are not established. His involvement is not board approval of this plan.
 - Felix intends to provide his 2026 document folder later. Its absence is an open input, not a reason to invent figures or repeat the entire project.
@@ -51,7 +54,7 @@ For documentation-only changes, check relative links, factual consistency, and `
 
 ## Continuing work
 
-The newest website work is in [website-spec/](website-spec/README.md). Read its [AGENTS.md](website-spec/AGENTS.md) before continuing: the user requires **specification → review → prototype → review → production**, and the current stage is specification awaiting review. Atomic Audo Copenhagen #11 is recommended, not approved. Zero Southwest Art commission applies to direct-artist website sales; its fee subsidy/funding proposal does not automatically rewrite the separate festival model. Research candidates are not authorized stock or agreed partners. No website/prototype/live integrations have been built.
+The newest website work is in [website-spec/](website-spec/README.md). Read its [AGENTS.md](website-spec/AGENTS.md) before continuing: the user requires **specification → review → prototype → review → production**, and Dave has now authorized a design prototype and live preview in a separate repository. Production remains a separate review gate. Atomic Audo Copenhagen #11 is the provisional prototype direction; the brand/design choice is not finalized. Zero Southwest Art commission applies to direct-artist website sales; its fee subsidy/funding proposal does not automatically rewrite the separate festival model. Research candidates are not authorized stock or agreed partners. Keep demo assistance/checkout clearly simulated; no live seller or financial integrations are authorized by prototype publication.
 
 Use the dated [session handoff](SESSION_STATE.md) for the baseline, outstanding inputs, and next decisions. New user instructions take precedence over old priorities. Progress on work that does not depend on missing inputs; ask only for information genuinely needed for the next dependent action. Preparing a proposal does not authorize sending outreach, submitting an application, signing a contract, or spending money.
 

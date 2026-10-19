@@ -2,6 +2,8 @@
 
 Proposed requirements for the next edition, prepared October 19, 2026. Dates, sites, permissions, budgets, and professional sign-offs remain to be confirmed by authorized festival leadership.
 
+Project year: **November 1, 2026–October 31, 2027**. Direct-artist Southwest Art website sales have zero platform commission and separate funded processing terms; festival agreements remain distinct. [Current baseline](../PROJECT-BASELINE.md).
+
 ## Operating principles
 
 An event that attracts people but cannot sell, protect, deliver, and settle the art has not fulfilled its mission. Every participating site needs a named responsible person, defined opening hours, a purchase route, and a common incident/escalation process. Every sold work needs a seller, a valid agreement, a condition record, and a payout obligation.
@@ -81,9 +83,9 @@ A final program follows confirmed dates, not this illustrative schedule. Keep a 
 | Daily close | Secure art, reconcile orders and funds, log incidents, update next day's availability. |
 | Load-out | Release only to authorized people against records; capture condition and custody. |
 | First week after | Complete delivery and settlements; resolve exceptions; follow up with buyers. |
-| By Oct 18, 2027 where feasible | Publish provisional outcome report, clearly separating unsettled balances and later completions. |
+| By Oct 31, 2027 where feasible | Publish provisional outcome report, clearly separating unsettled balances and later completions. |
 
-If the confirmed festival ends close to or after October 18, extend the closeout schedule and distinguish the planning year's result from the edition's final result. Do not force transactions into the wrong period to meet the target.
+If the confirmed festival ends close to or after October 31, extend the closeout schedule and distinguish the planning year's result from the edition's final result. Do not force transactions into the wrong period to meet the target.
 
 ## Contingencies and escalation
 

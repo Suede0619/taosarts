@@ -5,6 +5,7 @@ Review aid, not a contract. Actual terms need the parties' agreement and appropr
 - [ ] Parties and authority; existing representation and exclusivity respected.
 - [ ] Listed works and editions, title, condition, provenance where relevant, and owner.
 - [ ] Prices, currency, discount authority, fee allocation, tax and all other deductions.
+- [ ] Southwest Art direct-artist website offer: zero platform commission; state who funds processing and make any full-art-price payout promise accurate. Gallery/estate/resale terms are separate.
 - [ ] No undisclosed stacking of gallery, referral, festival, or advisor fees.
 - [ ] Merchant/seller, payment route, refunds/returns, fraud and chargeback responsibilities.
 - [ ] Hold process, shared availability, withdrawal, unsold pickup, and deadlines.

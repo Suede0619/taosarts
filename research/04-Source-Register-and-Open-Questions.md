@@ -6,7 +6,7 @@ Research cut-off: **October 19, 2026**. This register records the sources suppor
 
 - **Primary published:** the organization, public authority, museum, or event publishes the information. Organizer figures remain self-reported unless audited.
 - **Secondary extraction/reporting:** useful intermediary information; not equivalent to reviewing the original filing or underlying data.
-- **Meeting/user account:** a statement from the conversation or Stuart's later correction, not independently established.
+- **Meeting/user account:** a statement from the conversation or Dave Paul's later correction, not independently established.
 - **Proposal/assumption:** a future design, target, price, budget, or hypothesis. Never present it as an achieved outcome.
 - **Unknown:** not established from reviewed material. Blank cells do not mean zero.
 
@@ -86,8 +86,8 @@ Research cut-off: **October 19, 2026**. This register records the sources suppor
 | Priority | Question | Owner to identify | Effect on the plan |
 |---|---|---|---|
 | Immediate | Does the festival require Oct 23 advance review? Who may submit? | Authorized grant officer | Preserves or loses a near-term funding option. |
-| Immediate | Who approves festival commitments and the separate guide relationship? | Board | Determines authority and entity structure. |
-| Immediate | What cash and weekly time are actually available? | Stuart / project sponsor | Chooses pilot scope and staffing feasibility. |
+| Kickoff: Nov 1–7 | Who approves festival commitments and the separate guide relationship? | Board | Determines authority and entity structure. |
+| Kickoff: Nov 1–7 | What cash and weekly time are actually available? | Dave Paul / project sponsor | Chooses pilot scope and staffing feasibility. |
 | High | What were 2026 completed sales, artist proceeds, liabilities, and costs? | Treasurer / Felix archive | Replaces the current absence of a baseline. |
 | High | Which recent year was paused? What happened in 2025? | Festival archivist | Correct historical account and comparisons. |
 | High | What work is truly available at the target price bands? | Artists / sellers | Validates the $3m sales architecture. |

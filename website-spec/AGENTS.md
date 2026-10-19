@@ -1,6 +1,7 @@
 # Southwest Art website: specification and review boundary
 
-The user explicitly requested this sequence: **written specification → Stuart/Felix review → UI/design prototype → prototype review → production website**. This directory is currently at the specification stage. Do not build, deploy, create a hosted site, connect live Stripe accounts, register a domain, or treat recommendations as approved until the user authorizes the next stage.
+**Current authorization:** Dave Paul has requested the design prototype and live preview in a separate `sw-arts-website` repository. The provisional Audo #11 direction is for review; production and live transactions still require a later approval. Project day one is November 1, 2026. Earlier specification-stage descriptions below describe the review sequence, not a current prohibition on the authorized prototype.
+The user explicitly requested this sequence: **written specification → Dave Paul/Felix review → UI/design prototype → prototype review → production website**. The prototype and live preview are now authorized in the separate sw-arts-website repository. Review the prototype before production. Do not connect live Stripe/seller/booking flows or treat the provisional design as finalized. Domain registration or spending requires its actual authority.
 
 Use Southwest Art as a working brand, Taos as the only live v1 region, and the regional taxonomy as a future expansion proposal. The Atomic design-system choice is a recommendation awaiting the user's decision; do not silently finalize it.
 

@@ -2,7 +2,9 @@
 
 Prepared **October 19, 2026**. All asks below are proposals. No application, solicitation, agreement, or message has been sent as part of this repository work. An authorized applicant must review and submit grant materials.
 
-## Immediate grant action: October 23
+**Project kickoff is November 1, 2026.** The October 23 external deadline below is a highlighted exception before kickoff; all ordinary pilot work starts from November 1. [Current dates and decisions](../PROJECT-BASELINE.md).
+
+## Before kickoff: fixed October 23 grant exception
 
 New Mexico Arts FY28 advance review is due **October 23, 2026, 11:59pm Mountain**, for new applicants and specified unfunded/inactive applicants. Final applications are due **December 18, 2026, 11:59pm Mountain**. Confirm the festival's existing account and funding history before deciding which review is required; do not create a duplicate account.
 
@@ -10,7 +12,7 @@ The published request is **$5,000**, with a 50% applicant match, at least half c
 
 Source: [FY28 guidelines, especially pages 2–8 and category criteria](https://nmarts.org/wp-content/uploads/2026/09/FY28-Funding-Guidelines-2.pdf), [application page](https://nmarts.org/grants/apply-for-a-grant/). The PDF was retrieved and read locally when the web reader could not access it.
 
-**Today:** designate the existing nonprofit's responsible officer, check eligibility and prior awards, identify the right category with staff, confirm the match and program scope, and decide whether an advance review is needed. Preserve the application option without representing the award as assured.
+**Before October 23, if preserving this option:** the authorized festival/nonprofit leadership should designate the existing nonprofit's responsible officer, check eligibility and prior awards, identify the right category with staff, confirm the match and program scope, and decide whether an advance review is needed. Preserve the application option without representing the award as assured.
 
 ### A defined public project to develop
 
@@ -32,7 +34,7 @@ This is different from a donor-funded purchasing council. The guidelines exclude
 | Community acquisitions | Dedicated donor purchase fund through willing institutions | Institution acceptance, independent selection, conflicts, artist payment; grant eligibility separately checked. |
 | Long-term studio/housing agenda | Specialist nonprofit/community partners and separate feasibility | Land/space economics, governance, resident priorities; no festival-only promise. |
 
-The base model includes $50,000 grant income, but no sources are awarded. New Mexico Arts can supply at most the request described above. Identify and qualify the remaining prospects or remove them from the committed budget. The low scenario assumes no grants and still needs a funding/cost correction.
+The earlier commission-bearing illustration includes $50,000 grant income, but no sources are awarded. New Mexico Arts can supply at most the request described above. Identify and qualify the remaining prospects or remove them from the committed budget. The low scenario assumes no grants and still needs a funding/cost correction.
 
 NEA's FY2027 Grants for Arts Projects deadlines of February 12 and July 9, 2026 have passed. Do not place them in the current action calendar as open calls; verify the next published cycle before relying on it. [NEA FY2027 announcement](https://www.arts.gov/news/press-releases/2025/nea-fy-2027-grants-arts-projects-guidelines-now-available).
 

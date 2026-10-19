@@ -2,6 +2,8 @@
 
 Proposed operating playbook, October 19, 2026. Relationships, inventory, and partnerships must be opt-in. No outreach has been sent as part of this document work.
 
+Day one is **November 1, 2026**. Outreach, spending and sales activity require their own actual authority; publication of a demonstration prototype is not live seller onboarding. Website direct-artist sales take zero platform commission. [Current baseline](../PROJECT-BASELINE.md).
+
 ## Sell the right work to the right person
 
 Begin with buyer needs rather than a mass mailing. A useful brief records budget, interests, dimensions, medium, intended setting, delivery date, purchase authority, existing collection, and how the person prefers to communicate. Ask what they like and why; avoid performing expertise at them. A first buyer deserves the same clarity as a major collector.
@@ -30,7 +32,7 @@ Initial priority is Taos relationships plus Denver. Santa Fe, Albuquerque, Dalla
 3. **Send three to five suitable works.** Include artist, title, dimensions, medium, date, edition, price, availability timestamp, representation, and a concise reason each fits. Ask permission before widening the search.
 4. **Arrange a real viewing.** Confirm location, access, time, host, and travel. Offer a remote option. A private home or studio appears only with the occupant's consent.
 5. **Create an all-in quote.** Separate art price, discount, tax, packing, insurance, shipping, installation, and any service fee. State the seller, validity, hold, return/cancellation, and delivery terms.
-6. **Confirm availability and hold.** One shared status record prevents multiple sellers promising the same work. A proposed standard is a 48-hour documented hold, subject to the seller's agreement; no phantom scarcity.
+6. **Confirm availability and hold.** One shared status record prevents multiple sellers promising the same work. A proposed human viewing/quote hold is 48 hours if the seller agrees. The website’s separate checkout hold is a proposed ten minutes. Neither is a fabricated scarcity claim.
 7. **Use an authorized payment route.** Hosted payment or verified seller invoice, with fraud checks appropriate to value. Confirm changed bank details through a known channel.
 8. **Fulfill and settle.** Condition documentation, packing/insurance, tracking, delivery acceptance, and timely artist/gallery payment. Reconcile the ledger.
 9. **Follow up at approximately 48 hours after delivery, 14 days, and 90 days**, with the buyer's communication preferences. Resolve problems first; ask for introductions only after a satisfactory experience.

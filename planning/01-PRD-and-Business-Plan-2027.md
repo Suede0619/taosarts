@@ -1,8 +1,10 @@
 # Taos arts revival — PRD and executable business plan
 
-**Version 1.0 · October 19, 2026 · Planning horizon: October 19, 2026–October 18, 2027**
+**Version 1.0 · October 19, 2026 · Planning horizon: November 1, 2026–October 31, 2027**
 
-**Status: a proposal for Stuart, Felix, and authorized partners.** No festival board approval, budget, partnership, staffing commitment, or 2027 festival date is assumed. The 2026 festival has already ended. The immediate task is to recover its evidence and build the next cycle from today.
+**Status: a proposal for Dave Paul, Felix, and authorized partners.** No festival board approval, budget, partnership, staffing commitment, or 2027 festival date is assumed. The 2026 festival has already ended. Day one is November 1, 2026; October is preparation before kickoff. Recover evidence and begin with a small funded scope. The fixed October 23 advance-review exception is highlighted in the [current baseline](../PROJECT-BASELINE.md).
+
+**Current alignment:** the [website specification](../website-spec/README.md) controls Southwest Art v1: Taos only; ten artist candidates and sixty work records; free artist/experience discovery; zero direct-artist website commission; founding gallery/restaurant/lodging fees of $150/$99/$199 per month. A prototype is now authorized; production requires its own review. The older commission-bearing financial figures below are a separately labeled illustration, not a funded current website/consolidated budget.
 
 ## 1. The business we want to create
 
@@ -75,20 +77,20 @@ Track five outcome families:
 4. **Public value:** free participation, resident experience, first buyers, learning, and accessibility.
 5. **Trust:** inventory accuracy, response time, delivery, complaints, and payout reliability.
 
-The base channel assumptions yield **$1.98 million artist proceeds before production costs and tax**, not artist profit. The operating model yields $579,000 income and $485,000 expenses before unresolved tax and exceptional costs. None of those figures is a historical result. Details and sensitivity are in the [financial plan](02-Financial-Model-and-Targets.md).
+The older commission-bearing illustration’s channel assumptions yield **$1.98 million artist proceeds before production costs and tax**, not artist profit. The operating model yields $579,000 income and $485,000 expenses before unresolved tax and exceptional costs. None of those figures is a historical result. Details and sensitivity are in the [financial plan](02-Financial-Model-and-Targets.md).
 
 ### Proposed operating scorecard
 
 | Measure | Pilot, first 90 days | Base year-one ambition | Owner role |
 |---|---:|---:|---|
-| Verified, permissioned available works | 100 | Inventory supporting approximately $10m list value, validated by category | Inventory lead |
+| Verified, permissioned available works | Start with 12–20; grow toward 60 | Inventory supporting approximately $10m list value, validated by category | Inventory lead |
 | Opted-in potential buyer households | 100 | 2,000 | Collector lead |
 | Qualified buyer households | 20 | 800 | Collector lead |
 | Buyer households with a completed purchase | Learn from first cohort | 440 | Sales operations |
 | Completed orders | At least 5 | 550 | Sales operations |
 | Completed art value | At least $25,000; test threshold | $3m | Finance |
 | Artist payout service | All within agreed contract; target seven business days after clearance/acceptance | Same, with exceptions reported | Finance |
-| Artwork availability accuracy | At least 95% in spot audit | At least 98% | Inventory lead |
+| Artwork availability accuracy | At least 98% in spot audit | At least 98% | Inventory lead |
 | Inquiry first human response | One business day | One business day; staffed event desk during open hours | Concierge |
 | Public program access | Funded pilot without artist fees | Free primary exhibition; access needs budgeted | Community lead |
 
@@ -96,9 +98,9 @@ The implied 440 buyers from 800 qualified households is **55% conversion**, an a
 
 ## 5. Business model and editorial independence
 
-Earn from transparent transaction services, optional commercial partner services, sponsorship, eligible grants, patrons, and optional paid programs. A core artist profile and eligibility for editorial consideration should remain free. Paid commercial services can include photography, event production, verified catalog administration, concierge training, or clearly identified advertising.
+For Southwest Art direct-artist website sales, take zero platform commission and fund processing through an agreed platform/sponsor budget. Earn from optional paid commercial profiles/services, eligible completed experience referrals, sponsorship and other properly agreed support. Festival/procurement services have separate unapproved terms; the older illustration is not permission to charge artists. A core artist profile and eligibility for editorial consideration should remain free. Paid commercial services can include photography, event production, verified catalog administration, concierge training, or clearly identified advertising.
 
-Proposed direct-sale fees, gallery referrals, and commission-project fees differ because the service and seller responsibility differ. Existing representation agreements govern. No double commission, undisclosed referral charge, compulsory donation, or automatic transfer of a collector list is permitted by the proposed policy.
+The earlier direct-festival, gallery-referral and procurement fee assumptions are retained only as an illustration for separate arrangements. They do not apply to direct-artist Southwest Art website sales. Existing representation agreements govern. No double commission, undisclosed referral charge, compulsory donation, or automatic transfer of a collector list is permitted by the proposed policy.
 
 A gallery or restaurant may be editorially selected without paying. A paying business may still be excluded from an editorial recommendation. The commercial team cannot silently rewrite the curator's choices. Publish sponsor labels and a conflict register.
 
@@ -111,7 +113,7 @@ Proposed roles, not appointments:
 | Role | Accountability | Decision limit |
 |---|---|---|
 | Festival board / authorized officer | Festival mission, budget, contracts, grants, risk | Retains its legal authority; delegates explicitly. |
-| Stuart, proposed product and business lead | Product, partner proposals, measurement, delivery coordination | No authority over nonprofit funds without delegation. |
+| Dave Paul, proposed product and business lead | Product, partner proposals, measurement, delivery coordination | No authority over nonprofit funds without delegation. |
 | Felix, proposed curatorial and collector advisor | Artistic direction, artist/gallerist relationships | Recuses from House of Fire's selection and financial terms. |
 | Festival producer | Venues, staffing, vendors, operating readiness | Within approved budget and contracts. |
 | Collector lead / concierge | Buyer service, appointments, sales follow-up | Cannot promise discounts or authenticity beyond seller approval. |
@@ -122,7 +124,7 @@ Use three meetings: a 30-minute weekly operating review, a monthly finance/risk 
 
 ## 7. Build sequence and launch conditions
 
-First sell through a manual service using a small, permissioned inventory. Build software after real interviews and transactions identify recurring work. The MVP is a useful catalog and inquiry-to-appointment flow, not an autonomous sales agent.
+Begin with a small permissioned inventory and a human service process. Dave has authorized a design prototype and live preview in a separate repository; use clearly labeled demonstration records and licensed/original images. Review the prototype before production. The production v1 includes contextual AI and ordinary filters as specified in the newer website package; prototype publication is not permission for live transactions.
 
 The first 90 days should produce a reconstructed 2026 baseline, a signed pilot scope, a few real transactions, quotes for the expensive operating items, a funding pipeline, and an honest go/no-go review. Do not commission a large print run, venue build, or regional advertising campaign before the catalog and response service work.
 

@@ -2,6 +2,8 @@
 
 **Proposed strategy, October 19, 2026. No outreach, partnerships, inventory commitments or sales have occurred.**
 
+Project day one is **November 1, 2026**; year one ends October 31, 2027. Prototype work is authorized preparation; production and any seller activity retain their gates. [Common baseline](../PROJECT-BASELINE.md).
+
 ## Make a small collection worth a serious person's attention
 
 Global reach begins with a credible, useful offer: a tightly edited selection, specific reasons to care, complete work information, excellent imagery, an informed human response, and reliable delivery. A distant collector needs confidence before buying a flight or a painting. Better service and truthful context matter more than a large directory or extravagant language.
@@ -57,6 +59,6 @@ Illustrative target arithmetic, not a forecast: $3m completed art value requires
 
 ## Owners and operational capacity
 
-Proposed accountable roles: Stuart as product/business lead; Felix as curatorial lead if he agrees; a named editor/content operator; a named collector-service/fulfillment lead; and technical support. One person may cover several roles initially, but capacity must be explicit. No appointment or role in this document is a commitment from that person.
+Proposed accountable roles: Dave Paul as product/business lead; Felix as curatorial lead if he agrees; a named editor/content operator; a named collector-service/fulfillment lead; and technical support. One person may cover several roles initially, but capacity must be explicit. No appointment or role in this document is a commitment from that person.
 
 Decide staffed hours, response coverage, seller confirmation process, exceptional-order escalation, content update capacity and a weekly operating budget before public launch. Paid profiles and referrals are useful funding, but the [economics module](05-COMMERCE-PRICING-AND-OPERATIONS.md) shows why they cannot alone guarantee a world-class service with fully subsidized artist processing fees.

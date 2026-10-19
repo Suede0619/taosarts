@@ -1,8 +1,10 @@
 # Financial model, sales targets, and cash discipline
 
-October 19, 2026. **All forward figures are assumptions**, not approved pricing, committed funding, historical results, or promises to artists. USD, nominal. The model covers October 19, 2026–October 18, 2027. No current budget or founder time commitment has been supplied.
+October 19, 2026. **All forward figures are assumptions**, not approved pricing, committed funding, historical results, or promises to artists. USD, nominal. The model covers November 1, 2026–October 31, 2027, in twelve calendar-month periods. No current budget or founder time commitment has been supplied.
 
 The model is executable: edit [model-inputs.json](../data/model-inputs.json), then run `python3 tools/financial_model.py` from this repository. Outputs are [scenario results](../data/model-results.md), [scenario CSV](../data/scenario-summary.csv), [cash flow](../data/base-cashflow.csv), and [sensitivity](../data/sensitivity.csv). The generator checks that the allocation of every sales dollar reconciles, timing shares total 100%, order cohorts reach the base target, and cash receipts/payments reconcile to annual figures. That validates arithmetic, not commercial feasibility.
+
+**Scope correction:** this is the earlier commission-bearing festival/integrated illustration, retained for comparison. It is **not the current Southwest Art website budget, an approved festival fee schedule, or a consolidated forecast**. The [new website commerce proposal](../website-spec/05-COMMERCE-PRICING-AND-OPERATIONS.md) controls zero direct-artist commission and the current profile fees. Rebuild a reconciled operating budget before using either set of figures to commit funds.
 
 ## Three ledgers, three different questions
 
@@ -10,7 +12,7 @@ The model is executable: edit [model-inputs.json](../data/model-inputs.json), th
 2. **Artist and gallery proceeds:** Who is owed the sale money, under which agreement, and when was it paid?
 3. **Operating income and costs:** What money belongs to the festival or guide to run its own services?
 
-One invoice can affect all three ledgers, but cannot be counted three times as “revenue.” If a nonprofit and a company share services, keep entity-level accounts and eliminate inter-entity transfers in a consolidated management view. The scenarios below are a **combined operating view**, not a nonprofit tax return or a company income statement.
+One invoice can affect all three ledgers, but cannot be counted three times as “revenue.” If a nonprofit and a company share services, keep entity-level accounts and eliminate inter-entity transfers in a consolidated management view. The scenarios below are a **legacy combined operating illustration**, not a current consolidated forecast, nonprofit tax return or company income statement.
 
 ## Sales ambition and the buyer arithmetic
 
@@ -38,7 +40,7 @@ A provisional funnel is **2,000 opt-in prospect households → 800 qualified hou
 
 An initial inventory planning heuristic is approximately **$10m of distinct available work at list price** for $3m realized art value. A 30% value sell-through is unvalidated. Do not fill the inventory target with unrealistic prices, duplicate gallery listings, unavailable historical work, or unbuilt commission concepts. Maintain a separate capacity-qualified commission pipeline.
 
-## Proposed channel economics
+## Earlier channel assumptions — not current website policy
 
 | Channel | Share of art value | Artist share | Gallery retained | Festival/guide fee | Who settles with buyer? |
 |---|---:|---:|---:|---:|---|
@@ -62,7 +64,7 @@ Weighted allocations are 66% artist, 23% gallery, and 11% project fee. At $3m, t
 | Optional paid programs | $10,000 | $20,000 | $40,000 | Main exhibition remains free in the proposed model. |
 | **Operating income** | **$207,000** | **$579,000** | **$973,000** | Not total art sold. |
 
-Base partner income assumes 20 galleries at $150/month for six months ($18,000) and ten hospitality businesses at $100/month for six months ($6,000). These are service-package tests, not fees for being editorially selected. Low assumes twenty $100/month partners for six months; stretch assumes thirty gallery partners at $200/month and twenty hospitality partners at $100/month for six months. Retention, willingness to pay, and the service workload remain unproved.
+The earlier illustration’s partner income assumes 20 galleries at $150/month for six months ($18,000) and ten hospitality businesses at $100/month for six months ($6,000). These are service-package tests, not fees for being editorially selected. Low assumes twenty $100/month partners for six months; stretch assumes thirty gallery partners at $200/month and twenty hospitality partners at $100/month for six months. Retention, willingness to pay, and the service workload remain unproved. These counts/rates are superseded for the website by 12 gallery, 8 restaurant and 8 lodging targets at $150/$99/$199 monthly: $4,184/month or $25,104 for six paid months on average. Do not add that income to this illustration without removing overlap.
 
 Base sponsorship could be one $40,000 lead supporter, three $15,000 partners, and eight $5,000 community supporters. Package prices are proposed. Grant income would need several appropriate sources: **New Mexico Arts FY28 permits a $5,000 request, not $50,000**. Treat the remainder as a funding gap until identified and awarded. [Funding plan](07-Funding-and-Sponsorship-Plan.md).
 
@@ -107,7 +109,7 @@ The [monthly cash flow](../data/base-cashflow.csv) assumes **$50,000 opening unr
 | Sponsors 50% lower | $31,500 | **−$39,825** |
 | Combined downside | **−$75,500** | **−$67,185** |
 
-Model timing assumes grant reimbursement arrives by the final period and other receipts are collected when recognized. Delayed receipts, restrictions, invoices, returns, or festival dates outside the assumed period worsen cash. A positive annual result is not permission to spend early. Keep a rolling 13-week forecast, a minimum eight weeks of unavoidable operating costs before major event commitments, and a downside funding or scope-reduction plan.
+The November 2026–October 2027 calendar retains the previous illustrative project-month weights: 18% of art value in September and 52% in October, with six partner-revenue months May–October. This is not evidence of an actual festival schedule or billing launch; rephase after dates and real receipts are known. Model timing assumes grant reimbursement arrives by the final period and other receipts are collected when recognized. Delayed receipts, restrictions, invoices, returns, or festival dates outside the assumed period worsen cash. A positive annual result is not permission to spend early. Keep a rolling 13-week forecast, a minimum eight weeks of unavoidable operating costs before major event commitments, and a downside funding or scope-reduction plan.
 
 **Artist money, gallery balances, collected tax, refunds, and restricted funds are never the working-capital bridge.** Separate account/ledger treatment must be confirmed by finance. The first pilot has a proposed staged $15,000 ceiling; it does not authorize the full $485,000 base expenditure.
 
