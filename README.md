@@ -53,6 +53,8 @@ python3 tools/financial_model.py
 
 ## Repository practice
 
+New sessions should begin with [AGENTS.md](AGENTS.md) and the dated [session handoff](SESSION_STATE.md), which record completed work, key assumptions, validation, and unresolved inputs.
+
 This repository is **public**. The unedited original meeting notes are preserved locally under ignored `private/source/`; future confidential archives belong under `private/` or in an appropriately controlled document store. Public documents contain business contact details supplied for House of Fire, research, planning assumptions, and empty templates. They do not include buyer lists, bank records, or private sales ledgers.
 
 `ART` is an independent Git repository linked to [Suede0619/taosarts](https://github.com/Suede0619/taosarts). The surrounding Taos workspace remains separate. See [contribution and update guidance](CONTRIBUTING.md) before adding sources or future documents. Third-party images, text, logos, and records require their own permission; linking a source does not grant reproduction rights.
