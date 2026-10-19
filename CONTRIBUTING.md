@@ -1,0 +1,22 @@
+# Updating this document repository
+
+Keep research, meeting accounts, and proposed decisions distinguishable. A target is not an outcome; an organizer report is not an audit; a missing figure is not zero. Use direct source links near factual claims, record the applicable year and units, and explain corrections.
+
+## Before changing a plan
+
+1. Record new evidence, its source, date, permissions, and limitations.
+2. Keep private source records outside Git. Publish approved aggregates or redacted summaries only.
+3. Update the affected research and open questions.
+4. Change financial assumptions in `data/model-inputs.json`, regenerate with `python3 tools/financial_model.py`, and reconcile the explanatory prose.
+5. Record material decisions with date, owner, authority, and effect on budget or scope. Do not describe proposals as approved without evidence.
+6. Check relative links and review the actual staged diff before committing.
+
+## Privacy and rights
+
+`private/`, environment files, and local caches are ignored. An ignore rule does not remove something already tracked. Never commit buyer identities, bank/payment details, tax IDs, donor lists, signatures, private contracts, credentials, or the unredacted future 2026 archive. Store sensitive working records in an appropriately controlled location; this public repo is not a CRM or settlement system.
+
+Do not import third-party images, brochures, reports, or a partner's directory without permission. Preserve artist copyright and limited promotional licenses. Nothing in this repository grants rights to festival marks, House of Fire assets, HeyTaos content, or other organizations' material.
+
+## Commit scope
+
+Run Git commands from this `ART` repository. Check `git rev-parse --show-toplevel` and `git remote -v` before staging or pushing. Stage specific public files, review them, and use a descriptive commit. The surrounding workspace has a separate repository and may contain unrelated work.
