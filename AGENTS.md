@@ -51,6 +51,8 @@ For documentation-only changes, check relative links, factual consistency, and `
 
 ## Continuing work
 
+The newest website work is in [website-spec/](website-spec/README.md). Read its [AGENTS.md](website-spec/AGENTS.md) before continuing: the user requires **specification → review → prototype → review → production**, and the current stage is specification awaiting review. Atomic Audo Copenhagen #11 is recommended, not approved. Zero Southwest Art commission applies to direct-artist website sales; its fee subsidy/funding proposal does not automatically rewrite the separate festival model. Research candidates are not authorized stock or agreed partners. No website/prototype/live integrations have been built.
+
 Use the dated [session handoff](SESSION_STATE.md) for the baseline, outstanding inputs, and next decisions. New user instructions take precedence over old priorities. Progress on work that does not depend on missing inputs; ask only for information genuinely needed for the next dependent action. Preparing a proposal does not authorize sending outreach, submitting an application, signing a contract, or spending money.
 
 After meaningful work, update the handoff with actual changes, evidence, decisions, validation, and remaining questions. State the baseline commit or resulting commit without creating a circular requirement to embed the handoff's own commit hash. Keep the handoff concise and link to the detailed documents.
