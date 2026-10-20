@@ -5,7 +5,9 @@
 
 The website's purpose is to sell art so artists can keep living and working in Taos. The proposed service combines an exceptional art catalog, thoughtful human/AI assistance, dependable buying and delivery, and a curated reason to visit. **Taos is the only v1 region**, with Arroyo Seco visible in location choices and trip planning.
 
-**Start with [the main website specification](01-WEBSITE-SPEC.md), then [the design direction for approval](03-DESIGN-DIRECTION-FOR-APPROVAL.md).** No prototype, site, live chat, payment flow or booking integration has been built. The sequence is specification → your review → authorized design prototype → your review → authorized production build.
+**Start with [the main website specification](01-WEBSITE-SPEC.md), then [the design direction for approval](03-DESIGN-DIRECTION-FOR-APPROVAL.md).** The design prototype is implemented in [sw-arts-website](https://github.com/Suede0619/sw-arts-website), with [GitHub Pages preview](https://suede0619.github.io/sw-arts-website/) deployment status recorded in [SESSION_STATE.md](../SESSION_STATE.md). Live AI, real payments and booking integrations are not connected. The sequence is specification → your review → authorized design prototype → your review → authorized production build.
+
+Dave chose GitHub for source and prototype hosting, superseding the abandoned Sites attempt. The eventual commercial production site keeps its source in the same repository; GitHub Pages' ecommerce restriction means its host must be resolved before live selling. See [technical architecture](06-DATA-TECHNICAL-AND-CONTENT-SPEC.md).
 
 ## The recommendations to review
 

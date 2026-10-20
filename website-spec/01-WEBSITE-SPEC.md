@@ -3,7 +3,7 @@
 **Current authorization:** Dave Paul has requested the design prototype and live preview in a separate `sw-arts-website` repository. The provisional Audo #11 direction is for review; production and live transactions still require a later approval. Project day one is November 1, 2026. Earlier specification-stage descriptions below describe the review sequence, not a current prohibition on the authorized prototype.
 **Version 0.1 · October 19, 2026 · Owners for review: Dave Paul and Felix Kay**
 
-**Stage: design prototype authorized.** Dave has requested a prototype and live preview; its review precedes production. The working brand, Atomic design direction, pricing, partner targets, inventory, and technical choices are proposals. No site or live commerce has been built.
+**Stage: design prototype implemented; review precedes production.** Source is in [sw-arts-website](https://github.com/Suede0619/sw-arts-website); the preview uses [GitHub Pages](https://suede0619.github.io/sw-arts-website/) with actual publication status in [SESSION_STATE.md](../SESSION_STATE.md). The working brand, Atomic design direction, pricing, partner targets, inventory, and production technical choices remain proposals. No live commerce is connected. Dave requested GitHub for both builds; the [technical specification](06-DATA-TECHNICAL-AND-CONTENT-SPEC.md) records the Pages ecommerce restriction and unresolved commercial hosting choice.
 
 Use **Southwest Art** as requested for this stage. An established [Southwest Art Magazine](https://www.southwestart.com/) already uses the name in this market; review the public identity/domain and possible confusion before launch. No name clearance has been performed.
 

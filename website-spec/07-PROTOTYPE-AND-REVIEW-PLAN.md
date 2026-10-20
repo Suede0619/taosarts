@@ -9,7 +9,7 @@ Review the [main specification](01-WEBSITE-SPEC.md), [Atomic design recommendati
 
 The Atomic recommendation is **Audo Copenhagen #11, adapted**, with **Aesop #35** as the alternative. It remains pending. The working name Southwest Art also remains provisional, including name/domain clearance before a public launch.
 
-## What the later prototype should prove
+## What the prototype should prove
 
 A collector should recognize the quality and purpose, find relevant real work, understand its type and status, trust the people behind the site, and know the next step. A new buyer should feel equally welcome. A traveler should be able to make a plausible Taos plan without mistaking a draft itinerary for reservations.
 
@@ -51,7 +51,7 @@ Proposed acceptance: at least 80% of participants complete each core discovery t
 
 ## Review package and explicit decisions
 
-The future prototype review should include a clickable private preview, mobile and desktop screens, component/token reference, content/rights status, observed usability findings, unresolved states, and a scoped production estimate. Reviewers approve specific outcomes and remaining changes, not an unseen future implementation.
+The prototype review should include the clickable [GitHub Pages design preview](https://suede0619.github.io/sw-arts-website/), mobile and desktop screens, component/token reference, content/rights status, observed usability findings, unresolved states, and a scoped production estimate. Dave selected public GitHub Pages hosting; no visitor account is required. Reviewers approve specific outcomes and remaining changes, not an unseen future implementation. Actual deployment verification is recorded in [SESSION_STATE.md](../SESSION_STATE.md).
 
 Production authorization follows prototype acceptance and a funded operating model. Before live release, secure seller/partner permissions, image licenses, confirmed inventory, operator responsibilities, payment/fulfillment readiness, staff capacity and final accessibility/security/performance validation. Launch a small private buying pilot before broad promotion.
 

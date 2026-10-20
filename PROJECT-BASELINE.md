@@ -42,6 +42,7 @@ After kickoff, the fixed **December 18, 2026, 11:59pm Mountain** New Mexico Arts
 | Area | Current position | Treatment of older documents |
 |---|---|---|
 | Website sequence | **Specification → Dave/Felix review → authorized design prototype → review → authorized production** | Dave has now authorized a design prototype and live preview. Calendar goals do not bypass the later production review; no live financial flows are authorized. |
+| Source and hosting | Both website builds in `Suede0619/sw-arts-website`; design preview on GitHub Pages | Dave rejected Sites hosting. Pages prohibits ecommerce business hosting; resolve a compatible host deployed from GitHub before the commercial production build. See the [technical specification](website-spec/06-DATA-TECHNICAL-AND-CONTENT-SPEC.md). |
 | Design | Atomic Audo Copenhagen #11 recommended; Aesop #35 alternative | Use Audo #11 provisionally in the authorized prototype; final design choice remains for review. |
 | AI | One contextual concierge across website sections, plus ordinary usable controls and human help | New [website specification](website-spec/README.md) controls the UI/platform proposal; older manual-service notes describe preparation/fallback. |
 | Catalog | Ten proposed artists, six candidates each: **60 work records** | Older 100-work pilot target is superseded. Start with roughly 12–20 cleared works if that is what capacity/permissions support; grow toward sixty. None of the researched works is authorized for our checkout yet. |

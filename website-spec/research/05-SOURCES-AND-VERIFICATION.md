@@ -64,7 +64,7 @@ The [hospitality research](04-TAOS-FOOD-AND-LODGING.md) links menus and rooms. P
 
 ## Inputs needed for the next authorized stage
 
-1. Dave Paul/Felix specification review and an explicit Atomic design choice; no prototype yet.
+1. Dave Paul/Felix review of the implemented design prototype and an explicit final Atomic design choice. Prototype authorization is recorded; production review remains open.
 2. Felix-approved artist/gallery cohort, actual seller relationships and current object sheets.
 3. Artist/photographer permission and usable masters for the prototype; separate authority for live selling.
 4. Confirmed partner willingness, actual current menus/rooms/prices/hours/access and allowed booking/referral paths.

@@ -10,7 +10,7 @@ A document repository for Dave Paul and Felix Kay's work to help Taos artists se
 
 | Document | What it provides |
 |---|---|
-| [Southwest Art website — specification for review](website-spec/README.md) | Taos-first website spec, proposed Atomic design, contextual AI, zero direct-artist commission, commerce/partner pricing and researched launch candidates. **Review before prototype; no website built.** |
+| [Southwest Art website — specification and prototype review](website-spec/README.md) | Taos-first spec, provisional Atomic design, zero direct-artist commission and researched candidates. **[Prototype source](https://github.com/Suede0619/sw-arts-website) implemented; [GitHub Pages preview](https://suede0619.github.io/sw-arts-website/) status in [the handoff](SESSION_STATE.md). Review before production.** |
 | [Felix meeting — consolidated](FelixMeet) | One detailed account replacing four overlapping note versions, with Dave Paul's HeyTaos correction and House of Fire contact details. Kept at the original extensionless path. |
 | [PRD and business plan](planning/01-PRD-and-Business-Plan-2027.md) | Mission, audiences, offers, business model, outcomes, governance, and launch conditions. |
 | [Financial model and targets](planning/02-Financial-Model-and-Targets.md) | $1m / $3m / $5m art-sales scenarios, artist shares, operating budget, break-even and cash risk. |

@@ -58,4 +58,6 @@ The newest website work is in [website-spec/](website-spec/README.md). Read its 
 
 Use the dated [session handoff](SESSION_STATE.md) for the baseline, outstanding inputs, and next decisions. New user instructions take precedence over old priorities. Progress on work that does not depend on missing inputs; ask only for information genuinely needed for the next dependent action. Preparing a proposal does not authorize sending outreach, submitting an application, signing a contract, or spending money.
 
+Dave selected `Suede0619/sw-arts-website` for prototype and final production source and requested GitHub hosting. The design prototype uses GitHub Pages at `https://suede0619.github.io/sw-arts-website/`; do not publish to Sites. GitHub Pages' official usage rules prohibit running an ecommerce business, so the final selling site needs a compatible host deployed from this same repository. See the website technical specification and prototype DEPLOYMENT.md; production hosting is unresolved, not permission to quietly choose another provider.
+
 After meaningful work, update the handoff with actual changes, evidence, decisions, validation, and remaining questions. State the baseline commit or resulting commit without creating a circular requirement to embed the handoff's own commit hash. Keep the handoff concise and link to the detailed documents.

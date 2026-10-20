@@ -5,6 +5,8 @@ The user explicitly requested this sequence: **written specification → Dave Pa
 
 Use Southwest Art as a working brand, Taos as the only live v1 region, and the regional taxonomy as a future expansion proposal. The Atomic design-system choice is a recommendation awaiting the user's decision; do not silently finalize it.
 
+Hosting correction: Dave requires prototype and final source in `https://github.com/Suede0619/sw-arts-website`, with the prototype on GitHub Pages at `https://suede0619.github.io/sw-arts-website/`. Do not deploy to Sites. Pages prohibits ecommerce business hosting; resolve a compatible GitHub-connected commercial host before production. The prototype's documentation explains the constraint. Keep all secret keys and private operations out of static frontend files.
+
 Read README.md and 01-WEBSITE-SPEC.md first. The content research is a sourcing and recruitment brief, not an approved catalog. Candidate artists, galleries, experiences, restaurants, and lodging are not partners simply because they are listed here. Distinguish actual source facts from proposals, estimates, sold work, unknowns, and seller-confirmed available inventory.
 
 The newest user requirement for this website is **no Southwest Art commission on direct artist sales; proceeds go to the artist**. The fee/funding treatment is specified in the commerce document. This supersedes the earlier direct-sales commission assumption for this website only. Do not silently rewrite the festival's separate financial model or make a false 100%-net claim when payment costs are unfunded.
