@@ -14,6 +14,7 @@ A collection of anonymous foundational documents, research, ideas and proposed p
 | [Foundations and ideas](PROJECT-FOUNDATIONS.md) | Anonymous concept brief covering artist livelihoods, a selective guide, referral networks, education, AI, funding and unresolved decisions. |
 | [PRD and business plan](planning/01-PRD-and-Business-Plan-2027.md) | Mission, audiences, offers, business model, outcomes, governance, and launch conditions. |
 | [Financial model and targets](planning/02-Financial-Model-and-Targets.md) | $1m / $3m / $5m art-sales scenarios, artist shares, operating budget, break-even and cash risk. |
+| [Founder compensation and hiring — three scenarios](planning/09-Founder-Compensation-and-Hiring-Scenarios.md) | Anonymous proposals for founder pay, ownership/profit sharing, additional revenue, cash buffers and evidence required before hiring. Separate from the legacy festival model; no compensation or split is agreed. |
 | [Roadmap and first 90 days](planning/03-Twelve-Month-Roadmap-and-First-90-Days.md) | Dated tasks, proposed owners, decision gates, and a manageable pilot. |
 | [History and economics](research/01-Taos-Fall-Arts-History-and-Economics.md) | Taos art history, festival milestones, annual organizational finances, missing sales/attendance evidence, and decline hypotheses. |
 | [World benchmarks](research/02-Global-Festival-Benchmarks.md) | Sixteen event models, comparable numbers and their limits, lessons for sales and public enjoyment. |

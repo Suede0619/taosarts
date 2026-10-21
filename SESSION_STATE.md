@@ -21,6 +21,7 @@ Read [AGENTS.md](AGENTS.md) and [PROJECT-BASELINE.md](PROJECT-BASELINE.md) first
 | First ninety days and year one | [Roadmap](planning/03-Twelve-Month-Roadmap-and-First-90-Days.md) |
 | Zero-commission website economics | [Website commerce](website-spec/05-COMMERCE-PRICING-AND-OPERATIONS.md) |
 | Legacy festival financial illustration | [Financial plan](planning/02-Financial-Model-and-Targets.md), [model inputs](data/model-inputs.json) |
+| Founder pay, profit sharing and hiring proposals | [Three compensation scenarios](planning/09-Founder-Compensation-and-Hiring-Scenarios.md), standalone commercial illustrations; no approved pay, ownership or hiring commitments |
 | Festival history and missing sales evidence | [History](research/01-Taos-Fall-Arts-History-and-Economics.md) |
 | International event comparisons and evidence | [Benchmarks](research/02-Global-Festival-Benchmarks.md), [source register](research/04-Source-Register-and-Open-Questions.md) |
 
@@ -84,6 +85,8 @@ Initial October 19 publication was verified at source `353de133292bd443adb946a8b
 The current public files are anonymous; older commits and tags remain historical records. Continue using the publication standard for every future edit, including agent instructions and technical handoffs.
 
 ## Repository boundaries and next work
+
+The October 21 [founder compensation brief](planning/09-Founder-Compensation-and-Hiring-Scenarios.md) adds three anonymous alternatives: a lean paid pilot ($1,500/month gross per founder), an underwritten operation ($4,000), and service-led growth ($6,000). It itemizes revenue/cost assumptions, operating cash buffers, downside cases, example residual-cash sharing and role-specific hiring gates. These are proposed monthly operating levels, not forecasts, salary commitments or an agreed ownership split. They preserve zero direct-artist platform commission and remain separate from the unchanged legacy model. The growth example fails its single-milestone loss test without extra resilience; a positive base-case budget is not hiring approval. Arithmetic, relative links and anonymous-publication checks are required for this document; no website or private records need changing.
 
 ART is the independent public `taosarts` document repository. The prototype is a second repository at `ART/sw-arts-website/`, ignored by ART; do not add it as a submodule or embedded repository. Work only inside ART for this task. Do not stage parent-workspace files or private records.
 
