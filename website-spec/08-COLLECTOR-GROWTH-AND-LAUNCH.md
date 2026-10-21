@@ -8,7 +8,7 @@ Project day one is **November 1, 2026**; year one ends October 31, 2027. Prototy
 
 Global reach begins with a credible, useful offer: a tightly edited selection, specific reasons to care, complete work information, excellent imagery, an informed human response, and reliable delivery. A distant collector needs confidence before buying a flight or a painting. Better service and truthful context matter more than a large directory or extravagant language.
 
-Felix's curatorial voice can be a powerful part of the proposition, subject to his approval and actual capacity. Publish a concise signed curatorial introduction and an accurately supported biography. HOUSE of FIRE can be an initial conversation/viewing anchor only with Felix's agreement; it does not automatically represent every listed artist or own the festival's authority.
+An informed curatorial perspective should be supported by actual program knowledge and service capacity. Publish a concise curatorial introduction grounded in verifiable artist and exhibition evidence. HOUSE of FIRE is one potential viewing venue, subject to gallery agreement and independent selection; it does not automatically represent every listed artist or hold festival authority.
 
 Build an initial body of twelve to twenty especially strong cleared works across several artists, then deepen toward the sixty-work target. Include both remote-purchase and private-viewing paths. Contextualize historical Taos without letting deceased artists or secondary-market inventory displace the livelihood mission. Publish accessible original prints alongside higher-value work, with accurate edition/reproduction labels.
 
@@ -59,6 +59,6 @@ Illustrative target arithmetic, not a forecast: $3m completed art value requires
 
 ## Owners and operational capacity
 
-Proposed accountable roles: Dave Paul as product/business lead; Felix as curatorial lead if he agrees; a named editor/content operator; a named collector-service/fulfillment lead; and technical support. One person may cover several roles initially, but capacity must be explicit. No appointment or role in this document is a commitment from that person.
+Proposed accountable roles: product/business lead; curatorial lead; editor/content operator; collector-service/fulfillment lead; and technical support. One person may cover several roles initially, but capacity must be explicit. Roles are proposed responsibilities, not named appointments or personal commitments.
 
 Decide staffed hours, response coverage, seller confirmation process, exceptional-order escalation, content update capacity and a weekly operating budget before public launch. Paid profiles and referrals are useful funding, but the [economics module](05-COMMERCE-PRICING-AND-OPERATIONS.md) shows why they cannot alone guarantee a world-class service with fully subsidized artist processing fees.

@@ -1,7 +1,7 @@
 # Prototype brief and review gates
 
-**Current authorization:** Dave Paul has requested the design prototype and live preview in a separate `sw-arts-website` repository. The provisional Audo #11 direction is for review; production and live transactions still require a later approval. Project day one is November 1, 2026. Earlier specification-stage descriptions below describe the review sequence, not a current prohibition on the authorized prototype.
-**This is the brief for the now-authorized design prototype.** Dave Paul and Felix will review the concrete prototype before a full production website. Prototype publication does not authorize live financial or booking actions.
+**Current stage:** A design prototype and live preview are authorized in the separate `sw-arts-website` repository. The provisional Audo #11 direction is for review; production and live transactions still require a later approval. Project day one is November 1, 2026. Earlier specification-stage descriptions below describe the review sequence, not a current prohibition on the authorized prototype.
+**This is the brief for the now-authorized design prototype.** Product and curatorial review of the concrete prototype precedes a full production website. Prototype publication does not authorize live financial or booking actions.
 
 ## Review the specification first
 
@@ -51,7 +51,7 @@ Proposed acceptance: at least 80% of participants complete each core discovery t
 
 ## Review package and explicit decisions
 
-The prototype review should include the clickable [GitHub Pages design preview](https://suede0619.github.io/sw-arts-website/), mobile and desktop screens, component/token reference, content/rights status, observed usability findings, unresolved states, and a scoped production estimate. Dave selected public GitHub Pages hosting; no visitor account is required. Reviewers approve specific outcomes and remaining changes, not an unseen future implementation. Actual deployment verification is recorded in [SESSION_STATE.md](../SESSION_STATE.md).
+The prototype review should include the clickable [GitHub Pages design preview](https://suede0619.github.io/sw-arts-website/), mobile and desktop screens, component/token reference, content/rights status, observed usability findings, unresolved states, and a scoped production estimate. The preview uses public GitHub Pages hosting; no visitor account is required. Reviewers approve specific outcomes and remaining changes, not an unseen future implementation. Actual deployment verification is recorded in [SESSION_STATE.md](../SESSION_STATE.md).
 
 Production authorization follows prototype acceptance and a funded operating model. Before live release, secure seller/partner permissions, image licenses, confirmed inventory, operator responsibilities, payment/fulfillment readiness, staff capacity and final accessibility/security/performance validation. Launch a small private buying pilot before broad promotion.
 

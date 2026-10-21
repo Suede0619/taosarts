@@ -37,7 +37,7 @@ Research as of **October 19, 2026**. “Most successful” depends on the outcom
 
 **For public participation and citywide discovery:** Ann Arbor and ArtPrize offer distributed programs and a sense of occasion. Venice offers cultural prestige and compelling narratives. None proves that crowd size alone increases an individual artist's income.
 
-**For the complete destination:** Setouchi/Naoshima is an especially relevant inspiration for the meeting's art, architecture, food, lodging, and landscape idea. Island transport and long-term institutional investment are part of that experience; it is not an overnight branding exercise.
+**For the complete destination:** Setouchi/Naoshima is an inspiration for connecting art, architecture, food, lodging and landscape. Island transport and long-term institutional investment are part of that experience; it is not an overnight branding exercise.
 
 ## The mechanisms worth adapting
 

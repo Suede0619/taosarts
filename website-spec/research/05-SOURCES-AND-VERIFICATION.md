@@ -7,7 +7,7 @@
 1. Artist, authorized seller, operator, museum, Pueblo or land-manager information for facts they control. Public inventory is still not our permission to sell.
 2. Current official technical/platform documentation for documented capabilities and fees.
 3. Named review/marketplace/destination sources for their own ratings/listings, explicitly identified and dated as retrieved snapshots.
-4. Dave Paul/Felix meeting and user accounts, labeled as supplied rather than independently verified.
+4. Anonymous supplied planning notes, labeled as inputs rather than independently verified evidence.
 5. Our proposals, manual travel estimates, budgets, editorial selection and design judgments, explicitly separated from source facts.
 
 Raw fetched pages and extraction scripts remain under ignored `ART/private/source/website-spec/`. They are not a public archive or a production content license. Public deliverables contain concise original summaries, factual metadata and source/image-reference URLs. No account access, social login or CAPTCHA restriction was bypassed. Some local HTTP fetches returned errors, incomplete JavaScript pages or access blocks; usable alternative primary sources were used where available.
@@ -16,7 +16,7 @@ Raw fetched pages and extraction scripts remain under ignored `ART/private/sourc
 
 | Source | What it supports | Limit |
 |---|---|---|
-| [Consolidated Felix notes](../../FelixMeet) | Mission, selective guide, human referral network, collector/public balance, AI idea, House of Fire and HeyTaos correction | Meeting date and several conversational claims unresolved; no agreements or board authority implied. |
+| [Foundations and planning ideas](../../PROJECT-FOUNDATIONS.md) | Mission, selective guide, referral network, collector/public balance, AI and potential partnerships | Several contextual inputs remain unverified; proposals imply no agreements or board authority. |
 | [Existing business plan](../../planning/01-PRD-and-Business-Plan-2027.md) and [experiments](../../planning/08-Experiments-and-New-Ideas.md) | Earlier strategy, regional concept, collector service and artist outcome measures | Its festival commission assumptions do not override the newest zero website-commission instruction. |
 | [HeyTaos](https://heytaos.com/) and [earlier partnership research](../../research/03-HeyTaos-and-Regional-Partnerships.md) | Potential complementary broad-discovery partner | No content/data/affiliate agreement or verified audience performance. |
 | [Southwest Art Magazine](https://www.southwestart.com/) | Existing same-market use of the working name | Not a trademark search or conclusion about availability/rights. |
@@ -58,19 +58,19 @@ No social account is treated as a source merely because a name matches. Limited 
 
 The [experience research](02-TAOS-EXPERIENCES.md) contains the authority/operator links and separate review snapshots. Tripadvisor scores/counts are cached evidence with varying ages, not live statistics or a licensed display feed. NM River Adventures has inconsistent rounded scores/counts across retrieved versions; the range is disclosed. Williams Lake's old Forest Service PDF establishes a route reference, not today's access. Travel bands are our manual estimates pending routing.
 
-The [gallery research](03-TAOS-GALLERIES.md) links the twelve targets. Revolt's “current/upcoming” shows have past dates; Lake Object's visible exhibitions are historical; R.C. Gorman's Taos location is taken from its current own-site location list. Bryans and mismatched/recycled gallery domains were excluded. House of Fire details come from Dave Paul; the promised Felix archive is absent.
+The [gallery research](03-TAOS-GALLERIES.md) links the twelve targets. Revolt's “current/upcoming” shows have past dates; Lake Object's visible exhibitions are historical; R.C. Gorman's Taos location is taken from its current own-site location list. Bryans and mismatched/recycled gallery domains were excluded. HOUSE of FIRE details are supplied business information; the 2026 festival archive is outstanding.
 
 The [hospitality research](04-TAOS-FOOD-AND-LODGING.md) links menus and rooms. PDF facts were extracted for concise factual samples; no complete menus are reproduced. Some menu PDFs are undated; file dates are not a guarantee. Juliette is the Hotel Willa restaurant. Orlando's own linked domain was unhelpful, so no official current menu/price was asserted. 192's current operation is unresolved after an October 17 seasonal-close listing. Static inn rate ranges are not live booking quotes. Hacienda del Sol is the Taos property, not a same-name Tucson/Mexico hotel.
 
 ## Inputs needed for the next authorized stage
 
-1. Dave Paul/Felix review of the implemented design prototype and an explicit final Atomic design choice. Prototype authorization is recorded; production review remains open.
-2. Felix-approved artist/gallery cohort, actual seller relationships and current object sheets.
+1. Product and curatorial review of the implemented design prototype and an explicit final Atomic design choice. Prototype authorization is recorded; production review remains open.
+2. Curator-approved artist/gallery cohort, actual seller relationships and current object sheets.
 3. Artist/photographer permission and usable masters for the prototype; separate authority for live selling.
 4. Confirmed partner willingness, actual current menus/rooms/prices/hours/access and allowed booking/referral paths.
 5. A funded processing policy, a scoped prototype/build budget and named ongoing service capacity.
 6. An operating entity/seller model and the separate relationship to Taos Fall Arts Festival.
 7. Working-brand/public-name decision before public release.
-8. Felix's future 2026 archive, handled privately; it may inform later strategy but its absence does not invalidate independent website specification work.
+8. The outstanding 2026 festival archive, handled privately; it may inform later strategy but its absence does not invalidate independent website specification work.
 
 These are concrete next inputs, not a reason to repeat all research in a fresh session. Refresh date-sensitive facts and retain the original observation alongside meaningful corrections.

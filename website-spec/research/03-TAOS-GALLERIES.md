@@ -2,13 +2,13 @@
 
 **Research snapshot: October 19, 2026. Curated business-development shortlist, not paid partners, a price ranking or an endorsement by the galleries.** Count twelve distinct gallery businesses/groups; do not count Parsons's two venues as two separate targets.
 
-Collector credibility comes from the actual program, object information, artist relationships and service. Price alone is not a quality test. This shortlist combines contemporary art, established painting, Indigenous/estate expertise and material-led work; Felix should approve the balance and resolve conflicts before recruitment. Paid profiles purchase clearly defined services and carry a disclosure. They do not purchase our editorial judgment.
+Collector credibility comes from the actual program, object information, artist relationships and service. Price alone is not a quality test. This shortlist combines contemporary art, established painting, Indigenous/estate expertise and material-led work; curatorial review should confirm the balance and resolve conflicts before recruitment. Paid profiles purchase clearly defined services and carry a disclosure. They do not purchase our editorial judgment.
 
 ## Proposed targets and source observations
 
 | # | Gallery / region location | Why it fits | Program or concrete published evidence | What remains unresolved |
 |---|---|---|---|---|
-| 1 | **HOUSE of FIRE**, 107 Kit Carson Road | Felix's curatorial leadership and the user's existing relationship can anchor a distinctive program | User-supplied director/contact and meeting record; no current exhibition/object catalog supplied | Approved gallery introduction, artist roster, show dates, prices, images, representation and service capacity |
+| 1 | **HOUSE of FIRE**, 107 Kit Carson Road | Potential contemporary gallery program on Kit Carson Road; curatorial fit and participation to confirm | Supplied business details; no current exhibition/object catalog supplied | Approved gallery introduction, artist roster, show dates, prices, images, representation and service capacity |
 | 2 | **203 Fine Art**, 1335 Gusdorf Rd, Suite I | Strong modern/contemporary context and professional object records | Larry Bell, Ron Cooper and other program/stock records; Waldrum/Tom Dixon exhibitions dated Sept 19–Nov 8, 2026 | Work-by-work stock, price, artist representation versus resale, image/sale permission |
 | 3 | **David Anthony Fine Art**, 132 Kit Carson Road | Contemporary visual art plus crafted furniture can serve collectors/designers | Published artist index and appointment-led contact; separate Taos Furniture program | Current show dates, prioritized available objects, prices, complete object sheets |
 | 4 | **Parsons gallery group**, Kit Carson Road and Bent Street | Living Western artists alongside a distinct historical-art business | Contemporary roster includes Jerry Jordan, John Moyers, Logan Maxwell Hagege and Mark Maggiori; separate historical fine-art venue | Dated events, saleable works, prices, exact seller/location for every object |
@@ -23,7 +23,7 @@ Collector credibility comes from the actual program, object information, artist 
 
 ## Profile briefs and authoritative sourcing
 
-**HOUSE of FIRE.** Use the [consolidated Felix meeting](../../FelixMeet) and user-supplied business details as the current source: Felix Kay, Gallery Director; 575.240.4680; houseoffiretaos@gmail.com; [Instagram @houseoffiretaos](https://www.instagram.com/houseoffiretaos/). The user's account of Felix's New York experience is valuable context, but a public biography needs Felix's approval and accurate supporting details. His 2026 archive remains forthcoming. Do not invent a website, represented artists, museum relationships, show title or price list.
+**HOUSE of FIRE.** Supplied business listing: Felix Kay, Gallery Director; 107 Kit Carson Road, Taos; 575.240.4680; houseoffiretaos@gmail.com; [Instagram @houseoffiretaos](https://www.instagram.com/houseoffiretaos/). This is a factual business-name association, not attribution of the project or endorsement of the plan. Verify the gallery program and obtain permission for any biography, art, photography or commercial profile. Do not invent a website, represented artists, museum relationships, show title or price list.
 
 **203 Fine Art.** The own-site October snapshot has **Chroma | Contrast—Paintings & Prints by Harold Joe Waldrum** in the North Gallery and **New Works by Tom Dixon** in the South Gallery, September 19–November 8, 2026. Published walk-in hours are Wed–Sat, 11am–4pm, with other visits by appointment. Record exhibition end dates so the November page cannot silently become “current” in December. Larry Bell and Ron Cooper records provide useful modern/contemporary object examples; a work page is not automatically artist representation or confirmed sale stock. [Official gallery/program](https://203fineart.com/), [artist index](https://203fineart.com/artists/).
 

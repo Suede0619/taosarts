@@ -1,9 +1,9 @@
 # Southwest Art — website specification for review
 
-**Current authorization:** Dave Paul has requested the design prototype and live preview in a separate `sw-arts-website` repository. The provisional Audo #11 direction is for review; production and live transactions still require a later approval. Project day one is November 1, 2026. Earlier specification-stage descriptions below describe the review sequence, not a current prohibition on the authorized prototype.
-**Version 0.1 · October 19, 2026 · Owners for review: Dave Paul and Felix Kay**
+**Current stage:** A design prototype and live preview are authorized in the separate `sw-arts-website` repository. The provisional Audo #11 direction is for review; production and live transactions still require a later approval. Project day one is November 1, 2026. Earlier specification-stage descriptions below describe the review sequence, not a current prohibition on the authorized prototype.
+**Version 0.1 · October 19, 2026 · Anonymous planning specification; product and curatorial review pending**
 
-**Stage: design prototype implemented; review precedes production.** Source is in [sw-arts-website](https://github.com/Suede0619/sw-arts-website); the preview uses [GitHub Pages](https://suede0619.github.io/sw-arts-website/) with actual publication status in [SESSION_STATE.md](../SESSION_STATE.md). The working brand, Atomic design direction, pricing, partner targets, inventory, and production technical choices remain proposals. No live commerce is connected. Dave requested GitHub for both builds; the [technical specification](06-DATA-TECHNICAL-AND-CONTENT-SPEC.md) records the Pages ecommerce restriction and unresolved commercial hosting choice.
+**Stage: design prototype implemented; review precedes production.** Source is in [sw-arts-website](https://github.com/Suede0619/sw-arts-website); the preview uses [GitHub Pages](https://suede0619.github.io/sw-arts-website/) with actual publication status in [SESSION_STATE.md](../SESSION_STATE.md). The working brand, Atomic design direction, pricing, partner targets, inventory, and production technical choices remain proposals. No live commerce is connected. GitHub is the required source repository for both builds; the [technical specification](06-DATA-TECHNICAL-AND-CONTENT-SPEC.md) records the Pages ecommerce restriction and unresolved commercial hosting choice.
 
 Use **Southwest Art** as requested for this stage. An established [Southwest Art Magazine](https://www.southwestart.com/) already uses the name in this market; review the public identity/domain and possible confusion before launch. No name clearance has been performed.
 
@@ -234,7 +234,7 @@ Record task success, time, confusion, trust and observed failure, not just wheth
 
 Use the [technical/content requirements](06-DATA-TECHNICAL-AND-CONTENT-SPEC.md), [prototype review brief](07-PROTOTYPE-AND-REVIEW-PLAN.md), and [collector growth plan](08-COLLECTOR-GROWTH-AND-LAUNCH.md) as the supporting delivery modules.
 
-**Gate A — this specification:** Dave Paul and Felix review the proposition, Atomic direction, navigation, content shortlist, artist economics, partner pricing and prototype scope. Resolve the design choice explicitly. No implementation begins before authorization.
+**Gate A — this specification:** Product and curatorial reviewers assess the proposition, Atomic direction, navigation, content shortlist, artist economics, partner pricing and prototype scope. Resolve the design choice explicitly. No implementation begins before authorization.
 
 **Gate B — design prototype:** after approval, build a small coherent UI with clearly marked demonstration data and licensed imagery or appropriate placeholders. Include the Taos gateway, art search, artist/work detail, experience, gallery, dining/lodging, contextual assistant, saved plan and simulated checkout. Review desktop/mobile behavior and design, then revise.
 

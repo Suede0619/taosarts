@@ -2,7 +2,7 @@
 
 **Version 1.0 · October 19, 2026 · Planning horizon: November 1, 2026–October 31, 2027**
 
-**Status: a proposal for Dave Paul, Felix, and authorized partners.** No festival board approval, budget, partnership, staffing commitment, or 2027 festival date is assumed. The 2026 festival has already ended. Day one is November 1, 2026; October is preparation before kickoff. Recover evidence and begin with a small funded scope. The fixed October 23 advance-review exception is highlighted in the [current baseline](../PROJECT-BASELINE.md).
+**Status: an anonymous proposal for project review.** No festival board approval, budget, partnership, staffing commitment, or 2027 festival date is assumed. The 2026 festival has already ended. Day one is November 1, 2026; October is preparation before kickoff. Recover evidence and begin with a small funded scope. The fixed October 23 advance-review exception is highlighted in the [current baseline](../PROJECT-BASELINE.md).
 
 **Current alignment:** the [website specification](../website-spec/README.md) controls Southwest Art v1: Taos only; ten artist candidates and sixty work records; free artist/experience discovery; zero direct-artist website commission; founding gallery/restaurant/lodging fees of $150/$99/$199 per month. A prototype is now authorized; production requires its own review. The older commission-bearing financial figures below are a separately labeled illustration, not a funded current website/consolidated budget.
 
@@ -113,8 +113,8 @@ Proposed roles, not appointments:
 | Role | Accountability | Decision limit |
 |---|---|---|
 | Festival board / authorized officer | Festival mission, budget, contracts, grants, risk | Retains its legal authority; delegates explicitly. |
-| Dave Paul, proposed product and business lead | Product, partner proposals, measurement, delivery coordination | No authority over nonprofit funds without delegation. |
-| Felix, proposed curatorial and collector advisor | Artistic direction, artist/gallerist relationships | Recuses from House of Fire's selection and financial terms. |
+| Product and business lead | Product, partner proposals, measurement, delivery coordination | No authority over nonprofit funds without delegation. |
+| Curatorial and collector advisor | Artistic direction, artist/gallerist relationships | Recuses from selection and financial terms involving any affiliated gallery or other commercial interest. |
 | Festival producer | Venues, staffing, vendors, operating readiness | Within approved budget and contracts. |
 | Collector lead / concierge | Buyer service, appointments, sales follow-up | Cannot promise discounts or authenticity beyond seller approval. |
 | Finance / bookkeeping lead | Settlement, tax coordination, reporting, cash forecast | Dual approval for material payments; artist funds protected. |
@@ -124,7 +124,7 @@ Use three meetings: a 30-minute weekly operating review, a monthly finance/risk 
 
 ## 7. Build sequence and launch conditions
 
-Begin with a small permissioned inventory and a human service process. Dave has authorized a design prototype and live preview in a separate repository; use clearly labeled demonstration records and licensed/original images. Review the prototype before production. The production v1 includes contextual AI and ordinary filters as specified in the newer website package; prototype publication is not permission for live transactions.
+Begin with a small permissioned inventory and a human service process. A design prototype and live preview are authorized in a separate repository; use clearly labeled demonstration records and licensed/original images. Review the prototype before production. The production v1 includes contextual AI and ordinary filters as specified in the newer website package; prototype publication is not permission for live transactions.
 
 The first 90 days should produce a reconstructed 2026 baseline, a signed pilot scope, a few real transactions, quotes for the expensive operating items, a funding pipeline, and an honest go/no-go review. Do not commission a large print run, venue build, or regional advertising campaign before the catalog and response service work.
 

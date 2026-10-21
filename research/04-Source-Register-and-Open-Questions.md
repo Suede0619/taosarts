@@ -6,7 +6,7 @@ Research cut-off: **October 19, 2026**. This register records the sources suppor
 
 - **Primary published:** the organization, public authority, museum, or event publishes the information. Organizer figures remain self-reported unless audited.
 - **Secondary extraction/reporting:** useful intermediary information; not equivalent to reviewing the original filing or underlying data.
-- **Meeting/user account:** a statement from the conversation or Dave Paul's later correction, not independently established.
+- **Supplied planning note:** an unverified contextual input, distinguished from independently established evidence and proposed decisions.
 - **Proposal/assumption:** a future design, target, price, budget, or hypothesis. Never present it as an achieved outcome.
 - **Unknown:** not established from reviewed material. Blank cells do not mean zero.
 
@@ -16,7 +16,7 @@ Research cut-off: **October 19, 2026**. This register records the sources suppor
 |---|---|---|
 | [Festival homepage](https://taosfallarts.com/) | Primary; 2026 promotion with 2024 retrospective | Dates, venues, poster, anniversary context; promotional participant scale, not sales results. |
 | [Festival history](https://taosfallarts.com/about/) | Primary; mixed historical and older edition text | 1974 origin and format evolution; portions refer to 2022. |
-| [Board and support](https://taosfallarts.com/our-board-support-team/) | Primary; current page at review | President and Felix's public support listing; actual delegated authority needs confirmation. |
+| [Board and support](https://taosfallarts.com/our-board-support-team/) | Primary; current page at review | Board and support roles; actual delegated authority needs confirmation. |
 | [Participation](https://taosfallarts.com/participate/) | Primary fundraising page | Sponsor/submission support offers; not evidence that all artists already participate free. |
 | [2026 entry page](https://taosfallarts.com/taos-fall-arts-entry/) | Primary call | Current curatorial invitation; outcome figures absent. |
 | [2024 CaFE call](https://artist.callforentry.org/festivals_unique_info.php?ID=13921) | Primary festival entry notice | Edition dates, anniversary and historic procedures; not 2027 rules. |
@@ -87,15 +87,15 @@ Research cut-off: **October 19, 2026**. This register records the sources suppor
 |---|---|---|---|
 | Immediate | Does the festival require Oct 23 advance review? Who may submit? | Authorized grant officer | Preserves or loses a near-term funding option. |
 | Kickoff: Nov 1–7 | Who approves festival commitments and the separate guide relationship? | Board | Determines authority and entity structure. |
-| Kickoff: Nov 1–7 | What cash and weekly time are actually available? | Dave Paul / project sponsor | Chooses pilot scope and staffing feasibility. |
-| High | What were 2026 completed sales, artist proceeds, liabilities, and costs? | Treasurer / Felix archive | Replaces the current absence of a baseline. |
+| Kickoff: Nov 1–7 | What cash and weekly time are actually available? | Project sponsor / product lead | Chooses pilot scope and staffing feasibility. |
+| High | What were 2026 completed sales, artist proceeds, liabilities, and costs? | Treasurer / archive lead | Replaces the current absence of a baseline. |
 | High | Which recent year was paused? What happened in 2025? | Festival archivist | Correct historical account and comparisons. |
 | High | What work is truly available at the target price bands? | Artists / sellers | Validates the $3m sales architecture. |
 | High | What conversion and order size do real buyer cohorts support? | Collector lead | Revises target, budget and acquisition spending. |
 | High | What are actual site, insurance, staffing, access and handling quotes? | Producer | Replaces budget envelopes. |
 | High | What are current artist fees/commissions and representation obligations? | Festival / galleries | Enables fair, lawful proposed terms. |
 | Medium | What is HeyTaos's audience fit and willingness to pilot? | Partner lead | Tests distribution value. |
-| Medium | Which hotel was described in the meeting? | Felix | Confirms a potential referral relationship. |
+| Medium | Which accommodation lead has a verifiable referral relationship? | Partnership lead | Confirms a potential referral relationship. |
 | Medium | Which institution wants a funded public acquisition program? | Community lead | Establishes consent and delivery feasibility. |
 | Later | Which regional geography and name have real demand and clear rights? | Project leads | Prevents premature brand expansion. |
 
@@ -106,10 +106,10 @@ Research cut-off: **October 19, 2026**. This register records the sources suppor
 - Generic recurring-event dates that conflict with the festival's official 2026 dates.
 - Assignment of an unspecified historic opening crowd to a particular year.
 - A claim that organizer economic impact, awards, or ticket counts equal artwork sales.
-- Current partnership, board approval, donor support, or access to Felix's archive that has not occurred.
-- Verified meeting claims about rent, the pianist/foundations, museum costs, drawing education, or the reported Ski Valley funding comparison.
+- Current partnership, board approval, donor support, or access to the 2026 festival archive that has not occurred.
+- Treating supplied planning claims about rent, music philanthropy, museum costs, drawing education or the Ski Valley funding comparison as independently verified facts.
 - A claim that any proposed idea is globally unprecedented or that millions in sales are guaranteed.
 
 ## Research update procedure
 
-When Felix's records arrive, update private reconciliations first, then the historical CSVs and research narrative with approved aggregates. Record what changed, the source, definition, period, and reviewer. Re-run the model only after changing explicit assumptions; do not let a new historical figure silently become a forecast. Check dates and source pages again before publishing a public call or funding submission.
+When festival records arrive, update private reconciliations first, then the historical CSVs and research narrative with approved aggregates. Record what changed, the source, definition, period, and reviewer. Re-run the model only after changing explicit assumptions; do not let a new historical figure silently become a forecast. Check dates and source pages again before publishing a public call or funding submission.

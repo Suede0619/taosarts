@@ -1,6 +1,6 @@
 # Taos Fall Arts: history, economics, and a revival grounded in evidence
 
-Research cut-off: **October 19, 2026**. Dollar figures are nominal USD. This is a public-source reconstruction pending Felix's 2026 archive, not an audit. A blank or “not found” means unknown, never zero.
+Research cut-off: **October 19, 2026**. Dollar figures are nominal USD. This is a public-source reconstruction pending the 2026 festival archive, not an audit. A blank or “not found” means unknown, never zero.
 
 ## What the evidence establishes
 
@@ -78,7 +78,7 @@ Revenue fell approximately **73.5% in 2020 versus 2019**. By 2024 it was approxi
 | 2023 | No comparable annual total located | No aggregate located | Recover actual exhibition ledger. |
 | 2024 | Anniversary documented; annual total not located | No aggregate located | A call for artists is not an outcome report. |
 | 2025 | Edition status not securely established from consistent primary records | No aggregate located | Resolve the official “pause” wording; ignore generic recurring listings. |
-| 2026 | Promotional 250+ artists; visitor result not located | No aggregate located | Felix's archive is the immediate source to request. |
+| 2026 | Promotional 250+ artists; visitor result not located | No aggregate located | The 2026 festival archive is the immediate source to request. |
 
 Attendance context: [Southwest Contemporary, September 2021](https://southwestcontemporary.com/autumnal-celebrations-taos-fall-arts-festival-and-taos-wool-festival/), [Taos Arts Council](https://taosartscouncil.org/taos-fall-arts-festival-2021/). The former describes free admission and the experimental exhibition context, not a longitudinal sales study.
 
@@ -90,9 +90,9 @@ The honest historical finding is an **absence of a publicly verifiable annual at
 |---|---|---|---|
 | Pandemic interruption broke habits and relationships | Interruption documented; its persistent sales effect unmeasured | Returning artist and buyer cohorts, 2019–2026 invoices | Reactivation calls, reserved viewings, repeat-collector care. |
 | Organizational capacity and cash are thin | Small, volatile nonprofit accounts; staffing capacity unknown | Staff hours, cash, retained contracts, volunteer turnover | Fund a producer and sales lead before expanding attractions. |
-| Fragmented information loses interested visitors | Meeting hypothesis and dated website content | Test ten buyer journeys; audit price, hours, availability, and response time | Unified inventory, concise guide, human appointments. |
+| Fragmented information loses interested visitors | Planning hypothesis and dated website content | Test ten buyer journeys; audit price, hours, availability, and response time | Unified inventory, concise guide, human appointments. |
 | A weak buyer mix produces crowds without purchases | No buyer conversion baseline | Record inquiries, qualified budgets, quotes, paid orders | Invite collectors and advisors with relevant inventory. |
-| Travel and cost friction shorten stays | Meeting observation; magnitude unmeasured | Ask lost buyers; compare booking and travel barriers | Hotel packages, transport partners, remote previews and delivery. |
+| Travel and cost friction shorten stays | Planning hypothesis; magnitude unmeasured | Ask lost buyers; compare booking and travel barriers | Hotel packages, transport partners, remote previews and delivery. |
 | Gallery/festival incentives or representation conflicts inhibit sales | Open question, no finding of misconduct | Review consignment and referral agreements | Clear seller responsibility, no fee stacking, rapid payouts. |
 | Public identity is stale or too narrowly nostalgic | Curatorial hypothesis | Interview artists, younger visitors, Pueblo/Hispano partners | Distinct historical and contemporary voices with shared promotion. |
 | Wider art demand has shifted | Global context, not local proof | Segment Taos sales by price and buyer source | Build several price tiers and repeat procurement channels. |

@@ -22,7 +22,7 @@ State lines are useful filters but weak primary navigation for art travel. Large
 | **Moab & Canyon Country** | Moab and southeastern Utah destinations | Distinct landscape/travel base and potential artist networks | Later |
 | **Zion, Bryce & Southwestern Utah** | St. George, Springdale, Kanab and surrounding communities | A separate travel base from Moab, with different routes and experiences | Later |
 | **West Texas & the Big Bend** | Marfa, Alpine, Fort Davis, El Paso; disclose travel scale | Internationally recognized art/destination potential and a distinct border/desert context | Later |
-| **Texas Hill Country & San Antonio** | San Antonio and Hill Country subclusters | A possible extension reflecting the meeting's southern-Texas ambition | Optional extension; do not imply an uncontested Southwest definition |
+| **Texas Hill Country & San Antonio** | San Antonio and Hill Country subclusters | A possible southern-Texas extension of the destination network | Optional extension; do not imply an uncontested Southwest definition |
 
 These clusters are proposed editorial judgments. Before launch in a region, validate its actual artists, community preferences, gallery density, transport patterns, visitor use and commercial relationships. The table does not claim an objective ranking or an existing partner network.
 

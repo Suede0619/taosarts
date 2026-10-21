@@ -2,7 +2,7 @@
 
 Version 1.0, October 19, 2026. This specifies a future product. No production website, payment service, inventory database, or AI concierge has been built by this repository work.
 
-**Superseded website detail:** the newer [Southwest Art website specification](../website-spec/README.md) controls routes, design proposal, AI platform, content counts and commerce. This document remains supporting service/data background. Day one is November 1, 2026. Dave has authorized the design prototype/live preview; production remains a separate gate.
+**Superseded website detail:** the newer [Southwest Art website specification](../website-spec/README.md) controls routes, design proposal, AI platform, content counts and commerce. This document remains supporting service/data background. Day one is November 1, 2026. The design prototype/live preview is authorized; production remains a separate gate.
 
 ## Product promise
 
@@ -40,7 +40,7 @@ Public browse and a contact form can launch before account systems or live check
 
 The current primary navigation is **Art & Artists**, **Galleries**, **Experiences**, **Eat & Stay**, and **Plan a Visit**. Festival material is dated Taos content rather than a separate implied approved event. Put art and real next actions ahead of a large editorial feed. Gallery profiles should distinguish a location from the artists it represents. Itineraries should state total travel assumptions and who checked them.
 
-Design direction: calm typography, consistent image treatment, concise artist-led stories, visible prices, restrained motion, and fast mobile pages. Short process films should be captioned and optional. The design responds to the meeting's preferences; conversion tests should decide whether it helps people complete tasks.
+Design direction: calm typography, consistent image treatment, concise artist-led stories, visible prices, restrained motion, and fast mobile pages. Short process films should be captioned and optional. Evaluate the direction through task completion and conversion tests.
 
 ## Core data model
 
@@ -60,7 +60,7 @@ Design direction: calm typography, consistent image treatment, concise artist-le
 
 A single physical work has one canonical ID even when several partners describe it. Editions require individual unit tracking. Status values should include available, held, sold/pending delivery, delivered, withdrawn, and unknown. Stale availability must be visibly uncertain; do not present it as available until reconfirmed.
 
-Separate public catalog data, private business records, and highly restricted payment/identity evidence. This public document repository holds schemas and synthetic examples only. Future Felix documents go through intake, classification, and redaction before any publication.
+Separate public catalog data, private business records, and highly restricted payment/identity evidence. This public document repository holds schemas and synthetic examples only. Incoming festival records go through intake, classification and redaction before any publication.
 
 ## AI behavior
 

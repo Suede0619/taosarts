@@ -31,7 +31,7 @@ Respect existing gallery representation. An artist should not be asked to bypass
 
 Pay a small artist/community advisory group, including people invited through appropriate Pueblo and Hispano relationships. Participation is voluntary; representation is not achieved by adding a single person to approve all cultural matters. Communities determine what they wish to share and how they are credited.
 
-Publish eligibility and selection criteria before applications. Disclose jurors, manage conflicts, offer accessible submission help, and provide a process for factual corrections and concerns. Felix should recuse himself from House of Fire's selection, fee, and preferential-placement decisions. Apply equivalent rules to every decision maker's commercial interests.
+Publish eligibility and selection criteria before applications. Disclose jurors, manage conflicts, offer accessible submission help, and provide a process for factual corrections and concerns. Every decision maker must recuse from selection, fee and preferential-placement decisions involving an affiliated gallery or other commercial interest. Apply the same disclosed conflict rules to all participants.
 
 Native authorship and tribal affiliation must come from appropriate artist documentation and consent, never AI inference. Marketing must be accurate under the [Indian Arts and Crafts Act](https://www.doi.gov/node/41066). Do not include sacred places, ceremonies, private studios, community symbols, or restricted knowledge simply because they can be found online. Obtain specific permissions for photography, storytelling, and visits.
 

@@ -24,7 +24,7 @@ Each section includes a small inline question field with three contextually usef
 
 The assistant returns compact explanations with actual work/venue cards rendered from database records. It offers **Apply these filters**, **Compare**, **Save to my plan**, **Request a viewing**, or **Speak to a person** as appropriate. A visible action or explicit natural-language instruction can change filters; show the result and an undo. Financial or external communication actions require their own deliberate confirmation.
 
-Label it as AI assistance in a restrained way and show factual sources/verification dates where useful. A status such as “I don't have a confirmed price for this work” is better than a polished invented answer. A service promise names staffed hours and response expectations; “Talk to Felix” is used only if Felix agrees to provide that service.
+Label it as AI assistance in a restrained way and show factual sources/verification dates where useful. A status such as “I don't have a confirmed price for this work” is better than a polished invented answer. A service promise names staffed hours and response expectations; “Speak to a curator” requires an agreed, staffed human service.
 
 ## Recommendation: OpenAI Responses API, with a custom site interface
 
@@ -116,4 +116,4 @@ Create 150 real task prompts before production: 40 art discovery/filtering, 25 o
 
 Required: zero invented work IDs/prices/sale statuses in the evaluated set; correct hard constraints and visible undo; truthful uncertainty; no unauthorized access or side effects; correct distinction between unique works and reproductions; source/date support for local factual answers; human handoff when relevant. Also measure tone, reading effort, latency, cost and successful next actions. Passing the sample is a release condition, not proof that all future answers are correct.
 
-The prototype should simulate representative conversations and their UI changes so Dave Paul and Felix can review the experience without funding or connecting the live model yet. Clearly label simulated responses in the review build.
+The prototype should simulate representative conversations and their UI changes for product and curatorial review of the experience without funding or connecting the live model yet. Clearly label simulated responses in the review build.

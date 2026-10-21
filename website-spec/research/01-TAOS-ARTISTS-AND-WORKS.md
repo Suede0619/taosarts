@@ -2,7 +2,7 @@
 
 **Research snapshot: October 19, 2026. Proposed cohort, not a claim of an objective “ten most famous” ranking.** No artist or seller has been onboarded, no image rights have been cleared, and no work is ready for our checkout.
 
-The selection combines internationally recognized contemporary artists, established Taos painters, material variety and accessible printmaking. Public sources cannot establish an exhaustive worldwide fame ranking or sixty simultaneously current, highest-priced, newest works. Where prices or years are absent, they stay unknown. Felix should review the cohort for curatorial balance, representation and actual relationships; this initial ten is a launch hypothesis, not an exclusion of other Taos artists.
+The selection combines internationally recognized contemporary artists, established Taos painters, material variety and accessible printmaking. Public sources cannot establish an exhaustive worldwide fame ranking or sixty simultaneously current, highest-priced, newest works. Where prices or years are absent, they stay unknown. Curatorial review should assess the cohort for balance, representation and actual relationships; this initial ten is a launch hypothesis, not an exclusion of other Taos artists.
 
 The direct-artist livelihood goal also needs emerging/local artists beyond recognized names. Plan an independently curated second intake once the first service works, with no paid selection advantage. Deceased artists such as Agnes Martin, R.C. Gorman and Ken Price belong in properly sourced historical context or honestly labeled estate/resale offers, not a promise of proceeds to those artists.
 
@@ -174,6 +174,6 @@ Kevin’s site links [Instagram](https://www.instagram.com/kevinmacphersonartist
 
 ## What remains before the prototype and live catalog
 
-Obtain Felix’s curatorial approval and each artist/authorized seller’s participation; ask for their six current priority works and approved object sheets. Request exact asking prices, creation years, dimensions/units, framed size, unique/edition/reproduction status, condition, ownership/representation, location, shipping and returns. Clear image and biography permissions separately from permission to sell. Match originals and print variants to separate canonical records.
+Obtain curatorial approval and each artist/authorized seller’s participation; ask for their six current priority works and approved object sheets. Request exact asking prices, creation years, dimensions/units, framed size, unique/edition/reproduction status, condition, ownership/representation, location, shipping and returns. Clear image and biography permissions separately from permission to sell. Match originals and print variants to separate canonical records.
 
 If six suitable cleared works are unavailable for an artist, publish fewer and disclose the true launch count or choose an approved replacement. Do not manufacture inventory to fill a grid. The discovery work is complete enough to guide review; **the requested sixty newest/highest-priced confirmed sale offers remain a seller-verification task**, and cannot responsibly be asserted from the public evidence alone.

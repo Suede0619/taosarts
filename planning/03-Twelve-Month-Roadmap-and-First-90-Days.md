@@ -1,22 +1,22 @@
 # Twelve-month roadmap and first 90 days
 
-**Day one: November 1, 2026. Year-one end: October 31, 2027.** We are getting off the ground. Named owners, budgets and learning thresholds below are proposals, not staffing commitments or permission to spend. [The common baseline](../PROJECT-BASELINE.md) controls identity, scope and dates.
+**Day one: November 1, 2026. Year-one end: October 31, 2027.** Accountable roles, budgets and learning thresholds below are proposals, not staffing commitments or permission to spend. [The common baseline](../PROJECT-BASELINE.md) controls scope and dates.
 
-Dave Paul has authorized building and publishing a design prototype in a separate repository. That preview is preparation for review, not a live art marketplace. The next gate is prototype review before production, seller onboarding or real payments. Audo #11 remains the provisional direction used to make the design concrete.
+A design prototype and live preview are authorized in a separate repository. That preview is preparation for review, not a live art marketplace. The next gate is prototype review before production, seller onboarding or real payments. Audo #11 remains the provisional direction used to make the design concrete.
 
 ## Before kickoff: fixed external dates only
 
 **October 23, 2026, 11:59pm Mountain:** New Mexico Arts FY28 advance review, if required for the existing authorized applicant. Its officer should verify eligibility/account history and preserve the option if appropriate. This deadline does not move to November. Final applications are due December 18. [Official requirements](https://nmarts.org/grants/apply-for-a-grant/).
 
-**October 22:** Larry Bell/Michelle Cooke opening at Taos Center for the Arts is an optional local research opportunity, not a project deliverable. Other optional pre-kickoff exhibition dates and the unverified October 24 meeting reference are in [the baseline](../PROJECT-BASELINE.md#important-items-before-november-1).
+**October 22:** Larry Bell/Michelle Cooke opening at Taos Center for the Arts is an optional local research opportunity, not a project deliverable. Other optional pre-kickoff exhibition dates and the unverified October 24 planning lead are in [the baseline](../PROJECT-BASELINE.md#important-items-before-november-1).
 
 ## First week: November 1–7
 
 | By | Action | Proposed accountable role | Concrete result |
 |---|---|---|---|
-| Nov 1–2 | Confirm the narrow first-month scope, founder hours and a staged cash ceiling | Dave + Felix / responsible sponsor | A small workable plan; no assumption of a paid full team. |
-| Nov 2–4 | Confirm festival decision authority, entity/fiscal year and archive access | Felix + authorized board officer | Named approver, archive contact and festival/website separation. |
-| Nov 3–5 | Review the specification, provisional design and prototype findings available so far | Dave + Felix | Specific revisions and decisions; production remains gated. |
+| Nov 1–2 | Confirm the narrow first-month scope, available staff hours and a staged cash ceiling | Product lead + curatorial lead / responsible sponsor | A small workable plan; no assumption of a paid full team. |
+| Nov 2–4 | Confirm festival decision authority, entity/fiscal year and archive access | Archive lead + authorized board officer | Approver and archive-contact roles, with festival/website separation. |
+| Nov 3–5 | Review the specification, provisional design and prototype findings available so far | Product and curatorial reviewers | Specific revisions and decisions; production remains gated. |
 | Nov 5–7 | Prepare a short inventory/image-permission request and modest seller intake | Curatorial/content lead | Target a few willing sellers and 12–20 cleared works before expanding. |
 | Nov 7 | Review archive availability and a first set of partner-service outlines | Business / archive lead | Missing-input list and reviewable scopes; no implied partnership. |
 

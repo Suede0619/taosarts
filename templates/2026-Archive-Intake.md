@@ -1,6 +1,6 @@
 # 2026 archive intake and historical reconstruction
 
-Use a **private copy** of this template for real records. Do not put buyer names, bank details, donor lists, private contracts, tax IDs, credentials, or unredacted sales records in this public repository. Felix's promised folder has not yet been received.
+Use a **private copy** of this template for real records. Do not put buyer names, bank details, donor lists, private contracts, tax IDs, credentials, or unredacted sales records in this public repository. The requested 2026 festival archive has not yet been received.
 
 ## Intake record
 

@@ -63,4 +63,4 @@ Before an ask, prepare a one-page problem/offer, evidence and limitations, a sco
 
 Use AI for structure and editing only after humans establish the facts. Do not invent artist biographies, participation counts, historic sales, demographic reach, partnerships, letters of support, or commitments. Verify every budget line and current guideline. Have the authorized applicant approve the actual submission. Keep application files and supporting financial/legal documents outside the public repo unless explicitly cleared.
 
-The meeting's reported PASEO/Fall Arts Ski Valley funding comparison remains unverified. It should not appear as a factual grievance in an application or sponsor proposal. A stronger case is a credible public program, measured artist outcomes, and reliable delivery.
+The supplied PASEO/Fall Arts Ski Valley funding comparison remains unverified. It should not appear as a factual grievance in an application or sponsor proposal. A stronger case is a credible public program, measured artist outcomes, and reliable delivery.
