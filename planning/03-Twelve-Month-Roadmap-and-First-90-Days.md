@@ -4,6 +4,8 @@
 
 A design prototype and live preview are authorized in a separate repository. That preview is preparation for review, not a live art marketplace. The next gate is prototype review before production, seller onboarding or real payments. Audo #11 remains the provisional direction used to make the design concrete.
 
+**October 23 strategy alignment:** prioritize the year-round platform, content/rights, buyer service and a modest affordable brand scope. Festivals support acquisition and public value under separate authority; a large event is not a prerequisite for platform validation. Taos-only v1 is unchanged. Denver/representative expansion and new staffing are unapproved hypotheses. Use the [current brief](10-Platform-First-Strategy-and-Brand-Brief.md) and [operating method](../operations/README.md); relative availability and proposed owners below are not accepted assignments.
+
 ## Before kickoff: fixed external dates only
 
 **October 23, 2026, 11:59pm Mountain:** New Mexico Arts FY28 advance review, if required for the existing authorized applicant. Its officer should verify eligibility/account history and preserve the option if appropriate. This deadline does not move to November. Final applications are due December 18. [Official requirements](https://nmarts.org/grants/apply-for-a-grant/).
@@ -14,7 +16,7 @@ A design prototype and live preview are authorized in a separate repository. Tha
 
 | By | Action | Proposed accountable role | Concrete result |
 |---|---|---|---|
-| Nov 1–2 | Confirm the narrow first-month scope, available staff hours and a staged cash ceiling | Product lead + curatorial lead / responsible sponsor | A small workable plan; no assumption of a paid full team. |
+| Nov 1–2 | Confirm the narrow platform scope, brand-role/fee discussion, actual available hours and a staged cash ceiling | Product lead + curatorial lead / responsible sponsor | A small workable plan; no assumption of a paid full team. |
 | Nov 2–4 | Confirm festival decision authority, entity/fiscal year and archive access | Archive lead + authorized board officer | Approver and archive-contact roles, with festival/website separation. |
 | Nov 3–5 | Review the specification, provisional design and prototype findings available so far | Product and curatorial reviewers | Specific revisions and decisions; production remains gated. |
 | Nov 5–7 | Prepare a short inventory/image-permission request and modest seller intake | Curatorial/content lead | Target a few willing sellers and 12–20 cleared works before expanding. |

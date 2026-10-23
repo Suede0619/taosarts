@@ -1,12 +1,18 @@
 # Current project baseline
 
-**Planning baseline: October 19, 2026. Anonymous editorial revision: October 21, 2026.** This is the common reference for active scope, decisions and timeline. Historical evidence, source-check dates and immutable archive records retain their original dates. Proposals remain subject to review and funding.
+**Initial planning baseline: October 19, 2026. Current strategic alignment: October 23, 2026.** This is the common reference for active scope, decisions and timeline. Historical evidence, source-check dates and immutable archive records retain their original dates. Proposals remain subject to review and funding.
 
 ## Purpose and scope
 
 The public planning material is anonymous and unattributed. Proposed responsibilities belong to role titles, not named appointments. Festival authority, governance and the festival/website relationship still need confirmation. HOUSE of FIRE is a gallery research candidate, not an authorized project representative.
 
 Help artists sell art so they can keep living and working in Taos. Build collector confidence through excellent curation, accurate object records, imagery, buying service and delivery. Welcome residents, first buyers and a wider public. Southwest Art is the working website brand; Taos is the only v1 region. HeyTaos is a potential complementary partner, not an agreed supplier or distributor.
+
+## Current strategic direction
+
+The year-round curated art and destination platform is the proposed core business and revenue engine. Festivals support discovery, relationships and visits; the platform is not dependent on producing a large event first. Include contemporary and a full range of art: Southwest describes geography, not a required style. The [strategy and starter brand brief](planning/10-Platform-First-Strategy-and-Brand-Brief.md) is the concise onboarding document. This reflects supplied planning input, not a formal board resolution, funded business, appointment or approved budget.
+
+Taos remains the only v1 region. A Denver hub and representatives in Santa Fe/Phoenix/Denver are future hypotheses. Approximately 10% of “sales” for representatives is an unresolved proposal: revenue base, payer, attribution and terms are unspecified and cannot override zero direct-artist website commission. No paid brand role or team capacity is agreed. Named operational evidence belongs in the private register described in [the operating method](operations/README.md).
 
 ## One timeline across the repository
 
@@ -33,7 +39,7 @@ The [roadmap](planning/03-Twelve-Month-Roadmap-and-First-90-Days.md) supplies ac
 | October 31, 2026 | Michelle Cooke solo exhibition scheduled to end, Aaron Payne Fine Art, Santa Fe | Optional related research visit; outside Taos v1. [Artist announcement](https://michellecooke.com/). |
 | “October 24,” year unconfirmed | Possible “Art as a Teacher” launch | **Unverified planning lead only.** Exact event, organizer, year and access are not established; verify with the organizer before treating it as an appointment or deadline. [Research context](PROJECT-FOUNDATIONS.md). |
 
-The grant deadline and artist/gallery announcements were checked against the linked official sources on October 19, 2026. The October 21 editorial revision does not refresh those source checks. Opening/closing dates do not establish attendance commitments, special access or a partnership. No application, invitation, booking or outreach has been sent.
+The grant advance-review and final deadlines were rechecked against the official application guidance on **October 23, 2026**. Artist/gallery announcements remain October 19 source checks; the strategy revision does not refresh those details. Opening/closing dates do not establish attendance commitments, special access or a partnership. No application, invitation, booking or outreach has been sent.
 
 After kickoff, the fixed **December 18, 2026, 11:59pm Mountain** New Mexico Arts final deadline belongs in the **days 31–60** phase. PASEO separately announces September 17–18, 2027; those are not confirmed Fall Arts dates. [Grant requirements](https://nmarts.org/grants/apply-for-a-grant/), [PASEO call](https://paseoproject.org/call-for-artists).
 
@@ -41,6 +47,7 @@ After kickoff, the fixed **December 18, 2026, 11:59pm Mountain** New Mexico Arts
 
 | Area | Current position | Treatment of older documents |
 |---|---|---|
+| Business priority | Year-round platform first; festivals support discovery and acquisition | Earlier festival-led scenarios remain comparison material, not a current allocation of effort or budget. |
 | Website sequence | **Specification → review → authorized design prototype → review → authorized production** | A design prototype and live preview are authorized. Calendar goals do not bypass the later production review; no live financial flows are authorized. |
 | Source and hosting | Both website builds in `Suede0619/sw-arts-website`; design preview on GitHub Pages | Sites is excluded as a host. Pages prohibits ecommerce business hosting; resolve a compatible host deployed from GitHub before the commercial production build. See the [technical specification](website-spec/06-DATA-TECHNICAL-AND-CONTENT-SPEC.md). |
 | Design | Atomic Audo Copenhagen #11 recommended; Aesop #35 alternative | Use Audo #11 provisionally in the authorized prototype; final design choice remains for review. |

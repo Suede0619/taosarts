@@ -1,14 +1,16 @@
 # Taos arts revival — PRD and executable business plan
 
-**Version 1.0 · October 19, 2026 · Planning horizon: November 1, 2026–October 31, 2027**
+**Version 1.1 · October 23, 2026 alignment; original research October 19 · Planning horizon: November 1, 2026–October 31, 2027**
 
 **Status: an anonymous proposal for project review.** No festival board approval, budget, partnership, staffing commitment, or 2027 festival date is assumed. The 2026 festival has already ended. Day one is November 1, 2026; October is preparation before kickoff. Recover evidence and begin with a small funded scope. The fixed October 23 advance-review exception is highlighted in the [current baseline](../PROJECT-BASELINE.md).
 
-**Current alignment:** the [website specification](../website-spec/README.md) controls Southwest Art v1: Taos only; ten artist candidates and sixty work records; free artist/experience discovery; zero direct-artist website commission; founding gallery/restaurant/lodging fees of $150/$99/$199 per month. A prototype is now authorized; production requires its own review. The older commission-bearing financial figures below are a separately labeled illustration, not a funded current website/consolidated budget.
+**Current strategic alignment:** the [platform and starter brand brief](10-Platform-First-Strategy-and-Brand-Brief.md) makes the year-round platform the core business, with festivals supporting visibility and acquisition. Art includes contemporary and other work; Southwest is a geography, not a required style. Taos remains v1; Denver/regional representatives are hypotheses. No allocated budget, paid brand appointment, ownership split or approximately 10% representative arrangement is agreed.
+
+**Website alignment:** the [website specification](../website-spec/README.md) controls Southwest Art v1: Taos only; ten artist candidates and sixty work records; free artist/experience discovery; zero direct-artist website commission; founding gallery/restaurant/lodging fees of $150/$99/$199 per month. A prototype is now authorized; production requires its own review. The older commission-bearing financial figures below are a separately labeled illustration, not a funded current website/consolidated budget.
 
 ## 1. The business we want to create
 
-Make Taos an unusually rewarding place to discover and buy art, and make the resulting income meaningful to the people who create it. Combine an edited year-round guide and buying service with a revitalized Taos Fall Arts Festival. Start with Taos; earn the right to become a broader Southwest platform.
+Make Taos an unusually rewarding place to discover and buy art, and make the resulting income meaningful to the people who create it. Build the edited year-round art/destination platform and buying service as the core business. A revitalized festival can support that service through public discovery, relationships and visits, subject to separate authority and funding. Start with Taos; earn the right to become a broader Southwest platform.
 
 The principal product is **confidence and a useful relationship**: a buyer finds real available art, understands its significance and full cost, meets an informed person, purchases easily, and receives the work safely. The website, itinerary, festival, hotel introduction, and AI assistant are ways to deliver that service.
 
@@ -67,7 +69,7 @@ Create pathways for people to learn to choose art. A donor-funded student/commun
 
 ## 4. Outcomes and definitions
 
-The base ambition is **$3 million in completed, attributable art sales** across the year, with a proposed $2 million festival-associated component and $1 million year-round component. Low and stretch scenarios are $1 million and $5 million. These are targets to validate, **not forecasts or promises**.
+The **legacy combined illustration** uses **$3 million in completed, attributable art sales** across the year, with a proposed $2 million festival-associated component and $1 million year-round component. That historical planning allocation does not set the budget or event dependency of the current platform-first direction. Low and stretch scenarios are $1 million and $5 million. These are targets to validate, **not forecasts or promises**.
 
 Track five outcome families:
 

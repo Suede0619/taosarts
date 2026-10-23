@@ -1,6 +1,6 @@
 # Taos arts — foundations, ideas and open questions
 
-**Concept baseline: October 19, 2026. Anonymous editorial revision: October 21, 2026.** These are foundational ideas and proposals for review, not an approved festival program, an operating business or independently verified market research. The [current baseline](PROJECT-BASELINE.md) and newer [website specification](website-spec/README.md) control active scope, timeline and commercial decisions.
+**Concept baseline: October 19, 2026. Current strategic alignment: October 23, 2026.** These are foundational ideas and proposals for review, not an approved festival program, an operating business or independently verified market research. The [current baseline](PROJECT-BASELINE.md) and newer [website specification](website-spec/README.md) control active scope, timeline and commercial decisions.
 
 ## 1. Purpose: artists can keep living and working in Taos
 
@@ -10,13 +10,13 @@ Art can teach people to see, notice craft, develop taste and engage with human m
 
 Protect local character through strong editing, thoughtful design and respect for artistic fundamentals. Housing and studio costs are a material concern, but no researched affordability baseline or housing solution is established here. A monthly rent figure of roughly $2,000 was an illustrative planning input, not a verified Taos statistic. Validate actual costs before using them in an affordability case.
 
-## 2. Two related projects with distinct responsibilities
+## 2. Platform first, with distinct event responsibilities
 
-One workstream is the revival of **Taos Fall Arts Festival**: presentation, funding, sales, operations and website quality. Review the current site’s usability and conversion with evidence; a preference for a different design is not measured proof of poor performance.
+The current direction is a separate, year-round regional art and destination platform, with **Southwest Art** as the working name. The website and buying/visit service are the proposed core business and revenue engine; festivals and events support discovery, relationships and visits. Start in Taos, covering contemporary and a full range of art rather than requiring a Southwest style. See the [current strategy/brand brief](planning/10-Platform-First-Strategy-and-Brand-Brief.md).
 
-A second workstream is a separate, year-round regional arts and destination guide, with **Southwest Art** as the current working name. Start in Taos. A broader regional ambition could include parts of New Mexico, Arizona, Utah, southern Colorado and Texas, subject to the [destination-cluster proposal](website-spec/02-REGIONS-AND-TAOS-SCOPE.md). Name clearance, legal entity, ownership and the relationship to the festival remain open. Regional expansion must preserve each place’s cultural specificity.
+A broader regional ambition could include the [destination clusters](website-spec/02-REGIONS-AND-TAOS-SCOPE.md), with a Denver hub and regional representatives as future hypotheses. No expansion, representative pay, naming clearance, entity ownership or staff appointment is agreed. Taos-only v1 remains the controlling scope.
 
-The guide could support discovery and buying throughout the year; the festival offers a concentrated reason to visit, meet artists and collect. Referrals and programming could be shared through agreements without automatically sharing ownership, funds, contact lists or content rights. Confirm festival authority before using its marks or making commitments in its name.
+Taos Fall Arts Festival revival is a related workstream, not proof that its board has appointed the platform or transferred assets. A concentrated event can help people meet artists and collect. Referrals/programming may be shared through agreements without automatically sharing ownership, funds, contact lists, content rights or marks. The earlier commission-bearing festival illustration remains separate from the zero-direct-artist-commission website.
 
 ## 3. A trusted, selective destination guide
 
@@ -24,7 +24,7 @@ Create a manageable set of compelling choices instead of an exhaustive directory
 
 Potential subjects include artists, galleries, architecture, museums, heritage, nature, walks, events, dining and lodging. The visitor may have one hour, one day or a weekend. Clear information and a coherent sequence should reduce the effort of finding worthwhile encounters with art.
 
-Research destination ecosystems where art, architecture, landscape, food and accommodation create a reason to travel. An art-island model in Japan is a useful research lead; the original example was not conclusively identified. Verify a specific place and its evidence before presenting it as a benchmark. Do not manufacture a precedent or attendance/sales result.
+Research destination ecosystems where art, architecture, landscape, food and accommodation create a reason to travel. The supplied art-island example is now identified as **Naoshima**. Official history links its origin to Fukutake Publishing/Benesse and a municipal cultural/educational initiative; it does not support an oil-company origin. No most-visited-island ranking is established. The useful proposed lesson is patient backing and coherent place-making, not a verified Taos funding formula. [Official history, checked October 23, 2026](https://benesse-artsite.jp/en/about/history.html).
 
 ## 4. Build a dependable referral network
 

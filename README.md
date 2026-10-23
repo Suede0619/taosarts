@@ -1,8 +1,8 @@
 # Taos Arts — revival, livelihoods, and a year of execution
 
-A collection of anonymous foundational documents, research, ideas and proposed plans to help Taos artists sell art, remain in the community and reach a wider public. Taos Fall Arts Festival is the initial focus; a separate curated Southwest arts guide is a proposed year-round partner product. Project responsibilities are described by role, without personal attribution.
+A collection of anonymous foundational documents, research, ideas and proposed plans to help Taos artists sell art, remain in the community and reach a wider public. The current direction is a year-round curated art and destination platform as the core business, with festivals and events supporting discovery, relationships and visits. Taos is the first proof of concept. Project responsibilities are described by role, without personal attribution.
 
-**Research prepared October 19, 2026; anonymous editorial revision October 21, 2026. Day one: November 1, 2026. Year one: November 1, 2026–October 31, 2027.** The plan begins after the 2026 festival. This is a working proposal, not an approved festival program or a promise of sales.
+**Research prepared October 19, 2026; strategy and operating-system alignment October 23, 2026. Day one: November 1, 2026. Year one: November 1, 2026–October 31, 2027.** The plan begins after the 2026 festival. This is a working proposal, not an approved festival program or a promise of sales.
 
 [Current project baseline](PROJECT-BASELINE.md) records the common timeline, pre-kickoff dates, current website decisions and the distinction from older financial illustrations. November 1 is project kickoff, not an automatic website launch or billing date.
 
@@ -10,6 +10,8 @@ A collection of anonymous foundational documents, research, ideas and proposed p
 
 | Document | What it provides |
 |---|---|
+| [Platform strategy and starter brand brief](planning/10-Platform-First-Strategy-and-Brand-Brief.md) | Short current onboarding brief: platform-first direction, inclusive full-spectrum art, Taos v1, correct listing illustration and a brand scope to agree before work. |
+| [People, meetings and commitments — operating method](operations/README.md) | One private people register and central activity log; public foundations remain anonymous. Named records, correspondence and NDA portfolios are local-only, outside public Git. |
 | [Southwest Art website — specification and prototype review](website-spec/README.md) | Taos-first spec, provisional Atomic design, zero direct-artist commission and researched candidates. **[Prototype source](https://github.com/Suede0619/sw-arts-website) implemented; [GitHub Pages preview](https://suede0619.github.io/sw-arts-website/) status in [the handoff](SESSION_STATE.md). Review before production.** |
 | [Foundations and ideas](PROJECT-FOUNDATIONS.md) | Anonymous concept brief covering artist livelihoods, a selective guide, referral networks, education, AI, funding and unresolved decisions. |
 | [PRD and business plan](planning/01-PRD-and-Business-Plan-2027.md) | Mission, audiences, offers, business model, outcomes, governance, and launch conditions. |
@@ -61,6 +63,6 @@ python3 tools/financial_model.py
 
 New sessions should begin with [AGENTS.md](AGENTS.md) and the dated [session handoff](SESSION_STATE.md), which record completed work, key assumptions, validation, and unresolved inputs.
 
-This repository is **public**. The unedited original meeting notes are preserved locally under ignored `private/source/`; future confidential archives belong under `private/` or in an appropriately controlled document store. Public documents contain business contact details supplied for House of Fire, research, planning assumptions, and empty templates. They do not include buyer lists, bank records, or private sales ledgers.
+This repository is **public**. The unedited original meeting notes are preserved locally under ignored `private/source/`. Named team/meeting records and the central activity log are in ignored `private/operations/`; existing person-material folders have local Git exclusions. These records and NDA files do not sync through public GitHub. Future confidential archives belong under `private/` or in an appropriately controlled document store. Public documents contain business contact details supplied for House of Fire, research, planning assumptions, and empty templates. They do not include buyer lists, bank records, or private sales ledgers.
 
 `ART` is an independent Git repository linked to [Suede0619/taosarts](https://github.com/Suede0619/taosarts). The surrounding Taos workspace remains separate. See [contribution and update guidance](CONTRIBUTING.md) before adding sources or future documents. Third-party images, text, logos, and records require their own permission; linking a source does not grant reproduction rights.

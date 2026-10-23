@@ -2,6 +2,18 @@
 
 Research cut-off: **October 19, 2026**. This register records the sources supporting the documents, not a claim to have recovered every archive or audited any organization. Direct links accompany the relevant claims in the research and plans.
 
+## October 23 focused additions
+
+This is a targeted source update, not a refresh of every October 19 source. The [current strategy/brand brief](../planning/10-Platform-First-Strategy-and-Brand-Brief.md) and [operating method](../operations/README.md) distinguish new supplied planning input from independently reviewed facts. Named evidence stays private.
+
+| Source, checked October 23 | Use and limit |
+|---|---|
+| [Official Benesse Art Site history](https://benesse-artsite.jp/en/about/history.html) | Identifies the Naoshima origin in a publishing/education-linked company and municipal cultural vision. Corrects an unsupported oil-company origin; no reviewed most-visited-island ranking. |
+| [Zed AI privacy](https://zed.dev/docs/ai/privacy-and-security), [Claude Code data usage](https://code.claude.com/docs/en/data-usage) | Local file storage does not establish local inference/no transmission. Provider, account, tool path and settings matter; do not infer confidential files are protected by Git ignore. |
+| [New Mexico Arts application guidance](https://nmarts.org/grants/apply-for-a-grant/) | Reconfirmed conditional October 23, 2026, 11:59pm MT advance review and December 18, 2026 final deadline. Applicability/eligibility still require the authorized applicant’s history and account. |
+
+The report of a Santa Fe event with 43 international galleries remains unidentified by event/year; it is not a verified market result. Regional flight-time/demand claims have not been researched by this focused update. No historical sales or attendance series, financial-model assumptions or agreed team compensation changed.
+
 ## Evidence labels
 
 - **Primary published:** the organization, public authority, museum, or event publishes the information. Organizer figures remain self-reported unless audited.

@@ -1,6 +1,22 @@
-# Project handoff — October 21, 2026
+# Project handoff — October 23, 2026
 
 Read [AGENTS.md](AGENTS.md) and [PROJECT-BASELINE.md](PROJECT-BASELINE.md) first. Research remains an **October 19, 2026 snapshot** unless a specific source has a newer check date. This handoff records technical state and decisions without personal project attribution.
+
+## October 23 platform and operating-system update
+
+The [current strategy and starter brand brief](planning/10-Platform-First-Strategy-and-Brand-Brief.md) now leads onboarding. The year-round art/destination platform is the proposed core business; festivals support discovery, relationships and visits. Include contemporary and a full range of art. Taos remains the only v1 region. Denver and regional representatives are hypotheses; approximately 10% of unspecified “sales” is not agreed and cannot override zero direct-artist commission. No brand appointment, budget, ownership or compensation terms are approved.
+
+The [operating method](operations/README.md) establishes one private people register and one central activity/commitment/decision log, linked to source IDs and meeting records. Actual names, contact details, supplied correspondence, the new meeting account, portfolio review and draft sharing packet are local-only in ignored operational/person-material folders. Start with `private/operations/README.md` if available. Person-folder exclusions are in local `.git/info/exclude` and do not travel with a clone; use ignored `private/` for future named intake or verify exclusion before copying. Public GitHub cannot supply these private records, and no shared private store or backup was configured.
+
+The supplied Wednesday account is corroborated by an October 21 shared-note creation date. The shared document’s summary was retrieved and retained privately; full audio/verbatim transcript was not recovered. The supplied portfolio exists locally and retains its NDA/no-forward restriction. Three reference links were cataloged with accessible source snapshots, metadata and evidence limits; a public HTTP source was available where HTTPS failed, and restricted high-resolution photographs were not accessed. Reference contacts are not recruited team members. The notes/repository/prototype packet is prepared **but not sent**; group-chat completion, exploratory introductions and reading remain unconfirmed. No email, text, recruitment or sponsor outreach occurred.
+
+Corrections: $4,184/month is 12 gallery profiles at $150 + 8 restaurant profiles at $99 + 8 lodging profiles at $199, not a paid artist cohort or achieved profit. Official Naoshima history does not support an oil-company origin; a most-visited-island claim is unverified. Local-editor use does not guarantee local AI inference/no transmission. A reported Santa Fe event with 43 international galleries remains unidentified. Source context is in the [focused source-register addition](research/04-Source-Register-and-Open-Questions.md).
+
+The New Mexico Arts conditional advance-review deadline was **rechecked October 23: today at 11:59pm Mountain**. Authorized-applicant eligibility/history is unknown; no application was submitted. Artist/gallery schedules remain older snapshots. November 1 is still project day one, not a promised launch.
+
+Public README, baseline, foundations, business plan, roadmap, website index and agent instructions were aligned to the current brief. Financial model inputs/outputs, financial assumptions and website source were not changed. Baseline before this work: document commit `c61e6ad4c7c5c19e6f87133ba0c1cda9af760111`. No parent-workspace files were edited.
+
+Validation: all 242 relative references across 44 public and 14 relevant private Markdown files resolve; public text anonymity audit passes with only the existing HOUSE of FIRE listing exception. All 39 central-log IDs are unique. Listing arithmetic, retained snapshot hashes, the original NDA PDF checksum and the prior private source-archive checksum were verified. Git exclusions cover named folders and private records; no financial-model or website-source changes were staged. `git diff --check` passes.
 
 ## Publication standard and current stage
 
@@ -15,6 +31,8 @@ Read [AGENTS.md](AGENTS.md) and [PROJECT-BASELINE.md](PROJECT-BASELINE.md) first
 
 | Topic | Entry point |
 |---|---|
+| Current strategy and brand onboarding | [Platform/brand brief](planning/10-Platform-First-Strategy-and-Brand-Brief.md) |
+| People, meetings and commitment tracking | [Operating method](operations/README.md); actual records are private/local-only |
 | Mission, dates, scope and controlling decisions | [PROJECT-BASELINE.md](PROJECT-BASELINE.md) |
 | Anonymous foundations and brainstorming | [PROJECT-FOUNDATIONS.md](PROJECT-FOUNDATIONS.md) |
 | Website specification and prototype review | [website-spec/README.md](website-spec/README.md) |
