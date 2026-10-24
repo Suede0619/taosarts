@@ -2,7 +2,15 @@
 
 Read [AGENTS.md](AGENTS.md) and [PROJECT-BASELINE.md](PROJECT-BASELINE.md) first. Research remains an **October 19, 2026 snapshot** unless a specific source has a newer check date. This handoff records technical state and decisions without personal project attribution.
 
-## October 24 Denver research update
+## Latest October 24 full Denver proposal/artifact package
+
+The subsequent user instruction authorized full creative/brand, marketing, PRD/business, partner/program/hiring and day/week action plans plus finished pitch-deck artifacts. Start at [COMMON ALTITUDE](Denver/Common-Altitude-2027/README.md) and [its handoff](Denver/Common-Altitude-2027/SESSION_STATE.md). The package includes twelve creative territories/twenty optional experiments, 72 uncontacted partner records, 106 proposed program records, 365 dated actions/53 weeks, seven audience-specific decks plus brand presentation, editable PPTX/PDF/MD and original vectors. Public presentation total: 101 slides. A named-team owner review copy remains ignored/private.
+
+Working recommendation COMMON ALTITUDE / OFFICE OF THE IMPOSSIBLE; proposed Aug 9–15, 2027; core 60 functional spaces, not a surveyed/available footprint. New scope assumptions: $3m art-GMV target, $1.815m organizer income, $1.55m cost and $265k before owner/tax/reserves; $75k discovery and a $530k modeled peak bridge sensitivity. No funds, site/date, participants, capacity, name clearance or agreements are established. The model is separate from earlier sensitivities and the legacy platform/festival model. No outreach, application, booking, hiring, spending or deployment occurred.
+
+This supersedes the earlier research-only stop **for creating the requested documents/artifacts**. It does not authorize external action. Taos-only website v1, zero direct-artist website commission, November 1 project day one and anonymous public publication remain unchanged. Baseline before this package: `450ce9d22eeb454bf619d6d95c834233638e8b3a`.
+
+## Earlier October 24 Denver research snapshot
 
 Start with [Denver discovery](Denver/README.md), then the latest [summer 2027 fair research](Denver/Summer-2027-Fair-Research/README.md). The follow-up covers rental strategy, existing performance advertising, owner-share economics, pitch requirements, public-agency fit, 30 professional candidate records, pay/seed options and naming. The standalone model here is an unvalidated sensitivity exercise, separate from the legacy festival/platform model and not a priced two-tower event budget. The current 10–20% venue-share basis remains undefined.
 

@@ -1,0 +1,2281 @@
+[
+  {
+    "theme": "Charter and working brief",
+    "gate": "PRE",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Approved internal charter, evidence map and capacity boundaries",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Set November 1 day one; record mission, scope and unresolved decisions",
+        "output": "Approved internal charter, evidence map and capacity boundaries"
+      },
+      {
+        "owner": "Program",
+        "task": "Inventory existing research and identify documents requiring owner confirmation",
+        "output": "Approved internal charter, evidence map and capacity boundaries"
+      },
+      {
+        "owner": "Finance",
+        "task": "Separate event finances from platform, seller balances and personal funds",
+        "output": "Approved internal charter, evidence map and capacity boundaries"
+      },
+      {
+        "owner": "Artistic",
+        "task": "Draft the curatorial proposition and artist-livelihood measures",
+        "output": "Approved internal charter, evidence map and capacity boundaries"
+      },
+      {
+        "owner": "Brand",
+        "task": "Compare creative territories and record the recommended working direction",
+        "output": "Approved internal charter, evidence map and capacity boundaries"
+      },
+      {
+        "owner": "Producer",
+        "task": "Draft a paid feasibility scope and minimum professional inputs",
+        "output": "Approved internal charter, evidence map and capacity boundaries"
+      },
+      {
+        "owner": "Program",
+        "task": "Review accepted hours and preserve a light weekend",
+        "output": "Approved internal charter, evidence map and capacity boundaries"
+      }
+    ]
+  },
+  {
+    "theme": "Discovery underwriting preparation",
+    "gate": "PRE",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Reviewable seed case, owner diligence request and private responsibility map",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Review the week's evidence gaps and decision authority",
+        "output": "Reviewable seed case, owner diligence request and private responsibility map"
+      },
+      {
+        "owner": "Finance",
+        "task": "Draft the $75,000 underwriting scope and cancellation terms",
+        "output": "Reviewable seed case, owner diligence request and private responsibility map"
+      },
+      {
+        "owner": "Producer",
+        "task": "Prepare a specific owner request for footprint, access and construction plans",
+        "output": "Reviewable seed case, owner diligence request and private responsibility map"
+      },
+      {
+        "owner": "Collector",
+        "task": "Design consented collector interviews and qualification criteria",
+        "output": "Reviewable seed case, owner diligence request and private responsibility map"
+      },
+      {
+        "owner": "Brand",
+        "task": "Prepare owner and underwriter proposal release copies for internal review",
+        "output": "Reviewable seed case, owner diligence request and private responsibility map"
+      },
+      {
+        "owner": "Program",
+        "task": "Confirm actual founding capacity and a limit on unfunded discovery",
+        "output": "Reviewable seed case, owner diligence request and private responsibility map"
+      },
+      {
+        "owner": "Program",
+        "task": "Check readiness for the November 15 funding decision; no assumed pledge",
+        "output": "Reviewable seed case, owner diligence request and private responsibility map"
+      }
+    ]
+  },
+  {
+    "theme": "Funded discovery decision",
+    "gate": "G0",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Funding decision and bounded commissioned assessments",
+    "days": [
+      {
+        "owner": "Finance",
+        "task": "Decide G0 using usable funding, accepted scope and reserve evidence",
+        "output": "Funding decision and bounded commissioned assessments"
+      },
+      {
+        "owner": "Producer",
+        "task": "If G0 passes, agree named executive-producer discovery deliverables",
+        "output": "Funding decision and bounded commissioned assessments"
+      },
+      {
+        "owner": "Artistic",
+        "task": "Prepare a balanced shortlist of local galleries and direct artists",
+        "output": "Funding decision and bounded commissioned assessments"
+      },
+      {
+        "owner": "Code lead",
+        "task": "Commission the initial code and accessibility assessment if funded",
+        "output": "Funding decision and bounded commissioned assessments"
+      },
+      {
+        "owner": "Product",
+        "task": "Set private CRM fields, evidence IDs and permission rules",
+        "output": "Funding decision and bounded commissioned assessments"
+      },
+      {
+        "owner": "Finance",
+        "task": "Authorize only paid discovery milestones covered by cash",
+        "output": "Funding decision and bounded commissioned assessments"
+      },
+      {
+        "owner": "Program",
+        "task": "Review progress and preserve recovery time",
+        "output": "Funding decision and bounded commissioned assessments"
+      }
+    ]
+  },
+  {
+    "theme": "Property and neighborhood discovery",
+    "gate": "G0",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Owner-approved survey brief and community listening plan",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Review evidence and keep construction conflict visible",
+        "output": "Owner-approved survey brief and community listening plan"
+      },
+      {
+        "owner": "Producer",
+        "task": "Conduct authorized owner/property-manager discovery and document boundaries",
+        "output": "Owner-approved survey brief and community listening plan"
+      },
+      {
+        "owner": "Community lead",
+        "task": "Plan paid local listening and cultural-authority consultation",
+        "output": "Owner-approved survey brief and community listening plan"
+      },
+      {
+        "owner": "Finance",
+        "task": "Reconcile discovery invoices and underwriter deliverables",
+        "output": "Owner-approved survey brief and community listening plan"
+      },
+      {
+        "owner": "Brand",
+        "task": "Audit proposed status language and confidential versus public materials",
+        "output": "Owner-approved survey brief and community listening plan"
+      },
+      {
+        "owner": "Program",
+        "task": "Use the holiday period for light documentation, not deadline pressure",
+        "output": "Owner-approved survey brief and community listening plan"
+      },
+      {
+        "owner": "Program",
+        "task": "Record open questions and available next-week hours",
+        "output": "Owner-approved survey brief and community listening plan"
+      }
+    ]
+  },
+  {
+    "theme": "Footprint and collector tests",
+    "gate": "G0",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Two viable footprint hypotheses and initial demand evidence",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Review discovered site facts and absent records",
+        "output": "Two viable footprint hypotheses and initial demand evidence"
+      },
+      {
+        "owner": "Code lead",
+        "task": "Compare bounded site alternatives with occupancy and construction constraints",
+        "output": "Two viable footprint hypotheses and initial demand evidence"
+      },
+      {
+        "owner": "Collector",
+        "task": "Conduct authorized buyer/adviser interviews without collecting private wealth dossiers",
+        "output": "Two viable footprint hypotheses and initial demand evidence"
+      },
+      {
+        "owner": "Artistic",
+        "task": "Test the gallery proposition and optional service value with permission",
+        "output": "Two viable footprint hypotheses and initial demand evidence"
+      },
+      {
+        "owner": "Brand",
+        "task": "Test concept comprehension with artists, residents and representative buyers",
+        "output": "Two viable footprint hypotheses and initial demand evidence"
+      },
+      {
+        "owner": "Finance",
+        "task": "Update scope ranges and refuse unsupported attendance capacity",
+        "output": "Two viable footprint hypotheses and initial demand evidence"
+      },
+      {
+        "owner": "Program",
+        "task": "Review results and record a rescope option",
+        "output": "Two viable footprint hypotheses and initial demand evidence"
+      }
+    ]
+  },
+  {
+    "theme": "Quotes and legal structure",
+    "gate": "G0",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Initial professional estimates and entity/contract issues list",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Prioritize evidence needed for the site decision",
+        "output": "Initial professional estimates and entity/contract issues list"
+      },
+      {
+        "owner": "Producer",
+        "task": "Obtain scoped production and logistics estimates for the bounded concept",
+        "output": "Initial professional estimates and entity/contract issues list"
+      },
+      {
+        "owner": "Legal",
+        "task": "Assess event entity, venue license, seller-of-record and insurance responsibilities",
+        "output": "Initial professional estimates and entity/contract issues list"
+      },
+      {
+        "owner": "Finance",
+        "task": "Recalculate cost, cash timing, cancellation exposure and founder fees",
+        "output": "Initial professional estimates and entity/contract issues list"
+      },
+      {
+        "owner": "Product",
+        "task": "Prototype the artwork and appointment information flow without live payments",
+        "output": "Initial professional estimates and entity/contract issues list"
+      },
+      {
+        "owner": "Artistic",
+        "task": "Revise the brief to fit actual site and artist constraints",
+        "output": "Initial professional estimates and entity/contract issues list"
+      },
+      {
+        "owner": "Program",
+        "task": "Prepare the December 15 decision record",
+        "output": "Initial professional estimates and entity/contract issues list"
+      }
+    ]
+  },
+  {
+    "theme": "Site feasibility decision",
+    "gate": "G1",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Written site outcome, alternate path or stop/rescope",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Assemble the owner/code evidence pack",
+        "output": "Written site outcome, alternate path or stop/rescope"
+      },
+      {
+        "owner": "Producer",
+        "task": "Resolve floor, concourse, tenant and construction interfaces",
+        "output": "Written site outcome, alternate path or stop/rescope"
+      },
+      {
+        "owner": "Program",
+        "task": "Decide G1 on documented access and feasible public use, not verbal enthusiasm",
+        "output": "Written site outcome, alternate path or stop/rescope"
+      },
+      {
+        "owner": "Finance",
+        "task": "Authorize only work supported by the G1 result and funded scope",
+        "output": "Written site outcome, alternate path or stop/rescope"
+      },
+      {
+        "owner": "Artistic",
+        "task": "Adjust room counts and artist invitations to the approved investigation path",
+        "output": "Written site outcome, alternate path or stop/rescope"
+      },
+      {
+        "owner": "Brand",
+        "task": "Replace speculative maps with clearly labeled surveyed or conceptual versions",
+        "output": "Written site outcome, alternate path or stop/rescope"
+      },
+      {
+        "owner": "Program",
+        "task": "Document unresolved conditions before holiday scheduling",
+        "output": "Written site outcome, alternate path or stop/rescope"
+      }
+    ]
+  },
+  {
+    "theme": "Holiday consolidation",
+    "gate": "G1",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Clean evidence/rights register and no unfunded expansion",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Set a deliberately light holiday work plan",
+        "output": "Clean evidence/rights register and no unfunded expansion"
+      },
+      {
+        "owner": "Finance",
+        "task": "Close discovery invoices and update cash/reserves",
+        "output": "Clean evidence/rights register and no unfunded expansion"
+      },
+      {
+        "owner": "Product",
+        "task": "Organize source records, consent fields and access permissions",
+        "output": "Clean evidence/rights register and no unfunded expansion"
+      },
+      {
+        "owner": "Brand",
+        "task": "Refine copy and presentation components using cleared information",
+        "output": "Clean evidence/rights register and no unfunded expansion"
+      },
+      {
+        "owner": "Artistic",
+        "task": "Review candidate source accuracy and representation routes",
+        "output": "Clean evidence/rights register and no unfunded expansion"
+      },
+      {
+        "owner": "Program",
+        "task": "Keep holiday/rest day free of assumed partner meetings",
+        "output": "Clean evidence/rights register and no unfunded expansion"
+      },
+      {
+        "owner": "Program",
+        "task": "Review next-year capacity without creating commitments",
+        "output": "Clean evidence/rights register and no unfunded expansion"
+      }
+    ]
+  },
+  {
+    "theme": "Year transition",
+    "gate": "G1",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "January commissioning priorities and decision register",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Review the year-end state and remaining dependencies",
+        "output": "January commissioning priorities and decision register"
+      },
+      {
+        "owner": "Finance",
+        "task": "Finalize January funding needs and contract approval limits",
+        "output": "January commissioning priorities and decision register"
+      },
+      {
+        "owner": "Producer",
+        "task": "Prepare producer scope and comparable-event reference questions",
+        "output": "January commissioning priorities and decision register"
+      },
+      {
+        "owner": "Collector",
+        "task": "Prepare the paid buyer-development brief",
+        "output": "January commissioning priorities and decision register"
+      },
+      {
+        "owner": "Brand",
+        "task": "Archive approved working files and identify missing licenses",
+        "output": "January commissioning priorities and decision register"
+      },
+      {
+        "owner": "Program",
+        "task": "Use New Year as a light review/rest day",
+        "output": "January commissioning priorities and decision register"
+      },
+      {
+        "owner": "Program",
+        "task": "Set the first January review agenda",
+        "output": "January commissioning priorities and decision register"
+      }
+    ]
+  },
+  {
+    "theme": "Delivery leadership contracting",
+    "gate": "G1",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Producer, finance and collector role offers ready for authorized agreement",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Review actual funds and authorized decisions",
+        "output": "Producer, finance and collector role offers ready for authorized agreement"
+      },
+      {
+        "owner": "Producer",
+        "task": "Complete producer diligence and references before appointment",
+        "output": "Producer, finance and collector role offers ready for authorized agreement"
+      },
+      {
+        "owner": "Finance",
+        "task": "Agree controller scope and seller-money controls if funded",
+        "output": "Producer, finance and collector role offers ready for authorized agreement"
+      },
+      {
+        "owner": "Collector",
+        "task": "Assess collector-lead evidence, availability and conflicts",
+        "output": "Producer, finance and collector role offers ready for authorized agreement"
+      },
+      {
+        "owner": "Brand",
+        "task": "Agree fractional design capacity, deliverables and IP terms",
+        "output": "Producer, finance and collector role offers ready for authorized agreement"
+      },
+      {
+        "owner": "Program",
+        "task": "Record accepted roles separately from open roles",
+        "output": "Producer, finance and collector role offers ready for authorized agreement"
+      },
+      {
+        "owner": "Program",
+        "task": "Review workload and professional gaps",
+        "output": "Producer, finance and collector role offers ready for authorized agreement"
+      }
+    ]
+  },
+  {
+    "theme": "Selection and artist fairness",
+    "gate": "G1",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Selection policy, paid artist scopes and open-call draft",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Review commitments and cash before expanding selection work",
+        "output": "Selection policy, paid artist scopes and open-call draft"
+      },
+      {
+        "owner": "Artistic",
+        "task": "Write independent gallery/artist selection criteria and recusals",
+        "output": "Selection policy, paid artist scopes and open-call draft"
+      },
+      {
+        "owner": "Community lead",
+        "task": "Review access, local participation and cultural-authority provisions",
+        "output": "Selection policy, paid artist scopes and open-call draft"
+      },
+      {
+        "owner": "Legal",
+        "task": "Draft gallery, direct-artist, commission and loan issue checklists",
+        "output": "Selection policy, paid artist scopes and open-call draft"
+      },
+      {
+        "owner": "Product",
+        "task": "Build an internal artwork-data intake example using permitted material",
+        "output": "Selection policy, paid artist scopes and open-call draft"
+      },
+      {
+        "owner": "Finance",
+        "task": "Cost artist fees, teaching fees and travel without using seller balances",
+        "output": "Selection policy, paid artist scopes and open-call draft"
+      },
+      {
+        "owner": "Program",
+        "task": "Review selection clarity with paid advisers",
+        "output": "Selection policy, paid artist scopes and open-call draft"
+      }
+    ]
+  },
+  {
+    "theme": "Conditional exhibitor proposition",
+    "gate": "G1",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Conditional gallery and artist offer package",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Review the invitation list and authority to approach",
+        "output": "Conditional gallery and artist offer package"
+      },
+      {
+        "owner": "Artistic",
+        "task": "Prepare individualized gallery invitations and proposed room briefs",
+        "output": "Conditional gallery and artist offer package"
+      },
+      {
+        "owner": "Collector",
+        "task": "Test purchase-readiness and price-range needs with qualified advisers",
+        "output": "Conditional gallery and artist offer package"
+      },
+      {
+        "owner": "Finance",
+        "task": "Specify optional service deliverables and refund/earning schedules",
+        "output": "Conditional gallery and artist offer package"
+      },
+      {
+        "owner": "Brand",
+        "task": "Prepare partner deck copies with candidate status and image rights intact",
+        "output": "Conditional gallery and artist offer package"
+      },
+      {
+        "owner": "Producer",
+        "task": "Check freight, power, handling and wall needs for early candidates",
+        "output": "Conditional gallery and artist offer package"
+      },
+      {
+        "owner": "Program",
+        "task": "Record interest as evidence, never a booked exhibitor",
+        "output": "Conditional gallery and artist offer package"
+      }
+    ]
+  },
+  {
+    "theme": "Organization and finance evidence",
+    "gate": "G1",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "G2 decision evidence and revised risk register",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Assemble accepted roles, legal structure and site conditions",
+        "output": "G2 decision evidence and revised risk register"
+      },
+      {
+        "owner": "Finance",
+        "task": "Verify cost envelopes, cancellation exposure and financing options",
+        "output": "G2 decision evidence and revised risk register"
+      },
+      {
+        "owner": "Producer",
+        "task": "Confirm owner counterpart, production authority and stop rights",
+        "output": "G2 decision evidence and revised risk register"
+      },
+      {
+        "owner": "Collector",
+        "task": "Review pipeline quality and credible conversion assumptions",
+        "output": "G2 decision evidence and revised risk register"
+      },
+      {
+        "owner": "Brand",
+        "task": "Test the artist/collector/public experience story for clarity",
+        "output": "G2 decision evidence and revised risk register"
+      },
+      {
+        "owner": "Legal",
+        "task": "Resolve essential contract and payment responsibility questions",
+        "output": "G2 decision evidence and revised risk register"
+      },
+      {
+        "owner": "Program",
+        "task": "Prepare the January 31 decision",
+        "output": "G2 decision evidence and revised risk register"
+      }
+    ]
+  },
+  {
+    "theme": "Delivery organization decision",
+    "gate": "G2",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Accepted delivery structure or rescope decision",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Decide G2 using accepted scopes, entity, finance controls and quotes",
+        "output": "Accepted delivery structure or rescope decision"
+      },
+      {
+        "owner": "Producer",
+        "task": "Publish the controlled production responsibility matrix",
+        "output": "Accepted delivery structure or rescope decision"
+      },
+      {
+        "owner": "Artistic",
+        "task": "Prioritize locally deliverable anchor rooms before international aspirations",
+        "output": "Accepted delivery structure or rescope decision"
+      },
+      {
+        "owner": "Finance",
+        "task": "Release only the next funded work package",
+        "output": "Accepted delivery structure or rescope decision"
+      },
+      {
+        "owner": "Product",
+        "task": "Specify ticket, artwork, inquiry and appointment states",
+        "output": "Accepted delivery structure or rescope decision"
+      },
+      {
+        "owner": "Brand",
+        "task": "Refine the brand using observed audience feedback",
+        "output": "Accepted delivery structure or rescope decision"
+      },
+      {
+        "owner": "Program",
+        "task": "Review recovery time and realistic weekly capacity",
+        "output": "Accepted delivery structure or rescope decision"
+      }
+    ]
+  },
+  {
+    "theme": "Collector audience development",
+    "gate": "G2",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Qualified-household target allocation and appointment process",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Review progress against evidence, not total email names",
+        "output": "Qualified-household target allocation and appointment process"
+      },
+      {
+        "owner": "Collector",
+        "task": "Define gallery, adviser, corporate and direct-referral target cohorts",
+        "output": "Qualified-household target allocation and appointment process"
+      },
+      {
+        "owner": "Product",
+        "task": "Configure private consent, preferences, provenance and deduplication fields",
+        "output": "Qualified-household target allocation and appointment process"
+      },
+      {
+        "owner": "Finance",
+        "task": "Model acquisition cost and paid-program uptake sensitivities",
+        "output": "Qualified-household target allocation and appointment process"
+      },
+      {
+        "owner": "Artistic",
+        "task": "Match potential inventory to actual buyer interests and budgets",
+        "output": "Qualified-household target allocation and appointment process"
+      },
+      {
+        "owner": "Brand",
+        "task": "Create the first useful collecting/editorial content briefs",
+        "output": "Qualified-household target allocation and appointment process"
+      },
+      {
+        "owner": "Program",
+        "task": "Review permissions before any campaign activation",
+        "output": "Qualified-household target allocation and appointment process"
+      }
+    ]
+  },
+  {
+    "theme": "Underwriter and sponsor offer",
+    "gate": "G2",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Audience-specific commercial proposal and benefits ledger",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Review agreed rights and available inventory of sponsor benefits",
+        "output": "Audience-specific commercial proposal and benefits ledger"
+      },
+      {
+        "owner": "Commercial lead",
+        "task": "Prepare individualized commercial fit propositions for authorized outreach",
+        "output": "Audience-specific commercial proposal and benefits ledger"
+      },
+      {
+        "owner": "Finance",
+        "task": "Separate seed credit, sponsorship, acquisition purchases and bridge finance",
+        "output": "Audience-specific commercial proposal and benefits ledger"
+      },
+      {
+        "owner": "Producer",
+        "task": "Cost every activation and hospitality promise",
+        "output": "Audience-specific commercial proposal and benefits ledger"
+      },
+      {
+        "owner": "Brand",
+        "task": "Prepare clear sponsor disclosures and approved visual applications",
+        "output": "Audience-specific commercial proposal and benefits ledger"
+      },
+      {
+        "owner": "Legal",
+        "task": "Review exclusivity, cancellation, data and naming provisions",
+        "output": "Audience-specific commercial proposal and benefits ledger"
+      },
+      {
+        "owner": "Program",
+        "task": "Record responses and funding status only against evidence",
+        "output": "Audience-specific commercial proposal and benefits ledger"
+      }
+    ]
+  },
+  {
+    "theme": "Gallery pipeline and public process",
+    "gate": "G2",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Conditional exhibitor shortlist and artist-selection process",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Review current interest and unresolved commitments",
+        "output": "Conditional exhibitor shortlist and artist-selection process"
+      },
+      {
+        "owner": "Artistic",
+        "task": "Run the approved invitation or open-call process under disclosed criteria",
+        "output": "Conditional exhibitor shortlist and artist-selection process"
+      },
+      {
+        "owner": "Registrar",
+        "task": "Collect work descriptions and authority evidence without accepting custody",
+        "output": "Conditional exhibitor shortlist and artist-selection process"
+      },
+      {
+        "owner": "Collector",
+        "task": "Assess gallery reach and genuine buyer fit without demanding client lists",
+        "output": "Conditional exhibitor shortlist and artist-selection process"
+      },
+      {
+        "owner": "Finance",
+        "task": "Test service-package uptake below the model assumption",
+        "output": "Conditional exhibitor shortlist and artist-selection process"
+      },
+      {
+        "owner": "Community lead",
+        "task": "Review direct-artist access and paid local contribution",
+        "output": "Conditional exhibitor shortlist and artist-selection process"
+      },
+      {
+        "owner": "Program",
+        "task": "Publish internal selection minutes and recusals",
+        "output": "Conditional exhibitor shortlist and artist-selection process"
+      }
+    ]
+  },
+  {
+    "theme": "Budget and site reconciliation",
+    "gate": "G2",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Quote-informed scope and funding gap review",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Review changes to the original room ambition",
+        "output": "Quote-informed scope and funding gap review"
+      },
+      {
+        "owner": "Producer",
+        "task": "Reconcile site drawings, room functions and actual technical requirements",
+        "output": "Quote-informed scope and funding gap review"
+      },
+      {
+        "owner": "Code lead",
+        "task": "Identify required approvals, works and access limitations",
+        "output": "Quote-informed scope and funding gap review"
+      },
+      {
+        "owner": "Finance",
+        "task": "Update monthly cash, reserves and the working-capital facility need",
+        "output": "Quote-informed scope and funding gap review"
+      },
+      {
+        "owner": "Artistic",
+        "task": "Remove unfunded or technically incompatible proposed works",
+        "output": "Quote-informed scope and funding gap review"
+      },
+      {
+        "owner": "Brand",
+        "task": "Update decks to the same cost, scope and date assumptions",
+        "output": "Quote-informed scope and funding gap review"
+      },
+      {
+        "owner": "Program",
+        "task": "Review the contained and alternate-site choices",
+        "output": "Quote-informed scope and funding gap review"
+      }
+    ]
+  },
+  {
+    "theme": "Commission briefs and procurement",
+    "gate": "G2",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Artist-led briefs and bounded requests for proposals",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Confirm authority, cash and rights before issuing requests",
+        "output": "Artist-led briefs and bounded requests for proposals"
+      },
+      {
+        "owner": "Artistic",
+        "task": "Prepare signature briefs without directing imitation of another artist",
+        "output": "Artist-led briefs and bounded requests for proposals"
+      },
+      {
+        "owner": "Producer",
+        "task": "Attach technical envelope, site constraints and build/strike requirements",
+        "output": "Artist-led briefs and bounded requests for proposals"
+      },
+      {
+        "owner": "Finance",
+        "task": "Specify deposits, milestones, cancellation and total cost ceilings",
+        "output": "Artist-led briefs and bounded requests for proposals"
+      },
+      {
+        "owner": "Community lead",
+        "task": "Review participation consent and paid local authorship",
+        "output": "Artist-led briefs and bounded requests for proposals"
+      },
+      {
+        "owner": "Brand",
+        "task": "Prepare process-documentation and credit requirements",
+        "output": "Artist-led briefs and bounded requests for proposals"
+      },
+      {
+        "owner": "Program",
+        "task": "Review which global invitations remain realistic",
+        "output": "Artist-led briefs and bounded requests for proposals"
+      }
+    ]
+  },
+  {
+    "theme": "Digital and service prototype",
+    "gate": "G2",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Tested information/appointment prototype",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Review the minimum viable buying and visitor journey",
+        "output": "Tested information/appointment prototype"
+      },
+      {
+        "owner": "Product",
+        "task": "Prototype browse, artwork detail, inquiry and seller-led payment handoff",
+        "output": "Tested information/appointment prototype"
+      },
+      {
+        "owner": "Collector",
+        "task": "Test appointment, confidentiality and human-concierge flows",
+        "output": "Tested information/appointment prototype"
+      },
+      {
+        "owner": "Registrar",
+        "task": "Validate artwork IDs, condition/rights fields and availability updates",
+        "output": "Tested information/appointment prototype"
+      },
+      {
+        "owner": "Brand",
+        "task": "Test readability, free/paid distinction and mobile hierarchy",
+        "output": "Tested information/appointment prototype"
+      },
+      {
+        "owner": "Accessibility lead",
+        "task": "Test keyboard, screen-reader and non-chat completion paths",
+        "output": "Tested information/appointment prototype"
+      },
+      {
+        "owner": "Program",
+        "task": "Prioritize failures before adding optional AI features",
+        "output": "Tested information/appointment prototype"
+      }
+    ]
+  },
+  {
+    "theme": "Launch readiness evidence",
+    "gate": "G2",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Public launch checklist and go/no-go pack",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Inventory claims that still lack permission or evidence",
+        "output": "Public launch checklist and go/no-go pack"
+      },
+      {
+        "owner": "Commercial lead",
+        "task": "Verify signed eligible non-ticket commitments and collection dates",
+        "output": "Public launch checklist and go/no-go pack"
+      },
+      {
+        "owner": "Finance",
+        "task": "Check next-90-day usable cash and cancellation cover",
+        "output": "Public launch checklist and go/no-go pack"
+      },
+      {
+        "owner": "Producer",
+        "task": "Verify site path, production feasibility and owner announcement authority",
+        "output": "Public launch checklist and go/no-go pack"
+      },
+      {
+        "owner": "Artistic",
+        "task": "Check accepted artists, work status and image licenses",
+        "output": "Public launch checklist and go/no-go pack"
+      },
+      {
+        "owner": "Brand",
+        "task": "Prepare launch assets with all remaining conditions visible",
+        "output": "Public launch checklist and go/no-go pack"
+      },
+      {
+        "owner": "Program",
+        "task": "Prepare the March 31 decision without presuming approval",
+        "output": "Public launch checklist and go/no-go pack"
+      }
+    ]
+  },
+  {
+    "theme": "Public launch decision",
+    "gate": "G3",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Documented launch, resize or no-launch decision",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Assemble the G3 evidence and independent challenge review",
+        "output": "Documented launch, resize or no-launch decision"
+      },
+      {
+        "owner": "Finance",
+        "task": "Confirm the commitment threshold and cash/facility conditions",
+        "output": "Documented launch, resize or no-launch decision"
+      },
+      {
+        "owner": "Producer",
+        "task": "Confirm that public promises match the site/approval path",
+        "output": "Documented launch, resize or no-launch decision"
+      },
+      {
+        "owner": "Program",
+        "task": "Decide G3; delay or resize if conditions fail",
+        "output": "Documented launch, resize or no-launch decision"
+      },
+      {
+        "owner": "Brand",
+        "task": "Release only approved truthful announcement material if authorized",
+        "output": "Documented launch, resize or no-launch decision"
+      },
+      {
+        "owner": "Product",
+        "task": "Enable interest/booking functions only for promised deliverables actually ready",
+        "output": "Documented launch, resize or no-launch decision"
+      },
+      {
+        "owner": "Program",
+        "task": "Review initial response and workload",
+        "output": "Documented launch, resize or no-launch decision"
+      }
+    ]
+  },
+  {
+    "theme": "Approved announcement phase",
+    "gate": "G3",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Controlled public communications and inquiry workflow",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Review actual announcement status and unanswered questions",
+        "output": "Controlled public communications and inquiry workflow"
+      },
+      {
+        "owner": "PR lead",
+        "task": "Execute approved editorial pitches with licensed images and source notes",
+        "output": "Controlled public communications and inquiry workflow"
+      },
+      {
+        "owner": "Collector",
+        "task": "Convert qualified interest into appropriate appointments",
+        "output": "Controlled public communications and inquiry workflow"
+      },
+      {
+        "owner": "Artistic",
+        "task": "Support accepted galleries with accurate exhibitor information",
+        "output": "Controlled public communications and inquiry workflow"
+      },
+      {
+        "owner": "Product",
+        "task": "Monitor inquiries, access information and visitor confusion",
+        "output": "Controlled public communications and inquiry workflow"
+      },
+      {
+        "owner": "Finance",
+        "task": "Reconcile campaign expenditure and commitments",
+        "output": "Controlled public communications and inquiry workflow"
+      },
+      {
+        "owner": "Program",
+        "task": "Review evidence before scaling paid reach",
+        "output": "Controlled public communications and inquiry workflow"
+      }
+    ]
+  },
+  {
+    "theme": "Partner content and travel",
+    "gate": "G3",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Cleared partner narratives and travel proposition",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Review which partner relationships are signed",
+        "output": "Cleared partner narratives and travel proposition"
+      },
+      {
+        "owner": "Brand",
+        "task": "Produce artist-approved room/process stories and credits",
+        "output": "Cleared partner narratives and travel proposition"
+      },
+      {
+        "owner": "Collector",
+        "task": "Coordinate consented travel and appointment needs",
+        "output": "Cleared partner narratives and travel proposition"
+      },
+      {
+        "owner": "Commercial lead",
+        "task": "Agree hotel and sponsor deliverables without transferring visitor lists",
+        "output": "Cleared partner narratives and travel proposition"
+      },
+      {
+        "owner": "Producer",
+        "task": "Verify visitor arrival, load-in and surrounding-business interfaces",
+        "output": "Cleared partner narratives and travel proposition"
+      },
+      {
+        "owner": "PR lead",
+        "task": "Prepare practical public-service information, not just spectacle",
+        "output": "Cleared partner narratives and travel proposition"
+      },
+      {
+        "owner": "Program",
+        "task": "Review local partner feedback",
+        "output": "Cleared partner narratives and travel proposition"
+      }
+    ]
+  },
+  {
+    "theme": "Artwork intake and seller readiness",
+    "gate": "G3",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Rights-cleared work records and seller operating agreements",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Review intake completeness and unpaid dependencies",
+        "output": "Rights-cleared work records and seller operating agreements"
+      },
+      {
+        "owner": "Registrar",
+        "task": "Assign unique work IDs and collect seller authority/condition requirements",
+        "output": "Rights-cleared work records and seller operating agreements"
+      },
+      {
+        "owner": "Artistic",
+        "task": "Check selection, accurate context and available-work balance",
+        "output": "Rights-cleared work records and seller operating agreements"
+      },
+      {
+        "owner": "Product",
+        "task": "Publish only licensed accurate catalog records after review",
+        "output": "Rights-cleared work records and seller operating agreements"
+      },
+      {
+        "owner": "Finance",
+        "task": "Validate invoice, tax, refund and settlement responsibilities with sellers",
+        "output": "Rights-cleared work records and seller operating agreements"
+      },
+      {
+        "owner": "Collector",
+        "task": "Identify gaps in purchase-ready work for appointments",
+        "output": "Rights-cleared work records and seller operating agreements"
+      },
+      {
+        "owner": "Program",
+        "task": "Review inventory changes without inflating sales pipeline",
+        "output": "Rights-cleared work records and seller operating agreements"
+      }
+    ]
+  },
+  {
+    "theme": "Visitor product and ticket readiness",
+    "gate": "G3",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Tested booking/payment support and refund policy",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Review delivery conditions before any paid sale",
+        "output": "Tested booking/payment support and refund policy"
+      },
+      {
+        "owner": "Product",
+        "task": "Test ticket, confirmation, cancellation and customer-support flows",
+        "output": "Tested booking/payment support and refund policy"
+      },
+      {
+        "owner": "Producer",
+        "task": "Align reservation limits to approved or conservatively bounded access rules",
+        "output": "Tested booking/payment support and refund policy"
+      },
+      {
+        "owner": "Legal",
+        "task": "Approve consumer, privacy, refund and seller/payment terms",
+        "output": "Tested booking/payment support and refund policy"
+      },
+      {
+        "owner": "Brand",
+        "task": "Make free core art access and optional paid experiences unmistakable",
+        "output": "Tested booking/payment support and refund policy"
+      },
+      {
+        "owner": "Finance",
+        "task": "Set customer receipt holds and reconciliation procedures",
+        "output": "Tested booking/payment support and refund policy"
+      },
+      {
+        "owner": "Program",
+        "task": "Decide whether paid reservations may open under the evidence",
+        "output": "Tested booking/payment support and refund policy"
+      }
+    ]
+  },
+  {
+    "theme": "Collector appointments and service",
+    "gate": "G3",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Useful appointment calendar and full-cost quotation process",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Review qualified demand and respect privacy preferences",
+        "output": "Useful appointment calendar and full-cost quotation process"
+      },
+      {
+        "owner": "Collector",
+        "task": "Schedule appropriate artist/gallery visits and adviser conversations",
+        "output": "Useful appointment calendar and full-cost quotation process"
+      },
+      {
+        "owner": "Registrar",
+        "task": "Confirm live availability before offering specific works",
+        "output": "Useful appointment calendar and full-cost quotation process"
+      },
+      {
+        "owner": "Product",
+        "task": "Test full-cost quote, seller invoice and delivery inquiry handoff",
+        "output": "Useful appointment calendar and full-cost quotation process"
+      },
+      {
+        "owner": "Finance",
+        "task": "Track acquisition spend and protected customer balances",
+        "output": "Useful appointment calendar and full-cost quotation process"
+      },
+      {
+        "owner": "Brand",
+        "task": "Publish useful collecting information with confirmed artwork permissions",
+        "output": "Useful appointment calendar and full-cost quotation process"
+      },
+      {
+        "owner": "Program",
+        "task": "Review service response and improve unresolved cases",
+        "output": "Useful appointment calendar and full-cost quotation process"
+      }
+    ]
+  },
+  {
+    "theme": "Program contracting",
+    "gate": "G3",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Funded speakers, workshops and performers with backups",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Review the event-week program against cash and capacity",
+        "output": "Funded speakers, workshops and performers with backups"
+      },
+      {
+        "owner": "Education lead",
+        "task": "Contract appropriately qualified paid educators and materials",
+        "output": "Funded speakers, workshops and performers with backups"
+      },
+      {
+        "owner": "Artistic",
+        "task": "Agree speaker/artist briefs, credits, recording and cancellation",
+        "output": "Funded speakers, workshops and performers with backups"
+      },
+      {
+        "owner": "Producer",
+        "task": "Check staging, sound bleed, sensory access and room turnover",
+        "output": "Funded speakers, workshops and performers with backups"
+      },
+      {
+        "owner": "Finance",
+        "task": "Verify program costs and avoid double-counted sponsor-funded seats",
+        "output": "Funded speakers, workshops and performers with backups"
+      },
+      {
+        "owner": "Brand",
+        "task": "Prepare accurate session descriptions and access notes",
+        "output": "Funded speakers, workshops and performers with backups"
+      },
+      {
+        "owner": "Program",
+        "task": "Review gaps and local participation",
+        "output": "Funded speakers, workshops and performers with backups"
+      }
+    ]
+  },
+  {
+    "theme": "Production drawings and inventory",
+    "gate": "G3",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Controlled technical drawings and installation schedule",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Review site changes and notify decision makers",
+        "output": "Controlled technical drawings and installation schedule"
+      },
+      {
+        "owner": "Production manager",
+        "task": "Complete wall, power, light, rigging and equipment schedules",
+        "output": "Controlled technical drawings and installation schedule"
+      },
+      {
+        "owner": "Code lead",
+        "task": "Resolve access, egress and installation review requirements",
+        "output": "Controlled technical drawings and installation schedule"
+      },
+      {
+        "owner": "Registrar",
+        "task": "Reconcile packing, transport, value and art-care requirements",
+        "output": "Controlled technical drawings and installation schedule"
+      },
+      {
+        "owner": "Finance",
+        "task": "Approve priced production packages within available funds",
+        "output": "Controlled technical drawings and installation schedule"
+      },
+      {
+        "owner": "Brand",
+        "task": "Prototype actual labels, maps and reversible wayfinding",
+        "output": "Controlled technical drawings and installation schedule"
+      },
+      {
+        "owner": "Program",
+        "task": "Review construction interference and alternatives",
+        "output": "Controlled technical drawings and installation schedule"
+      }
+    ]
+  },
+  {
+    "theme": "Access and public readiness",
+    "gate": "G3",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Accessibility review and program-commitment evidence",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Review public promises and open defects",
+        "output": "Accessibility review and program-commitment evidence"
+      },
+      {
+        "owner": "Accessibility lead",
+        "task": "Test arrival, routes, toilets, communication and sensory alternatives",
+        "output": "Accessibility review and program-commitment evidence"
+      },
+      {
+        "owner": "Product",
+        "task": "Audit digital accessibility and reliable human-support paths",
+        "output": "Accessibility review and program-commitment evidence"
+      },
+      {
+        "owner": "Community lead",
+        "task": "Review free access, practical welcome and neighborhood concerns",
+        "output": "Accessibility review and program-commitment evidence"
+      },
+      {
+        "owner": "Finance",
+        "task": "Verify sponsor deliverables and remaining funded liabilities",
+        "output": "Accessibility review and program-commitment evidence"
+      },
+      {
+        "owner": "Producer",
+        "task": "Resolve program/site mismatches before commitments harden",
+        "output": "Accessibility review and program-commitment evidence"
+      },
+      {
+        "owner": "Program",
+        "task": "Prepare the May 31 decision",
+        "output": "Accessibility review and program-commitment evidence"
+      }
+    ]
+  },
+  {
+    "theme": "Program commitment decision",
+    "gate": "G4",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Funded rights-cleared program or reductions",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Assemble every program owner's cost/rights/backup evidence",
+        "output": "Funded rights-cleared program or reductions"
+      },
+      {
+        "owner": "Program",
+        "task": "Decide G4: remove or redesign unfunded or unapproved promises",
+        "output": "Funded rights-cleared program or reductions"
+      },
+      {
+        "owner": "Registrar",
+        "task": "Confirm artwork authority, insurance requirements and custody terms",
+        "output": "Funded rights-cleared program or reductions"
+      },
+      {
+        "owner": "Commercial lead",
+        "task": "Check sponsor obligations against actual program delivery",
+        "output": "Funded rights-cleared program or reductions"
+      },
+      {
+        "owner": "Brand",
+        "task": "Release confirmed program content with precise access information",
+        "output": "Funded rights-cleared program or reductions"
+      },
+      {
+        "owner": "Finance",
+        "task": "Update cash and cancellation exposure after the decision",
+        "output": "Funded rights-cleared program or reductions"
+      },
+      {
+        "owner": "Program",
+        "task": "Review whether the core scope remains justified",
+        "output": "Funded rights-cleared program or reductions"
+      }
+    ]
+  },
+  {
+    "theme": "Freight and visitor logistics",
+    "gate": "G4",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Artwork movement and visitor-arrival plan",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Review the production critical path",
+        "output": "Artwork movement and visitor-arrival plan"
+      },
+      {
+        "owner": "Registrar",
+        "task": "Confirm art transport, customs advice where applicable and receiving appointments",
+        "output": "Artwork movement and visitor-arrival plan"
+      },
+      {
+        "owner": "Producer",
+        "task": "Agree loading, lifts, tenant separation, storage and crew routes",
+        "output": "Artwork movement and visitor-arrival plan"
+      },
+      {
+        "owner": "Visitor lead",
+        "task": "Plan arrival, queues, rest areas and staffed help",
+        "output": "Artwork movement and visitor-arrival plan"
+      },
+      {
+        "owner": "Finance",
+        "task": "Confirm vendor deposits and protected balances before payment",
+        "output": "Artwork movement and visitor-arrival plan"
+      },
+      {
+        "owner": "Brand",
+        "task": "Prepare transport/access content using current owner facts",
+        "output": "Artwork movement and visitor-arrival plan"
+      },
+      {
+        "owner": "Program",
+        "task": "Review high-risk shipments and fallbacks",
+        "output": "Artwork movement and visitor-arrival plan"
+      }
+    ]
+  },
+  {
+    "theme": "International calendar and editorial",
+    "gate": "G4",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Calendar-aware collector/press plan",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Review global-fair and regional-calendar conflicts",
+        "output": "Calendar-aware collector/press plan"
+      },
+      {
+        "owner": "Collector",
+        "task": "Coordinate outreach timing around Basel and actual travel preferences",
+        "output": "Calendar-aware collector/press plan"
+      },
+      {
+        "owner": "PR lead",
+        "task": "Pitch the confirmed artistic story with evidence and licensed assets",
+        "output": "Calendar-aware collector/press plan"
+      },
+      {
+        "owner": "Artistic",
+        "task": "Review international participation and replace uncertain travel dependencies",
+        "output": "Calendar-aware collector/press plan"
+      },
+      {
+        "owner": "Product",
+        "task": "Check catalogue availability and appointment confirmations",
+        "output": "Calendar-aware collector/press plan"
+      },
+      {
+        "owner": "Finance",
+        "task": "Review foreign-currency, freight and import-cost exposure if applicable",
+        "output": "Calendar-aware collector/press plan"
+      },
+      {
+        "owner": "Program",
+        "task": "Review response without equating press interest to sales",
+        "output": "Calendar-aware collector/press plan"
+      }
+    ]
+  },
+  {
+    "theme": "Concierge and customer-care rehearsal",
+    "gate": "G4",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Rehearsed inquiry-to-fulfillment service",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Review buyer/customer support staffing",
+        "output": "Rehearsed inquiry-to-fulfillment service"
+      },
+      {
+        "owner": "Collector",
+        "task": "Rehearse full-cost quotes and artist/gallery consultations",
+        "output": "Rehearsed inquiry-to-fulfillment service"
+      },
+      {
+        "owner": "Product",
+        "task": "Test accessibility requests, customer corrections and human escalation",
+        "output": "Rehearsed inquiry-to-fulfillment service"
+      },
+      {
+        "owner": "Registrar",
+        "task": "Rehearse artwork hold, sale, release and condition workflows",
+        "output": "Rehearsed inquiry-to-fulfillment service"
+      },
+      {
+        "owner": "Finance",
+        "task": "Test reconciliation, disputed payments and seller-led records",
+        "output": "Rehearsed inquiry-to-fulfillment service"
+      },
+      {
+        "owner": "Visitor lead",
+        "task": "Test family, first-buyer and quiet-route scenarios",
+        "output": "Rehearsed inquiry-to-fulfillment service"
+      },
+      {
+        "owner": "Program",
+        "task": "Prioritize defects before build authorization",
+        "output": "Rehearsed inquiry-to-fulfillment service"
+      }
+    ]
+  },
+  {
+    "theme": "Build authorization decision",
+    "gate": "G5",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Approved funded build package or no-build decision",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Assemble final footprint, reviews and cash evidence",
+        "output": "Approved funded build package or no-build decision"
+      },
+      {
+        "owner": "Producer",
+        "task": "Confirm site possession, construction separation and owner responsibilities",
+        "output": "Approved funded build package or no-build decision"
+      },
+      {
+        "owner": "Finance",
+        "task": "Check deposits, facility availability, reserves and cancellation exposure",
+        "output": "Approved funded build package or no-build decision"
+      },
+      {
+        "owner": "Code lead",
+        "task": "Confirm the actual applicable approval/inspection path",
+        "output": "Approved funded build package or no-build decision"
+      },
+      {
+        "owner": "Program",
+        "task": "Decide G5; do not start installation without the required conditions",
+        "output": "Approved funded build package or no-build decision"
+      },
+      {
+        "owner": "Brand",
+        "task": "Freeze approved production files and sign-off responsibilities",
+        "output": "Approved funded build package or no-build decision"
+      },
+      {
+        "owner": "Program",
+        "task": "Review the remaining schedule realistically",
+        "output": "Approved funded build package or no-build decision"
+      }
+    ]
+  },
+  {
+    "theme": "Staff and vendor mobilization",
+    "gate": "G5",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Accepted staffing, training and vendor schedule",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Review actual public hours and required paid coverage",
+        "output": "Accepted staffing, training and vendor schedule"
+      },
+      {
+        "owner": "Producer",
+        "task": "Confirm production, security, medical and visitor-service counterparties",
+        "output": "Accepted staffing, training and vendor schedule"
+      },
+      {
+        "owner": "Visitor lead",
+        "task": "Agree accessible help, conflict resolution and incident escalation",
+        "output": "Accepted staffing, training and vendor schedule"
+      },
+      {
+        "owner": "Registrar",
+        "task": "Train art handlers and gallery teams on custody/condition records",
+        "output": "Accepted staffing, training and vendor schedule"
+      },
+      {
+        "owner": "Product",
+        "task": "Train catalogue, appointment and transaction support staff",
+        "output": "Accepted staffing, training and vendor schedule"
+      },
+      {
+        "owner": "Finance",
+        "task": "Check classification, pay, insurance and purchase approval controls",
+        "output": "Accepted staffing, training and vendor schedule"
+      },
+      {
+        "owner": "Program",
+        "task": "Review shift coverage and rest requirements",
+        "output": "Accepted staffing, training and vendor schedule"
+      }
+    ]
+  },
+  {
+    "theme": "Final content and campaign conversion",
+    "gate": "G5",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Accurate final public information and confirmation campaign",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Review any claims that have changed since launch",
+        "output": "Accurate final public information and confirmation campaign"
+      },
+      {
+        "owner": "Brand",
+        "task": "Finalize program, artwork, map, transport and accessibility information",
+        "output": "Accurate final public information and confirmation campaign"
+      },
+      {
+        "owner": "Collector",
+        "task": "Confirm appointments and identify a human owner for every serious inquiry",
+        "output": "Accurate final public information and confirmation campaign"
+      },
+      {
+        "owner": "PR lead",
+        "task": "Reconfirm press logistics and authorized interviews",
+        "output": "Accurate final public information and confirmation campaign"
+      },
+      {
+        "owner": "Product",
+        "task": "Stress-test booking/support and offline recovery materials",
+        "output": "Accurate final public information and confirmation campaign"
+      },
+      {
+        "owner": "Finance",
+        "task": "Review campaign performance and stop low-value overspending",
+        "output": "Accurate final public information and confirmation campaign"
+      },
+      {
+        "owner": "Program",
+        "task": "Review readiness and crew capacity",
+        "output": "Accurate final public information and confirmation campaign"
+      }
+    ]
+  },
+  {
+    "theme": "Operations tabletop",
+    "gate": "G5",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Documented incident/recovery rehearsal and fixes",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Review the top ten operational risks",
+        "output": "Documented incident/recovery rehearsal and fixes"
+      },
+      {
+        "owner": "Producer",
+        "task": "Rehearse construction displacement, power loss and unavailable rooms",
+        "output": "Documented incident/recovery rehearsal and fixes"
+      },
+      {
+        "owner": "Visitor lead",
+        "task": "Rehearse queues, evacuation interfaces, medical and safeguarding situations",
+        "output": "Documented incident/recovery rehearsal and fixes"
+      },
+      {
+        "owner": "Product",
+        "task": "Rehearse ticket/catalogue/payment outage and manual fallback",
+        "output": "Documented incident/recovery rehearsal and fixes"
+      },
+      {
+        "owner": "Registrar",
+        "task": "Rehearse damaged/missing work and disputed release",
+        "output": "Documented incident/recovery rehearsal and fixes"
+      },
+      {
+        "owner": "PR lead",
+        "task": "Rehearse factual incident statements and escalation authority",
+        "output": "Documented incident/recovery rehearsal and fixes"
+      },
+      {
+        "owner": "Program",
+        "task": "Record owners and deadlines for every unresolved defect",
+        "output": "Documented incident/recovery rehearsal and fixes"
+      }
+    ]
+  },
+  {
+    "theme": "First installation period",
+    "gate": "G5",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Controlled load-in and daily defect register",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Review funded readiness for the first installation week",
+        "output": "Controlled load-in and daily defect register"
+      },
+      {
+        "owner": "Production manager",
+        "task": "Begin approved site preparation and reversible fit-out on July 26 if authorized",
+        "output": "Controlled load-in and daily defect register"
+      },
+      {
+        "owner": "Registrar",
+        "task": "Receive scheduled works with condition and custody records",
+        "output": "Controlled load-in and daily defect register"
+      },
+      {
+        "owner": "Code lead",
+        "task": "Inspect installation interfaces and correct blocked access/egress",
+        "output": "Controlled load-in and daily defect register"
+      },
+      {
+        "owner": "Brand",
+        "task": "Install approved labels and orientation prototypes for in-place testing",
+        "output": "Controlled load-in and daily defect register"
+      },
+      {
+        "owner": "Producer",
+        "task": "Review daily build safety, condition, schedule and spend",
+        "output": "Controlled load-in and daily defect register"
+      },
+      {
+        "owner": "Program",
+        "task": "Protect crew rest and resolve defects before final readiness",
+        "output": "Controlled load-in and daily defect register"
+      }
+    ]
+  },
+  {
+    "theme": "Operational readiness and final install",
+    "gate": "G6",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Ready rooms, trained teams and final inspection evidence",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Decide G6 from actual site, crew, rights and cash readiness",
+        "output": "Ready rooms, trained teams and final inspection evidence"
+      },
+      {
+        "owner": "Production manager",
+        "task": "Complete commissioned installations and technical tests",
+        "output": "Ready rooms, trained teams and final inspection evidence"
+      },
+      {
+        "owner": "Registrar",
+        "task": "Reconcile every accepted work and live availability status",
+        "output": "Ready rooms, trained teams and final inspection evidence"
+      },
+      {
+        "owner": "Visitor lead",
+        "task": "Walk accessible routes and test help/queue systems",
+        "output": "Ready rooms, trained teams and final inspection evidence"
+      },
+      {
+        "owner": "Product",
+        "task": "Test public information, confirmations, backup lists and support escalation",
+        "output": "Ready rooms, trained teams and final inspection evidence"
+      },
+      {
+        "owner": "Producer",
+        "task": "Run cue-to-cue checks and close unsafe or unapproved zones",
+        "output": "Ready rooms, trained teams and final inspection evidence"
+      },
+      {
+        "owner": "Program",
+        "task": "Prepare the opening decision and preserve final crew recovery",
+        "output": "Ready rooms, trained teams and final inspection evidence"
+      }
+    ]
+  },
+  {
+    "theme": "Opening and fair week",
+    "gate": "G7",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Controlled opening and daily show reports",
+    "days": [
+      {
+        "owner": "Producer",
+        "task": "Decide G7; open only approved ready zones after required sign-offs",
+        "output": "Controlled opening and daily show reports"
+      },
+      {
+        "owner": "Program",
+        "task": "Run Monday August 9 trade orientation, appointments and controlled preview",
+        "output": "Controlled opening and daily show reports"
+      },
+      {
+        "owner": "Program",
+        "task": "Run Tuesday August 10 press, collector and artist preview program",
+        "output": "Controlled opening and daily show reports"
+      },
+      {
+        "owner": "Program",
+        "task": "Run Wednesday August 11 free public discovery and learning opening",
+        "output": "Controlled opening and daily show reports"
+      },
+      {
+        "owner": "Program",
+        "task": "Run Thursday August 12 collecting, making and approved evening program",
+        "output": "Controlled opening and daily show reports"
+      },
+      {
+        "owner": "Program",
+        "task": "Run Friday August 13 gallery, artist and performance program",
+        "output": "Controlled opening and daily show reports"
+      },
+      {
+        "owner": "Program",
+        "task": "Run Saturday August 14 full public, family and special-program schedule",
+        "output": "Controlled opening and daily show reports"
+      }
+    ]
+  },
+  {
+    "theme": "Closing and restoration",
+    "gate": "G7",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Completed event, protected works and owner restoration acceptance",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Run Sunday August 15 closing program and final customer handoffs",
+        "output": "Completed event, protected works and owner restoration acceptance"
+      },
+      {
+        "owner": "Registrar",
+        "task": "Begin approved August 16 strike, condition checks and controlled releases",
+        "output": "Completed event, protected works and owner restoration acceptance"
+      },
+      {
+        "owner": "Producer",
+        "task": "Remove installations and restore spaces under owner-approved methods",
+        "output": "Completed event, protected works and owner restoration acceptance"
+      },
+      {
+        "owner": "Finance",
+        "task": "Reconcile customer/seller records and protect unresolved claims",
+        "output": "Completed event, protected works and owner restoration acceptance"
+      },
+      {
+        "owner": "Commercial lead",
+        "task": "Collect sponsor proof and confirm outstanding deliverables",
+        "output": "Completed event, protected works and owner restoration acceptance"
+      },
+      {
+        "owner": "Producer",
+        "task": "Complete site handback with documented condition and owner acceptance",
+        "output": "Completed event, protected works and owner restoration acceptance"
+      },
+      {
+        "owner": "Program",
+        "task": "Schedule team recovery and retain incident/claim records",
+        "output": "Completed event, protected works and owner restoration acceptance"
+      }
+    ]
+  },
+  {
+    "theme": "Initial settlement and buyer care",
+    "gate": "G7",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Seller/customer reconciliation and prompt follow-through",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Review recovery, unresolved incidents and urgent buyer needs",
+        "output": "Seller/customer reconciliation and prompt follow-through"
+      },
+      {
+        "owner": "Registrar",
+        "task": "Confirm deliveries, installation arrangements and remaining seller obligations",
+        "output": "Seller/customer reconciliation and prompt follow-through"
+      },
+      {
+        "owner": "Finance",
+        "task": "Reconcile completed orders separately from deposits, tax and shipping",
+        "output": "Seller/customer reconciliation and prompt follow-through"
+      },
+      {
+        "owner": "Collector",
+        "task": "Follow up consented inquiries without pressuring unsupported purchases",
+        "output": "Seller/customer reconciliation and prompt follow-through"
+      },
+      {
+        "owner": "PR lead",
+        "task": "Prepare a factual first report using verified counts and permitted images",
+        "output": "Seller/customer reconciliation and prompt follow-through"
+      },
+      {
+        "owner": "Commercial lead",
+        "task": "Deliver initial sponsor evidence without fabricated reach",
+        "output": "Seller/customer reconciliation and prompt follow-through"
+      },
+      {
+        "owner": "Program",
+        "task": "Review artist feedback and outstanding service failures",
+        "output": "Seller/customer reconciliation and prompt follow-through"
+      }
+    ]
+  },
+  {
+    "theme": "Sponsor proof and public reporting",
+    "gate": "G7",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Evidence-led partner report and financial close progress",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Review the evidence behind every proposed public result",
+        "output": "Evidence-led partner report and financial close progress"
+      },
+      {
+        "owner": "Commercial lead",
+        "task": "Reconcile contracted sponsor benefits and unresolved service credits",
+        "output": "Evidence-led partner report and financial close progress"
+      },
+      {
+        "owner": "Finance",
+        "task": "Confirm refunds, chargebacks, receivables and protected reserves",
+        "output": "Evidence-led partner report and financial close progress"
+      },
+      {
+        "owner": "Registrar",
+        "task": "Resolve missing paperwork, condition questions and delivery issues",
+        "output": "Evidence-led partner report and financial close progress"
+      },
+      {
+        "owner": "Brand",
+        "task": "Publish only cleared aggregate artist/public outcomes",
+        "output": "Evidence-led partner report and financial close progress"
+      },
+      {
+        "owner": "Collector",
+        "task": "Support appropriate post-event viewing and seller contact",
+        "output": "Evidence-led partner report and financial close progress"
+      },
+      {
+        "owner": "Program",
+        "task": "Review whether follow-up work remains funded",
+        "output": "Evidence-led partner report and financial close progress"
+      }
+    ]
+  },
+  {
+    "theme": "Post-event conversion and care",
+    "gate": "G7",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Useful buyer follow-up and updated completed-sales ledger",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Review outstanding buyer and artist needs",
+        "output": "Useful buyer follow-up and updated completed-sales ledger"
+      },
+      {
+        "owner": "Collector",
+        "task": "Prioritize consented qualified inquiries with actual available work",
+        "output": "Useful buyer follow-up and updated completed-sales ledger"
+      },
+      {
+        "owner": "Registrar",
+        "task": "Confirm seller authority and current availability for follow-up offers",
+        "output": "Useful buyer follow-up and updated completed-sales ledger"
+      },
+      {
+        "owner": "Finance",
+        "task": "Deduplicate event and later completed purchases",
+        "output": "Useful buyer follow-up and updated completed-sales ledger"
+      },
+      {
+        "owner": "Community lead",
+        "task": "Gather paid/consented feedback on access and local benefit",
+        "output": "Useful buyer follow-up and updated completed-sales ledger"
+      },
+      {
+        "owner": "PR lead",
+        "task": "Update factual coverage and correct inaccurate public claims",
+        "output": "Useful buyer follow-up and updated completed-sales ledger"
+      },
+      {
+        "owner": "Program",
+        "task": "Review team capacity and reduce unnecessary meetings",
+        "output": "Useful buyer follow-up and updated completed-sales ledger"
+      }
+    ]
+  },
+  {
+    "theme": "Thirty-day review",
+    "gate": "G7",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Thirty-day outcome and reserve review",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Assemble service, seller, financial and public-experience evidence",
+        "output": "Thirty-day outcome and reserve review"
+      },
+      {
+        "owner": "Finance",
+        "task": "Review actual costs against budget and document variance causes",
+        "output": "Thirty-day outcome and reserve review"
+      },
+      {
+        "owner": "Collector",
+        "task": "Review completed orders, conversion and unresolved follow-ups",
+        "output": "Thirty-day outcome and reserve review"
+      },
+      {
+        "owner": "Producer",
+        "task": "Review operational incidents and restoration lessons",
+        "output": "Thirty-day outcome and reserve review"
+      },
+      {
+        "owner": "Artistic",
+        "task": "Review quality, representation and distribution of artist outcomes",
+        "output": "Thirty-day outcome and reserve review"
+      },
+      {
+        "owner": "Commercial lead",
+        "task": "Review sponsor satisfaction and any remaining obligations",
+        "output": "Thirty-day outcome and reserve review"
+      },
+      {
+        "owner": "Program",
+        "task": "Record corrections for the final report",
+        "output": "Thirty-day outcome and reserve review"
+      }
+    ]
+  },
+  {
+    "theme": "Audit trail and rights close",
+    "gate": "G7",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Complete rights, asset and contract archive",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Review missing signatures, permissions and evidence",
+        "output": "Complete rights, asset and contract archive"
+      },
+      {
+        "owner": "Legal",
+        "task": "Review outstanding rights, cancellation, claims and contract issues",
+        "output": "Complete rights, asset and contract archive"
+      },
+      {
+        "owner": "Registrar",
+        "task": "Close loan/consignment files only against actual release evidence",
+        "output": "Complete rights, asset and contract archive"
+      },
+      {
+        "owner": "Product",
+        "task": "Apply retention rules and restrict obsolete personal-data access",
+        "output": "Complete rights, asset and contract archive"
+      },
+      {
+        "owner": "Finance",
+        "task": "Reconcile invoices, taxes and professional close requirements",
+        "output": "Complete rights, asset and contract archive"
+      },
+      {
+        "owner": "Brand",
+        "task": "Archive approved reusable assets and license expiries",
+        "output": "Complete rights, asset and contract archive"
+      },
+      {
+        "owner": "Program",
+        "task": "Review confidential versus public reporting boundaries",
+        "output": "Complete rights, asset and contract archive"
+      }
+    ]
+  },
+  {
+    "theme": "Strategic and financial review",
+    "gate": "G7",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Evidence-based continuation/rescope analysis",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Review mission outcomes before considering another edition",
+        "output": "Evidence-based continuation/rescope analysis"
+      },
+      {
+        "owner": "Finance",
+        "task": "Compare actual organizer income, seller outcomes and working-capital use",
+        "output": "Evidence-based continuation/rescope analysis"
+      },
+      {
+        "owner": "Collector",
+        "task": "Assess repeat buyer interest and genuine future demand",
+        "output": "Evidence-based continuation/rescope analysis"
+      },
+      {
+        "owner": "Artistic",
+        "task": "Review partner quality and paid artist participation",
+        "output": "Evidence-based continuation/rescope analysis"
+      },
+      {
+        "owner": "Community lead",
+        "task": "Review public benefit and recommendations from local participants",
+        "output": "Evidence-based continuation/rescope analysis"
+      },
+      {
+        "owner": "Producer",
+        "task": "Assess realistic cost and site options for any future edition",
+        "output": "Evidence-based continuation/rescope analysis"
+      },
+      {
+        "owner": "Program",
+        "task": "Keep future dates and partnerships unannounced",
+        "output": "Evidence-based continuation/rescope analysis"
+      }
+    ]
+  },
+  {
+    "theme": "Final collection and corrections",
+    "gate": "G7",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Resolved receivables/claims or documented exceptions",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Review all remaining contractual obligations",
+        "output": "Resolved receivables/claims or documented exceptions"
+      },
+      {
+        "owner": "Finance",
+        "task": "Pursue authorized overdue receivables and document collectability",
+        "output": "Resolved receivables/claims or documented exceptions"
+      },
+      {
+        "owner": "Registrar",
+        "task": "Resolve artwork condition, delivery and seller-reporting discrepancies",
+        "output": "Resolved receivables/claims or documented exceptions"
+      },
+      {
+        "owner": "Collector",
+        "task": "Close or correctly carry forward consented buyer inquiries",
+        "output": "Resolved receivables/claims or documented exceptions"
+      },
+      {
+        "owner": "Commercial lead",
+        "task": "Complete final outstanding sponsor deliverables",
+        "output": "Resolved receivables/claims or documented exceptions"
+      },
+      {
+        "owner": "PR lead",
+        "task": "Correct final outcome language against reconciled evidence",
+        "output": "Resolved receivables/claims or documented exceptions"
+      },
+      {
+        "owner": "Program",
+        "task": "Prepare the sixty-day review pack",
+        "output": "Resolved receivables/claims or documented exceptions"
+      }
+    ]
+  },
+  {
+    "theme": "Sixty-day close decision",
+    "gate": "G8",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Sixty-day reconciliation and approved factual report",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Review readiness for the October 14 close milestone",
+        "output": "Sixty-day reconciliation and approved factual report"
+      },
+      {
+        "owner": "Finance",
+        "task": "Calculate actual liabilities, tax provision and retained cash",
+        "output": "Sixty-day reconciliation and approved factual report"
+      },
+      {
+        "owner": "Registrar",
+        "task": "Confirm seller/loan reconciliation and unresolved exceptions",
+        "output": "Sixty-day reconciliation and approved factual report"
+      },
+      {
+        "owner": "Legal",
+        "task": "Review distribution conditions and outstanding claims",
+        "output": "Sixty-day reconciliation and approved factual report"
+      },
+      {
+        "owner": "Program",
+        "task": "Decide G8 on October 14; retain funds for all unresolved obligations",
+        "output": "Sixty-day reconciliation and approved factual report"
+      },
+      {
+        "owner": "Brand",
+        "task": "Publish only approved aggregate results and lessons",
+        "output": "Sixty-day reconciliation and approved factual report"
+      },
+      {
+        "owner": "Program",
+        "task": "Plan remaining reserve and post-year follow-through",
+        "output": "Sixty-day reconciliation and approved factual report"
+      }
+    ]
+  },
+  {
+    "theme": "Annual handoff and team review",
+    "gate": "G8",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Complete operating handoff and performance review",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Review the year's accepted versus proposed work",
+        "output": "Complete operating handoff and performance review"
+      },
+      {
+        "owner": "Finance",
+        "task": "Finalize records needed by the accountant and actual entity owners",
+        "output": "Complete operating handoff and performance review"
+      },
+      {
+        "owner": "Producer",
+        "task": "Archive production lessons and supplier performance evidence",
+        "output": "Complete operating handoff and performance review"
+      },
+      {
+        "owner": "Artistic",
+        "task": "Document curatorial outcomes, rights and fair treatment lessons",
+        "output": "Complete operating handoff and performance review"
+      },
+      {
+        "owner": "Collector",
+        "task": "Document service quality and appropriately retained relationships",
+        "output": "Complete operating handoff and performance review"
+      },
+      {
+        "owner": "Brand",
+        "task": "Update the brand system with observed learning",
+        "output": "Complete operating handoff and performance review"
+      },
+      {
+        "owner": "Program",
+        "task": "Review individual scopes and compensate completed work as agreed",
+        "output": "Complete operating handoff and performance review"
+      }
+    ]
+  },
+  {
+    "theme": "Next-edition decision preparation",
+    "gate": "G8",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Continuation decision grounded in actual evidence",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Set decision criteria without presuming another event",
+        "output": "Continuation decision grounded in actual evidence"
+      },
+      {
+        "owner": "Finance",
+        "task": "Assess retained resources, unresolved reserves and future financing needs",
+        "output": "Continuation decision grounded in actual evidence"
+      },
+      {
+        "owner": "Producer",
+        "task": "Assess venue availability and construction reality for any new plan",
+        "output": "Continuation decision grounded in actual evidence"
+      },
+      {
+        "owner": "Artistic",
+        "task": "Assess partner appetite using recorded evidence, not assumptions",
+        "output": "Continuation decision grounded in actual evidence"
+      },
+      {
+        "owner": "Community lead",
+        "task": "Review continued local benefit and artist earning outcomes",
+        "output": "Continuation decision grounded in actual evidence"
+      },
+      {
+        "owner": "Program",
+        "task": "Decide whether to investigate, resize, pause or end the event program",
+        "output": "Continuation decision grounded in actual evidence"
+      },
+      {
+        "owner": "Program",
+        "task": "Prepare the October 31 year-one handoff",
+        "output": "Continuation decision grounded in actual evidence"
+      }
+    ]
+  },
+  {
+    "theme": "Year-one close",
+    "gate": "G8",
+    "owner": "Program lead coordinates; daily accountable roles below",
+    "deliverable": "Year-one handoff; November 13 reserve review remains separately scheduled",
+    "days": [
+      {
+        "owner": "Program",
+        "task": "Close year one on October 31 and hand off the November 13 ninety-day reserve review",
+        "output": "Year-one handoff; November 13 reserve review remains separately scheduled"
+      },
+      {
+        "owner": "Program",
+        "task": "Reserved post-year follow-through",
+        "output": "Year-one handoff; November 13 reserve review remains separately scheduled"
+      },
+      {
+        "owner": "Program",
+        "task": "Reserved post-year follow-through",
+        "output": "Year-one handoff; November 13 reserve review remains separately scheduled"
+      },
+      {
+        "owner": "Program",
+        "task": "Reserved post-year follow-through",
+        "output": "Year-one handoff; November 13 reserve review remains separately scheduled"
+      },
+      {
+        "owner": "Program",
+        "task": "Reserved post-year follow-through",
+        "output": "Year-one handoff; November 13 reserve review remains separately scheduled"
+      },
+      {
+        "owner": "Program",
+        "task": "Reserved post-year follow-through",
+        "output": "Year-one handoff; November 13 reserve review remains separately scheduled"
+      },
+      {
+        "owner": "Program",
+        "task": "Reserved post-year follow-through",
+        "output": "Year-one handoff; November 13 reserve review remains separately scheduled"
+      }
+    ]
+  }
+]

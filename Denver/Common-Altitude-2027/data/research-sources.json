@@ -1,0 +1,177 @@
+[
+  {
+    "id": "R01",
+    "title": "2026 Art Basel / UBS annual market report",
+    "url": "https://www.artbasel.com/news/the-art-basel-and-ubs-global-art-market-report-2026",
+    "limits": "Published market research; global totals are not Denver demand.",
+    "checked": "2026-10-24"
+  },
+  {
+    "id": "R02",
+    "title": "2025 collector survey — channels",
+    "url": "https://theartmarket.artbasel.com/survey-of-global-collecting-2025/channels",
+    "limits": "Selected HNW survey, not representative of all visitors; use limited dated context.",
+    "checked": "2026-10-24"
+  },
+  {
+    "id": "R03",
+    "title": "Denver Energy Center owner",
+    "url": "https://www.denverenergycenter.com/home",
+    "limits": "Office/residential directions; no availability or event capacity confirmed.",
+    "checked": "2026-10-24"
+  },
+  {
+    "id": "R04",
+    "title": "Cherry Creek 2027 dates",
+    "url": "https://cherryarts.org/events/cherry-creek-arts-festival/faq/",
+    "limits": "July 2–4, 2027 current published dates.",
+    "checked": "2026-10-24"
+  },
+  {
+    "id": "R05",
+    "title": "Cheesman Park 2027 dates",
+    "url": "https://dashevents.com/productions/cheesman-park-art-fest/",
+    "limits": "July 24–25, 2027 current published dates.",
+    "checked": "2026-10-24"
+  },
+  {
+    "id": "R06",
+    "title": "Art Basel gallery applications/calendar",
+    "url": "https://www.artbasel.com/about/application",
+    "limits": "June 17–20, 2027 Basel; no transferred network or implied affiliation.",
+    "checked": "2026-10-24"
+  },
+  {
+    "id": "R07",
+    "title": "Denver Arts Festival 2027",
+    "url": "https://denverartsfestival.com/",
+    "limits": "May 29–30, 2027 current published dates.",
+    "checked": "2026-10-24"
+  },
+  {
+    "id": "R08",
+    "title": "ADA Title III guidance",
+    "url": "https://www.ada.gov/resources/title-iii-manual/",
+    "limits": "Federal accessibility framework; site-specific professional design/assessment required.",
+    "checked": "2026-10-24"
+  },
+  {
+    "id": "R09",
+    "title": "FTC influencer disclosure guidance",
+    "url": "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers",
+    "limits": "Disclose paid/material connections; no stealth campaign.",
+    "checked": "2026-10-24"
+  },
+  {
+    "id": "R10",
+    "title": "Stripe direct charges",
+    "url": "https://docs.stripe.com/connect/direct-charges",
+    "limits": "Technical reference only; event baseline uses seller-led invoices/payment, not an implemented marketplace.",
+    "checked": "2026-10-24"
+  },
+  {
+    "id": "R11",
+    "title": "WCAG 2.2",
+    "url": "https://www.w3.org/TR/WCAG22/",
+    "limits": "Digital AA design target; no current conformance claim.",
+    "checked": "2026-10-24"
+  },
+  {
+    "id": "R12",
+    "title": "Denver event timeline",
+    "url": "https://www.denvergov.org/files/assets/public/v/1/special-events/documents/event-application-timeline.pdf",
+    "limits": "Applicable processes need time; not permission for this property.",
+    "checked": "2026-10-24"
+  },
+  {
+    "id": "R13",
+    "title": "Colorado worker classification",
+    "url": "https://cdle.colorado.gov/sites/cdle/files/info_%2310_who_is_and_isn%27t_an_employee_08.11.25.pdf",
+    "limits": "Actual working relationship controls; proposed fees are not agreed classifications.",
+    "checked": "2026-10-24"
+  },
+  {
+    "id": "R14",
+    "title": "US copyright law — rights framework",
+    "url": "https://www.copyright.gov/title17/92chap1.html",
+    "limits": "Object ownership and copyright/reproduction permissions are distinct; specific display, loan and promotional uses require review.",
+    "checked": "2026-10-24"
+  },
+  {
+    "id": "R15",
+    "title": "USPTO clearance guidance",
+    "url": "https://www.uspto.gov/trademarks/search/comprehensive-clearance-search-similar-trademarks",
+    "limits": "Working names not cleared by web search.",
+    "checked": "2026-10-24"
+  },
+  {
+    "id": "R16",
+    "title": "Energy Center reported construction",
+    "url": "https://www.bisnow.com/news/denver/multifamily/developer-applies-for-construction-permit-for-downtown-denver-office-to-residential-project",
+    "limits": "September 14 2026 reporting Q1 2027–early 2029; issued permits not obtained.",
+    "checked": "2026-10-24"
+  },
+  {
+    "id": "R17",
+    "title": "Current DDA arts scope",
+    "url": "https://www.denvergov.org/Government/Citywide-Programs-and-Initiatives/Downtown-Development-Authority/Applications/Arts-Culture",
+    "limits": "Outdoor/reusable infrastructure scope; no grant included in base funding.",
+    "checked": "2026-10-24"
+  },
+  {
+    "id": "R18",
+    "title": "DENVER CREATES",
+    "url": "https://www.artsandvenuesdenver.com/grants-cultural-investments/grants/dav-denver-creates-fund",
+    "limits": "2026 round closed September 14; no award or open new round assumed.",
+    "checked": "2026-10-24"
+  },
+  {
+    "id": "R19",
+    "title": "P.S. You Are Here",
+    "url": "https://www.artsandvenuesdenver.com/grants-cultural-investments/grants/ps-you-are-here",
+    "limits": "Published pause; no funding assumed.",
+    "checked": "2026-10-24"
+  },
+  {
+    "id": "R20",
+    "title": "Bonfils-Stanton community grants",
+    "url": "https://www.bonfils-stantonfoundation.org/grants/quarterly",
+    "limits": "Events generally ineligible; applicant requirements apply.",
+    "checked": "2026-10-24"
+  },
+  {
+    "id": "R21",
+    "title": "Human Resources existing event",
+    "url": "https://www.eventbrite.com/e/to-gladden-the-heart-a-summer-solstice-celebration-tickets-1990586830796",
+    "limits": "Advertised High Fidelity event, not Energy Center approval.",
+    "checked": "2026-10-24"
+  },
+  {
+    "id": "R22",
+    "title": "Two Parts production portfolio",
+    "url": "https://www.twoparts.com/work",
+    "limits": "Potential paid producer discovery, not an accepted role.",
+    "checked": "2026-10-24"
+  },
+  {
+    "id": "R23",
+    "title": "UOVO Denver",
+    "url": "https://uovo.com/locations/art/colorado/denver/",
+    "limits": "Potential logistics scope, not quote/appointment.",
+    "checked": "2026-10-24"
+  },
+  {
+    "id": "R24",
+    "title": "Jensen Hughes Denver",
+    "url": "https://www.jensenhughes.com/asia/contact/office-locations/denver",
+    "limits": "Potential code/accessibility/fire consultant, not site opinion.",
+    "checked": "2026-10-24"
+  },
+  {
+    "id": "R25",
+    "title": "Banksy official use-of-images route",
+    "url": "https://pestcontroloffice.com/",
+    "limits": "Use official links and rights review; no artist endorsement.",
+    "checked": "2026-10-24"
+  }
+]

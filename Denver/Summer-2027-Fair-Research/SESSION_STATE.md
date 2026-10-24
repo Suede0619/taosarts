@@ -2,6 +2,8 @@
 
 Read [AGENTS.md](AGENTS.md), [README.md](README.md) and [evidence/open questions](07-Evidence-and-Open-Questions.md). Baseline before this follow-up: ART `main`, commit `9c867aa2305a96cc5b6a1712473fbf7b5b74f78b`, origin `https://github.com/Suede0619/taosarts.git`. The parent TAOS workspace and separate website repository were not changed.
 
+**Successor authorized:** the following user prompt requested the comprehensive [Common Altitude execution package](../Common-Altitude-2027/README.md), including finished pitch-deck artifacts. The research-stage stop below describes the earlier instruction, not a restriction on the later authorized plans. This research/model is preserved; the larger new proposed scope has its own explicit model and [handoff](../Common-Altitude-2027/SESSION_STATE.md). No actual external action is authorized merely by that expansion.
+
 ## Completed
 
 - Seven reports plus an executive index cover rentals and owner business-model limits; existing event advertising and exact-property boundaries; venue participation/sales/cash sensitivities; requirements for a later owner deck and city coordination; anonymous founding roles and 30 independently researched professional candidate records; compensation and seed routes; names and positioning; sources and unresolved decisions.

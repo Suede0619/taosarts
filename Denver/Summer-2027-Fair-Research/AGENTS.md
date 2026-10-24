@@ -2,6 +2,8 @@
 
 Read [the parent instructions](../AGENTS.md), [README.md](README.md) and [SESSION_STATE.md](SESSION_STATE.md). Research cut-off is **October 24, 2026**. The repository is public `Suede0619/taosarts`; use anonymous founding-role descriptions. Actual participant mapping and source archives are in ignored `private/` and will not clone.
 
+**Successor stage:** the next user request explicitly authorized the full [Common Altitude proposal and deck package](../Common-Altitude-2027/README.md). Its instructions govern that new stage. This folder remains the completed earlier research snapshot; its historical stop does not prohibit the now-authorized document/artifact work. Outreach/transactions still are not authorized.
+
 The latest scope authorized rental/events verification, landlord deal sensitivities, pitch requirements, candidate/team research, compensation/seed analysis and naming, **then stop**. It did not authorize the actual deck, business plan/proposal, event date/duration selection, outreach, applications, hiring, spending or a venue offer. A later “continue” during the task meant finish this research stage.
 
 Preserve distinctions: art GMV vs organizer revenue vs distributable cash; existing High Fidelity events vs unverified Energy Center events; reported construction vs issued permits; sourced professional capability vs accepted role/availability; charitable support vs commercial money. The 10–20% venue share is undefined and unagreed. The $0.5m/$3m/$8m GMV cases and all costs are unvalidated illustrations, not forecasts or a priced two-tower event. Protect artist balances and restricted funds.

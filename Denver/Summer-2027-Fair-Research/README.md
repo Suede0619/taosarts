@@ -2,6 +2,8 @@
 
 **Research date: October 24, 2026. Status: research and decision support, not an approved event, business plan, pitch deck or offer.** November 1, 2026 remains project day one. No event dates, duration, footprint, funding, team appointments or commercial terms are agreed.
 
+**Successor stage:** the subsequent user request authorized the full [Common Altitude proposal and presentation package](../Common-Altitude-2027/README.md). This folder remains the earlier research snapshot; its historical stop does not prohibit the new document/artifact work. No event or external action has been approved.
+
 The strongest opportunity is an art market with an extraordinary public exhibition, hosted in a precisely defined part of a redevelopment project. Its value would come from completed art purchases, a credible collector experience, paid creative work and measurable benefits for the host. Filling two towers is an ambition requiring substantially more evidence than an attractive concept.
 
 ## Read in this order

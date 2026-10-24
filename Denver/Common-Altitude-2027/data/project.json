@@ -1,0 +1,313 @@
+{
+  "version": "0.1",
+  "as_of": "2026-10-24",
+  "status": "Complete working proposal for review; no event, budget, partner or brand commitment",
+  "brand": "COMMON ALTITUDE",
+  "edition": "OFFICE OF THE IMPOSSIBLE",
+  "campaign": "ART IS TAKING OVER.",
+  "descriptor": "Denver Art Fair & Exhibition",
+  "project_start": "2026-11-01",
+  "project_end": "2027-10-31",
+  "proposed_event_start": "2027-08-09",
+  "proposed_event_end": "2027-08-15",
+  "proposed_public_start": "2027-08-11",
+  "proposed_public_end": "2027-08-15",
+  "timezone": "America/Denver",
+  "date_status": "Proposed planning dates only; no site hold or calendar clearance",
+  "venue": "Denver Energy Center — precisely bounded owner-approved footprint, if feasible",
+  "supplied_site_ambition": "Two towers, hundreds of rooms, lower level and underground concourse; unmeasured and unapproved",
+  "scope_recommendation": "Core edition: 60 programmed rooms or equivalent spaces; scoped alternatives 24 and 120",
+  "commission_policy": "Zero organizer art commission in this event proposal; seller/gallery representation and external costs remain separate; not approved event terms",
+  "free_access": "Core artwork discovery and public route free; collector services, reserved special events and workshops may be paid",
+  "seed_target": 75000,
+  "seed_work_cost": 70000,
+  "seed_reserve": 5000,
+  "proposed_owner_profit_share": 0.15,
+  "owner_range": [
+    0.1,
+    0.2
+  ],
+  "artist_target_gmv": 3000000,
+  "gmv_status": "Demand target, not forecast; completed art value excluding tax/shipping/refunds",
+  "tax_cash_hold": 60000,
+  "tax_hold_status": "Illustrative reserve amount only; not a statutory tax rate or calculated liability",
+  "operating_reserve_after_event": 100000,
+  "post_event_refund_hold_fraction": 0.1,
+  "early_sponsor_cash_restriction_fraction": 0.3,
+  "months": [
+    "2026-11",
+    "2026-12",
+    "2027-01",
+    "2027-02",
+    "2027-03",
+    "2027-04",
+    "2027-05",
+    "2027-06",
+    "2027-07",
+    "2027-08",
+    "2027-09",
+    "2027-10"
+  ],
+  "cost_monthly_shares": [
+    0.03,
+    0.04,
+    0.05,
+    0.06,
+    0.08,
+    0.08,
+    0.1,
+    0.14,
+    0.22,
+    0.15,
+    0.03,
+    0.02
+  ],
+  "cash_collection_shares": {
+    "sponsorship": [
+      0.06,
+      0.04,
+      0.1,
+      0.1,
+      0.2,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0,
+      0
+    ],
+    "gallery_services": [
+      0,
+      0,
+      0.1,
+      0.1,
+      0.2,
+      0.2,
+      0.2,
+      0.1,
+      0.1,
+      0,
+      0,
+      0
+    ],
+    "premium_program": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.1,
+      0.2,
+      0.4,
+      0.3,
+      0,
+      0
+    ],
+    "workshops": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.1,
+      0.2,
+      0.4,
+      0.3,
+      0,
+      0
+    ],
+    "other": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.1,
+      0.2,
+      0.3,
+      0.4,
+      0,
+      0
+    ]
+  },
+  "reserve_schedule": [
+    5000,
+    5000,
+    25000,
+    25000,
+    25000,
+    50000,
+    50000,
+    50000,
+    100000,
+    100000,
+    100000,
+    100000
+  ],
+  "gates": [
+    {
+      "id": "G0",
+      "date": "2026-11-15",
+      "title": "Funded discovery",
+      "requires": "Accepted scope and usable $75,000 seed commitment; only funded work contracted"
+    },
+    {
+      "id": "G1",
+      "date": "2026-12-15",
+      "title": "Site feasibility",
+      "requires": "Owner access/footprint/phasing and code-led feasibility; exit/alternate-site choice if incompatible"
+    },
+    {
+      "id": "G2",
+      "date": "2027-01-31",
+      "title": "Delivery organization",
+      "requires": "Qualified producer, finance and collector leads; legal entity, seller/venue/underwriter terms and preliminary quotes"
+    },
+    {
+      "id": "G3",
+      "date": "2027-03-31",
+      "title": "Launch decision",
+      "requires": "At least $1.1m enforceable eligible non-ticket commitments for core scope plus funded next-90-day cash and cancellation exposure; site path credible; no unsupported announcement"
+    },
+    {
+      "id": "G4",
+      "date": "2027-05-31",
+      "title": "Program commitment",
+      "requires": "Every commissioned/accepted work and public promise has rights, budget, responsible operator and fallback"
+    },
+    {
+      "id": "G5",
+      "date": "2027-07-01",
+      "title": "Build authorization",
+      "requires": "Signed footprint/uses/required reviews, funded deposits and cancellation liabilities, approved technical plans"
+    },
+    {
+      "id": "G6",
+      "date": "2027-08-01",
+      "title": "Operational readiness",
+      "requires": "Independent producer/site readiness review, accessible visitor journey, timed entry and incident rehearsals; close unsafe/unapproved zones"
+    },
+    {
+      "id": "G7",
+      "date": "2027-08-08",
+      "title": "Open or do not open",
+      "requires": "Required final approvals/inspection, life safety, staffing and cleared rights; stop authority effective"
+    },
+    {
+      "id": "G8",
+      "date": "2027-10-14",
+      "title": "60-day close",
+      "requires": "Seller reconciliation, sponsor evidence and outcome reporting; retain unresolved reserves"
+    }
+  ],
+  "cases": [
+    {
+      "id": "contained",
+      "name": "Contained alternative",
+      "rooms": 24,
+      "visitors": 4000,
+      "paid_fraction": 0.4,
+      "premium_price": 45,
+      "sponsorship": 500000,
+      "galleries": 10,
+      "gallery_service_fee": 5000,
+      "workshop_seats": 400,
+      "workshop_price": 30,
+      "other": 20000,
+      "qualified_households": 500,
+      "buyer_conversion": 0.2,
+      "average_art_order": 10000,
+      "costs": {
+        "feasibility": 70000,
+        "core_team": 120000,
+        "artist_fees": 75000,
+        "production_fitout": 120000,
+        "building_operations": 50000,
+        "art_logistics": 60000,
+        "visitor_security_access": 50000,
+        "marketing_collector_pr": 65000,
+        "professional_and_insurance": 35000,
+        "contingency": 55000
+      }
+    },
+    {
+      "id": "core",
+      "name": "Core proposal",
+      "rooms": 60,
+      "visitors": 12000,
+      "paid_fraction": 0.5,
+      "premium_price": 50,
+      "sponsorship": 1250000,
+      "galleries": 24,
+      "gallery_service_fee": 7500,
+      "workshop_seats": 1000,
+      "workshop_price": 35,
+      "other": 50000,
+      "qualified_households": 600,
+      "buyer_conversion": 0.25,
+      "average_art_order": 20000,
+      "costs": {
+        "feasibility": 70000,
+        "core_team": 260000,
+        "artist_fees": 200000,
+        "production_fitout": 290000,
+        "building_operations": 100000,
+        "art_logistics": 120000,
+        "visitor_security_access": 100000,
+        "marketing_collector_pr": 180000,
+        "professional_and_insurance": 65000,
+        "contingency": 165000
+      }
+    },
+    {
+      "id": "campus",
+      "name": "Expanded campus option",
+      "rooms": 120,
+      "visitors": 25000,
+      "paid_fraction": 0.6,
+      "premium_price": 60,
+      "sponsorship": 2700000,
+      "galleries": 48,
+      "gallery_service_fee": 10000,
+      "workshop_seats": 2500,
+      "workshop_price": 40,
+      "other": 100000,
+      "qualified_households": 1280,
+      "buyer_conversion": 0.25,
+      "average_art_order": 25000,
+      "costs": {
+        "feasibility": 70000,
+        "core_team": 520000,
+        "artist_fees": 500000,
+        "production_fitout": 700000,
+        "building_operations": 240000,
+        "art_logistics": 240000,
+        "visitor_security_access": 200000,
+        "marketing_collector_pr": 380000,
+        "professional_and_insurance": 130000,
+        "contingency": 420000
+      }
+    }
+  ],
+  "palette": {
+    "ink": "#151A22",
+    "paper": "#F3F0E9",
+    "citron": "#DCFF5F",
+    "cobalt": "#2948FF",
+    "stone": "#A6AAA6"
+  },
+  "deck_fonts": {
+    "heading": "Arial",
+    "body": "Arial",
+    "editorial": "Georgia"
+  },
+  "public_open": "10:00",
+  "public_close": "19:00",
+  "premium_departures_per_day": 96,
+  "premium_seats_per_departure": 15,
+  "public_days": 5
+}

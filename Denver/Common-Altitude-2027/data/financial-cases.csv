@@ -1,0 +1,4 @@
+case,name,rooms,unique_visitors,qualified_households,completed_buyers,average_art_order,art_gmv,sponsorship,gallery_services,premium_program,workshops,other,organizer_revenue,cost,pre_owner_surplus
+contained,Contained alternative,24,4000,500,100,10000,1000000,500000,50000,72000,12000,20000,654000,700000,-46000
+core,Core proposal,60,12000,600,150,20000,3000000,1250000,180000,300000,35000,50000,1815000,1550000,265000
+campus,Expanded campus option,120,25000,1280,320,25000,8000000,2700000,480000,900000,100000,100000,4280000,3400000,880000

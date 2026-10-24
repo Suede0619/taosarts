@@ -2,6 +2,10 @@
 
 Read [AGENTS.md](AGENTS.md), [README.md](README.md) and [the source register](05-News-and-Source-Register.md). This folder is a dated discovery package in the public `Suede0619/taosarts` document repository, not a venue agreement or an event plan. Baseline before the work: `e5fdb1bceebd09cd21da0cc5e1e2d1631d3d4b5a`.
 
+## Latest stage — full proposal/artifact package
+
+The subsequent user request authorized creation of the comprehensive [Common Altitude package](Common-Altitude-2027/README.md), including creative/brand, marketing, business/PRD, program, 72 partner candidates, hiring/operations and 365-day/53-week action plan. Seven designed audience decks plus a brand presentation have PPTX/PDF/MD versions, 101 public slides total. Read [its handoff](Common-Altitude-2027/SESSION_STATE.md) for current assumptions and validation. The proposed Aug 9–15, 2027 week, 60-space scope and larger new budget remain conditional. No external action/approval is implied. The earlier research-only stopping point below is historical and superseded for creating these artifacts.
+
 ## Latest follow-up — October 24
 
 The newer [summer 2027 fair research](Summer-2027-Fair-Research/README.md) supersedes the earlier scope limitation only to allow rental/event verification, standalone financial sensitivities, pitch requirements, professional candidates, pay/seed analysis and naming. Its [handoff](Summer-2027-Fair-Research/SESSION_STATE.md) records validation and evidence limits. No actual deck, event business plan/proposal, priced event budget, date/duration selection or external action was authorized or produced. Baseline before this follow-up: `9c867aa2305a96cc5b6a1712473fbf7b5b74f78b`.

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "00-Creative-Direction",
+    "audience": "Creative direction / working brand system",
+    "slides": 7,
+    "pptx": "00-Creative-Direction.pptx",
+    "pdf": "00-Creative-Direction.pdf",
+    "script": "00-Creative-Direction.md",
+    "status": "Rendered PDF/PPTX text and geometry checked; representative visual review performed"
+  },
+  {
+    "id": "01-Owner-and-Venue",
+    "audience": "The Luzzatto Company / owner and creative leadership",
+    "slides": 17,
+    "pptx": "01-Owner-and-Venue.pptx",
+    "pdf": "01-Owner-and-Venue.pdf",
+    "script": "01-Owner-and-Venue.md",
+    "status": "Rendered PDF/PPTX text and geometry checked; representative visual review performed"
+  },
+  {
+    "id": "02-Art-Partners",
+    "audience": "Artists, galleries, dealers and curatorial partners",
+    "slides": 14,
+    "pptx": "02-Art-Partners.pptx",
+    "pdf": "02-Art-Partners.pdf",
+    "script": "02-Art-Partners.md",
+    "status": "Rendered PDF/PPTX text and geometry checked; representative visual review performed"
+  },
+  {
+    "id": "03-Founding-Underwriter",
+    "audience": "Discovery underwriters, patrons and founding commercial backers",
+    "slides": 14,
+    "pptx": "03-Founding-Underwriter.pptx",
+    "pdf": "03-Founding-Underwriter.pdf",
+    "script": "03-Founding-Underwriter.md",
+    "status": "Rendered PDF/PPTX text and geometry checked; representative visual review performed"
+  },
+  {
+    "id": "04-Sponsors-and-Hospitality",
+    "audience": "Commercial sponsors, hospitality and destination partners",
+    "slides": 13,
+    "pptx": "04-Sponsors-and-Hospitality.pptx",
+    "pdf": "04-Sponsors-and-Hospitality.pdf",
+    "script": "04-Sponsors-and-Hospitality.md",
+    "status": "Rendered PDF/PPTX text and geometry checked; representative visual review performed"
+  },
+  {
+    "id": "05-Civic-and-Community",
+    "audience": "Civic agencies, arts/community organizations and access partners",
+    "slides": 12,
+    "pptx": "05-Civic-and-Community.pptx",
+    "pdf": "05-Civic-and-Community.pdf",
+    "script": "05-Civic-and-Community.md",
+    "status": "Rendered PDF/PPTX text and geometry checked; representative visual review performed"
+  },
+  {
+    "id": "06-Team-and-Co-Producer",
+    "audience": "Executive producers, specialist leads and potential co-producers",
+    "slides": 12,
+    "pptx": "06-Team-and-Co-Producer.pptx",
+    "pdf": "06-Team-and-Co-Producer.pdf",
+    "script": "06-Team-and-Co-Producer.md",
+    "status": "Rendered PDF/PPTX text and geometry checked; representative visual review performed"
+  },
+  {
+    "id": "07-Collectors-and-Advisors",
+    "audience": "Collectors, advisers and prospective acquisition clients",
+    "slides": 12,
+    "pptx": "07-Collectors-and-Advisors.pptx",
+    "pdf": "07-Collectors-and-Advisors.pdf",
+    "script": "07-Collectors-and-Advisors.md",
+    "status": "Rendered PDF/PPTX text and geometry checked; representative visual review performed"
+  }
+]
