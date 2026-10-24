@@ -1,116 +1,116 @@
 # Discovery underwriters, patrons and founding commercial backers
 
-Working designed proposal · October 24, 2026. No site/date, partner, funding or capacity commitment. This slide script accompanies the editable PowerPoint and PDF.
+Working designed proposal, October 24, 2026. No site/date, partner, funding or capacity commitment. This slide script accompanies the editable PowerPoint and PDF.
 
 ## 1. COMMON ALTITUDE
 
 FOUNDING DISCOVERY UNDERWRITING
-Fund a disciplined path from ambition to a decision.
+A proposed six-week feasibility stage.
 
 
-## 2. Three outcomes worth backing.
+## 2. Artist income and public access
 
-A cultural event should create value beyond its opening photograph.
+The proposal measures completed sales, paid creative work and visitor access.
 
-- Artist income — Completed sales and paid creative work.
-- Public discovery — A generous encounter with art across backgrounds and budgets.
-- A credible destination — An excellent experience with accountable delivery.
+- Artist income. Completed sales and paid creative work.
+- Public discovery. Free core exhibitions and paid educators, with access information for visitors.
+- A credible destination. A Denver visit supported by confirmed work, appointments and transport information.
 
-## 3. First, fund the evidence.
+## 3. A $75,000 discovery target
 
-A bounded paid-discovery target, credited once within later sponsorship if agreed.
+The parties may agree to count discovery support once within later sponsorship.
 
-- $75,000 — Total underwriting target
-- $70,000 — Defined professional work
-- $5,000 — Discovery reserve
+- $75,000. Total underwriting target
+- $70,000. Defined professional work
+- $5,000. Discovery reserve
 
-## 4. What the first commitment buys.
+## 4. Discovery deliverables
 
-No unconditional promise to launch.
+The paid scope tests the site, demand, art offer, costs and finance before an event decision.
 
-- Site + delivery — Owner/code/producer feasibility and scope alternatives.
-- Market + art — Qualified buyer research and realistic seller/artist proposition.
-- Finance + brand — Quote/cash plan, rights/contract issues and a coherent presentation system.
+- Site + delivery. Owner/code/producer feasibility and scope alternatives.
+- Market + art. Qualified buyer research and realistic seller/artist proposition.
+- Finance + brand. Quote/cash plan, rights/contract issues and a coherent presentation system.
 
-## 5. A useful decision in six weeks.
+## 5. Six-week decision schedule
 
-Specific deliverables and milestone acceptance govern the paid scope.
+Contracts would define milestones, acceptance and payment.
 
-- DISCOVER — Access, phasing, professional roles and evidence.
-- TEST — Audience, creative propositions and commercial fit.
-- PRICE — Production, cash restrictions and cancellation exposure.
-- DECIDE — Proceed, resize, relocate or stop.
+- DISCOVER. Access, phasing, professional roles and evidence.
+- TEST. Audience, creative propositions and commercial fit.
+- PRICE. Production, cash restrictions and cancellation exposure.
+- DECIDE. Proceed, resize, relocate or stop.
 
-## 6. The larger capital path.
+## 6. Event funding targets
 
-Core scenario assumptions, not funded commitments.
+The core scenario has no funding commitments.
 
-- $1.25m — Cash sponsorship target
-- $1,550,000 — Core cost envelope
-- $600,000 — Facility/backstop ceiling to investigate
+- $1.25m. Cash sponsorship target
+- $1,550,000. Core cost envelope
+- $600,000. Facility/backstop ceiling to investigate
 
-## 7. The market target.
+## 7. Art-sales assumptions
 
-Art GMV is seller money and does not finance the event.
+Artwork proceeds pay sellers and stay separate from event finance.
 
-- $3m — Completed art-sales target
-- 150 — Assumed purchasing households
-- $20,000 — Average completed order assumption
+- $3m. Completed art-sales target
+- 150. Assumed purchasing households
+- $20,000. Average completed order assumption
 
-## 8. Pay the people doing the work.
+## 8. Team and artist pay
 
-Defined fees and scope first; appropriate upside can be additional.
+Budget defined work first. Agree any additional bonus separately.
 
-- Core delivery — $260,000 later core-team envelope.
-- Creative contribution — $200,000 artist/program-fee envelope.
-- Fair terms — Classification, rights, milestones, cancellation and accepted hours.
+- Core delivery. $260,000 later core-team envelope.
+- Creative contribution. $200,000 artist/program-fee envelope.
+- Fair terms. Classification, rights, milestones, cancellation and accepted hours.
 
-## 9. Why this host could matter.
+## 9. Owner fit and site limits
 
-Space and creative ambition meet a rental/office redevelopment strategy.
+The fair could support the rental and office project if the owner confirms a usable footprint.
 
-- Useful activation — Public cultural identity and appropriate qualified interest.
-- Bounded footprint — Construction, tenants and approved use control the site.
-- Transparent economics — No undefined share of artwork seller proceeds.
+- Useful activation. Public cultural identity and appropriate qualified interest.
+- Bounded footprint. Construction, tenants and approved use control the site.
+- Transparent economics. No undefined share of artwork seller proceeds.
 
-## 10. Do not confuse surplus with cash.
+## 10. Surplus and preopening cash
 
-Illustrative core model before actual contracts, tax and claims.
+The model tests unverified income, costs, cash restrictions and reserve assumptions.
 
-- $1,815,000 — Organizer revenue
-- $1,550,000 — Cost envelope
-- $265,000 — Before owner / tax / reserves
-- $530,000 — Peak preopening bridge sensitivity
+- $1,815,000. Organizer revenue
+- $1,550,000. Cost envelope
+- $265,000. Before owner / tax / reserves
+- $530,000. Peak preopening bridge sensitivity
 
-## 11. Controls before scale.
+## 11. Conditions before expansion
 
-No grants or celebrity participation are required assumptions.
+The base model assumes no public grants or celebrity participation.
 
-- Evidence gates — Stop/rescope if site, demand or finance fails.
-- Protected funds — Seller, tax, refund and restricted balances stay protected.
-- Independent roles — Producer, finance and qualified specialists challenge assumptions.
+- Evidence gates. Stop/rescope if site, demand or finance fails.
+- Protected funds. Seller, tax, refund and restricted balances stay protected.
+- Independent roles. Producer, finance and qualified specialists challenge assumptions.
 
-## 12. Know what happens next.
+## 12. Project decision dates
 
-Project day one is November 1, 2026; the event week remains proposed.
+Project day one is November 1, 2026. Event dates remain proposals.
 
-- NOV — Funded discovery decision.
-- DEC–JAN — Site and delivery organization.
-- MAR — Launch decision on evidence and funding.
-- AUG — Open only if required conditions pass.
+- NOV. Funded discovery decision.
+- DEC–JAN. Site and delivery organization.
+- MAR. Launch decision on evidence and funding.
+- AUG. Open only if required conditions pass.
 
-## 13. Underwrite a defined decision.
+## 13. Discovery contract discussion
 
-Discuss a $75,000 milestone-based discovery contract, with clear deliverables and stop terms.
+A $75,000 milestone-based agreement would define deliverables, payment and stopping terms.
 
 - No implied investment return or tax-deductible donation.
 - No forced launch if feasibility fails.
 - Later sponsorship credit and recognition only as agreed.
 
-## 14. A transparent proposal.
+## 14. Sources and unresolved terms
 
-Market, venue and candidate research is sourced; demand, costs and all commercial terms remain unvalidated.
+Research supports context. Demand, costs and commercial terms still need evidence.
 
 - Reproducible finance, monthly cash, gates and action plan accompany this deck.
 - Appropriate professional advice determines actual entity, tax and funding treatment.
-- No party has been contacted or committed by creating this deck.
+- Creating this deck made no contact or commitment.

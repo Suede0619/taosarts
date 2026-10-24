@@ -82,7 +82,7 @@ def finance(p):
     results={"cases":out,"core":core,"cash":months,"waterfall":payout,"stress":stress}
     (DATA/"financial-results.json").write_text(json.dumps(results,indent=2)+"\n")
     text=["# Generated proposal finance","",
-          "As of October 24, 2026. USD. All costs, demand, funding and fee inputs are unvalidated proposal assumptions. No grants or organizer art commissions are included. This supersedes the earlier Denver sensitivity only for this larger proposed scope; the earlier model is unchanged.","",
+          'As of October 24, 2026. USD. The model assumes costs, demand, funding and fees without quotes or commitments. The model includes no grants or organizer art commission. This supersedes the earlier Denver sensitivity only for this larger proposed scope. The earlier model is unchanged.',"",
           mdtable(["Measure"]+[r["name"] for r in out],[
           ["Programmed rooms / equivalent spaces"]+[r["rooms"] for r in out],
           ["Unique visitor target"]+[r["unique_visitors"] for r in out],
@@ -96,15 +96,15 @@ def finance(p):
           ["Cost including paid discovery"]+[USD(r["cost"]) for r in out],
           ["Surplus before owner / tax / reserves"]+[USD(r["pre_owner_surplus"]) for r in out]]),"",
           "## Core cash and conditional owner waterfall","",
-          mdtable(["Item","Illustrative amount"],[[k.replace("_"," "),USD(v)] for k,v in payout.items()]),"",
-          "Tax hold is an arbitrary cash-reserve placeholder, not a computed tax rate/liability. Refund hold is retained beyond the project year pending claims/rights. Owner share is a proposed 15% of the defined eligible pool, not agreed; excludes seller balances, tax collections and restricted funds. No payout is authorized. Full claim-free release is assumed only for comparison.","",
+          mdtable(["Item",'Model amount'],[[k.replace("_"," "),USD(v)] for k,v in payout.items()]),"",
+          'The model holds a cash reserve for tax without calculating the tax liability. Keep the refund reserve beyond the project year until claims and rights obligations settle. The model applies a proposed 15% owner share to the defined eligible pool. The parties have no agreement. Excludes seller balances, tax collections and restricted funds. No one has authorized a payout. The comparison assumes no claims against the reserve.',"",
           "## Core monthly cash","",
           mdtable(["Month","Receipts","Costs","Cash before holds","Available after holds","Required bridge"],[
              [r["month"],USD(r["total_receipts"]),USD(r["cost_cash"]),USD(r["unlevered_cash_balance"]),USD(r["available_after_holds"]),USD(r["required_bridge_outstanding"])] for r in months]),"",
-          "The model reserves 30% of cumulative sponsorship above the first $75,000 before opening, all customer advance receipts before opening, then 10% of non-sponsorship revenue against claims. Sponsor contracts/earning schedules are unknown; this is a risk sensitivity, not accounting advice. The first $75,000 is assumed milestone-earned discovery underwriting, credited once within sponsorship. No seller money finances the event. A facility is financing, not additional revenue. Financing cost is unquoted within the professional/finance allowance; actual fees/interest may require a budget increase.","",
+          'The model reserves 30% of cumulative sponsorship above the first $75,000 before opening, all customer advance receipts before opening, then 10% of non-sponsorship revenue against claims. Sponsor contracts/earning schedules are unknown. This calculation tests a cash-risk scenario. A qualified adviser must establish actual accounting treatment. The model assumes the first $75,000 funds discovery milestones and counts it once within sponsorship. No seller money finances the event. Record the finance facility separately from operating revenue. The professional and finance allowance includes no quoted financing cost. Actual fees/interest may require a budget increase.',"",
           "## Stress cases","",
           mdtable(["Case","Revenue","Cost","Surplus before owner/tax/reserves"],[[r["stress"],USD(r["revenue"]),USD(r["cost"]),USD(r["surplus_before_owner_tax_reserves"])] for r in stress]),"",
-          "Generated from [project inputs](project.json) by [build_execution.py](../tools/build_execution.py). Dated cash schedules, prices, scope and reserves require professional validation before contracts or sales.",""]
+          "[build_execution.py](../tools/build_execution.py) generates these tables from [project inputs](project.json). Dated cash schedules, prices, scope and reserves require professional validation before contracts or sales.",""]
     (DATA/"financial-results.md").write_text("\n".join(text))
     return results
 
@@ -115,8 +115,8 @@ def partners():
     for prefix,folder,title in [("D","Denver","Denver and Front Range"),("N","North-America","North America"),("W","Worldwide","Worldwide and international networks")]:
         selected=[x for x in people if x["id"].startswith(prefix)]
         target=BASE/"partners"/folder;target.mkdir(parents=True,exist_ok=True)
-        intro=f"# {title} — art and program partner research\n\nAs of October 24, 2026. **All 24 entries are uncontacted research candidates; no partnership, inventory, endorsement, appearance or availability is established.** Now/soon/middle/later refers to when to consider an authorized approach, not a scheduled appointment. Global galleries may operate in North America; these folders organize outreach strategy rather than exclusive geographic citizenship.\n\nGallery inventory, artist commissions, museum/education partnerships and technical production have different economics and decision makers. Institutional names do not imply commercial consignment. See [partner strategy](../PARTNER-STRATEGY.md), [hiring/engagement sequence](../../operations/01-Team-and-Hiring.md) and [source registry](../../RESEARCH.md).\n\n"
-        rows=[[x["id"],f'**{x["name"]}** — {x["type"]}',x["approach_stage"],x["proposed_contribution"],x["constraints"]+f' [Official source]({x["url"]})'] for x in selected]
+        intro=f'# {title}. Art and program partner research\n\nAs of October 24, 2026. **The project has contacted none of these 24 research candidates. No partnership, inventory, endorsement, appearance or availability has confirmation.** Now/soon/middle/later describes when an authorized approach might begin. No appointments exist. Global galleries may operate in North America. These folders organize outreach strategy by the proposed outreach sequence.\n\nGallery inventory, artist commissions, museum/education partnerships and technical production have different economics and decision makers. Institutional names do not imply commercial consignment. See [partner strategy](../PARTNER-STRATEGY.md), [hiring/engagement sequence](../../operations/01-Team-and-Hiring.md) and [source registry](../../RESEARCH.md).\n\n'
+        rows=[[x["id"],f"**{x['name']}**. {x['type']}",x["approach_stage"],x["proposed_contribution"],x["constraints"]+f' [Official source]({x["url"]})'] for x in selected]
         (target/"README.md").write_text(intro+mdtable(["ID","Candidate","Stage","Specific invitation hypothesis","Evidence boundary / due diligence"],rows)+"\n")
     return len(people)
 
@@ -134,7 +134,7 @@ def calendar(p):
         if a>end:break
         b=min(end,a+timedelta(days=6))
         weekly.append({"week":i+1,"start":a.isoformat(),"end":b.isoformat(),"theme":w["theme"],
-                       "gate":w["gate"],"owner":w["owner"],"deliverable":w["deliverable"],"status":"Planned; conditional"})
+                       "gate":w["gate"],"owner":w["owner"],"deliverable":w["deliverable"],"status":'Planned. Conditional'})
         assert len(w["days"])==7
         for j,task in enumerate(w["days"]):
             day=a+timedelta(days=j)
@@ -143,22 +143,22 @@ def calendar(p):
             if isinstance(task,str):task={"task":task,"owner":w["owner"]}
             gate=gates.get(day.isoformat())
             title=task["task"]
-            if gate:title+="; DECISION: "+gate["title"]
+            if gate:title+='. Decision on '+gate["title"]
             daily.append({"id":f"DAY-{n:03d}","date":day.isoformat(),"weekday":day.strftime("%A"),"week":i+1,
                           "action":title,"accountable_role":task.get("owner",w["owner"]),
                           "output":task.get("output",w["deliverable"]),
                           "prerequisite_gate":w["gate"],
                           "prior_calendar_record":f"DAY-{n-1:03d}" if n>1 else "None",
-                          "workload":task.get("workload","Paid build/show/strike shift with rostered rest" if date(2027,7,26)<=day<=date(2027,8,20) else ("Light review / rest" if j in (0,6) else "Funded work block; scope to accepted hours")),
-                          "status":"Planned; no external action authorized by this calendar"})
+                          "workload":task.get("workload","Paid build/show/strike shift with rostered rest" if date(2027,7,26)<=day<=date(2027,8,20) else ("Light review / rest" if j in (0,6) else 'Funded work block. Scope to accepted hours')),
+                          "status":'Planned. No external action authorized by this calendar'})
     assert len(daily)==365 and len(weekly)==53
     assert daily[0]["date"]=="2026-11-01" and daily[-1]["date"]=="2027-10-31"
     csvwrite("daily-action-plan.csv",daily);csvwrite("weekly-action-plan.csv",weekly)
-    out=["# Day-by-day operating plan — year one","",
-         "November 1, 2026–October 31, 2027; 365 dated records. Planning assignments by role, not accepted commitments. External actions occur only after appropriate authority and funding. Weekends are generally light review/rest; show/build periods differ. The prior-calendar-record field is a navigation reference, not a claim that unrelated streams must execute serially. Gate conditions override dates; carry blocked work forward rather than spend or announce prematurely.","",
-         "Proposed event: August 9–15, 2027; public art days August 11–15. These dates are unbooked. [CSV](../data/daily-action-plan.csv) supports filtering/import; [weekly view](../data/weekly-action-plan.csv) summarizes 53 weeks. [Gate definitions](../data/project.json) and [critical path](03-Action-Plan-and-Gates.md) control execution.",""]
+    out=['# Day-by-day operating plan: year one',"",
+         'November 1, 2026–October 31, 2027. 365 dated records. The calendar proposes role assignments. Each person must accept a scope separately. External actions occur only after appropriate authority and funding. Weekends are generally light review/rest. Show/build periods differ. The prior-calendar-record field links adjacent dates. It creates no task dependency. Gate conditions override dates. Carry blocked work forward until the relevant approval and funds exist.',"",
+         'Proposed event: August 9–15, 2027. Public art days August 11–15. The project has no date booking. [CSV](../data/daily-action-plan.csv) supports filtering/import. [weekly view](../data/weekly-action-plan.csv) summarizes 53 weeks. [Gate definitions](../data/project.json) and [critical path](03-Action-Plan-and-Gates.md) control execution.',""]
     for w in weekly:
-        out += [f'## Week {w["week"]}: {w["theme"]}',"",f'{w["start"]}–{w["end"]} · Gate: {w["gate"]} · Accountable function: {w["owner"]}',"",
+        out += [f'## Week {w["week"]}: {w["theme"]}',"",f"{w['start']}–{w['end']}. Gate {w['gate']}. Responsible function: {w['owner']}","",
                 mdtable(["Date","Action","Responsible function"],[[r["date"],r["action"],r["accountable_role"]] for r in daily if r["week"]==w["week"]]),""]
     (BASE/"operations"/"DAILY-ACTION-PLAN.md").write_text("\n".join(out))
     return len(daily)
@@ -183,15 +183,15 @@ def program(p):
             departures.append({"id":f"TOUR-{day}-{i+1:03d}","date":day,
                 "departure":f"{minute//60:02d}:{minute%60:02d}","return":f"{end//60:02d}:{end%60:02d}",
                 "planning_seats":p["premium_seats_per_departure"],"route":"Artist/producer-approved route assigned after site survey",
-                "status":"Planning inventory only; no permitted capacity or reservation"})
+                "status":'Planning inventory only. No permitted capacity or reservation'})
     assert len(departures)==480 and sum(d["planning_seats"] for d in departures)==7200
     assert 6000<=sum(d["planning_seats"] for d in departures)
     csvwrite("premium-departures.csv",departures)
-    text=["# Proposed event timetable","","America/Denver. Every time, zone, seat figure and collaborator is proposed and unconfirmed. Not a public calendar or permitted-capacity statement. Workshop rooms, guided routes and forum are functional placeholders until mapped to approved space.",""]
+    text=["# Proposed event timetable","",'America/Denver. All times, zones, seat counts and collaborators remain proposals. Not a public calendar or permitted-capacity statement. The site survey and approvals must establish where workshops, guided routes and the forum can operate.',""]
     for day in sorted({e["date"] for e in events}):
         text += ["## "+day,"",mdtable(["Time","Zone","Program","Accountable function","Access/price hypothesis"],[
             [e["start"]+"–"+e["end"],e["zone"],e["title"],e["accountable_role"],e["price_hypothesis"] or "Set after scope/approval"] for e in events if e["date"]==day]),""]
-    text += ["Potential collaborators, status and capacity limits are in the [JSON](../data/event-program.json) and [CSV](../data/event-program.csv). The separate [guided-departure inventory](../data/premium-departures.csv) is a 7,200-seat theoretical planning model, not approved admissions.",""]
+    text += ['Potential collaborators, status and capacity limits are in the [JSON](../data/event-program.json) and [CSV](../data/event-program.csv). The [guided-departure model](../data/premium-departures.csv) allocates 7,200 theoretical seats. The project has no approved admissions capacity.',""]
     (BASE/"program"/"PROGRAMME-TIMETABLE.md").write_text("\n".join(text))
     return len(events)
 

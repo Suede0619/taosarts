@@ -1,54 +1,54 @@
 week,start,end,theme,gate,owner,deliverable,status
-1,2026-11-01,2026-11-07,Charter and working brief,PRE,Program lead coordinates; daily accountable roles below,"Approved internal charter, evidence map and capacity boundaries",Planned; conditional
-2,2026-11-08,2026-11-14,Discovery underwriting preparation,PRE,Program lead coordinates; daily accountable roles below,"Reviewable seed case, owner diligence request and private responsibility map",Planned; conditional
-3,2026-11-15,2026-11-21,Funded discovery decision,G0,Program lead coordinates; daily accountable roles below,Funding decision and bounded commissioned assessments,Planned; conditional
-4,2026-11-22,2026-11-28,Property and neighborhood discovery,G0,Program lead coordinates; daily accountable roles below,Owner-approved survey brief and community listening plan,Planned; conditional
-5,2026-11-29,2026-12-05,Footprint and collector tests,G0,Program lead coordinates; daily accountable roles below,Two viable footprint hypotheses and initial demand evidence,Planned; conditional
-6,2026-12-06,2026-12-12,Quotes and legal structure,G0,Program lead coordinates; daily accountable roles below,Initial professional estimates and entity/contract issues list,Planned; conditional
-7,2026-12-13,2026-12-19,Site feasibility decision,G1,Program lead coordinates; daily accountable roles below,"Written site outcome, alternate path or stop/rescope",Planned; conditional
-8,2026-12-20,2026-12-26,Holiday consolidation,G1,Program lead coordinates; daily accountable roles below,Clean evidence/rights register and no unfunded expansion,Planned; conditional
-9,2026-12-27,2027-01-02,Year transition,G1,Program lead coordinates; daily accountable roles below,January commissioning priorities and decision register,Planned; conditional
-10,2027-01-03,2027-01-09,Delivery leadership contracting,G1,Program lead coordinates; daily accountable roles below,"Producer, finance and collector role offers ready for authorized agreement",Planned; conditional
-11,2027-01-10,2027-01-16,Selection and artist fairness,G1,Program lead coordinates; daily accountable roles below,"Selection policy, paid artist scopes and open-call draft",Planned; conditional
-12,2027-01-17,2027-01-23,Conditional exhibitor proposition,G1,Program lead coordinates; daily accountable roles below,Conditional gallery and artist offer package,Planned; conditional
-13,2027-01-24,2027-01-30,Organization and finance evidence,G1,Program lead coordinates; daily accountable roles below,G2 decision evidence and revised risk register,Planned; conditional
-14,2027-01-31,2027-02-06,Delivery organization decision,G2,Program lead coordinates; daily accountable roles below,Accepted delivery structure or rescope decision,Planned; conditional
-15,2027-02-07,2027-02-13,Collector audience development,G2,Program lead coordinates; daily accountable roles below,Qualified-household target allocation and appointment process,Planned; conditional
-16,2027-02-14,2027-02-20,Underwriter and sponsor offer,G2,Program lead coordinates; daily accountable roles below,Audience-specific commercial proposal and benefits ledger,Planned; conditional
-17,2027-02-21,2027-02-27,Gallery pipeline and public process,G2,Program lead coordinates; daily accountable roles below,Conditional exhibitor shortlist and artist-selection process,Planned; conditional
-18,2027-02-28,2027-03-06,Budget and site reconciliation,G2,Program lead coordinates; daily accountable roles below,Quote-informed scope and funding gap review,Planned; conditional
-19,2027-03-07,2027-03-13,Commission briefs and procurement,G2,Program lead coordinates; daily accountable roles below,Artist-led briefs and bounded requests for proposals,Planned; conditional
-20,2027-03-14,2027-03-20,Digital and service prototype,G2,Program lead coordinates; daily accountable roles below,Tested information/appointment prototype,Planned; conditional
-21,2027-03-21,2027-03-27,Launch readiness evidence,G2,Program lead coordinates; daily accountable roles below,Public launch checklist and go/no-go pack,Planned; conditional
-22,2027-03-28,2027-04-03,Public launch decision,G3,Program lead coordinates; daily accountable roles below,"Documented launch, resize or no-launch decision",Planned; conditional
-23,2027-04-04,2027-04-10,Approved announcement phase,G3,Program lead coordinates; daily accountable roles below,Controlled public communications and inquiry workflow,Planned; conditional
-24,2027-04-11,2027-04-17,Partner content and travel,G3,Program lead coordinates; daily accountable roles below,Cleared partner narratives and travel proposition,Planned; conditional
-25,2027-04-18,2027-04-24,Artwork intake and seller readiness,G3,Program lead coordinates; daily accountable roles below,Rights-cleared work records and seller operating agreements,Planned; conditional
-26,2027-04-25,2027-05-01,Visitor product and ticket readiness,G3,Program lead coordinates; daily accountable roles below,Tested booking/payment support and refund policy,Planned; conditional
-27,2027-05-02,2027-05-08,Collector appointments and service,G3,Program lead coordinates; daily accountable roles below,Useful appointment calendar and full-cost quotation process,Planned; conditional
-28,2027-05-09,2027-05-15,Program contracting,G3,Program lead coordinates; daily accountable roles below,"Funded speakers, workshops and performers with backups",Planned; conditional
-29,2027-05-16,2027-05-22,Production drawings and inventory,G3,Program lead coordinates; daily accountable roles below,Controlled technical drawings and installation schedule,Planned; conditional
-30,2027-05-23,2027-05-29,Access and public readiness,G3,Program lead coordinates; daily accountable roles below,Accessibility review and program-commitment evidence,Planned; conditional
-31,2027-05-30,2027-06-05,Program commitment decision,G4,Program lead coordinates; daily accountable roles below,Funded rights-cleared program or reductions,Planned; conditional
-32,2027-06-06,2027-06-12,Freight and visitor logistics,G4,Program lead coordinates; daily accountable roles below,Artwork movement and visitor-arrival plan,Planned; conditional
-33,2027-06-13,2027-06-19,International calendar and editorial,G4,Program lead coordinates; daily accountable roles below,Calendar-aware collector/press plan,Planned; conditional
-34,2027-06-20,2027-06-26,Concierge and customer-care rehearsal,G4,Program lead coordinates; daily accountable roles below,Rehearsed inquiry-to-fulfillment service,Planned; conditional
-35,2027-06-27,2027-07-03,Build authorization decision,G5,Program lead coordinates; daily accountable roles below,Approved funded build package or no-build decision,Planned; conditional
-36,2027-07-04,2027-07-10,Staff and vendor mobilization,G5,Program lead coordinates; daily accountable roles below,"Accepted staffing, training and vendor schedule",Planned; conditional
-37,2027-07-11,2027-07-17,Final content and campaign conversion,G5,Program lead coordinates; daily accountable roles below,Accurate final public information and confirmation campaign,Planned; conditional
-38,2027-07-18,2027-07-24,Operations tabletop,G5,Program lead coordinates; daily accountable roles below,Documented incident/recovery rehearsal and fixes,Planned; conditional
-39,2027-07-25,2027-07-31,First installation period,G5,Program lead coordinates; daily accountable roles below,Controlled load-in and daily defect register,Planned; conditional
-40,2027-08-01,2027-08-07,Operational readiness and final install,G6,Program lead coordinates; daily accountable roles below,"Ready rooms, trained teams and final inspection evidence",Planned; conditional
-41,2027-08-08,2027-08-14,Opening and fair week,G7,Program lead coordinates; daily accountable roles below,Controlled opening and daily show reports,Planned; conditional
-42,2027-08-15,2027-08-21,Closing and restoration,G7,Program lead coordinates; daily accountable roles below,"Completed event, protected works and owner restoration acceptance",Planned; conditional
-43,2027-08-22,2027-08-28,Initial settlement and buyer care,G7,Program lead coordinates; daily accountable roles below,Seller/customer reconciliation and prompt follow-through,Planned; conditional
-44,2027-08-29,2027-09-04,Sponsor proof and public reporting,G7,Program lead coordinates; daily accountable roles below,Evidence-led partner report and financial close progress,Planned; conditional
-45,2027-09-05,2027-09-11,Post-event conversion and care,G7,Program lead coordinates; daily accountable roles below,Useful buyer follow-up and updated completed-sales ledger,Planned; conditional
-46,2027-09-12,2027-09-18,Thirty-day review,G7,Program lead coordinates; daily accountable roles below,Thirty-day outcome and reserve review,Planned; conditional
-47,2027-09-19,2027-09-25,Audit trail and rights close,G7,Program lead coordinates; daily accountable roles below,"Complete rights, asset and contract archive",Planned; conditional
-48,2027-09-26,2027-10-02,Strategic and financial review,G7,Program lead coordinates; daily accountable roles below,Evidence-based continuation/rescope analysis,Planned; conditional
-49,2027-10-03,2027-10-09,Final collection and corrections,G7,Program lead coordinates; daily accountable roles below,Resolved receivables/claims or documented exceptions,Planned; conditional
-50,2027-10-10,2027-10-16,Sixty-day close decision,G8,Program lead coordinates; daily accountable roles below,Sixty-day reconciliation and approved factual report,Planned; conditional
-51,2027-10-17,2027-10-23,Annual handoff and team review,G8,Program lead coordinates; daily accountable roles below,Complete operating handoff and performance review,Planned; conditional
-52,2027-10-24,2027-10-30,Next-edition decision preparation,G8,Program lead coordinates; daily accountable roles below,Continuation decision grounded in actual evidence,Planned; conditional
-53,2027-10-31,2027-10-31,Year-one close,G8,Program lead coordinates; daily accountable roles below,Year-one handoff; November 13 reserve review remains separately scheduled,Planned; conditional
+1,2026-11-01,2026-11-07,Charter and working brief,PRE,The program lead coordinates each week. The daily calendar assigns roles,"Approved internal charter, evidence map and capacity boundaries",Planned. Conditional
+2,2026-11-08,2026-11-14,Discovery underwriting preparation,PRE,The program lead coordinates each week. The daily calendar assigns roles,"Reviewable seed case, owner diligence request and private responsibility map",Planned. Conditional
+3,2026-11-15,2026-11-21,Funded discovery decision,G0,The program lead coordinates each week. The daily calendar assigns roles,Funding decision and bounded commissioned assessments,Planned. Conditional
+4,2026-11-22,2026-11-28,Property and neighborhood discovery,G0,The program lead coordinates each week. The daily calendar assigns roles,Owner-approved survey brief and community listening plan,Planned. Conditional
+5,2026-11-29,2026-12-05,Footprint and collector tests,G0,The program lead coordinates each week. The daily calendar assigns roles,Two viable footprint hypotheses and initial demand evidence,Planned. Conditional
+6,2026-12-06,2026-12-12,Quotes and legal structure,G0,The program lead coordinates each week. The daily calendar assigns roles,Initial professional estimates and entity/contract issues list,Planned. Conditional
+7,2026-12-13,2026-12-19,Site feasibility decision,G1,The program lead coordinates each week. The daily calendar assigns roles,"Written site outcome, alternate path or stop/rescope",Planned. Conditional
+8,2026-12-20,2026-12-26,Holiday consolidation,G1,The program lead coordinates each week. The daily calendar assigns roles,Clean evidence/rights register and no unfunded expansion,Planned. Conditional
+9,2026-12-27,2027-01-02,Year transition,G1,The program lead coordinates each week. The daily calendar assigns roles,January commissioning priorities and decision register,Planned. Conditional
+10,2027-01-03,2027-01-09,Delivery leadership contracting,G1,The program lead coordinates each week. The daily calendar assigns roles,"Producer, finance and collector role offers ready for authorized agreement",Planned. Conditional
+11,2027-01-10,2027-01-16,Selection and artist fairness,G1,The program lead coordinates each week. The daily calendar assigns roles,"Selection policy, paid artist scopes and open-call draft",Planned. Conditional
+12,2027-01-17,2027-01-23,Conditional exhibitor proposition,G1,The program lead coordinates each week. The daily calendar assigns roles,Conditional gallery and artist offer package,Planned. Conditional
+13,2027-01-24,2027-01-30,Organization and finance evidence,G1,The program lead coordinates each week. The daily calendar assigns roles,G2 decision evidence and revised risk register,Planned. Conditional
+14,2027-01-31,2027-02-06,Delivery organization decision,G2,The program lead coordinates each week. The daily calendar assigns roles,Accepted delivery structure or rescope decision,Planned. Conditional
+15,2027-02-07,2027-02-13,Collector audience development,G2,The program lead coordinates each week. The daily calendar assigns roles,Qualified-household target allocation and appointment process,Planned. Conditional
+16,2027-02-14,2027-02-20,Underwriter and sponsor offer,G2,The program lead coordinates each week. The daily calendar assigns roles,Audience-specific commercial proposal and benefits ledger,Planned. Conditional
+17,2027-02-21,2027-02-27,Gallery pipeline and public process,G2,The program lead coordinates each week. The daily calendar assigns roles,Conditional exhibitor shortlist and artist-selection process,Planned. Conditional
+18,2027-02-28,2027-03-06,Budget and site reconciliation,G2,The program lead coordinates each week. The daily calendar assigns roles,Quote-informed scope and funding gap review,Planned. Conditional
+19,2027-03-07,2027-03-13,Commission briefs and procurement,G2,The program lead coordinates each week. The daily calendar assigns roles,Artist-led briefs and bounded requests for proposals,Planned. Conditional
+20,2027-03-14,2027-03-20,Digital and service prototype,G2,The program lead coordinates each week. The daily calendar assigns roles,Tested information/appointment prototype,Planned. Conditional
+21,2027-03-21,2027-03-27,Launch readiness evidence,G2,The program lead coordinates each week. The daily calendar assigns roles,Public launch checklist and go/no-go pack,Planned. Conditional
+22,2027-03-28,2027-04-03,Public launch decision,G3,The program lead coordinates each week. The daily calendar assigns roles,"Documented launch, resize or no-launch decision",Planned. Conditional
+23,2027-04-04,2027-04-10,Approved announcement phase,G3,The program lead coordinates each week. The daily calendar assigns roles,Controlled public communications and inquiry workflow,Planned. Conditional
+24,2027-04-11,2027-04-17,Partner content and travel,G3,The program lead coordinates each week. The daily calendar assigns roles,Cleared partner narratives and travel proposition,Planned. Conditional
+25,2027-04-18,2027-04-24,Artwork intake and seller readiness,G3,The program lead coordinates each week. The daily calendar assigns roles,Rights-cleared work records and seller operating agreements,Planned. Conditional
+26,2027-04-25,2027-05-01,Visitor product and ticket readiness,G3,The program lead coordinates each week. The daily calendar assigns roles,Tested booking/payment support and refund policy,Planned. Conditional
+27,2027-05-02,2027-05-08,Collector appointments and service,G3,The program lead coordinates each week. The daily calendar assigns roles,Useful appointment calendar and full-cost quotation process,Planned. Conditional
+28,2027-05-09,2027-05-15,Program contracting,G3,The program lead coordinates each week. The daily calendar assigns roles,"Funded speakers, workshops and performers with backups",Planned. Conditional
+29,2027-05-16,2027-05-22,Production drawings and inventory,G3,The program lead coordinates each week. The daily calendar assigns roles,Controlled technical drawings and installation schedule,Planned. Conditional
+30,2027-05-23,2027-05-29,Access and public readiness,G3,The program lead coordinates each week. The daily calendar assigns roles,Accessibility review and program-commitment evidence,Planned. Conditional
+31,2027-05-30,2027-06-05,Program commitment decision,G4,The program lead coordinates each week. The daily calendar assigns roles,Funded rights-cleared program or reductions,Planned. Conditional
+32,2027-06-06,2027-06-12,Freight and visitor logistics,G4,The program lead coordinates each week. The daily calendar assigns roles,Artwork movement and visitor-arrival plan,Planned. Conditional
+33,2027-06-13,2027-06-19,International calendar and editorial,G4,The program lead coordinates each week. The daily calendar assigns roles,Calendar-aware collector/press plan,Planned. Conditional
+34,2027-06-20,2027-06-26,Concierge and customer-care rehearsal,G4,The program lead coordinates each week. The daily calendar assigns roles,Rehearsed inquiry-to-fulfillment service,Planned. Conditional
+35,2027-06-27,2027-07-03,Build authorization decision,G5,The program lead coordinates each week. The daily calendar assigns roles,Approved funded build package or no-build decision,Planned. Conditional
+36,2027-07-04,2027-07-10,Staff and vendor mobilization,G5,The program lead coordinates each week. The daily calendar assigns roles,"Accepted staffing, training and vendor schedule",Planned. Conditional
+37,2027-07-11,2027-07-17,Final content and campaign conversion,G5,The program lead coordinates each week. The daily calendar assigns roles,Accurate final public information and confirmation campaign,Planned. Conditional
+38,2027-07-18,2027-07-24,Operations tabletop,G5,The program lead coordinates each week. The daily calendar assigns roles,Documented incident/recovery rehearsal and fixes,Planned. Conditional
+39,2027-07-25,2027-07-31,First installation period,G5,The program lead coordinates each week. The daily calendar assigns roles,Controlled load-in and daily defect register,Planned. Conditional
+40,2027-08-01,2027-08-07,Operational readiness and final install,G6,The program lead coordinates each week. The daily calendar assigns roles,"Ready rooms, trained teams and final inspection evidence",Planned. Conditional
+41,2027-08-08,2027-08-14,Opening and fair week,G7,The program lead coordinates each week. The daily calendar assigns roles,Controlled opening and daily show reports,Planned. Conditional
+42,2027-08-15,2027-08-21,Closing and restoration,G7,The program lead coordinates each week. The daily calendar assigns roles,"Completed event, protected works and owner restoration acceptance",Planned. Conditional
+43,2027-08-22,2027-08-28,Initial settlement and buyer care,G7,The program lead coordinates each week. The daily calendar assigns roles,Seller/customer reconciliation and prompt follow-through,Planned. Conditional
+44,2027-08-29,2027-09-04,Sponsor proof and public reporting,G7,The program lead coordinates each week. The daily calendar assigns roles,Evidence-led partner report and financial close progress,Planned. Conditional
+45,2027-09-05,2027-09-11,Post-event conversion and care,G7,The program lead coordinates each week. The daily calendar assigns roles,Useful buyer follow-up and updated completed-sales ledger,Planned. Conditional
+46,2027-09-12,2027-09-18,Thirty-day review,G7,The program lead coordinates each week. The daily calendar assigns roles,Thirty-day outcome and reserve review,Planned. Conditional
+47,2027-09-19,2027-09-25,Audit trail and rights close,G7,The program lead coordinates each week. The daily calendar assigns roles,"Complete rights, asset and contract archive",Planned. Conditional
+48,2027-09-26,2027-10-02,Strategic and financial review,G7,The program lead coordinates each week. The daily calendar assigns roles,Evidence-based continuation/rescope analysis,Planned. Conditional
+49,2027-10-03,2027-10-09,Final collection and corrections,G7,The program lead coordinates each week. The daily calendar assigns roles,Resolved receivables/claims or documented exceptions,Planned. Conditional
+50,2027-10-10,2027-10-16,Sixty-day close decision,G8,The program lead coordinates each week. The daily calendar assigns roles,Sixty-day reconciliation and approved factual report,Planned. Conditional
+51,2027-10-17,2027-10-23,Annual handoff and team review,G8,The program lead coordinates each week. The daily calendar assigns roles,Complete operating handoff and performance review,Planned. Conditional
+52,2027-10-24,2027-10-30,Next-edition decision preparation,G8,The program lead coordinates each week. The daily calendar assigns roles,Continuation decision grounded in actual evidence,Planned. Conditional
+53,2027-10-31,2027-10-31,Year-one close,G8,The program lead coordinates each week. The daily calendar assigns roles,Year-one handoff. November 13 reserve review remains separately scheduled,Planned. Conditional

@@ -1,56 +1,56 @@
 # Creative direction / working brand system
 
-Working designed proposal · October 24, 2026. No site/date, partner, funding or capacity commitment. This slide script accompanies the editable PowerPoint and PDF.
+Working designed proposal, October 24, 2026. No site/date, partner, funding or capacity commitment. This slide script accompanies the editable PowerPoint and PDF.
 
 ## 1. COMMON ALTITUDE
 
 OFFICE OF THE IMPOSSIBLE
-Working creative direction / Denver 2027
+Proposed Denver Art Fair & Exhibition, 2027
 
 
-## 2. The ordinary becomes extraordinary.
+## 2. Art in former offices
 
-A remarkable place to discover and acquire art, open to the city.
+Artists and galleries present work for sale alongside commissions and free public programs.
 
-- Artist authorship, a public welcome and a serious art market.
-- A familiar room can become an unexpected encounter.
-- The visitor experience should be as good as the headline idea.
+- Give each artist or gallery a defined space and control of their presentation.
+- Provide readable artwork records, buyer appointments and seller contacts.
+- Pay creative work and keep core public art discovery free.
 
-## 3. A precise interruption.
+## 3. Ink, paper and two accent colors
 
-Ink and paper establish calm. Citron and cobalt create a controlled moment of surprise.
+Use ink and paper for reading. Citron and cobalt identify selected actions and programs.
 
 
-## 4. An open frame. A shared passage.
+## 4. Two offset open frames
 
-An original abstract identity device, not a drawing of the venue.
+The original abstract mark suggests connected rooms. It contains no measured building plan.
 
-- A room, a threshold and a horizon.
-- Two structures in one coherent system.
-- Simple enough for a label; strong enough for a facade-scale concept.
-- Final name/mark clearance and production proofs remain required.
+- Preserve the offset frames and their proportions.
+- Use one-color versions on artwork labels and larger signs.
+- Test legibility at actual production sizes.
+- Clear the name and mark before public launch.
 
-## 5. A clear invitation.
+## 5. Poster information and hierarchy
 
-A concept application with honest proposed status, not a public event announcement.
+The concept identifies the event. Dates, venue and participants still need confirmation.
 
-- Oversized short language.
-- A disciplined original graphic.
-- Practical information remains readable.
-- Artwork is credited evidence, never decorative stock.
+- State Denver Art Fair & Exhibition.
+- Show the date and venue status clearly.
+- Keep access and free/paid information readable.
+- Credit art images and use them only with permission.
 
-## 6. One system. Many voices.
+## 6. Three exhibition settings
 
-The art leads; the system supplies coherence.
+Keep the same type, colors and information rules across the program.
 
-- PRECISE — Editorial clarity, accurate information and serious service.
-- NOCTURNAL — Artist-led light/sound for specific approved programs.
-- MATERIAL — Hands, making and paid local authorship.
+- GALLERIES. Readable labels, full artwork views and quiet buying appointments.
+- MEDIA WORKS. Artist-led light and sound with approved access and operating limits.
+- WORKSHOPS. Paid artists lead making and learning with clear participant terms.
 
-## 7. Make the experience worthy of the art.
+## 7. Brand review and design scope
 
-Review the direction with artists, buyers, residents and disabled visitors; refine through funded design work.
+Test the direction with artists, buyers, residents and disabled visitors. Fund the next design scope.
 
-- Keep authorship, rights and public welcome intact.
-- Choose achievable exceptional work over borrowed spectacle.
-- Use the brand book and production briefs as the working system.
+- Check whether visitors understand the event and next action.
+- Test type, color, images and signs at actual sizes.
+- Record changes and approval before public production.

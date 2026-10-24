@@ -1,98 +1,98 @@
 # Collectors, advisers and prospective acquisition clients
 
-Working designed proposal · October 24, 2026. No site/date, partner, funding or capacity commitment. This slide script accompanies the editable PowerPoint and PDF.
+Working designed proposal, October 24, 2026. No site/date, partner, funding or capacity commitment. This slide script accompanies the editable PowerPoint and PDF.
 
 ## 1. COMMON ALTITUDE
 
 A COLLECTOR CONVERSATION
-Proposed Denver Art Fair & Exhibition · August 2027
+Proposed Denver Art Fair & Exhibition, August 2027
 
 
-## 2. Distinctive work. Trusted sellers. Time to look.
+## 2. Art selection and buying service
 
-The proposition is thoughtful discovery with dependable acquisition service.
+The proposal combines selected gallery and artist presentations with human acquisition support.
 
 - An edited set of gallery and artist presentations.
-- A remarkable environment without losing clarity.
-- A real human who can help you follow through.
+- Rooms for work, with readable labels and clear routes.
+- A staff contact for appointments, seller questions and delivery follow-up.
 
-## 3. What would make the trip worthwhile?
+## 3. Reasons to visit Denver
 
-This is a demand conversation; the roster and work are not confirmed.
+Buyer interviews must establish demand. The project has no confirmed roster or available work.
 
-- Quality — A coherent curatorial argument and work that rewards attention.
-- Access — Useful artist/gallery appointments and relevant context.
-- Confidence — Clear information, seller authority, price and delivery.
+- Quality. Specific artists and works selected by an accountable curator.
+- Access. Useful artist/gallery appointments and relevant context.
+- Confidence. Clear information, seller authority, price and delivery.
 
-## 4. A proposed constellation of rooms.
+## 4. Proposed rooms and catalog
 
-60 functional spaces is a planning concept, not a confirmed building plan.
+The 60-space concept needs a site survey and owner approval.
 
-- 24 — Gallery presentation targets
-- 12 — Direct-artist salon targets
-- 6 — Artist-authored signature briefs
-- 300 — Cleared saleable record target
+- 24. Gallery presentation targets
+- 12. Direct-artist salon targets
+- 6. Artist-authored signature briefs
+- 300. Cleared saleable record target
 
-## 5. The unexpected should have substance.
+## 5. Signature commission ideas
 
-Signature concepts are uncommissioned invitations, not promised famous works.
+Artists would develop these briefs through funded agreements. No famous work has a booking.
 
-- Perception — A room that changes how you look.
-- Material + memory — Artist-led responses to work, place and possibility.
-- Public imagination — Paid local contribution and a genuine welcome.
+- Perception. An artist-authored room exploring perception.
+- Material + memory. Work responding to office materials and the history of the site.
+- Public imagination. Paid local artists and free public access.
 
-## 6. A purchase process you can understand.
+## 6. Purchase information and delivery
 
-Actual seller agreements control every sale.
+Actual seller agreements govern every sale.
 
-- Before — Accurate whole-work image, size, medium, seller and current availability.
-- During — An informed conversation and clear full-cost seller quote/invoice.
-- After — Condition, receipt/title information and delivery/install support.
+- Before. Accurate whole-work image, size, medium, seller and current availability.
+- During. An informed conversation and clear full-cost seller quote/invoice.
+- After. Condition, receipt/title information and delivery/install support.
 
-## 7. Your collection. Your privacy.
+## 7. Collector privacy
 
-Preferences and appointment details are handled with consent and controlled access.
+Ask permission for preferences and appointments. Limit staff access to the records they need.
 
 - No sale of collector identities to sponsors or the landlord.
 - Optional real-estate interest is a separate choice.
 - No AI authenticity or investment-return promises.
 
-## 8. A proposed reason to travel.
+## 8. Proposed travel week
 
-Dates and site remain unbooked; travel should wait for confirmation.
+Wait for venue and date confirmation before booking travel.
 
-- MON–TUE — Professional/collector previews and appointments.
-- WED–SUN — Free core art discovery and public programming.
-- BEYOND — Appropriate follow-up viewing and seller support.
+- MON–TUE. Professional/collector previews and appointments.
+- WED–SUN. Free core art discovery and public programming.
+- BEYOND. Appropriate follow-up viewing and seller support.
 
-## 9. Welcoming by design.
+## 9. Free access and optional paid programs
 
-Serious art and public generosity belong together.
+Core art discovery needs no premium purchase. Guides and workshops may charge separately.
 
-- Free discovery — Core art does not require a premium guide.
-- Optional depth — Reserved guided experiences and workshops may be paid.
-- Useful help — Clear access information and a human contact.
+- Free discovery. Core art does not require a premium guide.
+- Optional depth. Optional guides and workshops may charge separate fees.
+- Useful help. Clear access information and a human contact.
 
-## 10. Help shape the right offer.
+## 10. Collector research questions
 
-We are testing actual needs rather than guessing who will buy.
+Ask about actual interests, practical needs and buying support.
 
-- Interests — Artists/media/ideas you want to encounter.
-- Practical needs — Time, travel, access and appointment preferences.
-- Buying support — Information and service needed for a confident decision.
+- Interests. Artists/media/ideas you want to encounter.
+- Practical needs. Time, travel, access and appointment preferences.
+- Buying support. Information and service needed for a confident decision.
 
-## 11. Tell us what would make it worthwhile.
+## 11. Expression of interest
 
-An expression of interest is not a reservation, purchase obligation or promised work allocation.
+Interest creates no reservation, purchase obligation or artwork allocation.
 
 - Consider an appropriate discovery conversation.
 - Review confirmed artists/work only after permission and availability checks.
 - Make travel or purchase decisions on verified information.
 
-## 12. A carefully labeled proposition.
+## 12. Sources and current status
 
-No artwork inventory, celebrity appearance, venue/date or gallery partnership is guaranteed.
+The project guarantees no inventory, appearance, venue, date or gallery participation.
 
 - Official research sources and the detailed business/service plan accompany the proposal.
-- All displayed graphics are original concepts, not reproductions of a named artist's work.
+- The deck uses original concept graphics. It reproduces no named artist’s work.
 - Actual confirmed works, rights and seller terms belong in a later release catalogue.

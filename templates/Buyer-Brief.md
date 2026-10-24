@@ -1,11 +1,11 @@
-# Buyer brief — private working template
+# Buyer brief: private working template
 
 Do not fill this with real buyer data in the public repository.
 
 - Household/organization ID and responsible staff member:
 - Permission to contact, preferred channel, and consent date:
 - Purchase purpose and decision maker:
-- Budget range; whether it includes tax, shipping, framing, installation:
+- Budget range. Whether it includes tax, shipping, framing, installation:
 - Interests, artists, media, qualities, or works the buyer responds to:
 - Dimensions, site, materials, environmental or access constraints:
 - Intended purchase/installation date:

@@ -1,6 +1,8 @@
 # Updating this document repository
 
-Keep research, supplied planning inputs and proposed decisions distinguishable. A target is not an outcome; an organizer report is not an audit; a missing figure is not zero. Use direct source links near factual claims, record the applicable year and units, and explain corrections.
+Keep research, supplied planning inputs and proposed decisions distinguishable. A target is not an outcome. An organizer report is not an audit. A missing figure is not zero. Use direct source links near factual claims, record the applicable year and units, and explain corrections.
+
+Read [WRITING-GUIDE.md](WRITING-GUIDE.md) before editing prose, headings, labels or presentations. Keep numbers, evidence status and source quotations accurate.
 
 ## Before changing a plan
 
@@ -13,9 +15,9 @@ Keep research, supplied planning inputs and proposed decisions distinguishable. 
 
 ## Privacy and rights
 
-Keep current public documents anonymous and unattributed. Use role titles for project responsibilities; omit participant biographies, personal circumstances, dedications and narratives of who proposed or approved an idea. Apply this to agent instructions, handoffs, filenames, research tables and prototype copy too. A factual business-name association may remain in the HOUSE of FIRE listing; sourced artists and historical figures remain valid research subjects. Private ignored records may retain names and original provenance. Anonymization must preserve the distinction between supplied planning notes, verified evidence and proposals.
+Keep current public documents anonymous and unattributed. Use role titles for project responsibilities. Omit participant biographies, personal circumstances, dedications and narratives of who proposed or approved an idea. Apply this to agent instructions, handoffs, filenames, research tables and prototype copy too. A factual business-name association may remain in the HOUSE of FIRE listing. Sourced artists and historical figures remain valid research subjects. Private ignored records may retain names and original provenance. Anonymization must preserve the distinction between supplied planning notes, verified evidence and proposals.
 
-`private/`, environment files, and local caches are ignored. An ignore rule does not remove something already tracked. Never commit buyer identities, bank/payment details, tax IDs, donor lists, signatures, private contracts, credentials, or the unredacted future 2026 archive. Store sensitive working records in an appropriately controlled location; this public repo is not a CRM or settlement system.
+Git ignores `private/`, environment files and local caches. An ignore rule does not remove something already tracked. Never commit buyer identities, bank/payment details, tax IDs, donor lists, signatures, private contracts, credentials, or the unredacted future 2026 archive. Store sensitive working records in an appropriately controlled location. This public repo is not a CRM or settlement system.
 
 Do not import third-party images, brochures, reports, or a partner's directory without permission. Preserve artist copyright and limited promotional licenses. Nothing in this repository grants rights to festival marks, House of Fire assets, HeyTaos content, or other organizations' material.
 

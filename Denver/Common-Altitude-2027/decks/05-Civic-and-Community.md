@@ -1,6 +1,6 @@
 # Civic agencies, arts/community organizations and access partners
 
-Working designed proposal · October 24, 2026. No site/date, partner, funding or capacity commitment. This slide script accompanies the editable PowerPoint and PDF.
+Working designed proposal, October 24, 2026. No site/date, partner, funding or capacity commitment. This slide script accompanies the editable PowerPoint and PDF.
 
 ## 1. COMMON ALTITUDE
 
@@ -8,90 +8,90 @@ CIVIC + COMMUNITY DISCUSSION
 A proposed art fair and exhibition with a public welcome.
 
 
-## 2. More art in people's lives. More income in artists' hands.
+## 2. Artist pay and free public access
 
-The event must create useful local value, not merely an impressive temporary image.
+The proposal budgets creative work and core art access. Measure both outcomes.
 
 - Free core art discovery.
 - Paid artistic and educational contribution.
 - Accountable operations and truthful outcomes.
 
-## 3. Proposed paid creative contribution.
+## 3. Proposed creative fees
 
-Illustrative envelopes; no commissions or grants awarded.
+The project has awarded no commission or grant.
 
-- $200,000 — Artist/program-fee envelope
-- 12 — Direct-artist salon targets
-- $30,000 — Combined proposed salon stipends
+- $200,000. Artist/program-fee envelope
+- 12. Direct-artist salon targets
+- $30,000. Combined proposed salon stipends
 
-## 4. A credible public welcome.
+## 4. Visitor access before and during the fair
 
-Access is operational, not simply a slogan.
+Access requires information, usable routes, trained staff and suitable programs.
 
-- Before arrival — Clear free/paid information, transport and access/sensory details.
-- At the site — Approved accessible routes, rest/help and trained staff.
-- In the program — Free learning, appropriate making and paid local leadership.
+- Before arrival. Clear free/paid information, transport and access/sensory details.
+- At the site. Approved accessible routes, rest/help and trained staff.
+- In the program. Free learning, appropriate making and paid local leadership.
 
-## 5. Respect the site and the city.
+## 5. Site approval and neighborhood effects
 
-The proposed property is a construction/tenant environment until evidence shows what can be used.
+The property has construction and tenant constraints. Confirm each usable area.
 
-- Approvals — Actual use, capacity, life safety and required inspections.
-- Boundaries — Owner, tenants, contractors, concourse and public realm.
-- Neighbors — Sound, hours, arrival, loading, waste and factual contact routes.
+- Approvals. Actual use, capacity, life safety and required inspections.
+- Boundaries. Owner, tenants, contractors, concourse and public realm.
+- Neighbors. Sound, hours, arrival, loading, waste and factual contact routes.
 
-## 6. Local authorship matters.
+## 6. Local artist and community roles
 
-Institutional names do not create agreement or permission.
+Ask communities about the work and pay for accepted contributions.
 
-- Paid listening — Community concerns inform the brief before it is fixed.
-- Cultural authority — Relevant artists/communities lead their own representation.
-- Independent selection — Commercial underwriting does not buy the program.
+- Paid listening. Ask communities about the brief before finalizing it.
+- Cultural authority. Relevant artists/communities lead their own representation.
+- Independent selection. Commercial underwriting does not buy the program.
 
-## 7. A proposed seven-day program.
+## 7. Proposed seven-day program
 
-August 9–15, 2027 remains a planning week, not a city-approved date.
+The August 9–15, 2027 planning week has no city approval.
 
-- PROFESSIONAL — Two orientation/preview days.
-- PUBLIC — Five free-core-art days, talks and making.
-- CLOSE — Restoration, settlement and evidence-led reporting.
+- PROFESSIONAL. Two orientation/preview days.
+- PUBLIC. Five free-core-art days, talks and making.
+- CLOSE. Restoration, settlement and evidence-led reporting.
 
-## 8. Report results that mean something.
+## 8. Artist, public and operating results
 
-No unsupported economic-impact multiplier.
+Report direct measures with methods. The plan uses no economic-impact multiplier.
 
-- Artist value — Fees, completed sales and settlement performance.
-- Public value — Access, participation, learning and local feedback.
-- Operating value — Incidents, restoration, complaints and corrective action.
+- Artist value. Fees, completed sales and settlement performance.
+- Public value. Access, participation, learning and local feedback.
+- Operating value. Incidents, restoration, complaints and corrective action.
 
-## 9. Public grants are not the base case.
+## 9. Funding and opening conditions
 
-The commercial proposal must stand on a lawful funded structure.
+The base income model includes $0 in public grants.
 
-- $0 — Public grants in base income
-- G1 — Site feasibility before promises
-- G7 — Required readiness before opening
+- $0. Public grants in base income
+- G1. Site feasibility before promises
+- G7. Required readiness before opening
 
-## 10. What we want to learn.
+## 10. Agency and community questions
 
-This is a coordination discussion, not a submitted application.
+The project seeks guidance on the process. It has submitted no application.
 
-- Applicable process — Correct agencies, use/permit path and review timing.
-- Public fit — Meaningful local benefit and eligible program scope, if any.
-- Concerns early — Construction, access, community, noise and public-realm issues.
+- Applicable process. Correct agencies, use/permit path and review timing.
+- Public fit. Meaningful local benefit and eligible program scope, if any.
+- Concerns early. Construction, access, community, noise and public-realm issues.
 
-## 11. Help define a responsible path.
+## 11. Coordination and evidence needs
 
-If appropriate, identify the correct coordination route and evidence needed before the concept proceeds.
+Identify the responsible agencies and the evidence they need before the project proceeds.
 
 - No implied city endorsement or funding.
 - No unapproved public-property use.
 - Return with specific site, team, finance and public-benefit evidence.
 
-## 12. Current evidence and unresolved conditions.
+## 12. Sources and unresolved conditions
 
-Dated primary guidance and prior venue research are in the repository.
+The repository links dated guidance and venue research.
 
-- Denver event/arts-program guidance; ADA/WCAG design references.
+- Denver event/arts-program guidance. ADA/WCAG design references.
 - Exact footprint, lawful use, capacity and construction availability remain unresolved.
 - Public-program partners and accepted roles require separate agreement.

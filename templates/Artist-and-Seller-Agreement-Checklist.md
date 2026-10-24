@@ -1,16 +1,16 @@
 # Artist and seller agreement checklist
 
-Review aid, not a contract. Actual terms need the parties' agreement and appropriate local professional review.
+Agreement-review checklist. The parties must prepare and approve an actual contract. Actual terms need the parties' agreement and appropriate local professional review.
 
-- [ ] Parties and authority; existing representation and exclusivity respected.
+- [ ] Parties and authority. Existing representation and exclusivity respected.
 - [ ] Listed works and editions, title, condition, provenance where relevant, and owner.
 - [ ] Prices, currency, discount authority, fee allocation, tax and all other deductions.
-- [ ] Southwest Art direct-artist website offer: zero platform commission; state who funds processing and make any full-art-price payout promise accurate. Gallery/estate/resale terms are separate.
+- [ ] Southwest Art direct-artist website offer: zero platform commission. State who funds processing and make any full-art-price payout promise accurate. Gallery/estate/resale terms are separate.
 - [ ] No undisclosed stacking of gallery, referral, festival, or advisor fees.
 - [ ] Merchant/seller, payment route, refunds/returns, fraud and chargeback responsibilities.
 - [ ] Hold process, shared availability, withdrawal, unsold pickup, and deadlines.
 - [ ] Custody, handling, transport, insurance limits/exclusions, damage and loss procedure.
-- [ ] Artist copyright; limited image/text license, credit, term, channel and takedown.
+- [ ] Artist copyright. Limited image/text license, credit, term, channel and takedown.
 - [ ] Accurate identity and cultural descriptions approved by the artist.
 - [ ] Delivery/acceptance, itemized settlement, payout timing, exceptions and dispute route.
 - [ ] Optional services and sponsorship do not purchase editorial selection.

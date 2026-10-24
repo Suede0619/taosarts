@@ -1,40 +1,40 @@
 # Website research data
 
-**Snapshot: October 19, 2026. Research and recruitment material, not a live catalog.**
+**Snapshot: October 19, 2026. Research and recruitment records. The project has no live catalog.**
 
 | File | Records | Meaning |
 |---|---:|---|
 | [artist-cohort.csv](artist-cohort.csv) | 10 | Proposed artists, original selection rationale, context source and sourcing limits. |
 | [artwork-candidates.csv](artwork-candidates.csv) | 60 | Six work candidates per artist, factual metadata, published price where available, observed source status, seller and image references. |
 | [place-candidates.csv](place-candidates.csv) | 38 | Twelve gallery, ten experience, eight restaurant and eight lodging targets, with practical source/price limitations. |
-| [image-source-manifest.csv](image-source-manifest.csv) | 98 | One research-reference row per work/place; 92 contain an image URL and six have no retrieved usable reference. |
+| [image-source-manifest.csv](image-source-manifest.csv) | 98 | One research-reference row per work/place. 92 contain an image URL and six have no retrieved usable reference. |
 
-These are UTF-8 CSVs readable in a spreadsheet. Source strings preserve published title/dimension details; original editorial briefs are our short research summaries. External URLs may expire or change.
+These are UTF-8 CSVs readable in a spreadsheet. Source strings preserve published title/dimension details. Original editorial briefs are our short research summaries. External URLs may expire or change.
 
 ## Work fields and availability
 
-`artwork_year` is blank when unknown; upload/exhibition dates are not substituted. `dimensions_as_published` retains source order, while `dimension_unit` is blank if not established. `dimension_basis` identifies image/overall/framed where known or the need to confirm. Future canonical records require normalized dimensions and exact order/basis before hard size filters or scale visualization.
+`artwork_year` is blank when unknown. Upload/exhibition dates are not substituted. `dimensions_as_published` retains source order, while `dimension_unit` is blank if not established. `dimension_basis` identifies image/overall/framed where known or the need to confirm. Future canonical records require normalized dimensions and exact order/basis before hard size filters or scale visualization.
 
-`price_usd` is a public asking price, not an accepted sale or full delivered cost. **Blank is unknown, never zero.** The six Miguel product-page `$0` values are excluded as placeholders. Edition/reproduction variants are separate from sold original paintings. `source_availability` describes the publisher's page/API, not a confirmation from an authorized seller to Southwest Art.
+`price_usd` records the public asking price. It excludes an accepted-sale claim and full delivery cost. **Blank means unknown.** The six Miguel pages display `$0` without valid sale prices. Those values do not enter price fields. Keep edition and reproduction variants separate from sold originals. `source_availability` records the publisher’s page or API. Obtain seller confirmation separately.
 
 | Source status | Interpretation |
 |---|---|
-| `publisher_available` | Own site says available; still needs current seller confirmation and our permission. |
+| `publisher_available` | Own site says available. Still needs current seller confirmation and our permission. |
 | `publisher_in_stock_1` | Gallery product page showed one in stock. |
-| `shop_variant_available_true` | Specific nonzero-priced public shop variant reports available; not a different sold original. |
+| `shop_variant_available_true` | Specific nonzero-priced public shop variant reports available. Not a different sold original. |
 | `publisher_priced_not_marked_sold` | A priced print record was not marked sold in retrieved data. |
-| `current_works_catalog` | Appears in the artist's Current Works collection; stock/date/unit still need confirmation. |
-| `inquiry_listing` | Published work/inquiry context, not proof of present sale availability. |
-| `publisher_priced_inquiry` | Seller publishes an asking price and invites inquiry; stock/title/proceeds still need confirmation. |
-| `by_request_source_conflict` | Index and product information conflict; no sale assertion or checkout. |
+| `current_works_catalog` | Appears in the artist's Current Works collection. Stock/date/unit still need confirmation. |
+| `inquiry_listing` | Published work and inquiry context. Current availability needs seller confirmation. |
+| `publisher_priced_inquiry` | Seller publishes an asking price and invites inquiry. Stock/title/proceeds still need confirmation. |
+| `by_request_source_conflict` | Index and product information conflict. No sale assertion or checkout. |
 
-All sixty records have `rights_status=not_cleared`, `seller_authority=not_obtained` and `checkout_eligible=false`. `DEMO-…` product references are explicit placeholders, **not Stripe product/price IDs** and not permission to charge. No secrets, payment accounts, actual buyer data or seller banking information are stored here.
+All sixty records have `rights_status=not_cleared`, `seller_authority=not_obtained` and `checkout_eligible=false`. `DEMO-…` product references are explicit placeholders, **not Stripe product/price IDs** and not permission to charge. This package stores no secrets, payment accounts, buyer records or seller banking details.
 
 ## Image references
 
-No image files were downloaded into this public package. A source-image URL is a discovery reference, not a license, an approved master or an instruction to hotlink production images. Artwork associations should be checked against the exact title/version; a shared photo of two Thom Wheeler objects is explicitly identified in work notes. Larry Bell's installation reference may be thumbnail-sized and is not a sufficient master.
+The public package contains no downloaded image files. An image URL identifies a research source. It grants no license, master-file approval or hotlink permission. Check image associations against the exact work title and version. The work notes identify the shared photograph of two Thom Wheeler objects. Larry Bell's installation reference may be thumbnail-sized and is not a sufficient master.
 
-Place-image rows are **unverified page-image candidates**. The first relevant non-logo source image is only a lead; it may depict a collection object, another room or a generic scene. Verify its subject, room/work association, quality, creator and permission before use. Missing rows remain blank instead of using an invented image. All production use is disabled pending clearance.
+Place-image rows are **unverified page-image candidates**. The first relevant non-logo source image is only a lead. It may depict a collection object, another room or a generic scene. Verify its subject, room/work association, quality, creator and permission before use. Leave image fields blank when no source exists. The dataset permits no production use before clearance.
 
 The full future asset record includes rights holder, photographer, permitted channels/territory/term, evidence, credit, dimensions/color profile, approved derivatives and withdrawal/expiry. See [technical/content specification](../06-DATA-TECHNICAL-AND-CONTENT-SPEC.md).
 

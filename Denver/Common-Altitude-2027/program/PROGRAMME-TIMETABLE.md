@@ -1,6 +1,6 @@
 # Proposed event timetable
 
-America/Denver. Every time, zone, seat figure and collaborator is proposed and unconfirmed. Not a public calendar or permitted-capacity statement. Workshop rooms, guided routes and forum are functional placeholders until mapped to approved space.
+America/Denver. All times, zones, seat counts and collaborators remain proposals. Not a public calendar or permitted-capacity statement. The site survey and approvals must establish where workshops, guided routes and the forum can operate.
 
 ## 2027-08-09
 
@@ -29,8 +29,8 @@ America/Denver. Every time, zone, seat figure and collaborator is proposed and u
 
 | Time | Zone | Program | Accountable function | Access/price hypothesis |
 | --- | --- | --- | --- | --- |
-| 10:00–18:40 | Approved guided routes | Guided discovery journeys; staggered reserved departures | Collector / visitor leads | $50 average pass assumption |
-| 10:00–19:00 | Free core route | Looking changes things — gallery and artist discovery | Artistic / visitor leads | Free |
+| 10:00–18:40 | Approved guided routes | Guided discovery journeys. Staggered reserved departures | Collector / visitor leads | $50 average pass assumption |
+| 10:00–19:00 | Free core route | Looking changes things. Gallery and artist discovery | Artistic / visitor leads | Free |
 | 10:00–19:00 | The Exchange | Artwork questions, appointments and seller handoff | Collector / registrar leads | Free inquiry |
 | 10:00–11:00 | Workshop A | Print a small edition | Paid teaching team A | $35 |
 | 10:00–11:00 | Workshop B | Print a small edition | Paid teaching team B | $35 |
@@ -52,8 +52,8 @@ America/Denver. Every time, zone, seat figure and collaborator is proposed and u
 
 | Time | Zone | Program | Accountable function | Access/price hypothesis |
 | --- | --- | --- | --- | --- |
-| 10:00–18:40 | Approved guided routes | Guided discovery journeys; staggered reserved departures | Collector / visitor leads | $50 average pass assumption |
-| 10:00–19:00 | Free core route | The work behind the work — gallery and artist discovery | Artistic / visitor leads | Free |
+| 10:00–18:40 | Approved guided routes | Guided discovery journeys. Staggered reserved departures | Collector / visitor leads | $50 average pass assumption |
+| 10:00–19:00 | Free core route | The work behind the work. Gallery and artist discovery | Artistic / visitor leads | Free |
 | 10:00–19:00 | The Exchange | Artwork questions, appointments and seller handoff | Collector / registrar leads | Free inquiry |
 | 10:00–11:00 | Workshop A | Print a small edition | Paid teaching team A | $35 |
 | 10:00–11:00 | Workshop B | Print a small edition | Paid teaching team B | $35 |
@@ -76,8 +76,8 @@ America/Denver. Every time, zone, seat figure and collaborator is proposed and u
 
 | Time | Zone | Program | Accountable function | Access/price hypothesis |
 | --- | --- | --- | --- | --- |
-| 10:00–18:40 | Approved guided routes | Guided discovery journeys; staggered reserved departures | Collector / visitor leads | $50 average pass assumption |
-| 10:00–19:00 | Free core route | Collecting beyond the obvious — gallery and artist discovery | Artistic / visitor leads | Free |
+| 10:00–18:40 | Approved guided routes | Guided discovery journeys. Staggered reserved departures | Collector / visitor leads | $50 average pass assumption |
+| 10:00–19:00 | Free core route | Collecting beyond the obvious. Gallery and artist discovery | Artistic / visitor leads | Free |
 | 10:00–19:00 | The Exchange | Artwork questions, appointments and seller handoff | Collector / registrar leads | Free inquiry |
 | 10:00–11:00 | Workshop A | Print a small edition | Paid teaching team A | $35 |
 | 10:00–11:00 | Workshop B | Print a small edition | Paid teaching team B | $35 |
@@ -100,8 +100,8 @@ America/Denver. Every time, zone, seat figure and collaborator is proposed and u
 
 | Time | Zone | Program | Accountable function | Access/price hypothesis |
 | --- | --- | --- | --- | --- |
-| 10:00–18:40 | Approved guided routes | Guided discovery journeys; staggered reserved departures | Collector / visitor leads | $50 average pass assumption |
-| 10:00–19:00 | Free core route | The city makes art — gallery and artist discovery | Artistic / visitor leads | Free |
+| 10:00–18:40 | Approved guided routes | Guided discovery journeys. Staggered reserved departures | Collector / visitor leads | $50 average pass assumption |
+| 10:00–19:00 | Free core route | The city makes art. Gallery and artist discovery | Artistic / visitor leads | Free |
 | 10:00–19:00 | The Exchange | Artwork questions, appointments and seller handoff | Collector / registrar leads | Free inquiry |
 | 10:00–11:00 | Workshop A | Print a small edition | Paid teaching team A | $35 |
 | 10:00–11:00 | Workshop B | Print a small edition | Paid teaching team B | $35 |
@@ -124,8 +124,8 @@ America/Denver. Every time, zone, seat figure and collaborator is proposed and u
 
 | Time | Zone | Program | Accountable function | Access/price hypothesis |
 | --- | --- | --- | --- | --- |
-| 10:00–18:40 | Approved guided routes | Guided discovery journeys; staggered reserved departures | Collector / visitor leads | $50 average pass assumption |
-| 10:00–19:00 | Free core route | What we take forward — gallery and artist discovery | Artistic / visitor leads | Free |
+| 10:00–18:40 | Approved guided routes | Guided discovery journeys. Staggered reserved departures | Collector / visitor leads | $50 average pass assumption |
+| 10:00–19:00 | Free core route | What we take forward. Gallery and artist discovery | Artistic / visitor leads | Free |
 | 10:00–19:00 | The Exchange | Artwork questions, appointments and seller handoff | Collector / registrar leads | Free inquiry |
 | 10:00–11:00 | Workshop A | Print a small edition | Paid teaching team A | $35 |
 | 10:00–11:00 | Workshop B | Print a small edition | Paid teaching team B | $35 |
@@ -143,4 +143,4 @@ America/Denver. Every time, zone, seat figure and collaborator is proposed and u
 | 16:30–17:30 | Workshop A | Make a work to take home | Paid teaching team A | $35 |
 | 16:30–17:30 | Workshop B | Make a work to take home | Paid teaching team B | $35 |
 
-Potential collaborators, status and capacity limits are in the [JSON](../data/event-program.json) and [CSV](../data/event-program.csv). The separate [guided-departure inventory](../data/premium-departures.csv) is a 7,200-seat theoretical planning model, not approved admissions.
+Potential collaborators, status and capacity limits are in the [JSON](../data/event-program.json) and [CSV](../data/event-program.csv). The [guided-departure model](../data/premium-departures.csv) allocates 7,200 theoretical seats. The project has no approved admissions capacity.

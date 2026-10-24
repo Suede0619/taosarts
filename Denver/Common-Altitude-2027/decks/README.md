@@ -1,6 +1,6 @@
 # Presentation package
 
-Eight designed presentations: **seven audience-specific pitch decks plus one brand-direction deck**, **101 slides total**. Each has an editable PowerPoint, fixed-layout PDF and readable Markdown slide script. No third-party artwork or partner logo is reproduced.
+Eight designed presentations: **seven audience-specific pitch decks plus one brand-direction deck**, **101 slides total**. Each has an editable PowerPoint, fixed-layout PDF and readable Markdown slide script. The decks contain no third-party artwork or partner logo.
 
 | Audience | PDF | Editable PowerPoint | Script |
 |---|---|---|---|
@@ -15,14 +15,14 @@ Eight designed presentations: **seven audience-specific pitch decks plus one bra
 
 ## What “finished” means here
 
-These are designed, editable, rendered proposal decks—not just outlines. They are suitable for reviewing or presenting the **conditional concept and next decision**. They do not create the missing venue/date/partner/funding commitments. The owner deck asks for a bounded investigation; it does not present a booked full-building event.
+These proposal decks include editable PowerPoints, PDFs and slide scripts. They are suitable for reviewing or presenting the **conditional concept and next decision**. They do not create the missing venue/date/partner/funding commitments. The owner deck asks for a bounded investigation. It does not present a booked full-building event.
 
-Public versions use role titles rather than named current participants. A local ignored owner version includes the supplied proposed team mapping; it is not on GitHub and still requires role/wording review before external use. No NDA portfolio images or private contacts are included in public artifacts.
+Public versions use role titles for current participants. A local ignored owner version includes the supplied proposed team mapping. It is not on GitHub and still requires role/wording review before external use. Public artifacts contain no NDA portfolio images or private contacts.
 
 Before sending: verify sender/contact, recipient/authority, current model/status, accepted team credits, relevant permissions and the intended ask. The later public launch/catalogue requires actual confirmed work/site/date and consumer terms.
 
 ## Tools
 
-The delivered PowerPoints can be refined in a compatible presentation editor; use the PDFs as the visual reference because fonts/layout may reflow elsewhere. A designer can develop the system further in Keynote, PowerPoint, Figma or another preferred tool. No additional service is necessary to use these files.
+Edit the PowerPoints in a compatible presentation editor. Use the PDFs as the visual reference because fonts/layout may reflow elsewhere. A designer can develop the system further in Keynote, PowerPoint, Figma or another preferred tool. No additional service is necessary to use these files.
 
-The local generator uses native editable PowerPoint text/shapes and original graphics. [Build instructions](../tools/README.md) describe Python dependencies, system fonts and PDF export. Adobe Fonts discovery required account connection, so no Adobe catalog recommendation or font activation was claimed.
+The local generator uses native editable PowerPoint text/shapes and original graphics. [Build instructions](../tools/README.md) describe Python dependencies, system fonts and PDF export. Adobe Fonts required account connection. The package makes no catalog recommendation or font-activation claim.

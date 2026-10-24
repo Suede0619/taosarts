@@ -1,4 +1,4 @@
-"""Validate the public proposal and its generated artifacts; no external actions."""
+'Validate the public proposal and its generated artifacts. No external actions.'
 from pathlib import Path
 from datetime import date, timedelta
 from hashlib import sha256
@@ -91,7 +91,7 @@ def main():
                 if name.endswith(".xml") and NAME.search(z.read(name).decode(errors="replace")):
                     errors.append("PowerPoint XML participant name "+r["id"])
         pages+=len(doc)
-        r["status"]="Rendered PDF/PPTX text and geometry checked; representative visual review performed"
+        r["status"]='PDF and PPTX text and geometry pass checks. Visual review covers representative pages'
     source_hashes=0
     sm=PRIVATE/"sources/manifest.json"
     if sm.exists():

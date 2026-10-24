@@ -12,16 +12,16 @@
       },
       {
         "layout": "trio",
-        "title": "Give the address a cultural life.",
-        "subtitle": "A bounded art activation designed to serve the project and the people who make art.",
+        "title": "Art at Denver Energy Center",
+        "subtitle": "The proposal combines an art market, commissioned work and free public access within an approved footprint.",
         "items": [
           [
             "A reason to visit",
-            "Exceptional work and artist-authored rooms create a compelling destination."
+            "Artists and galleries present selected work in individual rooms."
           ],
           [
             "A useful market",
-            "Collectors meet trusted sellers, with time, context and dependable service."
+            "Buyers get appointments, work records, seller invoices and delivery support."
           ],
           [
             "A public welcome",
@@ -31,18 +31,18 @@
       },
       {
         "layout": "statement",
-        "title": "The ordinary becomes extraordinary.",
-        "subtitle": "An office complex becomes an art fair, exhibition, workshop and place to encounter what is possible.",
+        "title": "Art in former offices",
+        "subtitle": "The proposed fair combines gallery rooms, artist work, workshops and buying appointments.",
         "items": [
           "COMMON ALTITUDE is the master brand.",
           "OFFICE OF THE IMPOSSIBLE is the proposed first-edition theme.",
-          "Artist authorship and buying confidence lead the experience."
+          "Artists control their work. Sellers supply accurate records and purchase terms."
         ]
       },
       {
         "layout": "rooms",
-        "title": "One coherent edition.\nRoom to grow.",
-        "subtitle": "{{core_rooms}} programmed rooms or equivalent spaces is the proposed core—not a surveyed floor plan.",
+        "title": "Proposed allocation of 60 spaces",
+        "subtitle": "A site survey must establish where these {{core_rooms}} program functions can fit.",
         "items": [
           [
             "24",
@@ -64,8 +64,8 @@
       },
       {
         "layout": "week",
-        "title": "A week with a clear rhythm.",
-        "subtitle": "Two professional/preview days. Five public art days. All dates and spaces remain proposed.",
+        "title": "Two preview days and five public days",
+        "subtitle": "The proposed week runs August 9–15, 2027. The project has no venue or date booking.",
         "items": [
           [
             "MON–TUE",
@@ -83,8 +83,8 @@
       },
       {
         "layout": "metrics",
-        "title": "The demand case to prove.",
-        "subtitle": "Targets are unvalidated; visitors, qualified households and completed purchases are different measures.",
+        "title": "Buyer and sales targets",
+        "subtitle": "Demand research must test these targets. Count visits, households and completed purchases separately.",
         "items": [
           [
             "12,000",
@@ -106,8 +106,8 @@
       },
       {
         "layout": "trio",
-        "title": "Sell art with confidence.",
-        "subtitle": "Zero organizer art commission is proposed. Seller/gallery terms and external costs remain separate.",
+        "title": "Seller service and sale completion",
+        "subtitle": "The proposal charges zero organizer art commission. Disclose seller, gallery and external costs separately.",
         "items": [
           [
             "Selected work",
@@ -125,8 +125,8 @@
       },
       {
         "layout": "metrics",
-        "title": "The organizer model.",
-        "subtitle": "Illustrative core proposal; no funding, fees or demand is validated.",
+        "title": "Organizer revenue and costs",
+        "subtitle": "The core scenario uses unverified funding, fee and demand assumptions.",
         "items": [
           [
             "{{core_revenue}}",
@@ -144,8 +144,8 @@
       },
       {
         "layout": "trio",
-        "title": "A precise host arrangement.",
-        "subtitle": "A discussion structure, not an agreed venue offer.",
+        "title": "Proposed venue terms",
+        "subtitle": "The parties need to agree the space, services and profit-share basis.",
         "items": [
           [
             "Space",
@@ -157,14 +157,14 @@
           ],
           [
             "Participation",
-            "10–20% of defined distributable event profit; model comparison uses 15%."
+            "10–20% of defined distributable event profit. Model comparison uses 15%."
           ]
         ]
       },
       {
         "layout": "waterfall",
-        "title": "An honest owner-return illustration.",
-        "subtitle": "Art GMV is seller money. A share of distributable profit produces a much smaller amount.",
+        "title": "Owner profit-share calculation",
+        "subtitle": "Sellers keep artwork proceeds. This calculation applies the proposed owner share to event cash after reserves.",
         "items": [
           [
             "{{core_surplus}}",
@@ -172,7 +172,7 @@
           ],
           [
             "{{eligible_pool}}",
-            "Initially eligible after illustrative holds"
+            "Initial pool after model cash reserves"
           ],
           [
             "{{initial_owner}}",
@@ -180,18 +180,18 @@
           ],
           [
             "{{final_owner}}",
-            "Cumulative comparison only if claims hold is fully released"
+            "Cumulative comparison after a claim-free reserve release"
           ]
         ]
       },
       {
         "layout": "trio",
-        "title": "Serve the rental and leasing strategy.",
-        "subtitle": "Current published direction is rental housing plus retained office use; confirm the specific phase with the owner.",
+        "title": "Rental and office-leasing support",
+        "subtitle": "Published plans describe rentals and retained offices. Confirm the current phase with the owner.",
         "items": [
           [
             "Destination identity",
-            "An excellent cultural experience and credible public narrative."
+            "Art programming that complements the completed development."
           ],
           [
             "Qualified interest",
@@ -199,14 +199,14 @@
           ],
           [
             "Construction protection",
-            "No unsupported whole-building access or schedule interference."
+            "Use only areas the owner approves and protect construction schedules."
           ]
         ]
       },
       {
         "layout": "metrics",
-        "title": "Fund the evidence.\nThen fund delivery.",
-        "subtitle": "Illustrative funding needs, not commitments or an investment offering.",
+        "title": "Discovery funding and event finance",
+        "subtitle": "These targets need contracts and usable cash. The deck makes no investment offer.",
         "items": [
           [
             "$75,000",
@@ -224,12 +224,12 @@
       },
       {
         "layout": "trio",
-        "title": "Build a team that can deliver.",
-        "subtitle": "Founding artistic, product/program and brand functions are identified; appointments and capacity require agreement.",
+        "title": "Team roles and missing specialists",
+        "subtitle": "The proposed founding functions cover art, product/program and brand. Hours and appointments remain open.",
         "items": [
           [
             "Executive producer",
-            "Experienced delivery, site and city interfaces; role open."
+            "Delivery, site and agency coordination. The project needs to fill this role."
           ],
           [
             "Collector + finance",
@@ -243,8 +243,8 @@
       },
       {
         "layout": "trio",
-        "title": "A good neighbor.\nA controlled project.",
-        "subtitle": "The reported construction period overlaps summer 2027. Availability must be established, not assumed.",
+        "title": "Construction and public-use requirements",
+        "subtitle": "Reported construction overlaps summer 2027. The owner must confirm whether any suitable area is available.",
         "items": [
           [
             "Approved use",
@@ -262,8 +262,8 @@
       },
       {
         "layout": "timeline",
-        "title": "Six weeks to a useful decision.",
-        "subtitle": "Proposed discovery structure; no full event commitment is requested at this stage.",
+        "title": "Six-week discovery plan",
+        "subtitle": "The first decision concerns paid feasibility. Event approval follows the results.",
         "items": [
           [
             "1",
@@ -285,8 +285,8 @@
       },
       {
         "layout": "ask",
-        "title": "Authorize a bounded investigation.",
-        "subtitle": "Next decision: nominate the owner counterpart, share the site/phasing evidence and agree a funded discovery scope.",
+        "title": "Discovery decision",
+        "subtitle": "The owner would identify a responsible contact, share plans and phasing, and agree a funded discovery scope.",
         "items": [
           "Explore an approved summer 2027 footprint.",
           "Test waived rent, controlled services and defined profit participation.",
@@ -295,13 +295,13 @@
       },
       {
         "layout": "sources",
-        "title": "The evidence and the conditions.",
-        "subtitle": "Current proposal, October 24, 2026. Site/date, funding, participants and capacities are unconfirmed.",
+        "title": "Sources and open conditions",
+        "subtitle": "October 24, 2026. Venue, dates, funding, partners and capacity still need confirmation.",
         "items": [
           "Owner: denverenergycenter.com",
           "Prior research: rental interview, construction reporting and High Fidelity event listing.",
           "Financial inputs and assumptions are reproducible in the document repository.",
-          "Original concept graphics; no third-party artwork or partner logos reused."
+          "Original concept graphics. The deck contains no third-party art or partner logos."
         ]
       }
     ]
@@ -319,8 +319,8 @@
       },
       {
         "layout": "statement",
-        "title": "A remarkable place to look.\nA useful place to sell.",
-        "subtitle": "An artist-led exhibition and a serious acquisition market, with a generous public welcome.",
+        "title": "A proposed Denver art fair",
+        "subtitle": "Artists and galleries would present work for sale alongside commissions and free public programs.",
         "items": [
           "Proposed August 9–15, 2027.",
           "Free core art discovery across a carefully approved site.",
@@ -329,8 +329,8 @@
       },
       {
         "layout": "trio",
-        "title": "A room should have a point of view.",
-        "subtitle": "The theme is a framework for authorship, not a request to imitate a famous installation.",
+        "title": "Three types of art presentation",
+        "subtitle": "Artists and curators develop their own work within the event theme.",
         "items": [
           [
             "Gallery rooms",
@@ -348,8 +348,8 @@
       },
       {
         "layout": "rooms",
-        "title": "A proposed 60-space edition.",
-        "subtitle": "The functional inventory will be adapted to a surveyed approved footprint.",
+        "title": "Proposed allocation of 60 spaces",
+        "subtitle": "A survey and site approval must establish how these functions fit.",
         "items": [
           [
             "24",
@@ -371,16 +371,16 @@
       },
       {
         "layout": "trio",
-        "title": "Artist economics in plain language.",
-        "subtitle": "No organizer art commission is assumed in the proposal.",
+        "title": "Artist fees and sale proceeds",
+        "subtitle": "The proposal charges zero organizer art commission and budgets pay for commissioned work.",
         "items": [
           [
             "Seller proceeds",
-            "Sales remain with the authorized seller; representation, tax and external costs are disclosed."
+            "The seller receives sale proceeds and discloses representation, tax and external costs."
           ],
           [
             "Paid work",
-            "Commissions, teaching and direct-artist scopes are funded contracts, not exposure promises."
+            "Pay for commissions, teaching and direct-artist work through funded contracts."
           ],
           [
             "Fair selection",
@@ -390,16 +390,16 @@
       },
       {
         "layout": "metrics",
-        "title": "A gallery-service offer to test.",
-        "subtitle": "Optional paid services require a specific value proposition and agreed refund/earning terms.",
+        "title": "Optional gallery services",
+        "subtitle": "Define the deliverables and refund terms, then test whether galleries will buy the package.",
         "items": [
           [
             "$7,500",
-            "Illustrative premium-service package"
+            "Proposed service-package price"
           ],
           [
             "24",
-            "Assumed package purchasers; uptake unvalidated"
+            "Package-purchase assumption. Demand remains unknown"
           ],
           [
             "0%",
@@ -409,8 +409,8 @@
       },
       {
         "layout": "metrics",
-        "title": "Support direct artists.",
-        "subtitle": "Proposed fee envelopes—not accepted commissions or guaranteed grants.",
+        "title": "Direct-artist salons and stipends",
+        "subtitle": "These fee budgets need accepted scopes and funding before any commission.",
         "items": [
           [
             "12",
@@ -428,8 +428,8 @@
       },
       {
         "layout": "metrics",
-        "title": "Build a purchase-ready catalogue.",
-        "subtitle": "Targets depend on signed seller authority, rights and real inventory.",
+        "title": "Catalog and buyer targets",
+        "subtitle": "Confirm seller authority, image rights and stock before publishing work.",
         "items": [
           [
             "300",
@@ -447,8 +447,8 @@
       },
       {
         "layout": "week",
-        "title": "Public culture and serious looking.",
-        "subtitle": "A proposed seven-day rhythm supports professional attention and broader discovery.",
+        "title": "Preview, public and learning programs",
+        "subtitle": "The proposed week gives buyers appointment time and visitors free access to core art.",
         "items": [
           [
             "PREVIEW",
@@ -466,8 +466,8 @@
       },
       {
         "layout": "trio",
-        "title": "Make the service worthy of the work.",
-        "subtitle": "The producer/registrar/seller agreement defines responsibility.",
+        "title": "Artwork care and seller service",
+        "subtitle": "The producer, registrar and seller must agree each responsibility.",
         "items": [
           [
             "Before",
@@ -485,8 +485,8 @@
       },
       {
         "layout": "trio",
-        "title": "Rights and independence.",
-        "subtitle": "Nothing is acquired by placing a name on a research list.",
+        "title": "Artist rights and selection rules",
+        "subtitle": "Researching a name grants no rights or participation commitment.",
         "items": [
           [
             "Authorship",
@@ -504,8 +504,8 @@
       },
       {
         "layout": "timeline",
-        "title": "A staged invitation.",
-        "subtitle": "No deposits, artwork custody or public announcement before the relevant authority and funding.",
+        "title": "Partner invitation sequence",
+        "subtitle": "Secure authority and funds before taking deposits, accepting work or announcing participation.",
         "items": [
           [
             "NOW",
@@ -527,8 +527,8 @@
       },
       {
         "layout": "ask",
-        "title": "Consider a specific proposition.",
-        "subtitle": "The next step is a scoped discussion, followed by a conditional room/work proposal if there is a fit.",
+        "title": "Room and artwork proposals",
+        "subtitle": "A paid or appropriately scoped discussion would establish work, terms and delivery needs.",
         "items": [
           "Tell us the work, buyer and practical conditions that matter.",
           "Develop an artist-led presentation with clear economics.",
@@ -537,10 +537,10 @@
       },
       {
         "layout": "sources",
-        "title": "Research is not a roster.",
-        "subtitle": "72 geographically organized candidates inform the proposal; none is represented here as a committed partner.",
+        "title": "Candidate research and status",
+        "subtitle": "The project has contacted none of the 72 researched candidates.",
         "items": [
-          "Official artist/gallery/institution sources are indexed in the document repository.",
+          "The document repository lists official artist, gallery and institution sources.",
           "Image rights, inventory, fees and availability require direct agreement.",
           "Venue/date and operating economics remain proposal assumptions."
         ]
@@ -555,13 +555,13 @@
       {
         "layout": "cover",
         "title": "COMMON\nALTITUDE",
-        "subtitle": "FOUNDING DISCOVERY UNDERWRITING\nFund a disciplined path from ambition to a decision.",
+        "subtitle": "FOUNDING DISCOVERY UNDERWRITING\nA proposed six-week feasibility stage.",
         "items": []
       },
       {
         "layout": "trio",
-        "title": "Three outcomes worth backing.",
-        "subtitle": "A cultural event should create value beyond its opening photograph.",
+        "title": "Artist income and public access",
+        "subtitle": "The proposal measures completed sales, paid creative work and visitor access.",
         "items": [
           [
             "Artist income",
@@ -569,18 +569,18 @@
           ],
           [
             "Public discovery",
-            "A generous encounter with art across backgrounds and budgets."
+            "Free core exhibitions and paid educators, with access information for visitors."
           ],
           [
             "A credible destination",
-            "An excellent experience with accountable delivery."
+            "A Denver visit supported by confirmed work, appointments and transport information."
           ]
         ]
       },
       {
         "layout": "metrics",
-        "title": "First, fund the evidence.",
-        "subtitle": "A bounded paid-discovery target, credited once within later sponsorship if agreed.",
+        "title": "A $75,000 discovery target",
+        "subtitle": "The parties may agree to count discovery support once within later sponsorship.",
         "items": [
           [
             "$75,000",
@@ -598,8 +598,8 @@
       },
       {
         "layout": "trio",
-        "title": "What the first commitment buys.",
-        "subtitle": "No unconditional promise to launch.",
+        "title": "Discovery deliverables",
+        "subtitle": "The paid scope tests the site, demand, art offer, costs and finance before an event decision.",
         "items": [
           [
             "Site + delivery",
@@ -617,8 +617,8 @@
       },
       {
         "layout": "timeline",
-        "title": "A useful decision in six weeks.",
-        "subtitle": "Specific deliverables and milestone acceptance govern the paid scope.",
+        "title": "Six-week decision schedule",
+        "subtitle": "Contracts would define milestones, acceptance and payment.",
         "items": [
           [
             "DISCOVER",
@@ -640,8 +640,8 @@
       },
       {
         "layout": "metrics",
-        "title": "The larger capital path.",
-        "subtitle": "Core scenario assumptions, not funded commitments.",
+        "title": "Event funding targets",
+        "subtitle": "The core scenario has no funding commitments.",
         "items": [
           [
             "$1.25m",
@@ -659,8 +659,8 @@
       },
       {
         "layout": "metrics",
-        "title": "The market target.",
-        "subtitle": "Art GMV is seller money and does not finance the event.",
+        "title": "Art-sales assumptions",
+        "subtitle": "Artwork proceeds pay sellers and stay separate from event finance.",
         "items": [
           [
             "$3m",
@@ -678,8 +678,8 @@
       },
       {
         "layout": "trio",
-        "title": "Pay the people doing the work.",
-        "subtitle": "Defined fees and scope first; appropriate upside can be additional.",
+        "title": "Team and artist pay",
+        "subtitle": "Budget defined work first. Agree any additional bonus separately.",
         "items": [
           [
             "Core delivery",
@@ -697,8 +697,8 @@
       },
       {
         "layout": "trio",
-        "title": "Why this host could matter.",
-        "subtitle": "Space and creative ambition meet a rental/office redevelopment strategy.",
+        "title": "Owner fit and site limits",
+        "subtitle": "The fair could support the rental and office project if the owner confirms a usable footprint.",
         "items": [
           [
             "Useful activation",
@@ -716,8 +716,8 @@
       },
       {
         "layout": "waterfall",
-        "title": "Do not confuse surplus with cash.",
-        "subtitle": "Illustrative core model before actual contracts, tax and claims.",
+        "title": "Surplus and preopening cash",
+        "subtitle": "The model tests unverified income, costs, cash restrictions and reserve assumptions.",
         "items": [
           [
             "{{core_revenue}}",
@@ -739,8 +739,8 @@
       },
       {
         "layout": "trio",
-        "title": "Controls before scale.",
-        "subtitle": "No grants or celebrity participation are required assumptions.",
+        "title": "Conditions before expansion",
+        "subtitle": "The base model assumes no public grants or celebrity participation.",
         "items": [
           [
             "Evidence gates",
@@ -758,8 +758,8 @@
       },
       {
         "layout": "timeline",
-        "title": "Know what happens next.",
-        "subtitle": "Project day one is November 1, 2026; the event week remains proposed.",
+        "title": "Project decision dates",
+        "subtitle": "Project day one is November 1, 2026. Event dates remain proposals.",
         "items": [
           [
             "NOV",
@@ -781,8 +781,8 @@
       },
       {
         "layout": "ask",
-        "title": "Underwrite a defined decision.",
-        "subtitle": "Discuss a $75,000 milestone-based discovery contract, with clear deliverables and stop terms.",
+        "title": "Discovery contract discussion",
+        "subtitle": "A $75,000 milestone-based agreement would define deliverables, payment and stopping terms.",
         "items": [
           "No implied investment return or tax-deductible donation.",
           "No forced launch if feasibility fails.",
@@ -791,12 +791,12 @@
       },
       {
         "layout": "sources",
-        "title": "A transparent proposal.",
-        "subtitle": "Market, venue and candidate research is sourced; demand, costs and all commercial terms remain unvalidated.",
+        "title": "Sources and unresolved terms",
+        "subtitle": "Research supports context. Demand, costs and commercial terms still need evidence.",
         "items": [
           "Reproducible finance, monthly cash, gates and action plan accompany this deck.",
           "Appropriate professional advice determines actual entity, tax and funding treatment.",
-          "No party has been contacted or committed by creating this deck."
+          "Creating this deck made no contact or commitment."
         ]
       }
     ]
@@ -804,18 +804,18 @@
   {
     "id": "04-Sponsors-and-Hospitality",
     "audience": "Commercial sponsors, hospitality and destination partners",
-    "title": "Support something people will remember—and artists can benefit from.",
+    "title": "Support something people will remember. And artists can benefit from.",
     "slides": [
       {
         "layout": "cover",
         "title": "COMMON\nALTITUDE",
-        "subtitle": "SPONSORSHIP + DESTINATION PARTNERSHIPS\nArt. Public imagination. A reason to come.",
+        "subtitle": "SPONSORSHIP AND DESTINATION PARTNERSHIPS\nA proposed Denver art fair and public program.",
         "items": []
       },
       {
         "layout": "trio",
-        "title": "Three audiences, one coherent experience.",
-        "subtitle": "Every number is a target until measured.",
+        "title": "Three audience groups",
+        "subtitle": "The proposal serves collectors, residents and artists. Audience sizes remain targets.",
         "items": [
           [
             "Collectors + advisers",
@@ -827,14 +827,14 @@
           ],
           [
             "Creative community",
-            "Paid artist, teaching and program contribution."
+            "Fees for artists, teaching and public programs."
           ]
         ]
       },
       {
         "layout": "metrics",
-        "title": "The audience case to validate.",
-        "subtitle": "No sponsor is being sold an already-proven crowd.",
+        "title": "Audience targets",
+        "subtitle": "The project has no measured event audience to offer sponsors.",
         "items": [
           [
             "12,000",
@@ -852,8 +852,8 @@
       },
       {
         "layout": "trio",
-        "title": "Choose a meaningful chapter.",
-        "subtitle": "Activations follow artistic/site/rights approval and are costed.",
+        "title": "Program sponsorship options",
+        "subtitle": "Price each activity and obtain site, artist and rights approval before offering it.",
         "items": [
           [
             "Public access + learning",
@@ -871,8 +871,8 @@
       },
       {
         "layout": "packages",
-        "title": "A package architecture to test.",
-        "subtitle": "Cash target $1.25m. No package is sold or demand validated.",
+        "title": "Sponsorship packages",
+        "subtitle": "The $1.25m target assumes sales of these proposed packages. No sponsor has bought one.",
         "items": [
           [
             "1 × $400k",
@@ -894,8 +894,8 @@
       },
       {
         "layout": "trio",
-        "title": "Benefits with a delivery owner.",
-        "subtitle": "Define the audience, cost, rights, capacity and proof for each benefit.",
+        "title": "Contracted benefits and evidence",
+        "subtitle": "Assign a responsible person, cost, rights, capacity and delivery measure to each benefit.",
         "items": [
           [
             "Association",
@@ -913,8 +913,8 @@
       },
       {
         "layout": "trio",
-        "title": "Creative integrity protects value.",
-        "subtitle": "A strong brand association comes from real quality.",
+        "title": "Editorial independence and privacy",
+        "subtitle": "Sponsor terms must protect artist selection, image rights and visitor information.",
         "items": [
           [
             "No bought curation",
@@ -932,8 +932,8 @@
       },
       {
         "layout": "week",
-        "title": "A useful destination week.",
-        "subtitle": "Proposed August 9–15, 2027; dates/site remain unbooked.",
+        "title": "Proposed event week",
+        "subtitle": "August 9–15, 2027 remains unbooked. The program and site need approval.",
         "items": [
           [
             "PREVIEW",
@@ -951,8 +951,8 @@
       },
       {
         "layout": "trio",
-        "title": "What we will measure.",
-        "subtitle": "Measure contracted value rather than inventing reach.",
+        "title": "Sponsor reporting",
+        "subtitle": "Report actual delivery, participation and artist outcomes against the contract.",
         "items": [
           [
             "Delivery",
@@ -970,8 +970,8 @@
       },
       {
         "layout": "metrics",
-        "title": "A first step can be bounded.",
-        "subtitle": "Discovery support may be credited once toward an agreed later package.",
+        "title": "Discovery support",
+        "subtitle": "A contract may count discovery support once toward a later sponsorship package.",
         "items": [
           [
             "$75,000",
@@ -989,8 +989,8 @@
       },
       {
         "layout": "trio",
-        "title": "Make the partnership practical.",
-        "subtitle": "Professional responsibility matters as much as creative ambition.",
+        "title": "Commercial terms",
+        "subtitle": "Each partnership needs payment, cancellation, exclusivity, rights and approval terms.",
         "items": [
           [
             "Terms",
@@ -998,18 +998,18 @@
           ],
           [
             "Cost",
-            "Every activation/hospitality promise priced and funded."
+            "Price and fund each program and hospitality benefit."
           ],
           [
             "Approval",
-            "Owner, artist and specialist permissions respected."
+            "Obtain owner, artist and specialist permissions."
           ]
         ]
       },
       {
         "layout": "ask",
-        "title": "Find the right partnership.",
-        "subtitle": "Start with business objectives and a specific funded chapter, not a generic logo placement.",
+        "title": "Partnership discussion",
+        "subtitle": "Identify the sponsor’s objective and a specific program it can fund.",
         "items": [
           "Agree the audience and useful outcome.",
           "Scope rights, cost and delivery evidence.",
@@ -1018,7 +1018,7 @@
       },
       {
         "layout": "sources",
-        "title": "A proposal with visible assumptions.",
+        "title": "Sources and open assumptions",
         "subtitle": "No sponsor, hospitality partner or artist has accepted participation.",
         "items": [
           "Package prices and audience targets are original unvalidated assumptions.",
@@ -1041,8 +1041,8 @@
       },
       {
         "layout": "statement",
-        "title": "More art in people's lives.\nMore income in artists' hands.",
-        "subtitle": "The event must create useful local value, not merely an impressive temporary image.",
+        "title": "Artist pay and free public access",
+        "subtitle": "The proposal budgets creative work and core art access. Measure both outcomes.",
         "items": [
           "Free core art discovery.",
           "Paid artistic and educational contribution.",
@@ -1051,8 +1051,8 @@
       },
       {
         "layout": "metrics",
-        "title": "Proposed paid creative contribution.",
-        "subtitle": "Illustrative envelopes; no commissions or grants awarded.",
+        "title": "Proposed creative fees",
+        "subtitle": "The project has awarded no commission or grant.",
         "items": [
           [
             "$200,000",
@@ -1070,8 +1070,8 @@
       },
       {
         "layout": "trio",
-        "title": "A credible public welcome.",
-        "subtitle": "Access is operational, not simply a slogan.",
+        "title": "Visitor access before and during the fair",
+        "subtitle": "Access requires information, usable routes, trained staff and suitable programs.",
         "items": [
           [
             "Before arrival",
@@ -1089,8 +1089,8 @@
       },
       {
         "layout": "trio",
-        "title": "Respect the site and the city.",
-        "subtitle": "The proposed property is a construction/tenant environment until evidence shows what can be used.",
+        "title": "Site approval and neighborhood effects",
+        "subtitle": "The property has construction and tenant constraints. Confirm each usable area.",
         "items": [
           [
             "Approvals",
@@ -1108,12 +1108,12 @@
       },
       {
         "layout": "trio",
-        "title": "Local authorship matters.",
-        "subtitle": "Institutional names do not create agreement or permission.",
+        "title": "Local artist and community roles",
+        "subtitle": "Ask communities about the work and pay for accepted contributions.",
         "items": [
           [
             "Paid listening",
-            "Community concerns inform the brief before it is fixed."
+            "Ask communities about the brief before finalizing it."
           ],
           [
             "Cultural authority",
@@ -1127,8 +1127,8 @@
       },
       {
         "layout": "week",
-        "title": "A proposed seven-day program.",
-        "subtitle": "August 9–15, 2027 remains a planning week, not a city-approved date.",
+        "title": "Proposed seven-day program",
+        "subtitle": "The August 9–15, 2027 planning week has no city approval.",
         "items": [
           [
             "PROFESSIONAL",
@@ -1146,8 +1146,8 @@
       },
       {
         "layout": "trio",
-        "title": "Report results that mean something.",
-        "subtitle": "No unsupported economic-impact multiplier.",
+        "title": "Artist, public and operating results",
+        "subtitle": "Report direct measures with methods. The plan uses no economic-impact multiplier.",
         "items": [
           [
             "Artist value",
@@ -1165,8 +1165,8 @@
       },
       {
         "layout": "metrics",
-        "title": "Public grants are not the base case.",
-        "subtitle": "The commercial proposal must stand on a lawful funded structure.",
+        "title": "Funding and opening conditions",
+        "subtitle": "The base income model includes $0 in public grants.",
         "items": [
           [
             "$0",
@@ -1184,8 +1184,8 @@
       },
       {
         "layout": "trio",
-        "title": "What we want to learn.",
-        "subtitle": "This is a coordination discussion, not a submitted application.",
+        "title": "Agency and community questions",
+        "subtitle": "The project seeks guidance on the process. It has submitted no application.",
         "items": [
           [
             "Applicable process",
@@ -1203,8 +1203,8 @@
       },
       {
         "layout": "ask",
-        "title": "Help define a responsible path.",
-        "subtitle": "If appropriate, identify the correct coordination route and evidence needed before the concept proceeds.",
+        "title": "Coordination and evidence needs",
+        "subtitle": "Identify the responsible agencies and the evidence they need before the project proceeds.",
         "items": [
           "No implied city endorsement or funding.",
           "No unapproved public-property use.",
@@ -1213,10 +1213,10 @@
       },
       {
         "layout": "sources",
-        "title": "Current evidence and unresolved conditions.",
-        "subtitle": "Dated primary guidance and prior venue research are in the repository.",
+        "title": "Sources and unresolved conditions",
+        "subtitle": "The repository links dated guidance and venue research.",
         "items": [
-          "Denver event/arts-program guidance; ADA/WCAG design references.",
+          "Denver event/arts-program guidance. ADA/WCAG design references.",
           "Exact footprint, lawful use, capacity and construction availability remain unresolved.",
           "Public-program partners and accepted roles require separate agreement."
         ]
@@ -1231,13 +1231,13 @@
       {
         "layout": "cover",
         "title": "COMMON\nALTITUDE",
-        "subtitle": "TEAM + CO-PRODUCER DISCUSSION\nA demanding creative project deserves a funded team.",
+        "subtitle": "TEAM AND CO-PRODUCER DISCUSSION\nPaid scopes, roles and delivery requirements.",
         "items": []
       },
       {
         "layout": "trio",
-        "title": "The founding functions.",
-        "subtitle": "Proposed roles—not proof of accepted hours or production capacity.",
+        "title": "Proposed founding functions",
+        "subtitle": "Hours, fees, availability and authority still need agreement.",
         "items": [
           [
             "Artistic + relationships",
@@ -1255,12 +1255,12 @@
       },
       {
         "layout": "trio",
-        "title": "The first essential additions.",
-        "subtitle": "Competence and actual availability matter more than a celebrity name.",
+        "title": "First specialist roles",
+        "subtitle": "The project needs experienced delivery, collector sales and finance leads.",
         "items": [
           [
             "Executive producer",
-            "Comparable complex-venue delivery; authority and stop rights."
+            "Comparable complex-venue delivery. Authority and stop rights."
           ],
           [
             "Collector lead",
@@ -1274,8 +1274,8 @@
       },
       {
         "layout": "statement",
-        "title": "Pay for defined work.\nAdd upside thoughtfully.",
-        "subtitle": "The model is funded professional scopes with optional defined performance/profit participation.",
+        "title": "Fees, scope and additional bonuses",
+        "subtitle": "Agree funded work first. Define any performance or profit participation separately.",
         "items": [
           "No indefinite unpaid-production expectation.",
           "Classification, fees, rights, milestones and cancellation agreed.",
@@ -1284,8 +1284,8 @@
       },
       {
         "layout": "metrics",
-        "title": "A bounded discovery stage.",
-        "subtitle": "No engagement begins without scope and usable funds.",
+        "title": "Paid discovery stage",
+        "subtitle": "Begin work only after agreeing the scope and securing usable funds.",
         "items": [
           [
             "$75,000",
@@ -1303,8 +1303,8 @@
       },
       {
         "layout": "metrics",
-        "title": "Later core fee envelopes.",
-        "subtitle": "Scope illustrations, not offers, salaries or unlimited hours.",
+        "title": "Core delivery fee budgets",
+        "subtitle": "These proposed amounts need contracts, hours and worker-classification review.",
         "items": [
           [
             "$260,000",
@@ -1322,8 +1322,8 @@
       },
       {
         "layout": "rooms",
-        "title": "A complex site, sized to evidence.",
-        "subtitle": "Core planning unit: 60 functional spaces, with contained/expanded alternatives.",
+        "title": "Proposed allocation of 60 spaces",
+        "subtitle": "Site evidence must support the footprint. Smaller and larger options need separate budgets.",
         "items": [
           [
             "24",
@@ -1345,8 +1345,8 @@
       },
       {
         "layout": "trio",
-        "title": "Professional partners to investigate.",
-        "subtitle": "Research candidates only; no appointment or endorsement.",
+        "title": "Professional candidates",
+        "subtitle": "The project has appointed none of these candidates.",
         "items": [
           [
             "Two Parts",
@@ -1364,16 +1364,16 @@
       },
       {
         "layout": "timeline",
-        "title": "Decisions before irreversible exposure.",
-        "subtitle": "Actual source, cash and site evidence control the calendar.",
+        "title": "Funding and approval sequence",
+        "subtitle": "Site evidence, usable cash and accepted responsibilities control the schedule.",
         "items": [
           [
             "G0–G1",
-            "Fund discovery; establish site feasibility."
+            "Fund discovery. Establish site feasibility."
           ],
           [
             "G2–G3",
-            "Accept delivery roles; prove launch finance/site path."
+            "Accept delivery roles. Prove launch finance/site path."
           ],
           [
             "G4–G5",
@@ -1387,8 +1387,8 @@
       },
       {
         "layout": "week",
-        "title": "A week designed for different needs.",
-        "subtitle": "Proposed August 9–15, 2027, with preparation/restoration separately funded.",
+        "title": "Preview, public days and close",
+        "subtitle": "The proposed week runs August 9–15, 2027. Budget preparation and restoration separately.",
         "items": [
           [
             "PREVIEW",
@@ -1406,8 +1406,8 @@
       },
       {
         "layout": "ask",
-        "title": "Scope the role you can truly own.",
-        "subtitle": "Next step: an authorized paid-discovery conversation about competence, availability, cost, authority and risk.",
+        "title": "Role and capacity discussion",
+        "subtitle": "A paid discovery scope would define competence, availability, cost, authority and risk.",
         "items": [
           "Bring comparable delivered-work evidence and references.",
           "Identify the conditions you need to deliver well.",
@@ -1416,11 +1416,11 @@
       },
       {
         "layout": "sources",
-        "title": "Evidence and terms remain visible.",
-        "subtitle": "The plan includes 365 daily records, 53 weekly records, model inputs and program/rights/operations drafts.",
+        "title": "Planning records and role agreements",
+        "subtitle": "The package includes 365 daily actions, 53 weekly records and finance, program and operating documents.",
         "items": [
           "Candidate biographies do not establish capacity or willingness.",
-          "No staffing, fee, equity or profit-share agreement is made by this deck.",
+          "This deck creates no staffing, fee, equity or profit-share agreement.",
           "Actual accepted roles and private counterpart details belong in controlled operational records."
         ]
       }
@@ -1434,27 +1434,27 @@
       {
         "layout": "cover",
         "title": "COMMON\nALTITUDE",
-        "subtitle": "A COLLECTOR CONVERSATION\nProposed Denver Art Fair & Exhibition · August 2027",
+        "subtitle": "A COLLECTOR CONVERSATION\nProposed Denver Art Fair & Exhibition, August 2027",
         "items": []
       },
       {
         "layout": "statement",
-        "title": "Distinctive work.\nTrusted sellers.\nTime to look.",
-        "subtitle": "The proposition is thoughtful discovery with dependable acquisition service.",
+        "title": "Art selection and buying service",
+        "subtitle": "The proposal combines selected gallery and artist presentations with human acquisition support.",
         "items": [
           "An edited set of gallery and artist presentations.",
-          "A remarkable environment without losing clarity.",
-          "A real human who can help you follow through."
+          "Rooms for work, with readable labels and clear routes.",
+          "A staff contact for appointments, seller questions and delivery follow-up."
         ]
       },
       {
         "layout": "trio",
-        "title": "What would make the trip worthwhile?",
-        "subtitle": "This is a demand conversation; the roster and work are not confirmed.",
+        "title": "Reasons to visit Denver",
+        "subtitle": "Buyer interviews must establish demand. The project has no confirmed roster or available work.",
         "items": [
           [
             "Quality",
-            "A coherent curatorial argument and work that rewards attention."
+            "Specific artists and works selected by an accountable curator."
           ],
           [
             "Access",
@@ -1468,8 +1468,8 @@
       },
       {
         "layout": "rooms",
-        "title": "A proposed constellation of rooms.",
-        "subtitle": "60 functional spaces is a planning concept, not a confirmed building plan.",
+        "title": "Proposed rooms and catalog",
+        "subtitle": "The 60-space concept needs a site survey and owner approval.",
         "items": [
           [
             "24",
@@ -1491,27 +1491,27 @@
       },
       {
         "layout": "trio",
-        "title": "The unexpected should have substance.",
-        "subtitle": "Signature concepts are uncommissioned invitations, not promised famous works.",
+        "title": "Signature commission ideas",
+        "subtitle": "Artists would develop these briefs through funded agreements. No famous work has a booking.",
         "items": [
           [
             "Perception",
-            "A room that changes how you look."
+            "An artist-authored room exploring perception."
           ],
           [
             "Material + memory",
-            "Artist-led responses to work, place and possibility."
+            "Work responding to office materials and the history of the site."
           ],
           [
             "Public imagination",
-            "Paid local contribution and a genuine welcome."
+            "Paid local artists and free public access."
           ]
         ]
       },
       {
         "layout": "trio",
-        "title": "A purchase process you can understand.",
-        "subtitle": "Actual seller agreements control every sale.",
+        "title": "Purchase information and delivery",
+        "subtitle": "Actual seller agreements govern every sale.",
         "items": [
           [
             "Before",
@@ -1529,8 +1529,8 @@
       },
       {
         "layout": "statement",
-        "title": "Your collection.\nYour privacy.",
-        "subtitle": "Preferences and appointment details are handled with consent and controlled access.",
+        "title": "Collector privacy",
+        "subtitle": "Ask permission for preferences and appointments. Limit staff access to the records they need.",
         "items": [
           "No sale of collector identities to sponsors or the landlord.",
           "Optional real-estate interest is a separate choice.",
@@ -1539,8 +1539,8 @@
       },
       {
         "layout": "week",
-        "title": "A proposed reason to travel.",
-        "subtitle": "Dates and site remain unbooked; travel should wait for confirmation.",
+        "title": "Proposed travel week",
+        "subtitle": "Wait for venue and date confirmation before booking travel.",
         "items": [
           [
             "MON–TUE",
@@ -1558,8 +1558,8 @@
       },
       {
         "layout": "trio",
-        "title": "Welcoming by design.",
-        "subtitle": "Serious art and public generosity belong together.",
+        "title": "Free access and optional paid programs",
+        "subtitle": "Core art discovery needs no premium purchase. Guides and workshops may charge separately.",
         "items": [
           [
             "Free discovery",
@@ -1567,7 +1567,7 @@
           ],
           [
             "Optional depth",
-            "Reserved guided experiences and workshops may be paid."
+            "Optional guides and workshops may charge separate fees."
           ],
           [
             "Useful help",
@@ -1577,8 +1577,8 @@
       },
       {
         "layout": "trio",
-        "title": "Help shape the right offer.",
-        "subtitle": "We are testing actual needs rather than guessing who will buy.",
+        "title": "Collector research questions",
+        "subtitle": "Ask about actual interests, practical needs and buying support.",
         "items": [
           [
             "Interests",
@@ -1596,8 +1596,8 @@
       },
       {
         "layout": "ask",
-        "title": "Tell us what would make it worthwhile.",
-        "subtitle": "An expression of interest is not a reservation, purchase obligation or promised work allocation.",
+        "title": "Expression of interest",
+        "subtitle": "Interest creates no reservation, purchase obligation or artwork allocation.",
         "items": [
           "Consider an appropriate discovery conversation.",
           "Review confirmed artists/work only after permission and availability checks.",
@@ -1606,11 +1606,11 @@
       },
       {
         "layout": "sources",
-        "title": "A carefully labeled proposition.",
-        "subtitle": "No artwork inventory, celebrity appearance, venue/date or gallery partnership is guaranteed.",
+        "title": "Sources and current status",
+        "subtitle": "The project guarantees no inventory, appearance, venue, date or gallery participation.",
         "items": [
           "Official research sources and the detailed business/service plan accompany the proposal.",
-          "All displayed graphics are original concepts, not reproductions of a named artist's work.",
+          "The deck uses original concept graphics. It reproduces no named artist’s work.",
           "Actual confirmed works, rights and seller terms belong in a later release catalogue."
         ]
       }

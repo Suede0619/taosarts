@@ -2,15 +2,21 @@
 
 Use a private working copy. Public updates should contain approved aggregates only.
 
-Project day one: November 1, 2026 · Project year: Nov 1, 2026–Oct 31, 2027
+Project day one is November 1, 2026. The project year ends October 31, 2027.
 
-Week ending: ____ · Owner: ____ · Scenario/scope in use: ____ · Cash forecast updated: ____
+Week ending: ____
 
-Year-to-date below means the project year from November 1, not a January reset. Distinguish the current website budget from the legacy commission-bearing illustration.
+Responsible person: ____
+
+Scenario and scope: ____
+
+Cash forecast date: ____
+
+Year-to-date means the project year beginning November 1. Distinguish the current website budget from the legacy commission-bearing illustration.
 
 | Metric | This week | Year to date | Definition / exception |
 |---|---:|---:|---|
-| New opt-in prospect households | | | Household, not email count. |
+| New opt-in prospect households | | | Count distinct households. Deduplicate email addresses. |
 | New qualified households | | | Interest, budget, timing, permission. |
 | Viewings completed / quotes issued | | | Separate stages. |
 | Paid delivered orders / art value | | | Excludes tax, shipping, refunds, undelivered balance. |

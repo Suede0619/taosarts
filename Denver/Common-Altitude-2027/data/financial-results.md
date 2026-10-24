@@ -1,6 +1,6 @@
 # Generated proposal finance
 
-As of October 24, 2026. USD. All costs, demand, funding and fee inputs are unvalidated proposal assumptions. No grants or organizer art commissions are included. This supersedes the earlier Denver sensitivity only for this larger proposed scope; the earlier model is unchanged.
+As of October 24, 2026. USD. The model assumes costs, demand, funding and fees without quotes or commitments. The model includes no grants or organizer art commission. This supersedes the earlier Denver sensitivity only for this larger proposed scope. The earlier model is unchanged.
 
 | Measure | Contained alternative | Core proposal | Expanded campus option |
 | --- | --- | --- | --- |
@@ -18,7 +18,7 @@ As of October 24, 2026. USD. All costs, demand, funding and fee inputs are unval
 
 ## Core cash and conditional owner waterfall
 
-| Item | Illustrative amount |
+| Item | Model amount |
 | --- | --- |
 | pre owner surplus | $265,000 |
 | tax cash hold | $60,000 |
@@ -31,7 +31,7 @@ As of October 24, 2026. USD. All costs, demand, funding and fee inputs are unval
 | peak bridge with sponsor hold | $530,000 |
 | peak bridge unrestricted sponsor | $215,000 |
 
-Tax hold is an arbitrary cash-reserve placeholder, not a computed tax rate/liability. Refund hold is retained beyond the project year pending claims/rights. Owner share is a proposed 15% of the defined eligible pool, not agreed; excludes seller balances, tax collections and restricted funds. No payout is authorized. Full claim-free release is assumed only for comparison.
+The model holds a cash reserve for tax without calculating the tax liability. Keep the refund reserve beyond the project year until claims and rights obligations settle. The model applies a proposed 15% owner share to the defined eligible pool. The parties have no agreement. Excludes seller balances, tax collections and restricted funds. No one has authorized a payout. The comparison assumes no claims against the reserve.
 
 ## Core monthly cash
 
@@ -50,7 +50,7 @@ Tax hold is an arbitrary cash-reserve placeholder, not a computed tax rate/liabi
 | 2027-09 | $0 | $46,500 | $296,000 | $79,500 | $0 |
 | 2027-10 | $0 | $31,000 | $265,000 | $48,500 | $0 |
 
-The model reserves 30% of cumulative sponsorship above the first $75,000 before opening, all customer advance receipts before opening, then 10% of non-sponsorship revenue against claims. Sponsor contracts/earning schedules are unknown; this is a risk sensitivity, not accounting advice. The first $75,000 is assumed milestone-earned discovery underwriting, credited once within sponsorship. No seller money finances the event. A facility is financing, not additional revenue. Financing cost is unquoted within the professional/finance allowance; actual fees/interest may require a budget increase.
+The model reserves 30% of cumulative sponsorship above the first $75,000 before opening, all customer advance receipts before opening, then 10% of non-sponsorship revenue against claims. Sponsor contracts/earning schedules are unknown. This calculation tests a cash-risk scenario. A qualified adviser must establish actual accounting treatment. The model assumes the first $75,000 funds discovery milestones and counts it once within sponsorship. No seller money finances the event. Record the finance facility separately from operating revenue. The professional and finance allowance includes no quoted financing cost. Actual fees/interest may require a budget increase.
 
 ## Stress cases
 
@@ -63,4 +63,4 @@ The model reserves 30% of cumulative sponsorship above the first $75,000 before 
 | Premium program revenue -40% | $1,695,000 | $1,550,000 | $145,000 |
 | Optional gallery-service uptake -50% | $1,725,000 | $1,550,000 | $175,000 |
 
-Generated from [project inputs](project.json) by [build_execution.py](../tools/build_execution.py). Dated cash schedules, prices, scope and reserves require professional validation before contracts or sales.
+[build_execution.py](../tools/build_execution.py) generates these tables from [project inputs](project.json). Dated cash schedules, prices, scope and reserves require professional validation before contracts or sales.

@@ -2,12 +2,12 @@
   {
     "theme": "Charter and working brief",
     "gate": "PRE",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Approved internal charter, evidence map and capacity boundaries",
     "days": [
       {
         "owner": "Program",
-        "task": "Set November 1 day one; record mission, scope and unresolved decisions",
+        "task": "Set November 1 day one. Record mission, scope and unresolved decisions",
         "output": "Approved internal charter, evidence map and capacity boundaries"
       },
       {
@@ -45,7 +45,7 @@
   {
     "theme": "Discovery underwriting preparation",
     "gate": "PRE",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Reviewable seed case, owner diligence request and private responsibility map",
     "days": [
       {
@@ -80,7 +80,7 @@
       },
       {
         "owner": "Program",
-        "task": "Check readiness for the November 15 funding decision; no assumed pledge",
+        "task": "Check readiness for the November 15 funding decision. No assumed pledge",
         "output": "Reviewable seed case, owner diligence request and private responsibility map"
       }
     ]
@@ -88,7 +88,7 @@
   {
     "theme": "Funded discovery decision",
     "gate": "G0",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Funding decision and bounded commissioned assessments",
     "days": [
       {
@@ -131,7 +131,7 @@
   {
     "theme": "Property and neighborhood discovery",
     "gate": "G0",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Owner-approved survey brief and community listening plan",
     "days": [
       {
@@ -161,7 +161,7 @@
       },
       {
         "owner": "Program",
-        "task": "Use the holiday period for light documentation, not deadline pressure",
+        "task": "Keep holiday-period documentation light",
         "output": "Owner-approved survey brief and community listening plan"
       },
       {
@@ -174,7 +174,7 @@
   {
     "theme": "Footprint and collector tests",
     "gate": "G0",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Two viable footprint hypotheses and initial demand evidence",
     "days": [
       {
@@ -217,7 +217,7 @@
   {
     "theme": "Quotes and legal structure",
     "gate": "G0",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Initial professional estimates and entity/contract issues list",
     "days": [
       {
@@ -260,7 +260,7 @@
   {
     "theme": "Site feasibility decision",
     "gate": "G1",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Written site outcome, alternate path or stop/rescope",
     "days": [
       {
@@ -275,7 +275,7 @@
       },
       {
         "owner": "Program",
-        "task": "Decide G1 on documented access and feasible public use, not verbal enthusiasm",
+        "task": "Decide G1 from documented access and feasible public use",
         "output": "Written site outcome, alternate path or stop/rescope"
       },
       {
@@ -303,7 +303,7 @@
   {
     "theme": "Holiday consolidation",
     "gate": "G1",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Clean evidence/rights register and no unfunded expansion",
     "days": [
       {
@@ -346,7 +346,7 @@
   {
     "theme": "Year transition",
     "gate": "G1",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "January commissioning priorities and decision register",
     "days": [
       {
@@ -389,7 +389,7 @@
   {
     "theme": "Delivery leadership contracting",
     "gate": "G1",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Producer, finance and collector role offers ready for authorized agreement",
     "days": [
       {
@@ -432,7 +432,7 @@
   {
     "theme": "Selection and artist fairness",
     "gate": "G1",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Selection policy, paid artist scopes and open-call draft",
     "days": [
       {
@@ -475,7 +475,7 @@
   {
     "theme": "Conditional exhibitor proposition",
     "gate": "G1",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Conditional gallery and artist offer package",
     "days": [
       {
@@ -518,7 +518,7 @@
   {
     "theme": "Organization and finance evidence",
     "gate": "G1",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "G2 decision evidence and revised risk register",
     "days": [
       {
@@ -561,7 +561,7 @@
   {
     "theme": "Delivery organization decision",
     "gate": "G2",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Accepted delivery structure or rescope decision",
     "days": [
       {
@@ -604,12 +604,12 @@
   {
     "theme": "Collector audience development",
     "gate": "G2",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Qualified-household target allocation and appointment process",
     "days": [
       {
         "owner": "Program",
-        "task": "Review progress against evidence, not total email names",
+        "task": "Review qualified demand and confirmed partner progress",
         "output": "Qualified-household target allocation and appointment process"
       },
       {
@@ -647,7 +647,7 @@
   {
     "theme": "Underwriter and sponsor offer",
     "gate": "G2",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Audience-specific commercial proposal and benefits ledger",
     "days": [
       {
@@ -690,7 +690,7 @@
   {
     "theme": "Gallery pipeline and public process",
     "gate": "G2",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Conditional exhibitor shortlist and artist-selection process",
     "days": [
       {
@@ -733,7 +733,7 @@
   {
     "theme": "Budget and site reconciliation",
     "gate": "G2",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Quote-informed scope and funding gap review",
     "days": [
       {
@@ -776,7 +776,7 @@
   {
     "theme": "Commission briefs and procurement",
     "gate": "G2",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Artist-led briefs and bounded requests for proposals",
     "days": [
       {
@@ -819,7 +819,7 @@
   {
     "theme": "Digital and service prototype",
     "gate": "G2",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Tested information/appointment prototype",
     "days": [
       {
@@ -862,7 +862,7 @@
   {
     "theme": "Launch readiness evidence",
     "gate": "G2",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Public launch checklist and go/no-go pack",
     "days": [
       {
@@ -905,7 +905,7 @@
   {
     "theme": "Public launch decision",
     "gate": "G3",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Documented launch, resize or no-launch decision",
     "days": [
       {
@@ -925,7 +925,7 @@
       },
       {
         "owner": "Program",
-        "task": "Decide G3; delay or resize if conditions fail",
+        "task": "Decide G3. Delay or resize if conditions fail",
         "output": "Documented launch, resize or no-launch decision"
       },
       {
@@ -948,7 +948,7 @@
   {
     "theme": "Approved announcement phase",
     "gate": "G3",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Controlled public communications and inquiry workflow",
     "days": [
       {
@@ -991,12 +991,12 @@
   {
     "theme": "Partner content and travel",
     "gate": "G3",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Cleared partner narratives and travel proposition",
     "days": [
       {
         "owner": "Program",
-        "task": "Review which partner relationships are signed",
+        "task": "Review signed partner agreements and their outstanding conditions",
         "output": "Cleared partner narratives and travel proposition"
       },
       {
@@ -1021,7 +1021,7 @@
       },
       {
         "owner": "PR lead",
-        "task": "Prepare practical public-service information, not just spectacle",
+        "task": "Prepare access, arrival, program and customer-service information",
         "output": "Cleared partner narratives and travel proposition"
       },
       {
@@ -1034,7 +1034,7 @@
   {
     "theme": "Artwork intake and seller readiness",
     "gate": "G3",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Rights-cleared work records and seller operating agreements",
     "days": [
       {
@@ -1077,7 +1077,7 @@
   {
     "theme": "Visitor product and ticket readiness",
     "gate": "G3",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Tested booking/payment support and refund policy",
     "days": [
       {
@@ -1120,7 +1120,7 @@
   {
     "theme": "Collector appointments and service",
     "gate": "G3",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Useful appointment calendar and full-cost quotation process",
     "days": [
       {
@@ -1163,7 +1163,7 @@
   {
     "theme": "Program contracting",
     "gate": "G3",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Funded speakers, workshops and performers with backups",
     "days": [
       {
@@ -1206,7 +1206,7 @@
   {
     "theme": "Production drawings and inventory",
     "gate": "G3",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Controlled technical drawings and installation schedule",
     "days": [
       {
@@ -1249,7 +1249,7 @@
   {
     "theme": "Access and public readiness",
     "gate": "G3",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Accessibility review and program-commitment evidence",
     "days": [
       {
@@ -1292,7 +1292,7 @@
   {
     "theme": "Program commitment decision",
     "gate": "G4",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Funded rights-cleared program or reductions",
     "days": [
       {
@@ -1335,7 +1335,7 @@
   {
     "theme": "Freight and visitor logistics",
     "gate": "G4",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Artwork movement and visitor-arrival plan",
     "days": [
       {
@@ -1378,7 +1378,7 @@
   {
     "theme": "International calendar and editorial",
     "gate": "G4",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Calendar-aware collector/press plan",
     "days": [
       {
@@ -1421,7 +1421,7 @@
   {
     "theme": "Concierge and customer-care rehearsal",
     "gate": "G4",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Rehearsed inquiry-to-fulfillment service",
     "days": [
       {
@@ -1464,7 +1464,7 @@
   {
     "theme": "Build authorization decision",
     "gate": "G5",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Approved funded build package or no-build decision",
     "days": [
       {
@@ -1489,7 +1489,7 @@
       },
       {
         "owner": "Program",
-        "task": "Decide G5; do not start installation without the required conditions",
+        "task": "Decide G5. Do not start installation without the required conditions",
         "output": "Approved funded build package or no-build decision"
       },
       {
@@ -1507,7 +1507,7 @@
   {
     "theme": "Staff and vendor mobilization",
     "gate": "G5",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Accepted staffing, training and vendor schedule",
     "days": [
       {
@@ -1550,7 +1550,7 @@
   {
     "theme": "Final content and campaign conversion",
     "gate": "G5",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Accurate final public information and confirmation campaign",
     "days": [
       {
@@ -1593,7 +1593,7 @@
   {
     "theme": "Operations tabletop",
     "gate": "G5",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Documented incident/recovery rehearsal and fixes",
     "days": [
       {
@@ -1636,7 +1636,7 @@
   {
     "theme": "First installation period",
     "gate": "G5",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Controlled load-in and daily defect register",
     "days": [
       {
@@ -1679,7 +1679,7 @@
   {
     "theme": "Operational readiness and final install",
     "gate": "G6",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Ready rooms, trained teams and final inspection evidence",
     "days": [
       {
@@ -1722,12 +1722,12 @@
   {
     "theme": "Opening and fair week",
     "gate": "G7",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Controlled opening and daily show reports",
     "days": [
       {
         "owner": "Producer",
-        "task": "Decide G7; open only approved ready zones after required sign-offs",
+        "task": "Decide G7. Open only approved ready zones after required sign-offs",
         "output": "Controlled opening and daily show reports"
       },
       {
@@ -1765,7 +1765,7 @@
   {
     "theme": "Closing and restoration",
     "gate": "G7",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Completed event, protected works and owner restoration acceptance",
     "days": [
       {
@@ -1808,7 +1808,7 @@
   {
     "theme": "Initial settlement and buyer care",
     "gate": "G7",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Seller/customer reconciliation and prompt follow-through",
     "days": [
       {
@@ -1851,7 +1851,7 @@
   {
     "theme": "Sponsor proof and public reporting",
     "gate": "G7",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Evidence-led partner report and financial close progress",
     "days": [
       {
@@ -1894,7 +1894,7 @@
   {
     "theme": "Post-event conversion and care",
     "gate": "G7",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Useful buyer follow-up and updated completed-sales ledger",
     "days": [
       {
@@ -1937,7 +1937,7 @@
   {
     "theme": "Thirty-day review",
     "gate": "G7",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Thirty-day outcome and reserve review",
     "days": [
       {
@@ -1980,7 +1980,7 @@
   {
     "theme": "Audit trail and rights close",
     "gate": "G7",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Complete rights, asset and contract archive",
     "days": [
       {
@@ -2023,7 +2023,7 @@
   {
     "theme": "Strategic and financial review",
     "gate": "G7",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Evidence-based continuation/rescope analysis",
     "days": [
       {
@@ -2066,7 +2066,7 @@
   {
     "theme": "Final collection and corrections",
     "gate": "G7",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Resolved receivables/claims or documented exceptions",
     "days": [
       {
@@ -2109,7 +2109,7 @@
   {
     "theme": "Sixty-day close decision",
     "gate": "G8",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Sixty-day reconciliation and approved factual report",
     "days": [
       {
@@ -2134,7 +2134,7 @@
       },
       {
         "owner": "Program",
-        "task": "Decide G8 on October 14; retain funds for all unresolved obligations",
+        "task": "Decide G8 on October 14. Retain funds for all unresolved obligations",
         "output": "Sixty-day reconciliation and approved factual report"
       },
       {
@@ -2152,7 +2152,7 @@
   {
     "theme": "Annual handoff and team review",
     "gate": "G8",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Complete operating handoff and performance review",
     "days": [
       {
@@ -2195,7 +2195,7 @@
   {
     "theme": "Next-edition decision preparation",
     "gate": "G8",
-    "owner": "Program lead coordinates; daily accountable roles below",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
     "deliverable": "Continuation decision grounded in actual evidence",
     "days": [
       {
@@ -2215,7 +2215,7 @@
       },
       {
         "owner": "Artistic",
-        "task": "Assess partner appetite using recorded evidence, not assumptions",
+        "task": "Assess partner interest using recorded conversations and results",
         "output": "Continuation decision grounded in actual evidence"
       },
       {
@@ -2238,43 +2238,43 @@
   {
     "theme": "Year-one close",
     "gate": "G8",
-    "owner": "Program lead coordinates; daily accountable roles below",
-    "deliverable": "Year-one handoff; November 13 reserve review remains separately scheduled",
+    "owner": "The program lead coordinates each week. The daily calendar assigns roles",
+    "deliverable": "Year-one handoff. November 13 reserve review remains separately scheduled",
     "days": [
       {
         "owner": "Program",
         "task": "Close year one on October 31 and hand off the November 13 ninety-day reserve review",
-        "output": "Year-one handoff; November 13 reserve review remains separately scheduled"
+        "output": "Year-one handoff. November 13 reserve review remains separately scheduled"
       },
       {
         "owner": "Program",
         "task": "Reserved post-year follow-through",
-        "output": "Year-one handoff; November 13 reserve review remains separately scheduled"
+        "output": "Year-one handoff. November 13 reserve review remains separately scheduled"
       },
       {
         "owner": "Program",
         "task": "Reserved post-year follow-through",
-        "output": "Year-one handoff; November 13 reserve review remains separately scheduled"
+        "output": "Year-one handoff. November 13 reserve review remains separately scheduled"
       },
       {
         "owner": "Program",
         "task": "Reserved post-year follow-through",
-        "output": "Year-one handoff; November 13 reserve review remains separately scheduled"
+        "output": "Year-one handoff. November 13 reserve review remains separately scheduled"
       },
       {
         "owner": "Program",
         "task": "Reserved post-year follow-through",
-        "output": "Year-one handoff; November 13 reserve review remains separately scheduled"
+        "output": "Year-one handoff. November 13 reserve review remains separately scheduled"
       },
       {
         "owner": "Program",
         "task": "Reserved post-year follow-through",
-        "output": "Year-one handoff; November 13 reserve review remains separately scheduled"
+        "output": "Year-one handoff. November 13 reserve review remains separately scheduled"
       },
       {
         "owner": "Program",
         "task": "Reserved post-year follow-through",
-        "output": "Year-one handoff; November 13 reserve review remains separately scheduled"
+        "output": "Year-one handoff. November 13 reserve review remains separately scheduled"
       }
     ]
   }

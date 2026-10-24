@@ -15,4 +15,4 @@ These twelve CSV files contain headers only, with no real person, buyer, contrac
 - room-and-capacity.csv
 - role-brief.csv
 
-Use stable IDs and actual evidence; unknown is blank/unknown, not zero. The central private operations register remains the authority for named accepted roles/commitments; these are schemas, not a second live board. Professional/legal/financial records require the actual accepted process and advice. Refer to [drafting aids](../../operations/04-Commercial-and-Rights-Templates.md).
+Use stable IDs and actual evidence. Leave unknown figures blank or mark them unknown. The central private operations register remains the authority for named accepted roles/commitments. These files define record formats. Keep live records in private operations. Professional/legal/financial records require the actual accepted process and advice. Refer to [drafting aids](../../operations/04-Commercial-and-Rights-Templates.md).

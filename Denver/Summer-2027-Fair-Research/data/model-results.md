@@ -1,6 +1,6 @@
-# Denver fair — generated sensitivity results
+# Denver fair: generated sensitivity results
 
-As of October 24, 2026. Every monetary input is an unvalidated assumption. These are not forecasts, quotes, an approved budget or a safe-site plan. USD; exclude sales tax, shipping and seller balances. No art commission in the main cases.
+As of October 24, 2026. Every monetary input is an unvalidated assumption. These are without validated demand forecasts, quotes, an approved budget or a safe-site plan. USD. Exclude sales tax, shipping and seller balances. No art commission in the main cases.
 
 | Measure | Limited demand | Demand case to validate | Stretch demand |
 | --- | --- | --- | --- |
@@ -13,13 +13,13 @@ As of October 24, 2026. Every monetary input is an unvalidated assumption. These
 | Optional gallery services | $50,000 | $120,000 | $250,000 |
 | Other earned income | $20,000 | $50,000 | $120,000 |
 | Organizer revenue | $241,000 | $910,000 | $1,708,000 |
-| Total cost incl. paid feasibility | $400,000 | $750,000 | $1,250,000 |
+| Total cost incl. Paid feasibility | $400,000 | $750,000 | $1,250,000 |
 | Surplus before owner / tax / reserves | -$159,000 | $160,000 | $458,000 |
-| Illustrative preopening external cash need | $259,000 | $228,500 | $271,500 |
+| Model preopening external cash need | $259,000 | $228,500 | $271,500 |
 
-## Venue-share sensitivity — demand case to validate
+## Venue-share sensitivity: demand case to validate
 
-A positive-surplus share below is an upper-bound comparison before actual tax/claims/operating reserves. It is not a lawful distribution calculation. Negative after-share figures show why artist GMV and organizer income cannot be conflated.
+A positive-surplus share below is an upper-bound comparison before actual tax/claims/operating reserves. It is not a lawful distribution calculation. The negative results show the effect of charging an owner share against the wrong revenue base.
 
 | Basis | Rate | Owner share | Surplus after share, before tax/reserves |
 | --- | --- | --- | --- |
@@ -29,11 +29,11 @@ A positive-surplus share below is an upper-bound comparison before actual tax/cl
 | Organizer revenue | 10% | $91,000 | $69,000 |
 | Organizer revenue | 15% | $136,500 | $23,500 |
 | Organizer revenue | 20% | $182,000 | -$22,000 |
-| Positive operating surplus BEFORE tax/reserve; upper bound only | 10% | $16,000 | $144,000 |
-| Positive operating surplus BEFORE tax/reserve; upper bound only | 15% | $24,000 | $136,000 |
-| Positive operating surplus BEFORE tax/reserve; upper bound only | 20% | $32,000 | $128,000 |
+| Positive operating surplus BEFORE tax/reserve. Upper bound only | 10% | $16,000 | $144,000 |
+| Positive operating surplus BEFORE tax/reserve. Upper bound only | 15% | $24,000 | $136,000 |
+| Positive operating surplus BEFORE tax/reserve. Upper bound only | 20% | $32,000 | $128,000 |
 
-## Downside stress — same demand case
+## Downside stress: same demand case
 
 | Change | Revenue | Cost | Surplus before owner/tax/reserves |
 | --- | --- | --- | --- |
@@ -45,8 +45,8 @@ A positive-surplus share below is an upper-bound comparison before actual tax/cl
 
 ## Cash timing and exclusions
 
-Assume 85% of costs fall before opening; collect 60% of sponsorship, 70% of gallery-service fees, 30% of tickets and 30% of other income before opening. Hold all advance ticket cash against refunds and another $50,000 operating reserve. Sponsor/gallery cancellation obligations are unknown; additional ring-fencing could increase the gap. Artist cash, restricted grants, refundable balances and tax collections never finance production.
+Assume 85% of costs fall before opening. Collect 60% of sponsorship, 70% of gallery-service fees, 30% of tickets and 30% of other income before opening. Hold all advance ticket cash against refunds and another $50,000 operating reserve. Sponsor/gallery cancellation obligations are unknown. Additional ring-fencing could increase the gap. Artist cash, restricted grants, refundable balances and tax collections never finance production.
 
-Seed funding is not automatically extra revenue: if a feasibility underwriter receives later event sponsorship credit, count it once inside the sponsorship assumption. Cost includes the $70,000 paid-feasibility illustration once. No loan interest, actual income-tax calculation, VAT/import costs or building-specific remediation estimate is established; obtain quotes and professional calculations before investment or distributions.
+Seed funding is not automatically extra revenue: if a feasibility underwriter receives later event sponsorship credit, count it once inside the sponsorship assumption. Cost includes the $70,000 paid-feasibility illustration once. The model includes no quoted interest, calculated income tax, VAT or import costs, or building-specific remediation estimate. Obtain quotes and professional calculations before investment or distributions.
 
-Generated with [the standalone model](../tools/feasibility_model.py) from [explicit inputs](model-inputs.json). Cost detail, all cases/bases and stress tests are in the adjacent CSV files. The existing Taos/platform model is unchanged.
+[The standalone model](../tools/feasibility_model.py) generates these tables from [explicit inputs](model-inputs.json). Cost detail, all cases/bases and stress tests are in the adjacent CSV files. The existing Taos/platform model is unchanged.

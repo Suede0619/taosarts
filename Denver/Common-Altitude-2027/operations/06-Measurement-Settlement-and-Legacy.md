@@ -6,7 +6,7 @@
 
 | Measure | Definition / method | Avoid |
 |---|---|---|
-| Completed art GMV | Completed qualifying artwork transactions, excluding tax/shipping/refunds; stable deduplicated order IDs | Asking prices, deposits, unsigned pipeline or double-counted referrals |
+| Completed art GMV | Completed qualifying artwork transactions, excluding tax/shipping/refunds. Stable deduplicated order IDs | Asking prices, deposits, unsigned pipeline or double-counted referrals |
 | Seller/artist receipts | Actual seller-reported net/owed amounts with permitted aggregate reporting | Assuming gallery GMV all belongs directly to the artist |
 | Artist/program fees | Paid accepted creative work, separately from art sales | Calling unpaid participation an earning outcome |
 | Purchasing households | Deduplicated actual purchasers within defined period | Counting every order/channel as a new buyer |
@@ -24,12 +24,12 @@ Do not make registration, facial recognition or invasive tracking necessary to e
 
 During show: daily event-income reconciliation, seller-reported order status and service/incident review. After each day, confirm work custody and available/sold states.
 
-After close: restore/return work and site; confirm deliveries and seller/customer obligations; reconcile event versus later completed orders; deliver sponsor proof; pay legitimate accepted work under actual agreements; retain tax/refund/claims/operating reserves; then calculate any distributable pool under agreed priority.
+After close: restore/return work and site. Confirm deliveries and seller/customer obligations. Reconcile event versus later completed orders. Deliver sponsor proof. Pay legitimate accepted work under actual agreements. Retain tax/refund/claims/operating reserves. Then calculate any distributable pool under agreed priority.
 
-Proposed reviews: initial close immediately after Aug 15; thirty-day learning around mid-September; sixty-day reconciliation October 14; ninety-day later-sales/claims review November 13. These planning dates are not statutory deadlines or permission to delay money contractually owed earlier.
+Proposed reviews: initial close immediately after Aug 15. Thirty-day learning around mid-September. Sixty-day reconciliation October 14. Ninety-day later-sales/claims review November 13. These planning dates are not statutory deadlines or permission to delay money contractually owed earlier.
 
 ## Learning and continuation
 
-Assess the distribution of outcomes, not only headline GMV. How many artists sold? How concentrated were sales? Were fees paid promptly? Did first buyers feel welcome? Did the show produce repeat relationships and useful public access? Did the host incur avoidable disruption? Was the organizer solvent without borrowing protected money?
+Report how sales and fees distribute across artists and sellers alongside total GMV. How many artists sold? How concentrated were sales? Were fees paid promptly? Did first buyers feel welcome? Did the show produce repeat relationships and useful public access? Did the host incur avoidable disruption? Was the organizer solvent without borrowing protected money?
 
-Publish only permitted aggregates and source/method/uncertainty. Record failures and corrections. A second edition requires real evidence of quality, demand, fair treatment, delivery, site and cash. Long-term studio/artist-support initiatives need separate funded governance; do not announce them as an unfunded consequence of the fair.
+Publish only permitted aggregates and source/method/uncertainty. Record failures and corrections. A second edition requires real evidence of quality, demand, fair treatment, delivery, site and cash. Long-term studio/artist-support initiatives need separate funded governance. Do not announce them as an unfunded consequence of the fair.

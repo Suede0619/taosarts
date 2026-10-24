@@ -1,6 +1,6 @@
 # Production and show-control runbook
 
-**Proposed procedures, not site certification.** Actual owner/code/engineer/insurance requirements control. Program data is in [event-program.json](../data/event-program.json); the operating calendar and gates govern release.
+**Proposed procedures.** The owner and qualified specialists must establish site, code, engineering and insurance requirements. Program data is in [event-program.json](../data/event-program.json). The operating calendar and gates govern release.
 
 ## Command structure
 
@@ -12,11 +12,11 @@ Only the responsible authorized specialists approve their domain. A founder, spo
 
 | Period | Work | Required evidence |
 |---|---|---|
-| Before July 1 | Survey, design, procurement, insurance and approval path | G5 package; actual contractor/property interfaces |
+| Before July 1 | Survey, design, procurement, insurance and approval path | G5 package. Actual contractor/property interfaces |
 | July 26–30 | Approved site preparation, temporary fit-out, power/lighting/wayfinding setup | Daily access/safety checks, competent contractors and protected circulation |
 | July 31–Aug 4 | Art receiving, condition checks, installation and work-specific tests | Custody, insurance, rights, technical review and defect log |
 | Aug 5–7 | Finish, staff training, cue-to-cue, accessibility/customer rehearsals | Resolved critical defects and required inspection arrangements |
-| Aug 8 | Independent readiness challenge and open/no-open | G7 written decision; required approvals/inspection and safe staffing |
+| Aug 8 | Independent readiness challenge and open/no-open | G7 written decision. Required approvals/inspection and safe staffing |
 | Aug 9–15 | Operate approved program | Daily readiness, incident, service, cash and work-status checks |
 | Aug 16–20 | Strike, return, restoration and handback | Condition records, safe sequencing, owner acceptance and unresolved-claim list |
 
@@ -24,18 +24,18 @@ The dates do not establish owner possession or permissions. Construction displac
 
 ## Daily public-day control rhythm
 
-Illustrative call times to adjust to actual labor/venue rules:
-- 08:00 production/site check; weather, contractor interfaces, power, doors and protected routes.
-- 08:30 registrar/technical checks; work availability, equipment and condition exceptions.
-- 09:00 leads briefing; incidents, access requests, bookings, staff/medical/security coverage.
-- 09:30 visitor/support readiness; confirmations, maps, help desk and manual backups.
+Model call times to adjust to actual labor/venue rules:
+- 08:00 production/site check. Weather, contractor interfaces, power, doors and protected routes.
+- 08:30 registrar/technical checks. Work availability, equipment and condition exceptions.
+- 09:00 leads briefing. Incidents, access requests, bookings, staff/medical/security coverage.
+- 09:30 visitor/support readiness. Confirmations, maps, help desk and manual backups.
 - 10:00 free core route and planned workshops/guided services open only on the producer's call.
-- Midday staggered crew breaks; live room/queue checks and customer-care review.
-- 18:40 last proposed guided route returns; 19:00 core public closing.
+- Midday staggered crew breaks. Live room/queue checks and customer-care review.
+- 18:40 last proposed guided route returns. 19:00 core public closing.
 - Evening program, if separately approved, uses its own call, staffing and access controls.
 - Close: sweep/custody checks, daily incident/service report, finance reconciliation and next-day decision.
 
-These are planning calls, not official work shifts or a guarantee that a nine-hour public day can be staffed within a given contract. Use paid staggered shifts and applicable labor rules.
+These call times need adjustment to actual shifts, staffing contracts and venue rules. Budget enough coverage for the nine-hour public day. Use paid staggered shifts and applicable labor rules.
 
 ## Visitor flow and guided-route rehearsal
 
@@ -45,9 +45,9 @@ Keep queues, artwork and temporary signs out of protected routes. Avoid a compul
 
 ## Artwork care and sales
 
-Receiving appointment → identity/authority → condition/value/coverage → approved storage/install → public label/status → authorized sale/hold record → seller invoice/receipt → controlled release/packing/delivery → final condition and reconciliation. No staff member releases work because someone shows an unverified screenshot.
+Receiving appointment then identity/authority then condition/value/coverage then approved storage/install then public label/status then authorized sale/hold record then seller invoice/receipt then controlled release/packing/delivery then final condition and reconciliation. No staff member releases work because someone shows an unverified screenshot.
 
-Central seller balances are not assumed. The registrar supports seller-led transactions and records attribution/completion, not speculative GMV. Do not change sold/available labels without a reliable seller update.
+Central seller balances are not assumed. The registrar supports seller-led transactions and records attribution and completed sales. Do not change sold/available labels without a reliable seller update.
 
 ## Technical and program control
 
@@ -57,10 +57,10 @@ Standardize radios/contact trees privately, with trained terminology and accessi
 
 ## Incidents and recovery
 
-Protect people; contact the appropriate emergency/professional services; follow site/security/medical direction; preserve facts; stop affected activity; notify authorized leaders; record minimally necessary information privately; communicate verified updates. Never speculate publicly about cause, blame, health or identities.
+Protect people. Contact the appropriate emergency/professional services. Follow site/security/medical direction. Preserve facts. Stop affected activity. Notify authorized leaders. Record minimally necessary information privately. Communicate verified updates. Never speculate publicly about cause, blame, health or identities.
 
 Rehearse outages, canceled artist/travel, damaged work, payment dispute, missing child, crowd/queue pressure, severe weather/transport disruption, construction interference and unavailable room. Detailed professional plans replace these issue prompts before opening.
 
 ## Close and learning
 
-Complete daily reports and actual shift/pay records; protect work and personal data; reconcile seller/customer obligations; restore the site; deliver sponsor evidence; publish only cleared aggregates. Follow the [settlement/measurement plan](../operations/06-Measurement-Settlement-and-Legacy.md). A successful closing night does not close liabilities or authorize profit distribution.
+Complete daily reports and actual shift/pay records. Protect work and personal data. Reconcile seller/customer obligations. Restore the site. Deliver sponsor evidence. Publish only cleared aggregates. Follow the [settlement/measurement plan](../operations/06-Measurement-Settlement-and-Legacy.md). A successful closing night does not close liabilities or authorize profit distribution.

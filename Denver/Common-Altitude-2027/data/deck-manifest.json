@@ -6,7 +6,7 @@
     "pptx": "00-Creative-Direction.pptx",
     "pdf": "00-Creative-Direction.pdf",
     "script": "00-Creative-Direction.md",
-    "status": "Rendered PDF/PPTX text and geometry checked; representative visual review performed"
+    "status": "PDF and PPTX text and geometry pass checks. Visual review covers representative pages"
   },
   {
     "id": "01-Owner-and-Venue",
@@ -15,7 +15,7 @@
     "pptx": "01-Owner-and-Venue.pptx",
     "pdf": "01-Owner-and-Venue.pdf",
     "script": "01-Owner-and-Venue.md",
-    "status": "Rendered PDF/PPTX text and geometry checked; representative visual review performed"
+    "status": "PDF and PPTX text and geometry pass checks. Visual review covers representative pages"
   },
   {
     "id": "02-Art-Partners",
@@ -24,7 +24,7 @@
     "pptx": "02-Art-Partners.pptx",
     "pdf": "02-Art-Partners.pdf",
     "script": "02-Art-Partners.md",
-    "status": "Rendered PDF/PPTX text and geometry checked; representative visual review performed"
+    "status": "PDF and PPTX text and geometry pass checks. Visual review covers representative pages"
   },
   {
     "id": "03-Founding-Underwriter",
@@ -33,7 +33,7 @@
     "pptx": "03-Founding-Underwriter.pptx",
     "pdf": "03-Founding-Underwriter.pdf",
     "script": "03-Founding-Underwriter.md",
-    "status": "Rendered PDF/PPTX text and geometry checked; representative visual review performed"
+    "status": "PDF and PPTX text and geometry pass checks. Visual review covers representative pages"
   },
   {
     "id": "04-Sponsors-and-Hospitality",
@@ -42,7 +42,7 @@
     "pptx": "04-Sponsors-and-Hospitality.pptx",
     "pdf": "04-Sponsors-and-Hospitality.pdf",
     "script": "04-Sponsors-and-Hospitality.md",
-    "status": "Rendered PDF/PPTX text and geometry checked; representative visual review performed"
+    "status": "PDF and PPTX text and geometry pass checks. Visual review covers representative pages"
   },
   {
     "id": "05-Civic-and-Community",
@@ -51,7 +51,7 @@
     "pptx": "05-Civic-and-Community.pptx",
     "pdf": "05-Civic-and-Community.pdf",
     "script": "05-Civic-and-Community.md",
-    "status": "Rendered PDF/PPTX text and geometry checked; representative visual review performed"
+    "status": "PDF and PPTX text and geometry pass checks. Visual review covers representative pages"
   },
   {
     "id": "06-Team-and-Co-Producer",
@@ -60,7 +60,7 @@
     "pptx": "06-Team-and-Co-Producer.pptx",
     "pdf": "06-Team-and-Co-Producer.pdf",
     "script": "06-Team-and-Co-Producer.md",
-    "status": "Rendered PDF/PPTX text and geometry checked; representative visual review performed"
+    "status": "PDF and PPTX text and geometry pass checks. Visual review covers representative pages"
   },
   {
     "id": "07-Collectors-and-Advisors",
@@ -69,6 +69,6 @@
     "pptx": "07-Collectors-and-Advisors.pptx",
     "pdf": "07-Collectors-and-Advisors.pdf",
     "script": "07-Collectors-and-Advisors.md",
-    "status": "Rendered PDF/PPTX text and geometry checked; representative visual review performed"
+    "status": "PDF and PPTX text and geometry pass checks. Visual review covers representative pages"
   }
 ]

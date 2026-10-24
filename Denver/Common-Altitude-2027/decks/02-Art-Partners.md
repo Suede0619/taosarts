@@ -1,6 +1,6 @@
 # Artists, galleries, dealers and curatorial partners
 
-Working designed proposal · October 24, 2026. No site/date, partner, funding or capacity commitment. This slide script accompanies the editable PowerPoint and PDF.
+Working designed proposal, October 24, 2026. No site/date, partner, funding or capacity commitment. This slide script accompanies the editable PowerPoint and PDF.
 
 ## 1. COMMON ALTITUDE
 
@@ -8,108 +8,108 @@ OFFICE OF THE IMPOSSIBLE
 An invitation to help shape a new Denver art fair.
 
 
-## 2. A remarkable place to look. A useful place to sell.
+## 2. A proposed Denver art fair
 
-An artist-led exhibition and a serious acquisition market, with a generous public welcome.
+Artists and galleries would present work for sale alongside commissions and free public programs.
 
 - Proposed August 9–15, 2027.
 - Free core art discovery across a carefully approved site.
 - Participation, venue and dates remain unconfirmed.
 
-## 3. A room should have a point of view.
+## 3. Three types of art presentation
 
-The theme is a framework for authorship, not a request to imitate a famous installation.
+Artists and curators develop their own work within the event theme.
 
-- Gallery rooms — Edited presentations with trusted sellers and excellent information.
-- Artist salons — Paid, supported direct-artist spaces with clear seller authority.
-- Signature works — Funded commissions/loans sized to actual site and budget.
+- Gallery rooms. Edited presentations with trusted sellers and excellent information.
+- Artist salons. Paid, supported direct-artist spaces with clear seller authority.
+- Signature works. Funded commissions/loans sized to actual site and budget.
 
-## 4. A proposed 60-space edition.
+## 4. Proposed allocation of 60 spaces
 
-The functional inventory will be adapted to a surveyed approved footprint.
+A survey and site approval must establish how these functions fit.
 
-- 24 — Gallery presentations
-- 12 — Direct-artist salons
-- 6 — Signature briefs
-- 18 — Learning, common and support
+- 24. Gallery presentations
+- 12. Direct-artist salons
+- 6. Signature briefs
+- 18. Learning, common and support
 
-## 5. Artist economics in plain language.
+## 5. Artist fees and sale proceeds
 
-No organizer art commission is assumed in the proposal.
+The proposal charges zero organizer art commission and budgets pay for commissioned work.
 
-- Seller proceeds — Sales remain with the authorized seller; representation, tax and external costs are disclosed.
-- Paid work — Commissions, teaching and direct-artist scopes are funded contracts, not exposure promises.
-- Fair selection — Payment does not purchase curatorial inclusion or favorable interpretation.
+- Seller proceeds. The seller receives sale proceeds and discloses representation, tax and external costs.
+- Paid work. Pay for commissions, teaching and direct-artist work through funded contracts.
+- Fair selection. Payment does not purchase curatorial inclusion or favorable interpretation.
 
-## 6. A gallery-service offer to test.
+## 6. Optional gallery services
 
-Optional paid services require a specific value proposition and agreed refund/earning terms.
+Define the deliverables and refund terms, then test whether galleries will buy the package.
 
-- $7,500 — Illustrative premium-service package
-- 24 — Assumed package purchasers; uptake unvalidated
-- 0% — Proposed organizer art commission
+- $7,500. Proposed service-package price
+- 24. Package-purchase assumption. Demand remains unknown
+- 0%. Proposed organizer art commission
 
-## 7. Support direct artists.
+## 7. Direct-artist salons and stipends
 
-Proposed fee envelopes—not accepted commissions or guaranteed grants.
+These fee budgets need accepted scopes and funding before any commission.
 
-- 12 — Direct-artist salons
-- $30,000 — Combined salon stipend envelope
-- $200,000 — Total artist/program-fee envelope
+- 12. Direct-artist salons
+- $30,000. Combined salon stipend envelope
+- $200,000. Total artist/program-fee envelope
 
-## 8. Build a purchase-ready catalogue.
+## 8. Catalog and buyer targets
 
-Targets depend on signed seller authority, rights and real inventory.
+Confirm seller authority, image rights and stock before publishing work.
 
-- 300 — Cleared saleable work-record target
-- 600 — Qualified collector-household target
-- $3m — Completed art GMV target
+- 300. Cleared saleable work-record target
+- 600. Qualified collector-household target
+- $3m. Completed art GMV target
 
-## 9. Public culture and serious looking.
+## 9. Preview, public and learning programs
 
-A proposed seven-day rhythm supports professional attention and broader discovery.
+The proposed week gives buyers appointment time and visitors free access to core art.
 
-- PREVIEW — Advisers, artist/seller orientation and press.
-- PUBLIC DAYS — Free core art, conversation and informed acquisition.
-- MAKING + EVENINGS — Paid educators and artist-authored special programs.
+- PREVIEW. Advisers, artist/seller orientation and press.
+- PUBLIC DAYS. Free core art, conversation and informed acquisition.
+- MAKING + EVENINGS. Paid educators and artist-authored special programs.
 
-## 10. Make the service worthy of the work.
+## 10. Artwork care and seller service
 
-The producer/registrar/seller agreement defines responsibility.
+The producer, registrar and seller must agree each responsibility.
 
-- Before — Rights, condition, value, packing, rider and installation.
-- During — Accurate availability, human help and seller-led transactions.
-- After — Controlled release, delivery support and completion records.
+- Before. Rights, condition, value, packing, rider and installation.
+- During. Accurate availability, human help and seller-led transactions.
+- After. Controlled release, delivery support and completion records.
 
-## 11. Rights and independence.
+## 11. Artist rights and selection rules
 
-Nothing is acquired by placing a name on a research list.
+Researching a name grants no rights or participation commitment.
 
-- Authorship — Artist-led brief and approved interpretation.
-- Licensing — Specific channels, crops, recording, credits and expiry.
-- Conflicts — Disclosed representation and selection recusals.
+- Authorship. Artist-led brief and approved interpretation.
+- Licensing. Specific channels, crops, recording, credits and expiry.
+- Conflicts. Disclosed representation and selection recusals.
 
-## 12. A staged invitation.
+## 12. Partner invitation sequence
 
-No deposits, artwork custody or public announcement before the relevant authority and funding.
+Secure authority and funds before taking deposits, accepting work or announcing participation.
 
-- NOW — Scoped feasibility and value testing.
-- SOON — Conditional room/seller proposals.
-- MIDDLE — Funded work/loan/commission agreements.
-- LATER — Cleared catalogue, installation and service rehearsal.
+- NOW. Scoped feasibility and value testing.
+- SOON. Conditional room/seller proposals.
+- MIDDLE. Funded work/loan/commission agreements.
+- LATER. Cleared catalogue, installation and service rehearsal.
 
-## 13. Consider a specific proposition.
+## 13. Room and artwork proposals
 
-The next step is a scoped discussion, followed by a conditional room/work proposal if there is a fit.
+A paid or appropriately scoped discussion would establish work, terms and delivery needs.
 
 - Tell us the work, buyer and practical conditions that matter.
 - Develop an artist-led presentation with clear economics.
 - Agree rights, responsibilities and funding before public inclusion.
 
-## 14. Research is not a roster.
+## 14. Candidate research and status
 
-72 geographically organized candidates inform the proposal; none is represented here as a committed partner.
+The project has contacted none of the 72 researched candidates.
 
-- Official artist/gallery/institution sources are indexed in the document repository.
+- The document repository lists official artist, gallery and institution sources.
 - Image rights, inventory, fees and availability require direct agreement.
 - Venue/date and operating economics remain proposal assumptions.

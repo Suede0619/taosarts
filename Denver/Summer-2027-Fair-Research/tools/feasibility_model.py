@@ -1,8 +1,4 @@
-"""Standalone Denver fair sensitivity model. Run from any directory; standard library only.
-
-This does not estimate site capacity, demand, actual costs, taxes or lawful distributions.
-Art GMV remains seller pass-through. No parent festival/platform model is imported or changed.
-"""
+'Standalone Denver fair sensitivity model. Run from any directory. Standard library only.\n\nThis does not estimate site capacity, demand, actual costs, taxes or lawful distributions.\nArt GMV remains seller pass-through. No parent festival/platform model is imported or changed.\n'
 from pathlib import Path
 from decimal import Decimal, ROUND_HALF_UP
 import csv
@@ -74,7 +70,7 @@ def build():
         for label, value in case["costs"].items():
             costs.append({"case": case["name"], "cost_category": label, "assumed_cost": value})
         for basis, amount in [("Completed art GMV", art_gmv), ("Organizer revenue", revenue),
-                              ("Positive operating surplus BEFORE tax/reserve; upper bound only", max(D(0), surplus))]:
+                              ('Positive operating surplus BEFORE tax/reserve. Upper bound only', max(D(0), surplus))]:
             for rate in inputs["venue_share_rates"]:
                 share = money(amount * rate)
                 participation.append({"case":case["name"], "share_basis":basis,
@@ -102,9 +98,9 @@ def build():
     write_csv("cost-detail.csv", costs)
     write_csv("stress-tests.csv", stress)
     out = [
-        "# Denver fair — generated sensitivity results",
+        '# Denver fair: generated sensitivity results',
         "",
-        "As of October 24, 2026. Every monetary input is an unvalidated assumption. These are not forecasts, quotes, an approved budget or a safe-site plan. USD; exclude sales tax, shipping and seller balances. No art commission in the main cases.",
+        'As of October 24, 2026. Every monetary input is an unvalidated assumption. These are without validated demand forecasts, quotes, an approved budget or a safe-site plan. USD. Exclude sales tax, shipping and seller balances. No art commission in the main cases.',
         "",
         table(["Measure"]+[s["case"] for s in summaries],[
             ["Unique visitors"]+[str(s["unique_visitors"]) for s in summaries],
@@ -116,21 +112,21 @@ def build():
             ["Optional gallery services"]+[usd(s["gallery_service_revenue"]) for s in summaries],
             ["Other earned income"]+[usd(s["other_revenue"]) for s in summaries],
             ["Organizer revenue"]+[usd(s["organizer_revenue_excluding_art_gmv"]) for s in summaries],
-            ["Total cost incl. paid feasibility"]+[usd(s["total_cost_including_paid_feasibility"]) for s in summaries],
+            ['Total cost incl. Paid feasibility']+[usd(s["total_cost_including_paid_feasibility"]) for s in summaries],
             ["Surplus before owner / tax / reserves"]+[usd(s["surplus_before_owner_tax_and_additional_reserves"]) for s in summaries],
-            ["Illustrative preopening external cash need"]+[usd(s["illustrative_preopening_external_cash_need"]) for s in summaries],
+            ['Model preopening external cash need']+[usd(s["illustrative_preopening_external_cash_need"]) for s in summaries],
         ]),
         "",
-        "## Venue-share sensitivity — demand case to validate",
+        '## Venue-share sensitivity: demand case to validate',
         "",
-        "A positive-surplus share below is an upper-bound comparison before actual tax/claims/operating reserves. It is not a lawful distribution calculation. Negative after-share figures show why artist GMV and organizer income cannot be conflated.",
+        'A positive-surplus share below is an upper-bound comparison before actual tax/claims/operating reserves. It is not a lawful distribution calculation. The negative results show the effect of charging an owner share against the wrong revenue base.',
         "",
         table(["Basis", "Rate", "Owner share", "Surplus after share, before tax/reserves"],[
             [r["share_basis"],str(int(r["rate"]*100))+"%",usd(r["illustrative_owner_share"]),
              usd(r["organizer_surplus_after_share_before_tax_reserves"])]
             for r in participation if r["case"]==summaries[1]["case"]]),
         "",
-        "## Downside stress — same demand case",
+        '## Downside stress: same demand case',
         "",
         table(["Change","Revenue","Cost","Surplus before owner/tax/reserves"],[
             [r["stress"],usd(r["organizer_revenue"]),usd(r["total_cost"]),
@@ -138,11 +134,11 @@ def build():
         "",
         "## Cash timing and exclusions",
         "",
-        "Assume 85% of costs fall before opening; collect 60% of sponsorship, 70% of gallery-service fees, 30% of tickets and 30% of other income before opening. Hold all advance ticket cash against refunds and another $50,000 operating reserve. Sponsor/gallery cancellation obligations are unknown; additional ring-fencing could increase the gap. Artist cash, restricted grants, refundable balances and tax collections never finance production.",
+        'Assume 85% of costs fall before opening. Collect 60% of sponsorship, 70% of gallery-service fees, 30% of tickets and 30% of other income before opening. Hold all advance ticket cash against refunds and another $50,000 operating reserve. Sponsor/gallery cancellation obligations are unknown. Additional ring-fencing could increase the gap. Artist cash, restricted grants, refundable balances and tax collections never finance production.',
         "",
-        "Seed funding is not automatically extra revenue: if a feasibility underwriter receives later event sponsorship credit, count it once inside the sponsorship assumption. Cost includes the $70,000 paid-feasibility illustration once. No loan interest, actual income-tax calculation, VAT/import costs or building-specific remediation estimate is established; obtain quotes and professional calculations before investment or distributions.",
+        'Seed funding is not automatically extra revenue: if a feasibility underwriter receives later event sponsorship credit, count it once inside the sponsorship assumption. Cost includes the $70,000 paid-feasibility illustration once. The model includes no quoted interest, calculated income tax, VAT or import costs, or building-specific remediation estimate. Obtain quotes and professional calculations before investment or distributions.',
         "",
-        "Generated with [the standalone model](../tools/feasibility_model.py) from [explicit inputs](model-inputs.json). Cost detail, all cases/bases and stress tests are in the adjacent CSV files. The existing Taos/platform model is unchanged.",
+        "[The standalone model](../tools/feasibility_model.py) generates these tables from [explicit inputs](model-inputs.json). Cost detail, all cases/bases and stress tests are in the adjacent CSV files. The existing Taos/platform model is unchanged.",
         "",
     ]
     (DATA/"model-results.md").write_text("\n".join(out))

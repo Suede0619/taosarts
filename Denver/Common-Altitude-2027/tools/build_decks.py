@@ -146,7 +146,7 @@ def build_slide(prs,d,deck,index,total):
                 y=by+i*(avail/4)
                 text(sl,9.2,y,1.2,.7,a,33,True,minsize=29)
                 text(sl,10.7,y+.08,4.15,.8,b,20,minsize=17)
-            text(sl,1,7.93,7.8,.24,"CONCEPTUAL FUNCTION GRID / NOT A SURVEYED FLOOR PLAN",9,True,minsize=9)
+            text(sl,1,7.93,7.8,.24,"PROPOSED PROGRAM FUNCTIONS / SITE SURVEY PENDING",9,True,minsize=9)
         elif kind=="palette":
             n=5;w=14/n
             for i,(name,color) in enumerate(C.items()):
@@ -158,7 +158,7 @@ def build_slide(prs,d,deck,index,total):
             for i,item in enumerate(d["items"]):text(sl,8,by+i*1.05,6.6,.85,item,22,minsize=18)
         elif kind=="poster":
             rect(sl,1,by,5.2,avail,C["ink"])
-            text(sl,1.3,by+.3,4.6,1.8,"ART IS\nTAKING\nOVER.",31,True,C["citron"],minsize=27)
+            text(sl,1.3,by+.3,4.6,1.8,"DENVER\nART FAIR",31,True,C["citron"],minsize=27)
             text(sl,1.3,by+2.5,4.5,.8,"COMMON ALTITUDE\nDENVER / 2027",17,True,C["paper"],minsize=15)
             for i,item in enumerate(d["items"]):text(sl,7,by+i*1.05,7.7,.9,item,22,minsize=18)
         else:
@@ -172,7 +172,7 @@ def build_slide(prs,d,deck,index,total):
     note=sl.notes_slide.notes_text_frame
     note.text=(deck["audience"]+"\n"+d["title"].replace("\n"," ")+"\n\n"+d["subtitle"]+
                "\n\n"+ "\n".join((" / ".join(x) if isinstance(x,list) else x) for x in d["items"])+
-               "\n\nStatus: working proposal; site/date/partners/funding/capacities unconfirmed. No external action is authorized by the deck.\n"+
+               '\n\nStatus: working proposal. Site, dates, partners, funding and capacity need confirmation. The deck grants no external-action authority.\n'+
                "Financial source: data/project.json and generated financial-results.json.\n"+
                "Primary venue reference: https://www.denverenergycenter.com/home\n"+
                "Program/market/rights sources and individual candidate evidence: RESEARCH.md in the accompanying package.")
@@ -183,39 +183,31 @@ def assets():
     (ASSETS/"common-altitude-mark.svg").write_text(svg+"\n")
     word='<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 340"><title>Common Altitude working wordmark</title><rect width="1100" height="340" fill="#F3F0E9"/><g transform="translate(30,5)">'+svg.replace('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 324">','<g>').replace('</svg>','</g>')+'</g><text x="315" y="145" font-family="Arial,sans-serif" font-weight="700" font-size="74" fill="#151A22">COMMON</text><text x="315" y="235" font-family="Arial,sans-serif" font-weight="700" font-size="74" fill="#151A22">ALTITUDE</text></svg>'
     (ASSETS/"common-altitude-wordmark.svg").write_text(word+"\n")
-    poster='<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1800"><title>Concept poster, dates proposed</title><rect width="1200" height="1800" fill="#151A22"/><text x="90" y="155" fill="#DCFF5F" font-family="Arial,sans-serif" font-size="33" font-weight="700">COMMON ALTITUDE / DENVER</text><text x="80" y="440" fill="#DCFF5F" font-family="Arial,sans-serif" font-size="160" font-weight="700"><tspan x="80">ART IS</tspan><tspan x="80" dy="180">TAKING</tspan><tspan x="80" dy="180">OVER.</tspan></text><path d="M100 1280V950H740V1170M360 1460V1070H1100V1460H360M100 1280H600" fill="none" stroke="#F3F0E9" stroke-width="16"/><text x="90" y="1580" fill="#F3F0E9" font-family="Arial,sans-serif" font-size="37">OFFICE OF THE IMPOSSIBLE</text><text x="90" y="1650" fill="#F3F0E9" font-family="Arial,sans-serif" font-size="28">Proposed August 9–15, 2027 / Art Fair &amp; Exhibition</text><text x="90" y="1730" fill="#A6AAA6" font-family="Arial,sans-serif" font-size="20">CONCEPT FOR REVIEW / VENUE, DATE AND PARTICIPANTS UNCONFIRMED</text></svg>'
+    poster='<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1800"><title>Concept poster, dates proposed</title><rect width="1200" height="1800" fill="#151A22"/><text x="90" y="155" fill="#DCFF5F" font-family="Arial,sans-serif" font-size="33" font-weight="700">COMMON ALTITUDE / DENVER</text><text x="80" y="440" fill="#DCFF5F" font-family="Arial,sans-serif" font-size="160" font-weight="700"><tspan x="80">DENVER</tspan><tspan x="80" dy="180">ART FAIR</tspan></text><path d="M100 1280V950H740V1170M360 1460V1070H1100V1460H360M100 1280H600" fill="none" stroke="#F3F0E9" stroke-width="16"/><text x="90" y="1580" fill="#F3F0E9" font-family="Arial,sans-serif" font-size="37">OFFICE OF THE IMPOSSIBLE</text><text x="90" y="1650" fill="#F3F0E9" font-family="Arial,sans-serif" font-size="28">Proposed August 9–15, 2027 / Art Fair &amp; Exhibition</text><text x="90" y="1730" fill="#A6AAA6" font-family="Arial,sans-serif" font-size="20">CONCEPT FOR REVIEW / VENUE, DATE AND PARTICIPANTS UNCONFIRMED</text></svg>'
     (ASSETS/"concept-poster.svg").write_text(poster+"\n")
 
 def main():
     decks=subst(json.loads((BASE/"data/decks.json").read_text()))
-    brand={"id":"00-Creative-Direction","audience":"Creative direction / working brand system","title":"A precise interruption.","slides":[
-       {"layout":"cover","title":"COMMON\nALTITUDE","subtitle":"OFFICE OF THE IMPOSSIBLE\nWorking creative direction / Denver 2027","items":[]},
-       {"layout":"statement","title":"The ordinary becomes\nextraordinary.","subtitle":"A remarkable place to discover and acquire art, open to the city.","items":["Artist authorship, a public welcome and a serious art market.","A familiar room can become an unexpected encounter.","The visitor experience should be as good as the headline idea."]},
-       {"layout":"palette","title":"A precise interruption.","subtitle":"Ink and paper establish calm. Citron and cobalt create a controlled moment of surprise.","items":[]},
-       {"layout":"mark","title":"An open frame.\nA shared passage.","subtitle":"An original abstract identity device, not a drawing of the venue.","items":["A room, a threshold and a horizon.","Two structures in one coherent system.","Simple enough for a label; strong enough for a facade-scale concept.","Final name/mark clearance and production proofs remain required."]},
-       {"layout":"poster","title":"A clear invitation.","subtitle":"A concept application with honest proposed status, not a public event announcement.","items":["Oversized short language.","A disciplined original graphic.","Practical information remains readable.","Artwork is credited evidence, never decorative stock."]},
-       {"layout":"trio","title":"One system. Many voices.","subtitle":"The art leads; the system supplies coherence.","items":[["PRECISE","Editorial clarity, accurate information and serious service."],["NOCTURNAL","Artist-led light/sound for specific approved programs."],["MATERIAL","Hands, making and paid local authorship."]]},
-       {"layout":"ask","title":"Make the experience\nworthy of the art.","subtitle":"Review the direction with artists, buyers, residents and disabled visitors; refine through funded design work.","items":["Keep authorship, rights and public welcome intact.","Choose achievable exceptional work over borrowed spectacle.","Use the brand book and production briefs as the working system."]}
-    ]}
+    brand={'id': '00-Creative-Direction', 'audience': 'Creative direction / working brand system', 'title': 'Brand and exhibition design', 'slides': [{'layout': 'cover', 'title': 'COMMON\nALTITUDE', 'subtitle': 'OFFICE OF THE IMPOSSIBLE\nProposed Denver Art Fair & Exhibition, 2027', 'items': []}, {'layout': 'statement', 'title': 'Art in former offices', 'subtitle': 'Artists and galleries present work for sale alongside commissions and free public programs.', 'items': ['Give each artist or gallery a defined space and control of their presentation.', 'Provide readable artwork records, buyer appointments and seller contacts.', 'Pay creative work and keep core public art discovery free.']}, {'layout': 'palette', 'title': 'Ink, paper and two accent colors', 'subtitle': 'Use ink and paper for reading. Citron and cobalt identify selected actions and programs.', 'items': []}, {'layout': 'mark', 'title': 'Two offset open frames', 'subtitle': 'The original abstract mark suggests connected rooms. It contains no measured building plan.', 'items': ['Preserve the offset frames and their proportions.', 'Use one-color versions on artwork labels and larger signs.', 'Test legibility at actual production sizes.', 'Clear the name and mark before public launch.']}, {'layout': 'poster', 'title': 'Poster information and hierarchy', 'subtitle': 'The concept identifies the event. Dates, venue and participants still need confirmation.', 'items': ['State Denver Art Fair & Exhibition.', 'Show the date and venue status clearly.', 'Keep access and free/paid information readable.', 'Credit art images and use them only with permission.']}, {'layout': 'trio', 'title': 'Three exhibition settings', 'subtitle': 'Keep the same type, colors and information rules across the program.', 'items': [['GALLERIES', 'Readable labels, full artwork views and quiet buying appointments.'], ['MEDIA WORKS', 'Artist-led light and sound with approved access and operating limits.'], ['WORKSHOPS', 'Paid artists lead making and learning with clear participant terms.']]}, {'layout': 'ask', 'title': 'Brand review and design scope', 'subtitle': 'Test the direction with artists, buyers, residents and disabled visitors. Fund the next design scope.', 'items': ['Check whether visitors understand the event and next action.', 'Test type, color, images and signs at actual sizes.', 'Record changes and approval before public production.']}]}
     decks=[brand]+decks
     manifest=[]
     for deck in decks:
         prs=Presentation();prs.slide_width=Inches(16);prs.slide_height=Inches(9)
-        prs.core_properties.title="COMMON ALTITUDE — "+deck["audience"]
+        prs.core_properties.title='COMMON ALTITUDE. '+deck["audience"]
         prs.core_properties.author="Common Altitude planning"
         prs.core_properties.last_modified_by="Common Altitude planning"
         prs.core_properties.subject="Conditional proposal for review, October 24 2026"
         for i,d in enumerate(deck["slides"],1):build_slide(prs,d,deck,i,len(deck["slides"]))
         dest=OUT/(deck["id"]+".pptx");prs.save(dest)
-        md=[f'# {deck["audience"]}',"","Working designed proposal · October 24, 2026. No site/date, partner, funding or capacity commitment. This slide script accompanies the editable PowerPoint and PDF.",""]
+        md=[f'# {deck["audience"]}',"",'Working designed proposal, October 24, 2026. No site/date, partner, funding or capacity commitment. This slide script accompanies the editable PowerPoint and PDF.',""]
         for i,d in enumerate(deck["slides"],1):
             md += [f'## {i}. '+d["title"].replace("\n"," "),"",d["subtitle"],""]
-            for item in d["items"]:md.append("- "+(" — ".join(item) if isinstance(item,list) else item))
+            for item in d["items"]:md.append("- "+('. '.join(item) if isinstance(item,list) else item))
             md.append("")
         (OUT/(deck["id"]+".md")).write_text("\n".join(md).rstrip()+"\n")
         manifest.append({"id":deck["id"],"audience":deck["audience"],"slides":len(deck["slides"]),
                          "pptx":dest.name,"pdf":deck["id"]+".pdf","script":deck["id"]+".md",
-                         "status":"Designed working proposal; PDF export/visual QA required"})
+                         "status":'Designed proposal. PDF export and visual review remain build checks'})
     assets()
     (DATA/"deck-manifest.json").write_text(json.dumps(manifest,indent=2)+"\n")
     print(json.dumps({"presentations":len(manifest),"pitch_decks":len(decks)-1,"slides":sum(x["slides"] for x in manifest)}))

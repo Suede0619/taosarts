@@ -1,16 +1,16 @@
-# Day-by-day operating plan — year one
+# Day-by-day operating plan: year one
 
-November 1, 2026–October 31, 2027; 365 dated records. Planning assignments by role, not accepted commitments. External actions occur only after appropriate authority and funding. Weekends are generally light review/rest; show/build periods differ. The prior-calendar-record field is a navigation reference, not a claim that unrelated streams must execute serially. Gate conditions override dates; carry blocked work forward rather than spend or announce prematurely.
+November 1, 2026–October 31, 2027. 365 dated records. The calendar proposes role assignments. Each person must accept a scope separately. External actions occur only after appropriate authority and funding. Weekends are generally light review/rest. Show/build periods differ. The prior-calendar-record field links adjacent dates. It creates no task dependency. Gate conditions override dates. Carry blocked work forward until the relevant approval and funds exist.
 
-Proposed event: August 9–15, 2027; public art days August 11–15. These dates are unbooked. [CSV](../data/daily-action-plan.csv) supports filtering/import; [weekly view](../data/weekly-action-plan.csv) summarizes 53 weeks. [Gate definitions](../data/project.json) and [critical path](03-Action-Plan-and-Gates.md) control execution.
+Proposed event: August 9–15, 2027. Public art days August 11–15. The project has no date booking. [CSV](../data/daily-action-plan.csv) supports filtering/import. [weekly view](../data/weekly-action-plan.csv) summarizes 53 weeks. [Gate definitions](../data/project.json) and [critical path](03-Action-Plan-and-Gates.md) control execution.
 
 ## Week 1: Charter and working brief
 
-2026-11-01–2026-11-07 · Gate: PRE · Accountable function: Program lead coordinates; daily accountable roles below
+2026-11-01–2026-11-07. Gate PRE. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
-| 2026-11-01 | Set November 1 day one; record mission, scope and unresolved decisions | Program |
+| 2026-11-01 | Set November 1 day one. Record mission, scope and unresolved decisions | Program |
 | 2026-11-02 | Inventory existing research and identify documents requiring owner confirmation | Program |
 | 2026-11-03 | Separate event finances from platform, seller balances and personal funds | Finance |
 | 2026-11-04 | Draft the curatorial proposition and artist-livelihood measures | Artistic |
@@ -20,7 +20,7 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 
 ## Week 2: Discovery underwriting preparation
 
-2026-11-08–2026-11-14 · Gate: PRE · Accountable function: Program lead coordinates; daily accountable roles below
+2026-11-08–2026-11-14. Gate PRE. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
@@ -30,15 +30,15 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 | 2026-11-11 | Design consented collector interviews and qualification criteria | Collector |
 | 2026-11-12 | Prepare owner and underwriter proposal release copies for internal review | Brand |
 | 2026-11-13 | Confirm actual founding capacity and a limit on unfunded discovery | Program |
-| 2026-11-14 | Check readiness for the November 15 funding decision; no assumed pledge | Program |
+| 2026-11-14 | Check readiness for the November 15 funding decision. No assumed pledge | Program |
 
 ## Week 3: Funded discovery decision
 
-2026-11-15–2026-11-21 · Gate: G0 · Accountable function: Program lead coordinates; daily accountable roles below
+2026-11-15–2026-11-21. Gate G0. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
-| 2026-11-15 | Decide G0 using usable funding, accepted scope and reserve evidence; DECISION: Funded discovery | Finance |
+| 2026-11-15 | Decide G0 using usable funding, accepted scope and reserve evidence. Decision on Funded discovery | Finance |
 | 2026-11-16 | If G0 passes, agree named executive-producer discovery deliverables | Producer |
 | 2026-11-17 | Prepare a balanced shortlist of local galleries and direct artists | Artistic |
 | 2026-11-18 | Commission the initial code and accessibility assessment if funded | Code lead |
@@ -48,7 +48,7 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 
 ## Week 4: Property and neighborhood discovery
 
-2026-11-22–2026-11-28 · Gate: G0 · Accountable function: Program lead coordinates; daily accountable roles below
+2026-11-22–2026-11-28. Gate G0. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
@@ -57,12 +57,12 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 | 2026-11-24 | Plan paid local listening and cultural-authority consultation | Community lead |
 | 2026-11-25 | Reconcile discovery invoices and underwriter deliverables | Finance |
 | 2026-11-26 | Audit proposed status language and confidential versus public materials | Brand |
-| 2026-11-27 | Use the holiday period for light documentation, not deadline pressure | Program |
+| 2026-11-27 | Keep holiday-period documentation light | Program |
 | 2026-11-28 | Record open questions and available next-week hours | Program |
 
 ## Week 5: Footprint and collector tests
 
-2026-11-29–2026-12-05 · Gate: G0 · Accountable function: Program lead coordinates; daily accountable roles below
+2026-11-29–2026-12-05. Gate G0. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
@@ -76,7 +76,7 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 
 ## Week 6: Quotes and legal structure
 
-2026-12-06–2026-12-12 · Gate: G0 · Accountable function: Program lead coordinates; daily accountable roles below
+2026-12-06–2026-12-12. Gate G0. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
@@ -90,13 +90,13 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 
 ## Week 7: Site feasibility decision
 
-2026-12-13–2026-12-19 · Gate: G1 · Accountable function: Program lead coordinates; daily accountable roles below
+2026-12-13–2026-12-19. Gate G1. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
 | 2026-12-13 | Assemble the owner/code evidence pack | Program |
 | 2026-12-14 | Resolve floor, concourse, tenant and construction interfaces | Producer |
-| 2026-12-15 | Decide G1 on documented access and feasible public use, not verbal enthusiasm; DECISION: Site feasibility | Program |
+| 2026-12-15 | Decide G1 from documented access and feasible public use. Decision on Site feasibility | Program |
 | 2026-12-16 | Authorize only work supported by the G1 result and funded scope | Finance |
 | 2026-12-17 | Adjust room counts and artist invitations to the approved investigation path | Artistic |
 | 2026-12-18 | Replace speculative maps with clearly labeled surveyed or conceptual versions | Brand |
@@ -104,7 +104,7 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 
 ## Week 8: Holiday consolidation
 
-2026-12-20–2026-12-26 · Gate: G1 · Accountable function: Program lead coordinates; daily accountable roles below
+2026-12-20–2026-12-26. Gate G1. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
@@ -118,7 +118,7 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 
 ## Week 9: Year transition
 
-2026-12-27–2027-01-02 · Gate: G1 · Accountable function: Program lead coordinates; daily accountable roles below
+2026-12-27–2027-01-02. Gate G1. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
@@ -132,7 +132,7 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 
 ## Week 10: Delivery leadership contracting
 
-2027-01-03–2027-01-09 · Gate: G1 · Accountable function: Program lead coordinates; daily accountable roles below
+2027-01-03–2027-01-09. Gate G1. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
@@ -146,7 +146,7 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 
 ## Week 11: Selection and artist fairness
 
-2027-01-10–2027-01-16 · Gate: G1 · Accountable function: Program lead coordinates; daily accountable roles below
+2027-01-10–2027-01-16. Gate G1. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
@@ -160,7 +160,7 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 
 ## Week 12: Conditional exhibitor proposition
 
-2027-01-17–2027-01-23 · Gate: G1 · Accountable function: Program lead coordinates; daily accountable roles below
+2027-01-17–2027-01-23. Gate G1. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
@@ -174,7 +174,7 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 
 ## Week 13: Organization and finance evidence
 
-2027-01-24–2027-01-30 · Gate: G1 · Accountable function: Program lead coordinates; daily accountable roles below
+2027-01-24–2027-01-30. Gate G1. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
@@ -188,11 +188,11 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 
 ## Week 14: Delivery organization decision
 
-2027-01-31–2027-02-06 · Gate: G2 · Accountable function: Program lead coordinates; daily accountable roles below
+2027-01-31–2027-02-06. Gate G2. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
-| 2027-01-31 | Decide G2 using accepted scopes, entity, finance controls and quotes; DECISION: Delivery organization | Program |
+| 2027-01-31 | Decide G2 using accepted scopes, entity, finance controls and quotes. Decision on Delivery organization | Program |
 | 2027-02-01 | Publish the controlled production responsibility matrix | Producer |
 | 2027-02-02 | Prioritize locally deliverable anchor rooms before international aspirations | Artistic |
 | 2027-02-03 | Release only the next funded work package | Finance |
@@ -202,11 +202,11 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 
 ## Week 15: Collector audience development
 
-2027-02-07–2027-02-13 · Gate: G2 · Accountable function: Program lead coordinates; daily accountable roles below
+2027-02-07–2027-02-13. Gate G2. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
-| 2027-02-07 | Review progress against evidence, not total email names | Program |
+| 2027-02-07 | Review qualified demand and confirmed partner progress | Program |
 | 2027-02-08 | Define gallery, adviser, corporate and direct-referral target cohorts | Collector |
 | 2027-02-09 | Configure private consent, preferences, provenance and deduplication fields | Product |
 | 2027-02-10 | Model acquisition cost and paid-program uptake sensitivities | Finance |
@@ -216,7 +216,7 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 
 ## Week 16: Underwriter and sponsor offer
 
-2027-02-14–2027-02-20 · Gate: G2 · Accountable function: Program lead coordinates; daily accountable roles below
+2027-02-14–2027-02-20. Gate G2. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
@@ -230,7 +230,7 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 
 ## Week 17: Gallery pipeline and public process
 
-2027-02-21–2027-02-27 · Gate: G2 · Accountable function: Program lead coordinates; daily accountable roles below
+2027-02-21–2027-02-27. Gate G2. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
@@ -244,7 +244,7 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 
 ## Week 18: Budget and site reconciliation
 
-2027-02-28–2027-03-06 · Gate: G2 · Accountable function: Program lead coordinates; daily accountable roles below
+2027-02-28–2027-03-06. Gate G2. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
@@ -258,7 +258,7 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 
 ## Week 19: Commission briefs and procurement
 
-2027-03-07–2027-03-13 · Gate: G2 · Accountable function: Program lead coordinates; daily accountable roles below
+2027-03-07–2027-03-13. Gate G2. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
@@ -272,7 +272,7 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 
 ## Week 20: Digital and service prototype
 
-2027-03-14–2027-03-20 · Gate: G2 · Accountable function: Program lead coordinates; daily accountable roles below
+2027-03-14–2027-03-20. Gate G2. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
@@ -286,7 +286,7 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 
 ## Week 21: Launch readiness evidence
 
-2027-03-21–2027-03-27 · Gate: G2 · Accountable function: Program lead coordinates; daily accountable roles below
+2027-03-21–2027-03-27. Gate G2. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
@@ -300,21 +300,21 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 
 ## Week 22: Public launch decision
 
-2027-03-28–2027-04-03 · Gate: G3 · Accountable function: Program lead coordinates; daily accountable roles below
+2027-03-28–2027-04-03. Gate G3. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
 | 2027-03-28 | Assemble the G3 evidence and independent challenge review | Program |
 | 2027-03-29 | Confirm the commitment threshold and cash/facility conditions | Finance |
 | 2027-03-30 | Confirm that public promises match the site/approval path | Producer |
-| 2027-03-31 | Decide G3; delay or resize if conditions fail; DECISION: Launch decision | Program |
+| 2027-03-31 | Decide G3. Delay or resize if conditions fail. Decision on Launch decision | Program |
 | 2027-04-01 | Release only approved truthful announcement material if authorized | Brand |
 | 2027-04-02 | Enable interest/booking functions only for promised deliverables actually ready | Product |
 | 2027-04-03 | Review initial response and workload | Program |
 
 ## Week 23: Approved announcement phase
 
-2027-04-04–2027-04-10 · Gate: G3 · Accountable function: Program lead coordinates; daily accountable roles below
+2027-04-04–2027-04-10. Gate G3. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
@@ -328,21 +328,21 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 
 ## Week 24: Partner content and travel
 
-2027-04-11–2027-04-17 · Gate: G3 · Accountable function: Program lead coordinates; daily accountable roles below
+2027-04-11–2027-04-17. Gate G3. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
-| 2027-04-11 | Review which partner relationships are signed | Program |
+| 2027-04-11 | Review signed partner agreements and their outstanding conditions | Program |
 | 2027-04-12 | Produce artist-approved room/process stories and credits | Brand |
 | 2027-04-13 | Coordinate consented travel and appointment needs | Collector |
 | 2027-04-14 | Agree hotel and sponsor deliverables without transferring visitor lists | Commercial lead |
 | 2027-04-15 | Verify visitor arrival, load-in and surrounding-business interfaces | Producer |
-| 2027-04-16 | Prepare practical public-service information, not just spectacle | PR lead |
+| 2027-04-16 | Prepare access, arrival, program and customer-service information | PR lead |
 | 2027-04-17 | Review local partner feedback | Program |
 
 ## Week 25: Artwork intake and seller readiness
 
-2027-04-18–2027-04-24 · Gate: G3 · Accountable function: Program lead coordinates; daily accountable roles below
+2027-04-18–2027-04-24. Gate G3. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
@@ -356,7 +356,7 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 
 ## Week 26: Visitor product and ticket readiness
 
-2027-04-25–2027-05-01 · Gate: G3 · Accountable function: Program lead coordinates; daily accountable roles below
+2027-04-25–2027-05-01. Gate G3. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
@@ -370,7 +370,7 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 
 ## Week 27: Collector appointments and service
 
-2027-05-02–2027-05-08 · Gate: G3 · Accountable function: Program lead coordinates; daily accountable roles below
+2027-05-02–2027-05-08. Gate G3. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
@@ -384,7 +384,7 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 
 ## Week 28: Program contracting
 
-2027-05-09–2027-05-15 · Gate: G3 · Accountable function: Program lead coordinates; daily accountable roles below
+2027-05-09–2027-05-15. Gate G3. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
@@ -398,7 +398,7 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 
 ## Week 29: Production drawings and inventory
 
-2027-05-16–2027-05-22 · Gate: G3 · Accountable function: Program lead coordinates; daily accountable roles below
+2027-05-16–2027-05-22. Gate G3. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
@@ -412,7 +412,7 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 
 ## Week 30: Access and public readiness
 
-2027-05-23–2027-05-29 · Gate: G3 · Accountable function: Program lead coordinates; daily accountable roles below
+2027-05-23–2027-05-29. Gate G3. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
@@ -426,12 +426,12 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 
 ## Week 31: Program commitment decision
 
-2027-05-30–2027-06-05 · Gate: G4 · Accountable function: Program lead coordinates; daily accountable roles below
+2027-05-30–2027-06-05. Gate G4. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
 | 2027-05-30 | Assemble every program owner's cost/rights/backup evidence | Program |
-| 2027-05-31 | Decide G4: remove or redesign unfunded or unapproved promises; DECISION: Program commitment | Program |
+| 2027-05-31 | Decide G4: remove or redesign unfunded or unapproved promises. Decision on Program commitment | Program |
 | 2027-06-01 | Confirm artwork authority, insurance requirements and custody terms | Registrar |
 | 2027-06-02 | Check sponsor obligations against actual program delivery | Commercial lead |
 | 2027-06-03 | Release confirmed program content with precise access information | Brand |
@@ -440,7 +440,7 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 
 ## Week 32: Freight and visitor logistics
 
-2027-06-06–2027-06-12 · Gate: G4 · Accountable function: Program lead coordinates; daily accountable roles below
+2027-06-06–2027-06-12. Gate G4. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
@@ -454,7 +454,7 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 
 ## Week 33: International calendar and editorial
 
-2027-06-13–2027-06-19 · Gate: G4 · Accountable function: Program lead coordinates; daily accountable roles below
+2027-06-13–2027-06-19. Gate G4. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
@@ -468,7 +468,7 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 
 ## Week 34: Concierge and customer-care rehearsal
 
-2027-06-20–2027-06-26 · Gate: G4 · Accountable function: Program lead coordinates; daily accountable roles below
+2027-06-20–2027-06-26. Gate G4. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
@@ -482,7 +482,7 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 
 ## Week 35: Build authorization decision
 
-2027-06-27–2027-07-03 · Gate: G5 · Accountable function: Program lead coordinates; daily accountable roles below
+2027-06-27–2027-07-03. Gate G5. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
@@ -490,13 +490,13 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 | 2027-06-28 | Confirm site possession, construction separation and owner responsibilities | Producer |
 | 2027-06-29 | Check deposits, facility availability, reserves and cancellation exposure | Finance |
 | 2027-06-30 | Confirm the actual applicable approval/inspection path | Code lead |
-| 2027-07-01 | Decide G5; do not start installation without the required conditions; DECISION: Build authorization | Program |
+| 2027-07-01 | Decide G5. Do not start installation without the required conditions. Decision on Build authorization | Program |
 | 2027-07-02 | Freeze approved production files and sign-off responsibilities | Brand |
 | 2027-07-03 | Review the remaining schedule realistically | Program |
 
 ## Week 36: Staff and vendor mobilization
 
-2027-07-04–2027-07-10 · Gate: G5 · Accountable function: Program lead coordinates; daily accountable roles below
+2027-07-04–2027-07-10. Gate G5. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
@@ -510,7 +510,7 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 
 ## Week 37: Final content and campaign conversion
 
-2027-07-11–2027-07-17 · Gate: G5 · Accountable function: Program lead coordinates; daily accountable roles below
+2027-07-11–2027-07-17. Gate G5. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
@@ -524,7 +524,7 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 
 ## Week 38: Operations tabletop
 
-2027-07-18–2027-07-24 · Gate: G5 · Accountable function: Program lead coordinates; daily accountable roles below
+2027-07-18–2027-07-24. Gate G5. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
@@ -538,7 +538,7 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 
 ## Week 39: First installation period
 
-2027-07-25–2027-07-31 · Gate: G5 · Accountable function: Program lead coordinates; daily accountable roles below
+2027-07-25–2027-07-31. Gate G5. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
@@ -552,11 +552,11 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 
 ## Week 40: Operational readiness and final install
 
-2027-08-01–2027-08-07 · Gate: G6 · Accountable function: Program lead coordinates; daily accountable roles below
+2027-08-01–2027-08-07. Gate G6. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
-| 2027-08-01 | Decide G6 from actual site, crew, rights and cash readiness; DECISION: Operational readiness | Program |
+| 2027-08-01 | Decide G6 from actual site, crew, rights and cash readiness. Decision on Operational readiness | Program |
 | 2027-08-02 | Complete commissioned installations and technical tests | Production manager |
 | 2027-08-03 | Reconcile every accepted work and live availability status | Registrar |
 | 2027-08-04 | Walk accessible routes and test help/queue systems | Visitor lead |
@@ -566,11 +566,11 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 
 ## Week 41: Opening and fair week
 
-2027-08-08–2027-08-14 · Gate: G7 · Accountable function: Program lead coordinates; daily accountable roles below
+2027-08-08–2027-08-14. Gate G7. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
-| 2027-08-08 | Decide G7; open only approved ready zones after required sign-offs; DECISION: Open or do not open | Producer |
+| 2027-08-08 | Decide G7. Open only approved ready zones after required sign-offs. Decision on Open or do not open | Producer |
 | 2027-08-09 | Run Monday August 9 trade orientation, appointments and controlled preview | Program |
 | 2027-08-10 | Run Tuesday August 10 press, collector and artist preview program | Program |
 | 2027-08-11 | Run Wednesday August 11 free public discovery and learning opening | Program |
@@ -580,7 +580,7 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 
 ## Week 42: Closing and restoration
 
-2027-08-15–2027-08-21 · Gate: G7 · Accountable function: Program lead coordinates; daily accountable roles below
+2027-08-15–2027-08-21. Gate G7. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
@@ -594,7 +594,7 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 
 ## Week 43: Initial settlement and buyer care
 
-2027-08-22–2027-08-28 · Gate: G7 · Accountable function: Program lead coordinates; daily accountable roles below
+2027-08-22–2027-08-28. Gate G7. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
@@ -608,7 +608,7 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 
 ## Week 44: Sponsor proof and public reporting
 
-2027-08-29–2027-09-04 · Gate: G7 · Accountable function: Program lead coordinates; daily accountable roles below
+2027-08-29–2027-09-04. Gate G7. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
@@ -622,7 +622,7 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 
 ## Week 45: Post-event conversion and care
 
-2027-09-05–2027-09-11 · Gate: G7 · Accountable function: Program lead coordinates; daily accountable roles below
+2027-09-05–2027-09-11. Gate G7. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
@@ -636,7 +636,7 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 
 ## Week 46: Thirty-day review
 
-2027-09-12–2027-09-18 · Gate: G7 · Accountable function: Program lead coordinates; daily accountable roles below
+2027-09-12–2027-09-18. Gate G7. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
@@ -650,7 +650,7 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 
 ## Week 47: Audit trail and rights close
 
-2027-09-19–2027-09-25 · Gate: G7 · Accountable function: Program lead coordinates; daily accountable roles below
+2027-09-19–2027-09-25. Gate G7. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
@@ -664,7 +664,7 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 
 ## Week 48: Strategic and financial review
 
-2027-09-26–2027-10-02 · Gate: G7 · Accountable function: Program lead coordinates; daily accountable roles below
+2027-09-26–2027-10-02. Gate G7. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
@@ -678,7 +678,7 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 
 ## Week 49: Final collection and corrections
 
-2027-10-03–2027-10-09 · Gate: G7 · Accountable function: Program lead coordinates; daily accountable roles below
+2027-10-03–2027-10-09. Gate G7. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
@@ -692,7 +692,7 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 
 ## Week 50: Sixty-day close decision
 
-2027-10-10–2027-10-16 · Gate: G8 · Accountable function: Program lead coordinates; daily accountable roles below
+2027-10-10–2027-10-16. Gate G8. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
@@ -700,13 +700,13 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 | 2027-10-11 | Calculate actual liabilities, tax provision and retained cash | Finance |
 | 2027-10-12 | Confirm seller/loan reconciliation and unresolved exceptions | Registrar |
 | 2027-10-13 | Review distribution conditions and outstanding claims | Legal |
-| 2027-10-14 | Decide G8 on October 14; retain funds for all unresolved obligations; DECISION: 60-day close | Program |
+| 2027-10-14 | Decide G8 on October 14. Retain funds for all unresolved obligations. Decision on 60-day close | Program |
 | 2027-10-15 | Publish only approved aggregate results and lessons | Brand |
 | 2027-10-16 | Plan remaining reserve and post-year follow-through | Program |
 
 ## Week 51: Annual handoff and team review
 
-2027-10-17–2027-10-23 · Gate: G8 · Accountable function: Program lead coordinates; daily accountable roles below
+2027-10-17–2027-10-23. Gate G8. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
@@ -720,21 +720,21 @@ Proposed event: August 9–15, 2027; public art days August 11–15. These dates
 
 ## Week 52: Next-edition decision preparation
 
-2027-10-24–2027-10-30 · Gate: G8 · Accountable function: Program lead coordinates; daily accountable roles below
+2027-10-24–2027-10-30. Gate G8. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |
 | 2027-10-24 | Set decision criteria without presuming another event | Program |
 | 2027-10-25 | Assess retained resources, unresolved reserves and future financing needs | Finance |
 | 2027-10-26 | Assess venue availability and construction reality for any new plan | Producer |
-| 2027-10-27 | Assess partner appetite using recorded evidence, not assumptions | Artistic |
+| 2027-10-27 | Assess partner interest using recorded conversations and results | Artistic |
 | 2027-10-28 | Review continued local benefit and artist earning outcomes | Community lead |
 | 2027-10-29 | Decide whether to investigate, resize, pause or end the event program | Program |
 | 2027-10-30 | Prepare the October 31 year-one handoff | Program |
 
 ## Week 53: Year-one close
 
-2027-10-31–2027-10-31 · Gate: G8 · Accountable function: Program lead coordinates; daily accountable roles below
+2027-10-31–2027-10-31. Gate G8. Responsible function: The program lead coordinates each week. The daily calendar assigns roles
 
 | Date | Action | Responsible function |
 | --- | --- | --- |

@@ -12,8 +12,8 @@
     "potential_collaborators": "Accepted partners and qualified crew",
     "price_hypothesis": "",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-002",
@@ -25,11 +25,11 @@
     "title": "Gallery and adviser appointments",
     "kind": "Appointments",
     "accountable_role": "Collector lead",
-    "potential_collaborators": "Accepted galleries; advisers",
+    "potential_collaborators": "Accepted galleries, Advisers",
     "price_hypothesis": "",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-003",
@@ -41,11 +41,11 @@
     "title": "Buying with confidence: provenance, condition and care",
     "kind": "Talk",
     "accountable_role": "Art-market lead",
-    "potential_collaborators": "Registrar; appropriate advisers",
+    "potential_collaborators": "Registrar, Appropriate advisers",
     "price_hypothesis": "",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-004",
@@ -60,8 +60,8 @@
     "potential_collaborators": "Consented qualified collectors/advisers",
     "price_hypothesis": "",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-005",
@@ -76,8 +76,8 @@
     "potential_collaborators": "CAST / Black Cube as unconfirmed candidates",
     "price_hypothesis": "",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-006",
@@ -92,8 +92,8 @@
     "potential_collaborators": "Contracted artists/galleries only",
     "price_hypothesis": "",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-007",
@@ -105,11 +105,11 @@
     "title": "Press walk: the real artistic story",
     "kind": "Press",
     "accountable_role": "PR lead",
-    "potential_collaborators": "Contracted artists; authorized owner spokesperson",
+    "potential_collaborators": "Contracted artists, Authorized owner spokesperson",
     "price_hypothesis": "",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-008",
@@ -124,8 +124,8 @@
     "potential_collaborators": "Accepted sellers",
     "price_hypothesis": "",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-009",
@@ -137,11 +137,11 @@
     "title": "Art in the places we build",
     "kind": "Roundtable",
     "accountable_role": "Artistic lead",
-    "potential_collaborators": "NINE dot ARTS / appropriate design buyers; unconfirmed",
+    "potential_collaborators": "NINE dot ARTS / appropriate design buyers, Unconfirmed",
     "price_hypothesis": "",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-010",
@@ -156,8 +156,8 @@
     "potential_collaborators": "Commissioned artist selected after agreement",
     "price_hypothesis": "",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-011",
@@ -172,8 +172,8 @@
     "potential_collaborators": "Qualified art-market/registrar team",
     "price_hypothesis": "",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-012",
@@ -188,8 +188,8 @@
     "potential_collaborators": "Paid local artist/education collaborators",
     "price_hypothesis": "",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-013",
@@ -204,8 +204,8 @@
     "potential_collaborators": "Actual contracted contributors",
     "price_hypothesis": "",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-015",
@@ -214,14 +214,14 @@
     "end": "18:40",
     "timezone": "America/Denver",
     "zone": "Approved guided routes",
-    "title": "Guided discovery journeys; staggered reserved departures",
+    "title": "Guided discovery journeys. Staggered reserved departures",
     "kind": "Premium guided service",
     "accountable_role": "Collector / visitor leads",
-    "potential_collaborators": "Paid trained guides; accepted artist/seller content",
+    "potential_collaborators": "Paid trained guides, Accepted artist/seller content",
     "price_hypothesis": "$50 average pass assumption",
-    "seat_hypothesis": "15 per departure; 96 departures/day proposed",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "seat_hypothesis": "The plan allocates 15 seats per departure and 96 departures/day",
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-014",
@@ -230,14 +230,14 @@
     "end": "19:00",
     "timezone": "America/Denver",
     "zone": "Free core route",
-    "title": "Looking changes things — gallery and artist discovery",
+    "title": "Looking changes things. Gallery and artist discovery",
     "kind": "Exhibition",
     "accountable_role": "Artistic / visitor leads",
     "potential_collaborators": "Accepted artists and galleries",
     "price_hypothesis": "Free",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-016",
@@ -252,8 +252,8 @@
     "potential_collaborators": "Verified sellers and trained staff",
     "price_hypothesis": "Free inquiry",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-020",
@@ -265,11 +265,11 @@
     "title": "Print a small edition",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team A",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-025",
@@ -281,11 +281,11 @@
     "title": "Print a small edition",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team B",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-017",
@@ -297,11 +297,11 @@
     "title": "How to look without being an expert",
     "kind": "Public talk",
     "accountable_role": "Education / artistic leads",
-    "potential_collaborators": "Speaker selected and contracted; candidate institutions not booked",
+    "potential_collaborators": "Speaker selected and contracted, Candidate institutions not booked",
     "price_hypothesis": "Free",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-030",
@@ -316,8 +316,8 @@
     "potential_collaborators": "Qualified paid educators and local artists",
     "price_hypothesis": "Free",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-021",
@@ -329,11 +329,11 @@
     "title": "Drawing as discovery",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team A",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-026",
@@ -345,11 +345,11 @@
     "title": "Drawing as discovery",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team B",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-018",
@@ -361,11 +361,11 @@
     "title": "Meet the people behind the rooms",
     "kind": "Public talk",
     "accountable_role": "Education / artistic leads",
-    "potential_collaborators": "Speaker selected and contracted; candidate institutions not booked",
+    "potential_collaborators": "Speaker selected and contracted, Candidate institutions not booked",
     "price_hypothesis": "Free",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-022",
@@ -377,11 +377,11 @@
     "title": "Material experiments",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team A",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-027",
@@ -393,11 +393,11 @@
     "title": "Material experiments",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team B",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-031",
@@ -412,8 +412,8 @@
     "potential_collaborators": "Qualified paid educators and local artists",
     "price_hypothesis": "Free",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-019",
@@ -425,11 +425,11 @@
     "title": "Art, place and the city we want",
     "kind": "Public talk",
     "accountable_role": "Education / artistic leads",
-    "potential_collaborators": "Speaker selected and contracted; candidate institutions not booked",
+    "potential_collaborators": "Speaker selected and contracted, Candidate institutions not booked",
     "price_hypothesis": "Free",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-023",
@@ -441,11 +441,11 @@
     "title": "How an image becomes an object",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team A",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-028",
@@ -457,11 +457,11 @@
     "title": "How an image becomes an object",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team B",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-024",
@@ -473,11 +473,11 @@
     "title": "Make a work to take home",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team A",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-029",
@@ -489,11 +489,11 @@
     "title": "Make a work to take home",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team B",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-033",
@@ -502,14 +502,14 @@
     "end": "18:40",
     "timezone": "America/Denver",
     "zone": "Approved guided routes",
-    "title": "Guided discovery journeys; staggered reserved departures",
+    "title": "Guided discovery journeys. Staggered reserved departures",
     "kind": "Premium guided service",
     "accountable_role": "Collector / visitor leads",
-    "potential_collaborators": "Paid trained guides; accepted artist/seller content",
+    "potential_collaborators": "Paid trained guides, Accepted artist/seller content",
     "price_hypothesis": "$50 average pass assumption",
-    "seat_hypothesis": "15 per departure; 96 departures/day proposed",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "seat_hypothesis": "The plan allocates 15 seats per departure and 96 departures/day",
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-032",
@@ -518,14 +518,14 @@
     "end": "19:00",
     "timezone": "America/Denver",
     "zone": "Free core route",
-    "title": "The work behind the work — gallery and artist discovery",
+    "title": "The work behind the work. Gallery and artist discovery",
     "kind": "Exhibition",
     "accountable_role": "Artistic / visitor leads",
     "potential_collaborators": "Accepted artists and galleries",
     "price_hypothesis": "Free",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-034",
@@ -540,8 +540,8 @@
     "potential_collaborators": "Verified sellers and trained staff",
     "price_hypothesis": "Free inquiry",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-038",
@@ -553,11 +553,11 @@
     "title": "Print a small edition",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team A",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-043",
@@ -569,11 +569,11 @@
     "title": "Print a small edition",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team B",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-035",
@@ -585,11 +585,11 @@
     "title": "Materials, labor and artistic authorship",
     "kind": "Public talk",
     "accountable_role": "Education / artistic leads",
-    "potential_collaborators": "Speaker selected and contracted; candidate institutions not booked",
+    "potential_collaborators": "Speaker selected and contracted, Candidate institutions not booked",
     "price_hypothesis": "Free",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-048",
@@ -604,8 +604,8 @@
     "potential_collaborators": "Qualified paid educators and local artists",
     "price_hypothesis": "Free",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-039",
@@ -617,11 +617,11 @@
     "title": "Drawing as discovery",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team A",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-044",
@@ -633,11 +633,11 @@
     "title": "Drawing as discovery",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team B",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-036",
@@ -649,11 +649,11 @@
     "title": "Digital work: what are you buying?",
     "kind": "Public talk",
     "accountable_role": "Education / artistic leads",
-    "potential_collaborators": "Speaker selected and contracted; candidate institutions not booked",
+    "potential_collaborators": "Speaker selected and contracted, Candidate institutions not booked",
     "price_hypothesis": "Free",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-040",
@@ -665,11 +665,11 @@
     "title": "Material experiments",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team A",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-045",
@@ -681,11 +681,11 @@
     "title": "Material experiments",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team B",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-049",
@@ -700,8 +700,8 @@
     "potential_collaborators": "Qualified paid educators and local artists",
     "price_hypothesis": "Free",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-037",
@@ -713,11 +713,11 @@
     "title": "The life of an artwork after purchase",
     "kind": "Public talk",
     "accountable_role": "Education / artistic leads",
-    "potential_collaborators": "Speaker selected and contracted; candidate institutions not booked",
+    "potential_collaborators": "Speaker selected and contracted, Candidate institutions not booked",
     "price_hypothesis": "Free",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-041",
@@ -729,11 +729,11 @@
     "title": "How an image becomes an object",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team A",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-046",
@@ -745,11 +745,11 @@
     "title": "How an image becomes an object",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team B",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-042",
@@ -761,11 +761,11 @@
     "title": "Make a work to take home",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team A",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-047",
@@ -777,11 +777,11 @@
     "title": "Make a work to take home",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team B",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-104",
@@ -796,8 +796,8 @@
     "potential_collaborators": "Human Resources / Threyda / commissioned artists as unconfirmed options",
     "price_hypothesis": "Price/access set only after underwriting and capacity",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-051",
@@ -806,14 +806,14 @@
     "end": "18:40",
     "timezone": "America/Denver",
     "zone": "Approved guided routes",
-    "title": "Guided discovery journeys; staggered reserved departures",
+    "title": "Guided discovery journeys. Staggered reserved departures",
     "kind": "Premium guided service",
     "accountable_role": "Collector / visitor leads",
-    "potential_collaborators": "Paid trained guides; accepted artist/seller content",
+    "potential_collaborators": "Paid trained guides, Accepted artist/seller content",
     "price_hypothesis": "$50 average pass assumption",
-    "seat_hypothesis": "15 per departure; 96 departures/day proposed",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "seat_hypothesis": "The plan allocates 15 seats per departure and 96 departures/day",
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-050",
@@ -822,14 +822,14 @@
     "end": "19:00",
     "timezone": "America/Denver",
     "zone": "Free core route",
-    "title": "Collecting beyond the obvious — gallery and artist discovery",
+    "title": "Collecting beyond the obvious. Gallery and artist discovery",
     "kind": "Exhibition",
     "accountable_role": "Artistic / visitor leads",
     "potential_collaborators": "Accepted artists and galleries",
     "price_hypothesis": "Free",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-052",
@@ -844,8 +844,8 @@
     "potential_collaborators": "Verified sellers and trained staff",
     "price_hypothesis": "Free inquiry",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-056",
@@ -857,11 +857,11 @@
     "title": "Print a small edition",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team A",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-061",
@@ -873,11 +873,11 @@
     "title": "Print a small edition",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team B",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-053",
@@ -889,11 +889,11 @@
     "title": "Building a collection with conviction",
     "kind": "Public talk",
     "accountable_role": "Education / artistic leads",
-    "potential_collaborators": "Speaker selected and contracted; candidate institutions not booked",
+    "potential_collaborators": "Speaker selected and contracted, Candidate institutions not booked",
     "price_hypothesis": "Free",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-066",
@@ -908,8 +908,8 @@
     "potential_collaborators": "Qualified paid educators and local artists",
     "price_hypothesis": "Free",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-057",
@@ -921,11 +921,11 @@
     "title": "Drawing as discovery",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team A",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-062",
@@ -937,11 +937,11 @@
     "title": "Drawing as discovery",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team B",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-054",
@@ -953,11 +953,11 @@
     "title": "Who gets to make the future?",
     "kind": "Public talk",
     "accountable_role": "Education / artistic leads",
-    "potential_collaborators": "Speaker selected and contracted; candidate institutions not booked",
+    "potential_collaborators": "Speaker selected and contracted, Candidate institutions not booked",
     "price_hypothesis": "Free",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-058",
@@ -969,11 +969,11 @@
     "title": "Material experiments",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team A",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-063",
@@ -985,11 +985,11 @@
     "title": "Material experiments",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team B",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-067",
@@ -1004,8 +1004,8 @@
     "potential_collaborators": "Qualified paid educators and local artists",
     "price_hypothesis": "Free",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-055",
@@ -1017,11 +1017,11 @@
     "title": "Artists in conversation across regions",
     "kind": "Public talk",
     "accountable_role": "Education / artistic leads",
-    "potential_collaborators": "Speaker selected and contracted; candidate institutions not booked",
+    "potential_collaborators": "Speaker selected and contracted, Candidate institutions not booked",
     "price_hypothesis": "Free",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-059",
@@ -1033,11 +1033,11 @@
     "title": "How an image becomes an object",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team A",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-064",
@@ -1049,11 +1049,11 @@
     "title": "How an image becomes an object",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team B",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-060",
@@ -1065,11 +1065,11 @@
     "title": "Make a work to take home",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team A",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-065",
@@ -1081,11 +1081,11 @@
     "title": "Make a work to take home",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team B",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-105",
@@ -1100,8 +1100,8 @@
     "potential_collaborators": "Human Resources / Threyda / commissioned artists as unconfirmed options",
     "price_hypothesis": "Price/access set only after underwriting and capacity",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-069",
@@ -1110,14 +1110,14 @@
     "end": "18:40",
     "timezone": "America/Denver",
     "zone": "Approved guided routes",
-    "title": "Guided discovery journeys; staggered reserved departures",
+    "title": "Guided discovery journeys. Staggered reserved departures",
     "kind": "Premium guided service",
     "accountable_role": "Collector / visitor leads",
-    "potential_collaborators": "Paid trained guides; accepted artist/seller content",
+    "potential_collaborators": "Paid trained guides, Accepted artist/seller content",
     "price_hypothesis": "$50 average pass assumption",
-    "seat_hypothesis": "15 per departure; 96 departures/day proposed",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "seat_hypothesis": "The plan allocates 15 seats per departure and 96 departures/day",
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-068",
@@ -1126,14 +1126,14 @@
     "end": "19:00",
     "timezone": "America/Denver",
     "zone": "Free core route",
-    "title": "The city makes art — gallery and artist discovery",
+    "title": "The city makes art. Gallery and artist discovery",
     "kind": "Exhibition",
     "accountable_role": "Artistic / visitor leads",
     "potential_collaborators": "Accepted artists and galleries",
     "price_hypothesis": "Free",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-070",
@@ -1148,8 +1148,8 @@
     "potential_collaborators": "Verified sellers and trained staff",
     "price_hypothesis": "Free inquiry",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-074",
@@ -1161,11 +1161,11 @@
     "title": "Print a small edition",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team A",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-079",
@@ -1177,11 +1177,11 @@
     "title": "Print a small edition",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team B",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-071",
@@ -1193,11 +1193,11 @@
     "title": "A first artwork for your home",
     "kind": "Public talk",
     "accountable_role": "Education / artistic leads",
-    "potential_collaborators": "Speaker selected and contracted; candidate institutions not booked",
+    "potential_collaborators": "Speaker selected and contracted, Candidate institutions not booked",
     "price_hypothesis": "Free",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-084",
@@ -1212,8 +1212,8 @@
     "potential_collaborators": "Qualified paid educators and local artists",
     "price_hypothesis": "Free",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-075",
@@ -1225,11 +1225,11 @@
     "title": "Drawing as discovery",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team A",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-080",
@@ -1241,11 +1241,11 @@
     "title": "Drawing as discovery",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team B",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-072",
@@ -1257,11 +1257,11 @@
     "title": "Making together: local creative practice",
     "kind": "Public talk",
     "accountable_role": "Education / artistic leads",
-    "potential_collaborators": "Speaker selected and contracted; candidate institutions not booked",
+    "potential_collaborators": "Speaker selected and contracted, Candidate institutions not booked",
     "price_hypothesis": "Free",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-076",
@@ -1273,11 +1273,11 @@
     "title": "Material experiments",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team A",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-081",
@@ -1289,11 +1289,11 @@
     "title": "Material experiments",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team B",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-085",
@@ -1308,8 +1308,8 @@
     "potential_collaborators": "Qualified paid educators and local artists",
     "price_hypothesis": "Free",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-073",
@@ -1321,11 +1321,11 @@
     "title": "Art, public space and lasting benefit",
     "kind": "Public talk",
     "accountable_role": "Education / artistic leads",
-    "potential_collaborators": "Speaker selected and contracted; candidate institutions not booked",
+    "potential_collaborators": "Speaker selected and contracted, Candidate institutions not booked",
     "price_hypothesis": "Free",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-077",
@@ -1337,11 +1337,11 @@
     "title": "How an image becomes an object",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team A",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-082",
@@ -1353,11 +1353,11 @@
     "title": "How an image becomes an object",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team B",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-078",
@@ -1369,11 +1369,11 @@
     "title": "Make a work to take home",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team A",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-083",
@@ -1385,11 +1385,11 @@
     "title": "Make a work to take home",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team B",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-106",
@@ -1404,8 +1404,8 @@
     "potential_collaborators": "Human Resources / Threyda / commissioned artists as unconfirmed options",
     "price_hypothesis": "Price/access set only after underwriting and capacity",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-087",
@@ -1414,14 +1414,14 @@
     "end": "18:40",
     "timezone": "America/Denver",
     "zone": "Approved guided routes",
-    "title": "Guided discovery journeys; staggered reserved departures",
+    "title": "Guided discovery journeys. Staggered reserved departures",
     "kind": "Premium guided service",
     "accountable_role": "Collector / visitor leads",
-    "potential_collaborators": "Paid trained guides; accepted artist/seller content",
+    "potential_collaborators": "Paid trained guides, Accepted artist/seller content",
     "price_hypothesis": "$50 average pass assumption",
-    "seat_hypothesis": "15 per departure; 96 departures/day proposed",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "seat_hypothesis": "The plan allocates 15 seats per departure and 96 departures/day",
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-086",
@@ -1430,14 +1430,14 @@
     "end": "19:00",
     "timezone": "America/Denver",
     "zone": "Free core route",
-    "title": "What we take forward — gallery and artist discovery",
+    "title": "What we take forward. Gallery and artist discovery",
     "kind": "Exhibition",
     "accountable_role": "Artistic / visitor leads",
     "potential_collaborators": "Accepted artists and galleries",
     "price_hypothesis": "Free",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-088",
@@ -1452,8 +1452,8 @@
     "potential_collaborators": "Verified sellers and trained staff",
     "price_hypothesis": "Free inquiry",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-092",
@@ -1465,11 +1465,11 @@
     "title": "Print a small edition",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team A",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-097",
@@ -1481,11 +1481,11 @@
     "title": "Print a small edition",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team B",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-089",
@@ -1497,11 +1497,11 @@
     "title": "Care, condition and living with art",
     "kind": "Public talk",
     "accountable_role": "Education / artistic leads",
-    "potential_collaborators": "Speaker selected and contracted; candidate institutions not booked",
+    "potential_collaborators": "Speaker selected and contracted, Candidate institutions not booked",
     "price_hypothesis": "Free",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-102",
@@ -1516,8 +1516,8 @@
     "potential_collaborators": "Qualified paid educators and local artists",
     "price_hypothesis": "Free",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-093",
@@ -1529,11 +1529,11 @@
     "title": "Drawing as discovery",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team A",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-098",
@@ -1545,11 +1545,11 @@
     "title": "Drawing as discovery",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team B",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-090",
@@ -1561,11 +1561,11 @@
     "title": "A final conversation with the artists",
     "kind": "Public talk",
     "accountable_role": "Education / artistic leads",
-    "potential_collaborators": "Speaker selected and contracted; candidate institutions not booked",
+    "potential_collaborators": "Speaker selected and contracted, Candidate institutions not booked",
     "price_hypothesis": "Free",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-094",
@@ -1577,11 +1577,11 @@
     "title": "Material experiments",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team A",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-099",
@@ -1593,11 +1593,11 @@
     "title": "Material experiments",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team B",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-103",
@@ -1612,8 +1612,8 @@
     "potential_collaborators": "Qualified paid educators and local artists",
     "price_hypothesis": "Free",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-091",
@@ -1625,11 +1625,11 @@
     "title": "What this week made possible",
     "kind": "Public talk",
     "accountable_role": "Education / artistic leads",
-    "potential_collaborators": "Speaker selected and contracted; candidate institutions not booked",
+    "potential_collaborators": "Speaker selected and contracted, Candidate institutions not booked",
     "price_hypothesis": "Free",
     "seat_hypothesis": "",
-    "capacity_status": "Capacity unknown; site/producer approval required",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Capacity remains unknown. The owner and producer must approve it",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-095",
@@ -1641,11 +1641,11 @@
     "title": "How an image becomes an object",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team A",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-100",
@@ -1657,11 +1657,11 @@
     "title": "How an image becomes an object",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team B",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-096",
@@ -1673,11 +1673,11 @@
     "title": "Make a work to take home",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team A",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   },
   {
     "id": "EV-101",
@@ -1689,10 +1689,10 @@
     "title": "Make a work to take home",
     "kind": "Paid workshop",
     "accountable_role": "Paid teaching team B",
-    "potential_collaborators": "Think 360 / ASLD or qualified independent educators; unconfirmed",
+    "potential_collaborators": "Think 360 / ASLD or qualified independent educators, Unconfirmed",
     "price_hypothesis": "$35",
     "seat_hypothesis": "20",
-    "capacity_status": "Planning seats only; not approved capacity",
-    "status": "Proposed; no participant, time or site commitment"
+    "capacity_status": "Planning seats only. Not approved capacity",
+    "status": "Proposal. No participant, time or site commitment"
   }
 ]

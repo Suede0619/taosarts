@@ -1,6 +1,6 @@
 # Original working brand assets
 
-Created for this proposal; no third-party artwork, artist likeness, partner logo or building photograph is reused.
+Created for this proposal. The assets contain no third-party artwork, artist likeness, partner logo or building photograph.
 
 - [Abstract mark](common-altitude-mark.svg)
 - [Working wordmark](common-altitude-wordmark.svg)
@@ -9,6 +9,6 @@ Created for this proposal; no third-party artwork, artist likeness, partner logo
 - [Editable brand presentation](../decks/00-Creative-Direction.pptx)
 - [Brand book](../brand/02-Brand-Book.md)
 
-The identity is provisional and not trademark-cleared. Graphics are conceptual, not a surveyed representation of Energy Center. Poster dates/status are proposed. SVG text uses system-font references, not bundled proprietary font files; production may require appropriate fonts or approved outlines and print proofs.
+The identity is provisional and not trademark-cleared. The graphics show proposed design ideas. They contain no measured Energy Center plan. The poster shows proposed dates and status. SVG text references system fonts. The repository bundles no proprietary font files. Production may require appropriate fonts or approved outlines and print proofs.
 
-Do not replace these concepts with unlicensed art photographs or imply a named artist made them. The final visual system should be refined through the funded design scope and tested at actual application sizes.
+Do not replace these concepts with unlicensed art photographs or imply a named artist made them. The designer should refine the system within a funded scope and test it at actual application sizes.

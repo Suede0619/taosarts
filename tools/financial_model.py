@@ -97,14 +97,14 @@ def main():
           '|---|---:|---:|---:|---:|---:|---:|---:|']
     for r in results:
         text.append('| '+r['scenario']+' | '+' | '.join(money(r[k]) for k in ['gmv_usd','artist_proceeds_usd','gallery_retained_usd','transaction_income_usd','operating_income_usd','operating_expenses_usd','operating_surplus_usd'])+' |')
-    text+=['',f'Base cashflow assumes {money(config["cashflow"]["opening_unrestricted_cash"])} opening unrestricted financing, not earned revenue.',
+    text+=['',f'Base cashflow assumes {money(config["cashflow"]["opening_unrestricted_cash"])} opening unrestricted financing. The model excludes it from earned revenue.',
            f'Lowest modeled base cash balance: **{money(min_cash)}**. Opening financing needed merely to avoid a negative balance: **{money(required_opening)}**, before any reserve.',
            '', '| Sensitivity | Annual surplus / deficit | Lowest cash with $50,000 opening |','|---|---:|---:|']
     for r in stress:text.append(f'| {r["case"]} | {money(r["operating_surplus_usd"])} | {money(r["lowest_cash_with_50000_opening_usd"])} |')
-    text+=['','Cash timing assumes operating income is collected in the same period recognized and all modeled grant reimbursement arrives by the final period. Delays, returns, tax, restrictions, and receivables can worsen cash. Artist and gallery shares are pass-through liabilities, never operating cash available to spend.']
+    text+=['','The model collects operating income when it recognizes revenue and receives all grant reimbursement by the final period. Delays, returns, tax, restrictions, and receivables can worsen cash. Artist and gallery shares are pass-through liabilities, never operating cash available to spend.']
     (ROOT/'data/model-results.md').write_text('\n'.join(text)+'\n')
     print('Validated sale allocations, timing shares, cohort totals, annual cash reconciliation, and downside cases.')
-    print(f'Base income {money(base["operating_income_usd"])}, costs {money(base["operating_expenses_usd"])}, lowest cash {money(min_cash)}; financing floor {money(required_opening)} before reserve.')
+    print(f"Base income {money(base['operating_income_usd'])}, costs {money(base['operating_expenses_usd'])}, lowest cash {money(min_cash)}. Financing floor {money(required_opening)} before reserve.")
 
 if __name__=='__main__':
     main()

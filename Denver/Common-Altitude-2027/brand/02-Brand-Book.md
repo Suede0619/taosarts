@@ -1,37 +1,31 @@
-# COMMON ALTITUDE — working brand book
+# COMMON ALTITUDE: working brand book
 
-**Version 0.1 · October 24, 2026.** Recommended identity system for review. Names/marks are not cleared; no artist, institution, venue or sponsor endorsement is implied. The separate Southwest Art website design is unchanged.
+**Version 0.1, October 24, 2026.** Recommended identity system for review. The names and marks need clearance. The document establishes no artist, institution, venue or sponsor endorsement. The separate Southwest Art website design is unchanged.
 
 ## Foundation
 
-**Purpose:** help artists earn sustainable income through excellent art, trusted transactions and an expanding public.
+The event’s purpose is to increase artist income through completed sales and paid creative work. The first edition proposes a Denver art fair with gallery rooms, direct-artist presentations, commissions and free core exhibitions.
 
-**Mission for the first edition:** bring a credible art market and a remarkable public cultural experience to a carefully approved Denver site, with paid creative participation and accountable seller outcomes.
+The brand should help visitors understand the work, prices, seller and next step. Collectors need reliable appointments and delivery support. First buyers need understandable information and time to ask questions.
 
-**Vision:** a recurring regional/international meeting point where discovering and acquiring art feels exciting, intelligible and dependable.
+Artists keep authorship and control of reproduction rights. Selection remains independent of payment. Pay accepted creative scopes, credit contributors and report sales and artist payments accurately.
 
-**Positioning:** a curated art fair and exhibition with the imaginative range of a cultural destination and the service discipline of a serious gallery.
-
-**Promise:** extraordinary art; a generous welcome; clear information; responsible follow-through.
-
-**Values:** artistic authorship, independence, access, precision, fair compensation, local accountability, curiosity and commercial honesty.
-
-**Personality:** assured, curious, hospitable, slightly unexpected. Never smug, opaque, breathless or falsely official.
+Use a knowledgeable, welcoming voice. Name the artist, work, material, price or service. Remove unsupported superlatives and generic claims about quality. Follow the repository’s [writing guide](../../../WRITING-GUIDE.md).
 
 ## Brand architecture
 
 | Layer | Working expression | Rule |
 |---|---|---|
 | Master | COMMON ALTITUDE | The enduring event/destination identity |
-| Descriptor | Denver Art Fair & Exhibition | Present on first exposure; explain what is happening |
-| Edition | OFFICE OF THE IMPOSSIBLE | An artistic theme; never a municipal department |
-| Campaign | ART IS TAKING OVER. | Use with a clear art/date/location context; no suggestion of unauthorized entry |
+| Descriptor | Denver Art Fair & Exhibition | Present on first exposure. Explain what is happening |
+| Edition | OFFICE OF THE IMPOSSIBLE | An artistic theme. Never a municipal department |
+| Campaign descriptor | Denver Art Fair & Exhibition | Add the actual date, venue and free/paid terms after confirmation |
 | Program | The Rooms / The Common / The Workshop / The Night Office / The Exchange | Functional names help visitors navigate |
 | Seller | Individual gallery or artist, clearly credited | Never obscure who owns, sells or represents the work |
 | Supporting organization | “Presented with” or equivalent only after agreement | No unapproved logo wall or implied institutional partnership |
-| Platform relationship | A proposed event within the wider art-platform ambition | Legal ownership/licensing/entity relationship remains to be settled |
+| Platform relationship | A proposed event within the wider art-platform ambition | The parties still need to settle legal ownership, licensing and entity relationships |
 
-Do not use Art Basel's name as part of the brand, or present global-fair references as affiliations. Geographic identity describes place, not a required artistic style.
+Do not use Art Basel's name as part of the brand, or present global-fair references as affiliations. The regional name identifies a place. Artists can work in any style.
 
 ## Audience promises
 
@@ -53,46 +47,46 @@ Write as a knowledgeable host. Use short concrete sentences. Name the artist, me
 | “Come look. Ask questions. Find a work you want to live with.” | “An exclusive playground for the world's elite.” |
 | “A proposed week of art in a transformed Denver building.” | “The biggest art event ever produced.” |
 | “Works selected by an independent curatorial process.” | “Every major gallery will be here.” |
-| “Free public art discovery; some experiences require a paid reservation.” | “Everything is free” when substantial programs are ticketed |
-| “Join the interest list; dates are proposed.” | “Book now” before site/date/refund obligations are ready |
+| “Free public art discovery. Some experiences require a paid reservation.” | “Everything is free” when some programs charge admission |
+| “Join the interest list. The event has no confirmed date.” | “Book now” before site/date/refund obligations are ready |
 | “Seller confirmed available on [date].” | Artificial scarcity or unverified “last chance” |
-| “Research reference; participation unconfirmed.” | Listing an artist under “our artists” before agreement |
+| “Research reference. Participation unconfirmed.” | Listing an artist under “our artists” before agreement |
 
-Suggested working copy:
-- **Cover:** COMMON ALTITUDE / OFFICE OF THE IMPOSSIBLE.
-- **One-line description:** An art fair and exhibition where ordinary rooms become extraordinary encounters.
-- **Public invitation:** Come for the art. Stay curious. Find something you love.
-- **Collector invitation:** Distinctive work. Trusted sellers. Time to look.
-- **Partner invitation:** Help make an extraordinary place for art—and a useful market for the people who make it.
-- **Mission line:** More art in people's lives. More income in artists' hands.
+Working copy should identify the event and a useful action:
+
+- Cover text names COMMON ALTITUDE and OFFICE OF THE IMPOSSIBLE, followed by Denver Art Fair & Exhibition.
+- Public information states the confirmed date, location, free core exhibitions and optional paid programs.
+- Collector invitations identify confirmed artists and work, available appointments and a staff contact.
+- Partner invitations describe the proposed room or service, fee, rights, delivery scope and current status.
+- Mission copy states the purpose of increasing artist income through sales and paid work.
 
 ## Identity system
 
-The original mark is a pair of offset open frames with a shared passage. It suggests a room, a threshold, two structures and a horizon. It is an original abstract identity device, **not a drawing of either tower**. Use the supplied vector artwork in [assets](../assets/README.md).
+The original mark is a pair of offset open frames with a shared passage. It suggests a room, a threshold, two structures and a horizon. The mark uses original abstract geometry. It contains no surveyed tower dimensions. Use the supplied vector artwork in [assets](../assets/README.md).
 
 | Color | Hex | Role |
 |---|---|---|
 | Ink | #151A22 | Primary text, dark presentations and structural framing |
 | Paper | #F3F0E9 | Main editorial background, print and quiet reading |
-| Citron | #DCFF5F | A controlled interruption: mark, calls to action and selected fields |
+| Citron | #DCFF5F | Mark, calls to action and selected fields |
 | Cobalt | #2948FF | Secondary program accent and occasional spatial graphic |
 | Stone | #A6AAA6 | Rules, secondary graphics and supporting information |
 
-Use ink on paper or citron for readable text. Use paper/white on ink. Cobalt is an accent; test actual text sizes/contrast before using it for small copy. Never encode a route, ticket type or instruction by color alone. A bright brand color is not a replacement for compliant safety signs.
+Use ink on paper or citron for readable text. Use paper/white on ink. Cobalt is an accent. Test actual text sizes/contrast before using it for small copy. Never encode a route, ticket type or instruction by color alone. Use compliant safety signs separately from the brand system.
 
-**Typography for the delivered decks:** Arial for headings/body and Georgia for occasional editorial emphasis. These installed families support dependable rendering here; receiving systems may substitute fonts unless installed. The deck PDF is the fixed-layout reference. Do not redistribute proprietary font files. A future commissioned wordmark/typeface can be evaluated and licensed after a design scope is funded; no Adobe catalog result was obtained because account connection was required.
+**Typography for the delivered decks:** Arial for headings/body and Georgia for occasional editorial emphasis. These installed families support dependable rendering here. Receiving systems may substitute fonts unless installed. The deck PDF is the fixed-layout reference. Do not redistribute proprietary font files. Once the brand scope has funding, the designer can assess and license a commissioned wordmark or typeface. Adobe Fonts required account connection, so the research obtained no catalog result.
 
-**Hierarchy:** oversized short headlines; one strong idea per slide/poster; restrained body copy; consistent data labels. The typographic interest comes from scale, rhythm, alignment and space rather than a different font in every application.
+**Type hierarchy:** use short descriptive headings, readable body copy and consistent data labels. Use scale, rhythm, alignment and space to create typographic interest. Limit the number of typefaces.
 
 **Grid:** 12-column editorial structure in digital/deck work, generous outside margins, consistent baseline spacing and a clear information strip. Printed wayfinding needs its own distance/lighting/user tests. Never shrink a long paragraph to preserve a visual composition.
 
-**Mark rules:** use one-color ink/paper/citron versions; keep at least one frame-stroke width of clear space; preserve proportions; avoid bevels, shadows, decorative desert silhouettes, cultural motifs and sponsor marks inside the symbol. Minimum sizes require production proofs; do not claim tested legibility from an SVG alone.
+**Mark rules:** use one-color ink/paper/citron versions. Keep at least one frame-stroke width of clear space. Preserve proportions. Avoid bevels, shadows, decorative desert silhouettes, cultural motifs and sponsor marks inside the symbol. Minimum sizes require production proofs. Do not claim tested legibility from an SVG alone.
 
 ## Imagery and motion
 
-Artwork reproduction is evidence, not decoration. Preserve the complete work where appropriate, true proportions and reliable color; show details as details, not substitutes. Include artist/title/year/medium/seller/credit/availability as relevant. Ask rights holders about cropping, motion, juxtaposition, commercial use, duration and channels.
+Artwork images must help visitors assess the work accurately. Preserve the complete work where appropriate, true proportions and reliable color. Label detail views and include a complete view of the work. Include artist/title/year/medium/seller/credit/availability as relevant. Ask rights holders about cropping, motion, juxtaposition, commercial use, duration and channels.
 
-Human imagery should show the range of people who create, look, learn and buy. Obtain necessary releases, especially for children or promotional close-ups. Do not invent a sold-out crowd or generate a famous artist's attendance. Architectural concept graphics must be labeled conceptual until they reflect a surveyed footprint.
+Human imagery should show the range of people who create, look, learn and buy. Obtain necessary releases, especially for children or promotional close-ups. Do not invent a sold-out crowd or generate a famous artist's attendance. Label architectural graphics as concepts until a survey supports their dimensions and layout.
 
 Motion should communicate a threshold, alignment or reveal. Provide reduced-motion alternatives. Flashing, intense contrast and loud sound belong only in scoped works with appropriate access information and approvals. No projecting on facades, flying drones or occupying public space without the required permissions.
 
@@ -100,7 +94,7 @@ Motion should communicate a threshold, alignment or reveal. Provide reduced-moti
 
 The welcome starts before arrival: clear dates/status, transport, step-free access, sensory information, prices, refund terms and human contact. At arrival, make the free route and optional paid experiences obvious. Staff should be able to say “I can help” and know the escalation route.
 
-Every artwork record should answer: what is it, who made it, who sells it, what does it cost, is it available, what rights/condition information matters, and how will it get home? An AI assistant is optional; the experience must work without chat.
+Every artwork record should answer: what is it, who made it, who sells it, what does it cost, is it available, what rights/condition information matters, and how will it get home? An AI assistant is optional. The experience must work without chat.
 
 Use elegant public signs for orientation and separate compliant safety/exit signage. Artwork labels remain neutral, accurate and readable. A QR code supplements a human-readable label and a human service desk.
 
@@ -113,15 +107,15 @@ Use elegant public signs for orientation and separate compliant safety/exit sign
 | Public poster | What, where/status, when/status, free/paid distinction, accessible information route |
 | Artwork label | Artist, title/year, medium/dimensions, price or clear inquiry route, seller and work ID |
 | Partner page | Actual agreement status, accurate role, approved mark and rights |
-| Social post | Art/artist credit, meaningful story, accurate CTA; paid relationships disclosed |
-| Staff badge | Role, first name if approved privately, help/escalation function; personal data minimized |
-| Merchandise | Artist license, producer/material quality, cost/margin and demand evidence; no speculative inventory |
+| Social post | Art/artist credit, meaningful story, accurate CTA. Paid relationships disclosed |
+| Staff badge | Role, first name if approved privately, help/escalation function. Personal data minimized |
+| Merchandise | Artist license, producer/material quality, cost/margin and demand evidence. No speculative inventory |
 | Wayfinding | Destination text, consistent symbols, accessible routes and no interference with safety signs |
 
 ## Brand governance
 
-The brand/design lead owns the system; artistic direction approves art interpretation; product/program owns factual consistency; the producer approves physical feasibility; legal/rights and owner counterparts approve matters within their authority. No sponsor purchases selection or edits an artist's work by default.
+The brand/design lead owns the system. Artistic direction approves art interpretation. Product/program owns factual consistency. The producer approves physical feasibility. Legal/rights and owner counterparts approve matters within their authority. No sponsor purchases selection or edits an artist's work by default.
 
-Maintain an asset/rights register, a versioned approved-copy library and a release checklist. Preview every major application at actual size and on a phone. Keep named team/relationship records in private operations, not a public biography narrative.
+Maintain an asset/rights register, a versioned approved-copy library and a release checklist. Preview every major application at actual size and on a phone. Keep named team and relationship records in private operations. Public documents use role titles.
 
-Success is not merely recognition of a logo. It is understanding, trust, welcome, completed purchases, paid creative work and a coherent experience across the entire week.
+Evaluate the brand by visitor comprehension, completed purchases, paid creative work and consistent information across the week.
