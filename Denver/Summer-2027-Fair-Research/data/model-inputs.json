@@ -1,0 +1,94 @@
+{
+  "as_of": "2026-10-24",
+  "status": "Unvalidated sensitivity assumptions, not forecast, quotes, approved budget or event footprint",
+  "currency": "USD",
+  "direct_artist_website_commission": 0,
+  "physical_fair_art_commission": 0,
+  "venue_share_rates": [
+    0.1,
+    0.15,
+    0.2
+  ],
+  "preopening_cost_fraction": 0.85,
+  "preopening_collection_fractions": {
+    "sponsorship": 0.6,
+    "gallery_services": 0.7,
+    "tickets": 0.3,
+    "other": 0.3
+  },
+  "operating_cash_reserve": 50000,
+  "cases": [
+    {
+      "name": "Limited demand",
+      "unique_visitors": 2000,
+      "paid_share": 0.35,
+      "ticket_price": 30,
+      "sponsorship": 150000,
+      "gallery_count": 20,
+      "gallery_service_fee": 2500,
+      "other": 20000,
+      "qualified_collector_households": 250,
+      "buyer_conversion": 0.2,
+      "average_completed_order": 10000,
+      "costs": {
+        "paid_feasibility": 70000,
+        "event_delivery_labor": 80000,
+        "art_commissions_and_content": 40000,
+        "production_and_fitout": 70000,
+        "art_logistics_and_security": 35000,
+        "building_operations": 20000,
+        "marketing_and_collector_acquisition": 40000,
+        "insurance_legal_finance_permits": 35000,
+        "contingency": 10000
+      }
+    },
+    {
+      "name": "Demand case to validate",
+      "unique_visitors": 8000,
+      "paid_share": 0.5,
+      "ticket_price": 35,
+      "sponsorship": 600000,
+      "gallery_count": 30,
+      "gallery_service_fee": 4000,
+      "other": 50000,
+      "qualified_collector_households": 600,
+      "buyer_conversion": 0.25,
+      "average_completed_order": 20000,
+      "costs": {
+        "paid_feasibility": 70000,
+        "event_delivery_labor": 170000,
+        "art_commissions_and_content": 100000,
+        "production_and_fitout": 140000,
+        "art_logistics_and_security": 70000,
+        "building_operations": 50000,
+        "marketing_and_collector_acquisition": 80000,
+        "insurance_legal_finance_permits": 50000,
+        "contingency": 20000
+      }
+    },
+    {
+      "name": "Stretch demand",
+      "unique_visitors": 12000,
+      "paid_share": 0.6,
+      "ticket_price": 40,
+      "sponsorship": 1050000,
+      "gallery_count": 50,
+      "gallery_service_fee": 5000,
+      "other": 120000,
+      "qualified_collector_households": 1280,
+      "buyer_conversion": 0.25,
+      "average_completed_order": 25000,
+      "costs": {
+        "paid_feasibility": 70000,
+        "event_delivery_labor": 280000,
+        "art_commissions_and_content": 170000,
+        "production_and_fitout": 260000,
+        "art_logistics_and_security": 120000,
+        "building_operations": 90000,
+        "marketing_and_collector_acquisition": 140000,
+        "insurance_legal_finance_permits": 70000,
+        "contingency": 50000
+      }
+    }
+  ]
+}

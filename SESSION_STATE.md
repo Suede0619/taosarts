@@ -1,6 +1,14 @@
-# Project handoff — October 23, 2026
+# Project handoff — October 24, 2026
 
 Read [AGENTS.md](AGENTS.md) and [PROJECT-BASELINE.md](PROJECT-BASELINE.md) first. Research remains an **October 19, 2026 snapshot** unless a specific source has a newer check date. This handoff records technical state and decisions without personal project attribution.
+
+## October 24 Denver research update
+
+Start with [Denver discovery](Denver/README.md), then the latest [summer 2027 fair research](Denver/Summer-2027-Fair-Research/README.md). The follow-up covers rental strategy, existing performance advertising, owner-share economics, pitch requirements, public-agency fit, 30 professional candidate records, pay/seed options and naming. The standalone model here is an unvalidated sensitivity exercise, separate from the legacy festival/platform model and not a priced two-tower event budget. The current 10–20% venue-share basis remains undefined.
+
+Published rental direction is supported; advertised High Fidelity events do not establish Energy Center concert activity, event approval or summer availability. Reported Q1 2027–early 2029 construction is still a material conflict. The follow-up indexes 68 source URLs and retains private evidence; current program checks identify closed/paused grant rounds and a direct event exclusion. None is committed seed cash. No collector demand, candidate capacity, funding, venue footprint or name clearance is established.
+
+Named founding-role suggestions, meeting context and raw sources stay local/ignored. Central private operations link the new research and preserve the actual deck as not started. No outreach, application, hiring, expense, booking or website change occurred. **Research complete for this stage; wait for review before producing the actual business plan/proposal/deck or external action.** November 1 project day one, Taos-only website v1 and zero direct-artist website commission remain unchanged. Baseline before the follow-up: `9c867aa2305a96cc5b6a1712473fbf7b5b74f78b`.
 
 ## October 23 platform and operating-system update
 

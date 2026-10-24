@@ -2,7 +2,7 @@
 
 A collection of anonymous foundational documents, research, ideas and proposed plans to help Taos artists sell art, remain in the community and reach a wider public. The current direction is a year-round curated art and destination platform as the core business, with festivals and events supporting discovery, relationships and visits. Taos is the first proof of concept. Project responsibilities are described by role, without personal attribution.
 
-**Research prepared October 19, 2026; strategy and operating-system alignment October 23, 2026. Day one: November 1, 2026. Year one: November 1, 2026–October 31, 2027.** The plan begins after the 2026 festival. This is a working proposal, not an approved festival program or a promise of sales.
+**Research prepared October 19, 2026; strategy/operating alignment October 23; Denver discovery and fair-feasibility research October 24, 2026. Day one: November 1, 2026. Year one: November 1, 2026–October 31, 2027.** The plan begins after the 2026 festival. This is a working proposal, not an approved festival program or a promise of sales.
 
 [Current project baseline](PROJECT-BASELINE.md) records the common timeline, pre-kickoff dates, current website decisions and the distinction from older financial illustrations. November 1 is project kickoff, not an automatic website launch or billing date.
 
@@ -10,6 +10,7 @@ A collection of anonymous foundational documents, research, ideas and proposed p
 
 | Document | What it provides |
 |---|---|
+| [Denver summer 2027 fair research](Denver/Summer-2027-Fair-Research/README.md) | Developer rental/events evidence, owner-share/sales sensitivities, pitch requirements, team candidates, compensation/seed analysis and naming. Research only; no actual deck or event approval. |
 | [Platform strategy and starter brand brief](planning/10-Platform-First-Strategy-and-Brand-Brief.md) | Short current onboarding brief: platform-first direction, inclusive full-spectrum art, Taos v1, correct listing illustration and a brand scope to agree before work. |
 | [People, meetings and commitments — operating method](operations/README.md) | One private people register and central activity log; public foundations remain anonymous. Named records, correspondence and NDA portfolios are local-only, outside public Git. |
 | [Southwest Art website — specification and prototype review](website-spec/README.md) | Taos-first spec, provisional Atomic design, zero direct-artist commission and researched candidates. **[Prototype source](https://github.com/Suede0619/sw-arts-website) implemented; [GitHub Pages preview](https://suede0619.github.io/sw-arts-website/) status in [the handoff](SESSION_STATE.md). Review before production.** |
@@ -31,7 +32,7 @@ The older commission-bearing financial illustration models **$3m completed art v
 
 The newer website specification requires **zero Southwest Art commission on direct artist sales** and separately addresses funding payment fees. Its economics supersede the older website assumptions. The older illustration above is not the current website budget or an approved consolidated forecast. A design prototype is published from the separate `sw-arts-website` repository; production selling still requires a further review. Audo #11 is a provisional prototype direction, not a finalized brand decision.
 
-**Near-term action:** determine immediately whether the authorized festival applicant must submit New Mexico Arts advance review by **October 23, 2026, 11:59pm Mountain**. The FY28 request is $5,000, with eligibility, match, public-program, and reimbursement conditions. Final applications are due December 18. [Funding plan and official links](planning/07-Funding-and-Sponsorship-Plan.md).
+**Deadline status as of October 24:** the New Mexico Arts conditional advance-review deadline of **October 23, 2026, 11:59pm Mountain has passed**. Applicability to an authorized applicant and submission status are unestablished. The previously researched FY28 request is $5,000, with eligibility, match, public-program and reimbursement conditions; the published final deadline is December 18. This is separate from Denver funding. [Funding plan and official links](planning/07-Funding-and-Sponsorship-Plan.md).
 
 ## Execution modules
 

@@ -1,0 +1,28 @@
+case,cost_category,assumed_cost
+Limited demand,paid_feasibility,70000
+Limited demand,event_delivery_labor,80000
+Limited demand,art_commissions_and_content,40000
+Limited demand,production_and_fitout,70000
+Limited demand,art_logistics_and_security,35000
+Limited demand,building_operations,20000
+Limited demand,marketing_and_collector_acquisition,40000
+Limited demand,insurance_legal_finance_permits,35000
+Limited demand,contingency,10000
+Demand case to validate,paid_feasibility,70000
+Demand case to validate,event_delivery_labor,170000
+Demand case to validate,art_commissions_and_content,100000
+Demand case to validate,production_and_fitout,140000
+Demand case to validate,art_logistics_and_security,70000
+Demand case to validate,building_operations,50000
+Demand case to validate,marketing_and_collector_acquisition,80000
+Demand case to validate,insurance_legal_finance_permits,50000
+Demand case to validate,contingency,20000
+Stretch demand,paid_feasibility,70000
+Stretch demand,event_delivery_labor,280000
+Stretch demand,art_commissions_and_content,170000
+Stretch demand,production_and_fitout,260000
+Stretch demand,art_logistics_and_security,120000
+Stretch demand,building_operations,90000
+Stretch demand,marketing_and_collector_acquisition,140000
+Stretch demand,insurance_legal_finance_permits,70000
+Stretch demand,contingency,50000

@@ -1,0 +1,28 @@
+case,share_basis,rate,basis_amount,illustrative_owner_share,organizer_surplus_after_share_before_tax_reserves
+Limited demand,Completed art GMV,0.1,500000.00,50000.00,-209000.00
+Limited demand,Completed art GMV,0.15,500000.00,75000.00,-234000.00
+Limited demand,Completed art GMV,0.2,500000.00,100000.00,-259000.00
+Limited demand,Organizer revenue,0.1,241000.00,24100.00,-183100.00
+Limited demand,Organizer revenue,0.15,241000.00,36150.00,-195150.00
+Limited demand,Organizer revenue,0.2,241000.00,48200.00,-207200.00
+Limited demand,Positive operating surplus BEFORE tax/reserve; upper bound only,0.1,0.00,0.00,-159000.00
+Limited demand,Positive operating surplus BEFORE tax/reserve; upper bound only,0.15,0.00,0.00,-159000.00
+Limited demand,Positive operating surplus BEFORE tax/reserve; upper bound only,0.2,0.00,0.00,-159000.00
+Demand case to validate,Completed art GMV,0.1,3000000.00,300000.00,-140000.00
+Demand case to validate,Completed art GMV,0.15,3000000.00,450000.00,-290000.00
+Demand case to validate,Completed art GMV,0.2,3000000.00,600000.00,-440000.00
+Demand case to validate,Organizer revenue,0.1,910000.00,91000.00,69000.00
+Demand case to validate,Organizer revenue,0.15,910000.00,136500.00,23500.00
+Demand case to validate,Organizer revenue,0.2,910000.00,182000.00,-22000.00
+Demand case to validate,Positive operating surplus BEFORE tax/reserve; upper bound only,0.1,160000.00,16000.00,144000.00
+Demand case to validate,Positive operating surplus BEFORE tax/reserve; upper bound only,0.15,160000.00,24000.00,136000.00
+Demand case to validate,Positive operating surplus BEFORE tax/reserve; upper bound only,0.2,160000.00,32000.00,128000.00
+Stretch demand,Completed art GMV,0.1,8000000.00,800000.00,-342000.00
+Stretch demand,Completed art GMV,0.15,8000000.00,1200000.00,-742000.00
+Stretch demand,Completed art GMV,0.2,8000000.00,1600000.00,-1142000.00
+Stretch demand,Organizer revenue,0.1,1708000.00,170800.00,287200.00
+Stretch demand,Organizer revenue,0.15,1708000.00,256200.00,201800.00
+Stretch demand,Organizer revenue,0.2,1708000.00,341600.00,116400.00
+Stretch demand,Positive operating surplus BEFORE tax/reserve; upper bound only,0.1,458000.00,45800.00,412200.00
+Stretch demand,Positive operating surplus BEFORE tax/reserve; upper bound only,0.15,458000.00,68700.00,389300.00
+Stretch demand,Positive operating surplus BEFORE tax/reserve; upper bound only,0.2,458000.00,91600.00,366400.00

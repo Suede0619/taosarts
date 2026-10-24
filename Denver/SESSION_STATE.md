@@ -2,6 +2,12 @@
 
 Read [AGENTS.md](AGENTS.md), [README.md](README.md) and [the source register](05-News-and-Source-Register.md). This folder is a dated discovery package in the public `Suede0619/taosarts` document repository, not a venue agreement or an event plan. Baseline before the work: `e5fdb1bceebd09cd21da0cc5e1e2d1631d3d4b5a`.
 
+## Latest follow-up — October 24
+
+The newer [summer 2027 fair research](Summer-2027-Fair-Research/README.md) supersedes the earlier scope limitation only to allow rental/event verification, standalone financial sensitivities, pitch requirements, professional candidates, pay/seed analysis and naming. Its [handoff](Summer-2027-Fair-Research/SESSION_STATE.md) records validation and evidence limits. No actual deck, event business plan/proposal, priced event budget, date/duration selection or external action was authorized or produced. Baseline before this follow-up: `9c867aa2305a96cc5b6a1712473fbf7b5b74f78b`.
+
+The remaining sections below describe the **initial discovery snapshot**, including its 299-record archive and original 13-file publication. The follow-up has a separate source archive/model; do not conflate the two or read the earlier no-model statement as a claim about the new child folder. Research remains complete-and-wait; Taos/website scope and artist protections are unchanged.
+
 ## Authorized work completed
 
 - Six research reports cover Atelier’s purpose/design practice/art/events, TLC’s leadership/footprint, the four Denver towers and two purchases, redevelopment/finance chronology, Energy Center/concourse questions, source quality and the evidence needed for a later deck.

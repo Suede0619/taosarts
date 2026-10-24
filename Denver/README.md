@@ -1,6 +1,6 @@
 # Denver — venue, ownership and redevelopment discovery
 
-**Prepared October 24, 2026. Research only.** This package establishes the facts and uncertainties needed before considering a Denver art-event proposal. No pitch deck, business plan, event budget, recommended duration or booking is included. Project day one remains November 1, 2026; Taos is still the only website v1 region.
+**Prepared October 24, 2026. Research only.** The initial discovery below is complemented by the new [summer 2027 fair research](Summer-2027-Fair-Research/README.md): rental strategy, existing events, owner economics, pitch requirements, team candidates, compensation/seed sources and naming. It includes explicitly unvalidated financial sensitivities, not a priced/approved event budget. No actual pitch deck, business plan, recommended event duration or booking is included. Project day one remains November 1, 2026; Taos is still the only website v1 region.
 
 Project context remains in the [current arts baseline](../PROJECT-BASELINE.md) and [platform/brand brief](../planning/10-Platform-First-Strategy-and-Brand-Brief.md): the year-round service is the core business, artist livelihoods are the purpose, direct-artist website commission is zero, and events/expansion need their own authority and funding. Denver discovery does not change those commitments.
 
@@ -8,6 +8,7 @@ Project context remains in the [current arts baseline](../PROJECT-BASELINE.md) a
 
 | Document | What it answers |
 |---|---|
+| [Summer 2027 fair — latest follow-up research](Summer-2027-Fair-Research/README.md) | Rental/event verification, venue-share comparisons, pitch requirements, researched candidate pool, pay/seed options and names; research complete, awaiting review. |
 | [Atelier 111 discovery](01-Atelier-111-Discovery.md) | What the organization is, why it exists, its art, design practice, venue locations, programming and website evidence. |
 | [The Luzzatto Company and leadership](02-Luzzatto-Company-and-Leadership.md) | Corporate purpose, verified officers, geographic footprint, relationship to Atelier, and limits of ownership/identity evidence. |
 | [Denver acquisitions and conversion timeline](03-Denver-Acquisitions-and-Conversion-Timeline.md) | Four towers/two complexes; acquisition prices, budgets, housing plans, public financing and changes over time. |
@@ -34,4 +35,4 @@ The review requested **265 sitemap URLs plus the homepage**: **264 successful pa
 
 Private local research retains original HTML/PDF responses, extracted text, redirects, dates and SHA256 manifests. These archives, the supplied image, the meeting recollection and individual people folders are excluded from public Git. They will not appear in a fresh clone. Start locally at `private/README.md`; public research must not expose the personal conversation or imply that a remembered contact has accepted a role or approved an event.
 
-The research is a dated foundation for the next conversation. The next requested stage is still **waiting for the user’s business-plan/proposal prompt**.
+The latest follow-up research is in the linked child folder. **Stop for review before an actual business plan/proposal/deck or external action.**

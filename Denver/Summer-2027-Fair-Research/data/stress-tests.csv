@@ -1,0 +1,6 @@
+stress,organizer_revenue,total_cost,surplus_before_owner_tax_reserves
+No change,910000.00,750000.00,160000.00
+Sponsorship 25% below assumption,760000.00,750000.00,10000.00
+Cost 20% above assumption,910000.00,900000.00,10000.00
+Sponsorship -25% AND cost +20%,760000.00,900000.00,-140000.00
+Paid ticket revenue 40% below assumption,854000.00,750000.00,104000.00
