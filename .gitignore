@@ -10,3 +10,9 @@ __pycache__/
 # Independent prototype repository, including older local checkout locations
 /sw-arts-website/
 /SouthwestArts/sw-arts-website/
+
+# Shared team: publish anonymous guidance only
+/TEAM/*
+!/TEAM/README.md
+!/TEAM/AGENTS.md
+!/TEAM/OPERATING-METHOD.md

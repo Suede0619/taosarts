@@ -2,6 +2,8 @@
 
 Read the parent [ART instructions](../AGENTS.md), then [README.md](README.md) and [SESSION_STATE.md](SESSION_STATE.md). **Research cut-off: October 24, 2026.** Work in this folder for the Denver discovery task. The parent arts repository is public. The website is an independent repository and is outside this work.
 
+The internal team works across Denver and Southwest Arts. Its member folders and canonical private operations live in shared [TEAM](../TEAM/README.md). Read [TEAM/AGENTS.md](../TEAM/AGENTS.md) for team work. Keep Denver's outside-contact research dossiers in its own private evidence archive.
+
 ## Current scope and stopping point
 
 Initial discovery and the first follow-up remain dated in [the research package](Summer-2027-Fair-Research/README.md). The subsequent October 24 request explicitly authorizes the full [Common Altitude execution package](Common-Altitude-2027/README.md): creative/brand, marketing, business/PRD, proposed duration/program, partner/hiring plans, day/week calendar and finished pitch-deck artifacts. This supersedes the earlier research-and-wait restriction for document/artifact creation. It does **not** authorize actual offers, approvals, outreach, applications, bookings, hires, expenditures, signatures or public launch. Follow the new package's instructions and handoff. Proposed dates, room counts, budget and partners remain unvalidated. The project has no venue booking. Taos-only website v1 and November 1, 2026 project day one are unchanged.

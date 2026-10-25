@@ -17,8 +17,8 @@ A collection of anonymous foundational documents, research, ideas and proposed p
 | `sw-arts-website/` | Local website source checkout. Independent Git repository, ignored by ART. [Source on GitHub](https://github.com/Suede0619/sw-arts-website). |
 | [data/](data/README.md), [tools/financial_model.py](tools/financial_model.py) | Public research tables, legacy festival model inputs/outputs and model generator. |
 | [templates/](templates/Weekly-Scorecard.md) | Reusable intake, partnership, seller, buyer and reporting forms. |
-| [operations/](operations/README.md) | Anonymous method for people, meetings and commitments. |
-| `private/` | Local source archives, central operational records and `people/` reference material. Git excludes the entire folder. |
+| Shared [TEAM/](../TEAM/README.md) | Internal member folders and central operations across Southwest Arts and Denver. The [operating method](../TEAM/OPERATING-METHOD.md) describes the shared records. |
+| `private/` | Southwest Arts source archives. Git excludes the entire folder. |
 
 The separate [Denver Energy Center art festival workflow](../Denver/README.md) holds its own research, Common Altitude proposal, program and pitch decks. [The ART workspace index](../README.md) links both workflows.
 
@@ -27,7 +27,7 @@ The separate [Denver Energy Center art festival workflow](../Denver/README.md) h
 | Document | What it provides |
 |---|---|
 | [Platform strategy and starter brand brief](planning/10-Platform-First-Strategy-and-Brand-Brief.md) | Short current onboarding brief: platform-first direction, inclusive full-spectrum art, Taos v1, correct listing illustration and a brand scope to agree before work. |
-| [People, meetings and commitments. Operating method](operations/README.md) | One private people register and central activity log. Public foundations remain anonymous. Named records, correspondence and NDA portfolios are local-only, outside public Git. |
+| [People, meetings and commitments. Operating method](../TEAM/OPERATING-METHOD.md) | One private people register and central activity log. Public foundations remain anonymous. Named records, correspondence and NDA portfolios are local-only, outside public Git. |
 | [Southwest Art website. Specification and prototype review](website-spec/README.md) | Taos-first spec, provisional Atomic design, zero direct-artist commission and researched candidates. **[Prototype source](https://github.com/Suede0619/sw-arts-website) implemented. [GitHub Pages preview](https://suede0619.github.io/sw-arts-website/) status in [the handoff](SESSION_STATE.md). Review before production.** |
 | [Foundations and ideas](PROJECT-FOUNDATIONS.md) | Anonymous concept brief covering artist livelihoods, a selective guide, referral networks, education, AI, funding and unresolved decisions. |
 | [PRD and business plan](planning/01-PRD-and-Business-Plan-2027.md) | Mission, audiences, offers, business model, outcomes, governance, and launch conditions. |
@@ -83,6 +83,6 @@ Follow [WRITING-GUIDE.md](../WRITING-GUIDE.md) for prose, headings, labels and p
 
 New sessions should begin with the shared [ART instructions](../AGENTS.md), this workflow's [AGENTS.md](AGENTS.md), and the dated [session handoff](SESSION_STATE.md), which record completed work, key assumptions, validation, and unresolved inputs.
 
-This repository is **public**. Ignored `private/source/` preserves the original meeting notes unchanged. Named team/meeting records and the central activity log are in ignored `private/operations/`. Person material lives under ignored `private/people/`. These records and NDA files do not sync through public GitHub. Future confidential archives belong under `private/` or in an appropriately controlled document store. Public documents contain business contact details supplied for House of Fire, research, planning assumptions, and empty templates. They do not include buyer lists, bank records, or private sales ledgers.
+This repository is **public**. Ignored `private/source/` preserves the original meeting notes unchanged. Shared member material, team meetings and the central people/activity registers now live under `ART/TEAM/`, with named records excluded by the tracked `.gitignore`. These records and NDA files do not sync through public GitHub. Future confidential project archives belong under `private/` or in an appropriately controlled document store. Public documents contain business contact details supplied for House of Fire, research, planning assumptions, and empty templates. They do not include buyer lists, bank records, or private sales ledgers.
 
 `ART` is an independent Git repository linked to [Suede0619/taosarts](https://github.com/Suede0619/taosarts). The surrounding Taos workspace remains separate. See [contribution and update guidance](../CONTRIBUTING.md) before adding sources or future documents. Third-party images, text, logos, and records require their own permission. Linking a source does not grant reproduction rights.

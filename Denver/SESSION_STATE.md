@@ -4,7 +4,7 @@
 
 This folder contains the Denver Energy Center art festival workflow and its related venue, ownership, feasibility, Common Altitude and presentation work. Southwest Arts shows, platform and website work now live in the sibling [SouthwestArts folder](../SouthwestArts/README.md). Cross-workflow context links point there. Shared repository rules remain in [ART/AGENTS.md](../AGENTS.md).
 
-Denver's plans, models, deck artifacts and private archives retain their existing locations and contents. The single private operations register moved with Southwest Arts and still holds cross-workflow commitments. Locally, use `../SouthwestArts/private/operations/README.md`. The October 24 workspace summaries below preserve the Denver portions of the former ART-wide handoff. No research refresh or change to event authority forms part of the reorganization.
+Denver's plans, models, deck artifacts and private archives retain their existing locations and contents. Following the user's shared-team clarification, member folders and the single private operations register now live in [TEAM](../TEAM/README.md) across both projects. Locally, use `../TEAM/operations/README.md`. The October 24 workspace summaries below preserve the Denver portions of the former ART-wide handoff. No research refresh or change to event authority forms part of the reorganization.
 
 Read [AGENTS.md](AGENTS.md), [README.md](README.md) and [the source register](05-News-and-Source-Register.md). This folder holds dated discovery in the public `Suede0619/taosarts` repository. It grants no venue agreement or event authority. Baseline before the work: `e5fdb1bceebd09cd21da0cc5e1e2d1631d3d4b5a`.
 

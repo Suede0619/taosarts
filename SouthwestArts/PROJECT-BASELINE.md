@@ -12,7 +12,7 @@ Help artists sell art so they can keep living and working in Taos. Build collect
 
 The year-round curated art and destination platform is the proposed core business and revenue engine. Festivals support discovery, relationships and visits. The platform is not dependent on producing a large event first. Include contemporary art and other styles. Southwest defines geography. The [strategy and starter brand brief](planning/10-Platform-First-Strategy-and-Brand-Brief.md) is the concise onboarding document. This direction comes from supplied planning input. It establishes no board resolution, funding, appointment or approved budget.
 
-Taos remains the only v1 region. A Denver hub and representatives in Santa Fe/Phoenix/Denver are future hypotheses. The proposed 10% representative share has no defined revenue base, payer, attribution rule or terms. It cannot change zero direct-artist website commission. The parties have agreed no paid brand role or team capacity. Named operational evidence belongs in the private register described in [the operating method](operations/README.md).
+Taos remains the only v1 region. A Denver hub and representatives in Santa Fe/Phoenix/Denver are future hypotheses. The proposed 10% representative share has no defined revenue base, payer, attribution rule or terms. It cannot change zero direct-artist website commission. The parties have agreed no paid brand role or team capacity. Named operational evidence belongs in the private register described in [the operating method](../TEAM/OPERATING-METHOD.md).
 
 ## One timeline across the repository
 

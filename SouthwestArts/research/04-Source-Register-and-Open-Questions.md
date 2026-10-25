@@ -4,7 +4,7 @@ Research cut-off: **October 19, 2026**. This register lists supporting sources. 
 
 ## October 23 focused additions
 
-This update checks the named sources only. Other October 19 research retains its earlier date. The [current strategy/brand brief](../planning/10-Platform-First-Strategy-and-Brand-Brief.md) and [operating method](../operations/README.md) distinguish new supplied planning input from independently reviewed facts. Named evidence stays private.
+This update checks the named sources only. Other October 19 research retains its earlier date. The [current strategy/brand brief](../planning/10-Platform-First-Strategy-and-Brand-Brief.md) and [operating method](../../TEAM/OPERATING-METHOD.md) distinguish new supplied planning input from independently reviewed facts. Named evidence stays private.
 
 | Source, checked October 23 | Use and limit |
 |---|---|

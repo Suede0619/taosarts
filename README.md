@@ -9,6 +9,10 @@ This repository contains two workflows. Each has its own plans, research and ses
 
 The Denver proposal and Southwest Arts use separate budgets and assumptions. Their research dates, evidence limits and approval requirements remain in their documents.
 
+## Shared team
+
+[TEAM](TEAM/README.md) holds the internal team across both workflows. Local member folders and central operational records live there. [The operating method](TEAM/OPERATING-METHOD.md) describes the shared people register and activity log. Named material remains private and ignored by Git.
+
 ## Repository guidance
 
 - [Agent instructions](AGENTS.md)

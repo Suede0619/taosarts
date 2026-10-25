@@ -4,7 +4,7 @@
 
 The user authorized a design prototype and live preview in a separate repository. The preview supports design review. It processes no live art transactions. The next gate is prototype review before production, seller onboarding or real payments. Audo #11 remains the provisional direction used to make the design concrete.
 
-**October 23 strategy alignment:** prioritize the year-round platform, content/rights, buyer service and a modest affordable brand scope. Festivals support acquisition and public value under separate authority. A large event is not a prerequisite for platform validation. Taos-only v1 is unchanged. Denver expansion, representative pay and new staffing remain proposals without approval. Use the [current brief](10-Platform-First-Strategy-and-Brand-Brief.md) and [operating method](../operations/README.md). Relative availability and proposed owners below are not accepted assignments.
+**October 23 strategy alignment:** prioritize the year-round platform, content/rights, buyer service and a modest affordable brand scope. Festivals support acquisition and public value under separate authority. A large event is not a prerequisite for platform validation. Taos-only v1 is unchanged. Denver expansion, representative pay and new staffing remain proposals without approval. Use the [current brief](10-Platform-First-Strategy-and-Brand-Brief.md) and [operating method](../../TEAM/OPERATING-METHOD.md). Relative availability and proposed owners below are not accepted assignments.
 
 ## Before kickoff: fixed external dates only
 

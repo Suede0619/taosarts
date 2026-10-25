@@ -1,5 +1,13 @@
 # Arts workspace handoff: October 25, 2026
 
+## Shared team correction
+
+The user's subsequent October 25 instruction confirms one internal team across both projects. Shared member folders, the people register, central activity log, meetings and drafts now live in [TEAM](TEAM/README.md). [TEAM/AGENTS.md](TEAM/AGENTS.md) and [the operating method](TEAM/OPERATING-METHOD.md) govern that workspace. This supersedes the earlier placement of shared team material under SouthwestArts. Baseline before this correction: `4a65593`.
+
+The existing local member folders moved intact into TEAM, and the existing project-initiator record now has its own local member folder. Named records remain ignored. Only anonymous TEAM guidance belongs in public Git. The single people/activity registers retain their IDs and statuses, with a dated record of the user's clarification. Outside Denver contact dossiers remain in Denver's project-specific evidence archive.
+
+Validation covered 147 active Markdown files and 627 relative links, all resolving. All 1,934 baseline files remain present at their expected paths. All 1,477 original archive files and 1,127 non-document files retain their hashes. Git excludes all 68 private TEAM files. Only the three anonymous TEAM guidance files enter public Git. Project model data, website source and deployment settings remain unchanged. Private member files and operational records require their existing local handling and do not sync through GitHub.
+
 ## Two workflows
 
 The user separated ART into two workflows on October 25. [Denver](Denver/README.md) holds the Energy Center art festival and all related research, Common Altitude plans, program, budgets and decks. [SouthwestArts](SouthwestArts/README.md) holds Southwest Arts shows, platform plans, Taos research and website work.
@@ -11,11 +19,13 @@ Start with the matching [Denver instructions](Denver/AGENTS.md) and [handoff](De
 | Previous ART location | Current ART location |
 |---|---|
 | Southwest Arts README, session handoff and PROJECT documents | `SouthwestArts/` |
-| `planning/`, `research/`, `data/`, `tools/`, `templates/`, `operations/` | Same folder names under `SouthwestArts/` |
+| `planning/`, `research/`, `data/`, `tools/`, `templates/` | Same folder names under `SouthwestArts/` |
+| Public `operations/README.md` | Shared `TEAM/OPERATING-METHOD.md` |
 | `website-spec/` | `SouthwestArts/website-spec/` |
 | Independent `sw-arts-website/` checkout | `SouthwestArts/sw-arts-website/` |
-| Local `private/source/` and `private/operations/` | Same folder names under `SouthwestArts/private/` |
-| Local person-material folders | `SouthwestArts/private/people/` |
+| Local `private/source/` | `SouthwestArts/private/source/` |
+| Local shared operational records | `TEAM/operations/` |
+| Local internal member folders | Directly under `TEAM/` |
 
 The root README and AGENTS.md now route work to the two workflows. Shared writing/contribution guidance and the October 24 review stay at the root. The shared historical editorial evidence remains ignored at `private/editorial-review/`. Denver retains its existing internal structure and private archives. Cross-workflow references point to the new Southwest Arts paths.
 

@@ -2,6 +2,8 @@
 
 **October 23, 2026, Proposed lightweight working system, now set up locally.** Keep the public foundation documents anonymous. Maintain named operational records privately, with one people register and one central activity log. Use ordinary Markdown at this stage. Another project-management subscription is unnecessary until coordination needs justify it.
 
+**October 25 organization:** the internal team serves both Denver and Southwest Arts. Its member folders and central records live together in [TEAM](README.md), alongside this method. The paths below start at the ART repository root.
+
 ## Why this structure
 
 A folder for each person is useful for their material, but it is a poor master task system: a meeting can involve several people, proposals change, and copying the same task into several folders produces conflicting status. Use person folders as evidence drawers. Keep people/capacity in one register, and every live statement, proposal, commitment and decision in one log linked to its source. Meeting notes preserve context. The activity log holds current tasks.
@@ -9,14 +11,14 @@ A folder for each person is useful for their material, but it is a poor master t
 | Layer | Canonical record | What belongs there | Access |
 |---|---|---|---|
 | Foundation | Current baseline, strategy/brand brief and specifications | Mission, scope, anonymous proposals, verified research, economics and review gates | Public GitHub |
-| People | `private/operations/PEOPLE.md` | Actual names, contact details, role interest versus appointment, capabilities/evidence, availability and engagement questions | Private/local |
-| Activity | `private/operations/ACTIVITY-LOG.md` | Statements, proposals, actions, decisions, unresolved questions, owners, evidence and current status | Private/local |
-| Sources | `private/operations/SOURCES.md` and retained originals | Source IDs, exact correspondence, supplied summaries, date confidence, files, links and confidentiality restrictions | Private/local |
-| Meetings | `private/operations/meetings/` | Dated interpreted account, source limitations and links to log IDs | Private/local |
-| Participant material | `private/people/` | Original portfolios, capability evidence, reference catalogs and source snapshots | Private/local |
-| Sharing | `private/operations/sharing/` and `drafts/` | A reviewed participant copy and ready-to-send messages, excluding unrelated private material | Private. Share deliberately |
+| People | `TEAM/operations/PEOPLE.md` | Actual names, contact details, role interest versus appointment, capabilities/evidence, availability and engagement questions | Private/local |
+| Activity | `TEAM/operations/ACTIVITY-LOG.md` | Statements, proposals, actions, decisions, unresolved questions, owners, evidence and current status | Private/local |
+| Sources | `TEAM/operations/SOURCES.md` and retained originals | Source IDs, exact correspondence, supplied summaries, date confidence, files, links and confidentiality restrictions | Private/local |
+| Meetings | `TEAM/operations/meetings/` | Dated interpreted account, source limitations and links to log IDs | Private/local |
+| Participant material | Local member folders directly under `TEAM/` | Original portfolios, capability evidence, reference catalogs and source snapshots | Private/local |
+| Sharing | `TEAM/operations/sharing/` and `TEAM/operations/drafts/` | A reviewed participant copy and ready-to-send messages, excluding unrelated private material | Private. Share deliberately |
 
-The ignored records are **not included in GitHub or recreated by a clone**. This table maps the local records. Public GitHub contains no private files. The ART `.gitignore` excludes `private/` at every depth, including person material now under `SouthwestArts/private/people/`. Do not list named folder paths in anonymous public documents. Keep future confidential intake under `private/` and verify its exclusion.
+The ignored records are **not included in GitHub or recreated by a clone**. This table maps the local records. Public GitHub contains no private files. The ART `.gitignore` excludes every TEAM item except anonymous README.md, AGENTS.md and OPERATING-METHOD.md. It also excludes `private/` at every depth. Do not list named folder paths in anonymous public documents. Keep future team intake in ignored TEAM folders and verify exclusions before adding material.
 
 ## Minimum useful people record
 

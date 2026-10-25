@@ -77,4 +77,4 @@ A reported Santa Fe event involving “43 international galleries” needs an ev
 
 ## Suggested first review
 
-Read this brief, view the prototype, and use the detailed specification as reference. Discuss mission/positioning, provisional visual direction, practical brand scope, available capacity and affordable terms. Clarify responsibility for art/rights, content upkeep, buyer service and technical delivery. Record decisions and accepted actions through the [operating method](../operations/README.md). Public plans remain anonymous while named follow-through stays private.
+Read this brief, view the prototype, and use the detailed specification as reference. Discuss mission/positioning, provisional visual direction, practical brand scope, available capacity and affordable terms. Clarify responsibility for art/rights, content upkeep, buyer service and technical delivery. Record decisions and accepted actions through the [operating method](../../TEAM/OPERATING-METHOD.md). Public plans remain anonymous while named follow-through stays private.
