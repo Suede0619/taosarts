@@ -1,6 +1,6 @@
 # Paying the team and financing the work before opening
 
-**October 24, 2026. Compensation and funding options.** No pay, equity, hire or fundraising term has approval. Read the earlier [founder-compensation scenarios](../../planning/09-Founder-Compensation-and-Hiring-Scenarios.md) separately from Denver financing. Named working-role recommendations remain local/private.
+**October 24, 2026. Compensation and funding options.** No pay, equity, hire or fundraising term has approval. Read the earlier [founder-compensation scenarios](../../SouthwestArts/planning/09-Founder-Compensation-and-Hiring-Scenarios.md) separately from Denver financing. Named working-role recommendations remain local/private.
 
 ## A share of proceeds can be useful. It cannot be the whole production plan
 

@@ -1,6 +1,6 @@
 # Generated model results
 
-Planning assumptions only. Rebuild with `python3 tools/financial_model.py` from the ART repository.
+Planning assumptions only. Rebuild with `python3 SouthwestArts/tools/financial_model.py` from the ART repository root.
 
 Planning period: **2026-11-01 through 2027-10-31**.
 Model scope: **Legacy commission-bearing festival/integrated illustration. Not the current Southwest Art zero-commission website budget or approved consolidated forecast**.

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Rebuild transparent scenario and cash-flow outputs from planning assumptions.
-Run from any directory: python3 ART/tools/financial_model.py
+Run from the ART repository root: python3 SouthwestArts/tools/financial_model.py
 No network access or private inputs. Monetary values are nominal USD.
 """
 import csv
@@ -90,7 +90,7 @@ def main():
                           lowest_cash_with_50000_opening_usd=min(r['ending_unrestricted_cash_usd'] for r in flow)))
     write_csv('sensitivity.csv',stress)
     text=['# Generated model results','',
-          'Planning assumptions only. Rebuild with `python3 tools/financial_model.py` from the ART repository.','',
+          'Planning assumptions only. Rebuild with `python3 SouthwestArts/tools/financial_model.py` from the ART repository root.','',
           f'Planning period: **{config["period"]}**.',
           f'Model scope: **{config["status"]}**.','',
           '| Scenario | Art value | Artist proceeds | Gallery retained | Transaction income | Operating income | Expenses | Surplus / deficit |',

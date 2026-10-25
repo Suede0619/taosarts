@@ -13,10 +13,10 @@ A folder for each person is useful for their material, but it is a poor master t
 | Activity | `private/operations/ACTIVITY-LOG.md` | Statements, proposals, actions, decisions, unresolved questions, owners, evidence and current status | Private/local |
 | Sources | `private/operations/SOURCES.md` and retained originals | Source IDs, exact correspondence, supplied summaries, date confidence, files, links and confidentiality restrictions | Private/local |
 | Meetings | `private/operations/meetings/` | Dated interpreted account, source limitations and links to log IDs | Private/local |
-| Participant material | Existing locally excluded person folders, or folders under `private/` | Original portfolios, capability evidence, reference catalogs and source snapshots | Private/local |
+| Participant material | `private/people/` | Original portfolios, capability evidence, reference catalogs and source snapshots | Private/local |
 | Sharing | `private/operations/sharing/` and `drafts/` | A reviewed participant copy and ready-to-send messages, excluding unrelated private material | Private. Share deliberately |
 
-The ignored records are **not included in GitHub or recreated by a clone**. This table maps the local records. Public GitHub contains no private files. Inspect local exclusions in `.git/info/exclude`. Do not list named folder paths in anonymous public documents. Prefer `private/` for future intake unless an existing person-folder arrangement needs preserving.
+The ignored records are **not included in GitHub or recreated by a clone**. This table maps the local records. Public GitHub contains no private files. The ART `.gitignore` excludes `private/` at every depth, including person material now under `SouthwestArts/private/people/`. Do not list named folder paths in anonymous public documents. Keep future confidential intake under `private/` and verify its exclusion.
 
 ## Minimum useful people record
 

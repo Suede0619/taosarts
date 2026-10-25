@@ -4,12 +4,14 @@ Keep research, supplied planning inputs and proposed decisions distinguishable. 
 
 Read [WRITING-GUIDE.md](WRITING-GUIDE.md) before editing prose, headings, labels or presentations. Keep numbers, evidence status and source quotations accurate.
 
+The [Denver Energy Center workflow](Denver/README.md) lives in `Denver/`. [Southwest Arts shows, platform and website work](SouthwestArts/README.md) live in `SouthwestArts/`. Read the relevant folder's AGENTS.md and handoff. Shared repository guidance stays at the ART root.
+
 ## Before changing a plan
 
 1. Record new evidence, its source, date, permissions, and limitations.
 2. Keep private source records outside Git. Publish approved aggregates or redacted summaries only.
 3. Update the affected research and open questions.
-4. Change financial assumptions in `data/model-inputs.json`, regenerate with `python3 tools/financial_model.py`, and reconcile the explanatory prose.
+4. For the Southwest Arts legacy model, change `SouthwestArts/data/model-inputs.json` and run `python3 SouthwestArts/tools/financial_model.py` from ART. Denver models have their own inputs and commands. Reconcile the affected explanatory prose.
 5. Record material decisions with date, owner, authority, and effect on budget or scope. Do not describe proposals as approved without evidence.
 6. Check relative links and review the actual staged diff before committing.
 

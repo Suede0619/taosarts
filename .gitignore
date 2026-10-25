@@ -7,5 +7,6 @@ __pycache__/
 *.pyc
 .venv/
 
-# Independent prototype repository
+# Independent prototype repository, including older local checkout locations
 /sw-arts-website/
+/SouthwestArts/sw-arts-website/

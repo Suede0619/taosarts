@@ -10,7 +10,7 @@
 4. Anonymous supplied planning notes. These record inputs without independent verification.
 5. Our proposals, manual travel estimates, budgets, editorial selection and design judgments, explicitly separated from source facts.
 
-Raw fetched pages and extraction scripts remain under ignored `ART/private/source/website-spec/`. They are not a public archive or a production content license. Public deliverables contain concise original summaries, factual metadata and source/image-reference URLs. The research bypassed no account, social login or CAPTCHA restriction. Some local HTTP fetches returned errors, incomplete JavaScript pages or access blocks. The research used accessible alternative primary sources where possible.
+Raw fetched pages and extraction scripts remain under ignored `ART/SouthwestArts/private/source/website-spec/`. They are not a public archive or a production content license. Public deliverables contain concise original summaries, factual metadata and source/image-reference URLs. The research bypassed no account, social login or CAPTCHA restriction. Some local HTTP fetches returned errors, incomplete JavaScript pages or access blocks. The research used accessible alternative primary sources where possible.
 
 ## Foundational project sources
 
