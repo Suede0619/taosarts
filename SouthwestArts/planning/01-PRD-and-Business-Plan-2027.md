@@ -8,6 +8,8 @@
 
 **Website alignment:** the [website specification](../website-spec/README.md) defines a Taos-only v1. Ten artist candidates and sixty work records. Free artist/experience discovery. Zero direct-artist website commission. Founding gallery/restaurant/lodging fees of $150/$99/$199 per month. A prototype is now authorized. Production requires its own review. The older commission-bearing figures model separate arrangements. They provide no funded website or consolidated budget.
 
+**October 25 strategy exploration:** [the buyer-led collector/visit service](11-Website-Pivot-Collector-and-Visit-Service.md) is the recommended next proposition to test. Its leading offer is a useful buyer request and coordinated seller introduction, distributed through existing local relationships. Profile-slot selling is not the recommended opening pitch. Pricing, staffing and implementation remain undecided, and this document's older model assumptions are unchanged.
+
 ## 1. The business we want to create
 
 Make Taos an unusually rewarding place to discover and buy art, and make the resulting income meaningful to the people who create it. Build the edited year-round art/destination platform and buying service as the core business. A revitalized festival can support that service through public discovery, relationships and visits, subject to separate authority and funding. Start with Taos. Earn the right to become a broader Southwest platform.

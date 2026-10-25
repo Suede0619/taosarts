@@ -6,6 +6,8 @@ A collection of anonymous foundational documents, research, ideas and proposed p
 
 [Current project baseline](PROJECT-BASELINE.md) records the common timeline, pre-kickoff dates, current website decisions and the distinction from older financial illustrations. November 1 starts the project. Launch and billing need separate decisions.
 
+**October 25 discussion package:** start with [the buyer-led service pivot](planning/11-Website-Pivot-Collector-and-Visit-Service.md), then [personas, pitches and timing](outreach/README.md). It also includes a broad Taos arts directory, AI/trust guidance and [Art as Teacher Foundation research](research/05-Art-as-Teacher-Foundation-2026-10-25.md). The pivot is a recommendation for review, with existing models and prototype unchanged.
+
 ## Folder map
 
 | Folder or document | Contents |

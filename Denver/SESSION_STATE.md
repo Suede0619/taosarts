@@ -1,5 +1,13 @@
 # Denver workflow handoff: October 25, 2026
 
+## October 25 audience and pitch preparation
+
+The new [outreach package](outreach/README.md) contains 16 decision-role personas, a complete product/pitch/timing matrix and nine audience-grouped thirty-second scripts with editorial evaluations. The first owner conversation asks for the right site-feasibility process. Property authority, construction conditions, qualified review and funding precede public invitations or sponsorship benefits. Proposed event dates and scale remain conditional. No current site facts, budgets, model assumptions or participant commitments change.
+
+The package distinguishes social introductions, discovery meetings and later commercial asks. One relevant topic follows permission to explain; a companion is not an automatic presenter. Role boundaries and named accounts remain in ignored shared TEAM. No outreach, booking, application or public launch occurred.
+
+Validation covers all 16 persona/pitch matches, nine scripts of 55–62 words, active local document links, public anonymity, Git exclusions and whitespace. Southwest Arts has its own [outreach and service exploration](../SouthwestArts/outreach/README.md); do not merge its direct-artist website economics with Denver. The financial and presentation generators were not run because their inputs and copy did not change. Document baseline: `98b8b18`.
+
 ## October 25 workflow organization
 
 This folder contains the Denver Energy Center art festival workflow and its related venue, ownership, feasibility, Common Altitude and presentation work. Southwest Arts shows, platform and website work now live in the sibling [SouthwestArts folder](../SouthwestArts/README.md). Cross-workflow context links point there. Shared repository rules remain in [ART/AGENTS.md](../AGENTS.md).

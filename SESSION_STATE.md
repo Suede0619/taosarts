@@ -1,5 +1,17 @@
 # Arts workspace handoff: October 25, 2026
 
+## October 25 audience and pitch package
+
+The [Southwest Arts outreach package](SouthwestArts/outreach/README.md) covers 23 decision roles, product-specific pitches, social and business timing, 11 audience-grouped thirty-second scripts, AI trust/environment questions and a 117-record Taos entity directory. The [recommended service pivot](SouthwestArts/planning/11-Website-Pivot-Collector-and-Visit-Service.md) makes a buyer's request the leading offer: prepare a useful brief, select permissioned work and arrange a seller-confirmed next step. It tests funded service delivery rather than selling directory positions. This is a proposal, not adopted pricing, a validated business or a production build.
+
+[Art as Teacher](SouthwestArts/research/05-Art-as-Teacher-Foundation-2026-10-25.md) has a separate first-party brief: founded in 2025, institution building now, first events planned for 2027. A possible contribution begins with its education/art mission and a small approved digital encounter. No funding, endorsement or partnership is established. The roster distinguishes first-party identities from network listings, conflicting/historical leads and supplied details; it is not an exhaustive census of active businesses.
+
+The [Denver outreach package](Denver/outreach/README.md) separately covers 16 roles, readiness/timing and nine audience-grouped short pitches. Site authority, construction compatibility and a bounded feasibility process precede participation or sponsorship offers. Regional Southwest shows and Denver retain separate scope, budgets and approvals.
+
+Named intake, role boundaries and draft conversations remain in ignored TEAM records. Public writing uses anonymous project roles. No messages were sent. Validation covers 157 Markdown files and 713 local references with no broken paths or anchors, persona/pitch coverage, directory IDs/evidence labels, script lengths, 46 source hashes and Git exclusions for 175 private TEAM files. All public local links have targets in the public repository. Financial inputs/outputs and the independent website retain their contents. The previous prototype verification below remains the latest runtime check; no new deployment forms part of this document work. Baseline: `98b8b18`.
+
+Before a real pilot, identify a funded operator, obtain seller and buyer permissions, test demand and effort, and agree scope and continuation criteria. The digital production role does not automatically include selling, curation, guest coordination or event operations.
+
 ## Link and prototype verification
 
 The subsequent user request asked for a full link/display check, then add, commit and push. [The verification record](WORKSPACE-VALIDATION-2026-10-25.md) records the results against document baseline `4001f53` and website source `6a70379`. All 627 initial local references resolve, including heading anchors and links needed by a fresh clone. The website's static checks and all nine browser tests pass from its new location. All 64 pages render locally and live at desktop and phone sizes, with no runtime errors, failed site responses, missing images or horizontal overflow. All 17 published files match local bytes. Live desktop/phone screenshots pass visual review.

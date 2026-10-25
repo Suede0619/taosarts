@@ -1,11 +1,12 @@
 # Data and model definitions
 
-These files contain **public historical aggregates or proposed model assumptions**, never real buyer-level data.
+These files contain **public research, historical aggregates or proposed model assumptions**, never real buyer-level data.
 
 | File | Meaning |
 |---|---|
 | [festival-financial-history.csv](festival-financial-history.csv) | Organizational annual figures, 2014–2024. Blank 2025–2026. Not artwork sales. Source URL and evidence label per row. |
 | [festival-attendance-and-art-sales.csv](festival-attendance-and-art-sales.csv) | Annual missing-data register, 2014–2026. Blank numeric fields are unknown, never zero. |
+| [taos-arts-entities-2026-10-25.csv](taos-arts-entities-2026-10-25.csv) | 117 named organizations, businesses, sites and programs. Evidence labels distinguish first-party identities, network listings, conflicting/historical leads and supplied details. Not a census of verified operating businesses. See the [directory and limitations](../outreach/04-Taos-Arts-Entity-Directory-2026-10-25.md). |
 | [model-inputs.json](model-inputs.json) | Editable proposal: channel shares, fee assumptions, scenario budgets, buyer order cohorts, and cash timing. |
 | [scenario-summary.csv](scenario-summary.csv) | Generated combined operating scenarios. Artist and gallery shares are not operating revenue. |
 | [base-cashflow.csv](base-cashflow.csv) | Generated cash forecast in twelve calendar months, November 2026–October 2027. Opening financing is outside operating income. |

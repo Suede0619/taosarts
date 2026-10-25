@@ -9,6 +9,8 @@ This repository contains two workflows. Each has its own plans, research and ses
 
 The Denver proposal and Southwest Arts use separate budgets and assumptions. Their research dates, evidence limits and approval requirements remain in their documents.
 
+The October 25 [Southwest Arts pitch package](SouthwestArts/outreach/README.md) introduces the recommended buyer-led service pivot, personas, timing, a Taos arts directory and Art as Teacher research. [Denver's pitch package](Denver/outreach/README.md) covers the separate Energy Center audience and readiness gates. Both are preparation for review, with no outreach or production change.
+
 ## Shared team
 
 [TEAM](TEAM/README.md) holds the internal team across both workflows. Local member folders and central operational records live there. [The operating method](TEAM/OPERATING-METHOD.md) describes the shared people register and activity log. Named material remains private and ignored by Git.

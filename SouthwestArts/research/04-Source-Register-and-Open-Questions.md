@@ -1,6 +1,25 @@
 # Source register, evidence limits, and open questions
 
-Research cut-off: **October 19, 2026**. This register lists supporting sources. The review includes no full archive recovery or organization audit. Direct links accompany the relevant claims in the research and plans.
+Original research cut-off: **October 19, 2026**, with dated focused additions below. This register lists supporting sources. The review includes no full archive recovery or organization audit. Direct links accompany the relevant claims in the research and plans.
+
+## October 25 audience, institutions and service-pivot additions
+
+The [outreach package](../outreach/README.md), [entity directory](../outreach/04-Taos-Arts-Entity-Directory-2026-10-25.md) and [service-pivot proposal](../planning/11-Website-Pivot-Collector-and-Visit-Service.md) use these focused checks. Other research retains its original date. The directory contains 117 named entities/sites/programs, including historical or uncertain leads. It does not establish 117 operating businesses or any agreed relationship.
+
+| Source, checked October 25 | Use and limit |
+|---|---|
+| [Art as Teacher Foundation](https://artasteacher.org/) | First-party account of a 2025 founding, founding board, institution building and planned first events in 2027. See the [dedicated brief](05-Art-as-Teacher-Foundation-2026-10-25.md). No open grant program or commercial support established. |
+| [Taos Gallery Association](https://taosgalleryassoc.com/), [Taos Arts Council gallery list](https://taosartscouncil.org/taos-galleries/) | Network-listed identities and discovery leads. Some records are old; current operation, hours and stock require separate checks. The CSV preserves each row's basis. |
+| [Hotel Willa art programs](https://www.hotelwilla.com/experiences/art-programs), [PASEO](https://paseoproject.org/about) | Existing local art/hospitality and public-art activity. No relationship with Southwest Arts or demonstrated platform sales result. |
+| [Helene Wurlitzer Foundation](https://wurlitzerfoundation.org/about) | Published residency mission and 2026 pause. Do not imply a currently open residency round or grant offer. |
+| [Taos Pueblo artists](https://taospueblo.com/artists/), [visitor guidance](https://taospueblo.com/visiting-taos-pueblo/) | Community-authoritative context. No permission to interpret restricted knowledge, reproduce art or arrange visits. |
+| [Taos Community Foundation](https://www.taoscf.org/), [LOR's Taos community page](https://lorfoundation.org/communities/taos-new-mexico/) | Institutional identities and stated community work. No determination of eligibility, funding availability or project fit. |
+| [Artlogic](https://artlogic.net/about), [ArtPlacer](https://help.artplacer.com/support/solutions/articles/65000185084), [HiJiffy](https://www.hijiffy.com/), [Mindtrip](https://resources.mindtrip.ai/business/insights/ai-at-the-point-of-stay) | First-party examples of existing inventory, visualization and hospitality/planning capabilities. Not verified performance, product recommendations or implemented integrations. |
+| [IEA 2026 energy and AI](https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary), [LBNL workload water research](https://datacenters.lbl.gov/publications/water-use-data-center-workloads), [UNEP data-center sustainability](https://www.unep.org/en/news-and-stories/technical-highlight/how-make-ai-data-centres-more-sustainable) | Basis for the [AI trust/environment note](../outreach/05-AI-Trust-and-Environmental-Questions.md). System-level findings do not measure this project's footprint or prove sustainability. |
+
+The pivot's immediate unknowns are buyer demand, seller effort, a funded delivery operator and willingness to pay for defined service. Personas and pitch evaluations are planning judgments, not claims about named individuals or tested conversion results. No outreach, enrollment or production integration accompanies this research.
+
+The conditional October 23 advance-review deadline below is now past. No submission was made in this work. Eligibility and the effect on any later application remain unresolved; the October 23 check does not establish a currently available funding route.
 
 ## October 23 focused additions
 
@@ -97,7 +116,7 @@ The report of a Santa Fe event with 43 international galleries remains unidentif
 
 | Priority | Question | Owner to identify | Effect on the plan |
 |---|---|---|---|
-| Immediate | Does the festival require Oct 23 advance review? Who may submit? | Authorized grant officer | Preserves or loses a near-term funding option. |
+| Historical deadline; unresolved | Did the conditional Oct 23 advance-review requirement apply, and what options remain? | Authorized grant officer | The date has passed. Do not present advance review as an upcoming option. |
 | Kickoff: Nov 1–7 | Who approves festival commitments and the separate guide relationship? | Board | Determines authority and entity structure. |
 | Kickoff: Nov 1–7 | What cash and weekly time are actually available? | Project sponsor / product lead | Chooses pilot scope and staffing feasibility. |
 | High | What were 2026 completed sales, artist proceeds, liabilities, and costs? | Treasurer / archive lead | Replaces the current absence of a baseline. |

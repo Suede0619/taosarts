@@ -1,5 +1,7 @@
 # Denver: venue, ownership and redevelopment discovery
 
+**October 25 communication package:** [personas, pitch timing and short audience scripts](outreach/README.md) apply to the Energy Center proposal. They do not change the scope/model, grant event approval or authorize outreach.
+
 **Prepared October 24, 2026.** Start with the latest [Common Altitude execution package](Common-Altitude-2027/README.md): full creative/brand, marketing, business/PRD, proposed event week, 72 partner candidates, staffing, 365-day/53-week plan and seven designed pitch decks plus a brand presentation. The earlier [summer 2027 research](Summer-2027-Fair-Research/README.md) and initial discovery below remain dated foundations. All event dates/site/partners, costs and funding remain unconfirmed. No booking or external action occurred. Project day one remains November 1, 2026. Taos is still the only website v1 region.
 
 Project context remains in the [current arts baseline](../SouthwestArts/PROJECT-BASELINE.md) and [platform/brand brief](../SouthwestArts/planning/10-Platform-First-Strategy-and-Brand-Brief.md): the year-round service is the core business, artist livelihoods are the purpose, direct-artist website commission is zero, and events/expansion need their own authority and funding. Denver discovery does not change those commitments.

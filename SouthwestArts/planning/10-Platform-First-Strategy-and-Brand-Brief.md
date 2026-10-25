@@ -4,6 +4,8 @@
 
 **Project day one: November 1, 2026. Taos is the only v1 region.** The existing prototype is a design demonstration. Launch timing depends on permissions, funding, service readiness and review.
 
+**October 25 proposal for review:** the [buyer-led service pivot](11-Website-Pivot-Collector-and-Visit-Service.md) makes an actionable art brief and useful seller introduction the leading offer. It explores funded service delivery and existing seller systems instead of selling additional directory slots. The [outreach package](../outreach/README.md) provides current discussion language. This is a recommendation, not an approved pricing, staffing, model or production change. The older profile-fee illustration below remains dated planning history.
+
 ## The business and the promise
 
 Help artists sell enough work to keep living and working in Taos. Give a remote buyer confidence that the art is real, available, accurately represented and supported by reliable human service. Give a visitor an edited reason to come and a useful path through art, galleries, experiences, food and lodging. Make residents and first buyers feel welcome.

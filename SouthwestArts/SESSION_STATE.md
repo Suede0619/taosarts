@@ -1,5 +1,17 @@
 # Southwest Arts handoff: October 25, 2026
 
+## October 25 service pivot, audiences and Taos institutions
+
+Start with the [buyer-led collector/visit service proposal](planning/11-Website-Pivot-Collector-and-Visit-Service.md) and [outreach hub](outreach/README.md) for current pitch preparation. The recommendation changes the leading offer from a paid profile to a useful buyer request and funded service. Existing seller records remain authoritative. Hosts could fund service capacity; buyers could pay for separately scoped optional work. All prices, demand, staffing and commercial results remain unvalidated. Zero platform commission on direct-artist website sales and Taos-first scope remain controlling.
+
+The package contains 23 personas, a complete persona/product/pitch/timing matrix, 11 audience-grouped thirty-second scripts with editorial evaluations, an AI trust/environment note and a 117-record [entity roster](outreach/04-Taos-Arts-Entity-Directory-2026-10-25.md) with [CSV evidence fields](data/taos-arts-entities-2026-10-25.csv). Forty-one records have first-party identity evidence, 69 rely on network listings, six are conflicting/historical leads, and one uses supplied business details. These are organizations, sites and programs, not 117 verified active businesses or a complete census. The [source-register addition](research/04-Source-Register-and-Open-Questions.md#october-25-audience-institutions-and-service-pivot-additions) records the focused research.
+
+The [Art as Teacher brief](research/05-Art-as-Teacher-Foundation-2026-10-25.md) documents its website's 2025 founding and planned first events in 2027. Its mission suggests listening about a small artist-approved digital learning encounter. Do not treat it as an agreed funder, lead source or commercial partner. Existing local institutional and hospitality innovation informs the approach.
+
+Social pitches begin with attention to the person and occasion, permission and one relevant topic. Booked discovery precedes a funded rehearsal; regional-show invitations follow local feasibility. Named intake and personal role-boundary drafts stay ignored under shared TEAM. No outreach occurred. The service needs an accepted, funded operator; digital production does not imply sales or concierge work.
+
+Validation covers local document links, all 23 persona/pitch matches, 11 scripts of 56–61 words, 117 unique directory IDs with evidence/source fields, source hashes, publication anonymity and ignored private records. Website source, financial model inputs and generated outputs remain unchanged. The existing live prototype still has scripted assistance and demo commerce. No production AI, inventory integration, live sale or deployment was added. Document baseline: `98b8b18`.
+
 ## October 25 prototype and link verification
 
 [The workspace verification record](../WORKSPACE-VALIDATION-2026-10-25.md) confirms that the folder moves preserve document navigation and the prototype. Static checks and all nine browser tests pass from `sw-arts-website/`. All 64 pages render locally and live on desktop and phone, with no broken images, failed site responses, runtime errors or horizontal overflow. All 17 published files match local bytes. The existing successful Pages deployment remains current. This verification requires no source or deployment change. Website source baseline: `6a70379`.
