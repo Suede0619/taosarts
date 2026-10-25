@@ -1,5 +1,11 @@
 # Arts workspace handoff: October 25, 2026
 
+## Link and prototype verification
+
+The subsequent user request asked for a full link/display check, then add, commit and push. [The verification record](WORKSPACE-VALIDATION-2026-10-25.md) records the results against document baseline `4001f53` and website source `6a70379`. All 627 initial local references resolve, including heading anchors and links needed by a fresh clone. The website's static checks and all nine browser tests pass from its new location. All 64 pages render locally and live at desktop and phone sizes, with no runtime errors, failed site responses, missing images or horizontal overflow. All 17 published files match local bytes. Live desktop/phone screenshots pass visual review.
+
+GitHub file trees match the baseline local repositories. The existing Pages workflow's validation and deployment jobs report success. No software or link repairs were necessary. This update adds verification documentation and handoff/index links only. Detailed local evidence stays ignored under `private/validation-2026-10-25/`. Team records, research/model assumptions, website source and deployment settings retain their prior contents.
+
 ## Shared team correction
 
 The user's subsequent October 25 instruction confirms one internal team across both projects. Shared member folders, the people register, central activity log, meetings and drafts now live in [TEAM](TEAM/README.md). [TEAM/AGENTS.md](TEAM/AGENTS.md) and [the operating method](TEAM/OPERATING-METHOD.md) govern that workspace. This supersedes the earlier placement of shared team material under SouthwestArts. Baseline before this correction: `4a65593`.

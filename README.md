@@ -17,6 +17,7 @@ The Denver proposal and Southwest Arts use separate budgets and assumptions. The
 
 - [Agent instructions](AGENTS.md)
 - [Current workspace handoff](SESSION_STATE.md)
+- [October 25 link and prototype validation](WORKSPACE-VALIDATION-2026-10-25.md)
 - [Writing guide](WRITING-GUIDE.md)
 - [Contribution guidance](CONTRIBUTING.md)
 - [October 24 writing review](EDITORIAL-REVIEW-2026-10-24.md), which covers both workflows

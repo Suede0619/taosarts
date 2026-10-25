@@ -1,5 +1,9 @@
 # Southwest Arts handoff: October 25, 2026
 
+## October 25 prototype and link verification
+
+[The workspace verification record](../WORKSPACE-VALIDATION-2026-10-25.md) confirms that the folder moves preserve document navigation and the prototype. Static checks and all nine browser tests pass from `sw-arts-website/`. All 64 pages render locally and live on desktop and phone, with no broken images, failed site responses, runtime errors or horizontal overflow. All 17 published files match local bytes. The existing successful Pages deployment remains current. This verification requires no source or deployment change. Website source baseline: `6a70379`.
+
 Read the shared [ART instructions](../AGENTS.md), this workflow's [AGENTS.md](AGENTS.md), and [PROJECT-BASELINE.md](PROJECT-BASELINE.md) first. Research remains an **October 19, 2026 snapshot** unless a specific source has a newer check date. This handoff records technical state and decisions without personal project attribution.
 
 
