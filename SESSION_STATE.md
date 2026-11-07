@@ -1,5 +1,9 @@
 # Arts workspace handoff: October 25, 2026
 
+## October 25 agent-history updates
+
+Added dated project histories to the root [agent instructions](AGENTS.md), [Southwest Arts](SouthwestArts/AGENTS.md), [Denver](Denver/AGENTS.md), the Common Altitude and summer research instructions, the website specification instructions, and [TEAM](TEAM/AGENTS.md). The histories trace early Taos research, the platform-first strategy and prototype, Denver's separate research and proposal stages, the October 25 workflow split, and shared-team organization. They distinguish historical proposals from current scope and approvals. No models, website source or private records changed. All seven AGENTS files have valid local links; `git diff --check` passes.
+
 ## October 25 audience and pitch package
 
 The [Southwest Arts outreach package](SouthwestArts/outreach/README.md) covers 23 decision roles, product-specific pitches, social and business timing, 11 audience-grouped thirty-second scripts, AI trust/environment questions and a 117-record Taos entity directory. The [recommended service pivot](SouthwestArts/planning/11-Website-Pivot-Collector-and-Visit-Service.md) makes a buyer's request the leading offer: prepare a useful brief, select permissioned work and arrange a seller-confirmed next step. It tests funded service delivery rather than selling directory positions. This is a proposal, not adopted pricing, a validated business or a production build.

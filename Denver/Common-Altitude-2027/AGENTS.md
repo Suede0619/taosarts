@@ -2,6 +2,14 @@
 
 Latest user scope, October 24, 2026: create a full creative/brand system, marketing plan, PRD/business plan, owner/partner/other useful pitch decks, proposed event week, geographically organized art-partner research, hiring sequence and day-by-day/week-by-week action plan. This explicitly supersedes earlier research-and-wait limits **for creating these deliverables**. Finish the package. Do not stop at research or ask again whether to draft it.
 
+## Package history and status
+
+The Common Altitude package follows two earlier stages. Initial October discovery documented Atelier 111, the developer, Denver properties, cultural activity and evidence gaps. The October 24 feasibility follow-up assessed rental/event precedent, venue economics, pitch requirements, candidate roles, compensation and seed funding. Neither stage established an Energy Center event footprint or funding.
+
+The full proposal stage then developed COMMON ALTITUDE / OFFICE OF THE IMPOSSIBLE, a seven-day working format for August 9–15, 2027, with a 60-space planning case and smaller/larger alternatives. It created the creative and brand system, business/product and marketing plans, proposed programs, 72 uncontacted partner candidates, hiring and operations plans, finance scenarios, 365-day action plan, and eight designed presentations totaling 101 slides. October 25 added audience-specific pitch preparation in the sibling `Denver/outreach/` folder. No contact, offer, booking, application, hire, expenditure or launch is established by these artifacts.
+
+Earlier research models remain dated evidence. The Common Altitude model is a larger, separate proposal. Its financial assumptions, name, site, dates, room count, team fees and partner list are not approved. Read the handoff and decision register for exact figures, sources and remaining gates.
+
 Start with README.md, SESSION_STATE.md, data/project.json and DECISIONS.md. Public files remain anonymous with respect to existing project participants. Use role titles. Named mapping, raw research, direct outreach records and sensitive terms stay ignored under private/. Public research may name outside professionals with sources. Record their contact status. The proposal grants no logo or image reuse rights and establishes no artist endorsement.
 
 COMMON ALTITUDE and OFFICE OF THE IMPOSSIBLE remain working names. Name clearance and public launch require later decisions. Proposed event week August 9–15, 2027 is a planning assumption. Project day one remains November 1, 2026. Exact footprint, construction separation, approved assembly use/capacity and owner permission remain missing. The supplied ambition covers hundreds of rooms and the concourse. The project has no survey or event-use approval. Keep scalable alternatives.

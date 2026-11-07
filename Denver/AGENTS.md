@@ -4,6 +4,15 @@ Read the parent [ART instructions](../AGENTS.md), then [README.md](README.md) an
 
 The internal team works across Denver and Southwest Arts. Its member folders and canonical private operations live in shared [TEAM](../TEAM/README.md). Read [TEAM/AGENTS.md](../TEAM/AGENTS.md) for team work. Keep Denver's outside-contact research dossiers in its own private evidence archive.
 
+## Denver project history
+
+- **Initial discovery, October 2026:** Research examined Atelier 111, The Luzzatto Company, Denver properties and redevelopment, High Fidelity cultural activity, and the Denver Energy Center. It separated Taos venue facts from Denver sites and documented construction, ownership, capacity and sales-evidence gaps.
+- **October 24 feasibility research:** A follow-up examined event and rental precedent, owner-share sensitivities, pitch evidence, professional candidates, compensation and seed-funding routes. Its models were exploratory and did not price or approve a two-tower event.
+- **October 24 proposal stage:** The Common Altitude package created a proposed event format, brand, business and marketing plans, program, partner research, operations, budget model, action calendar and presentation decks. This authorized document creation only. It did not authorize outreach, bookings, contracts, hires, spending or launch.
+- **October 25 workflow split and pitch preparation:** Denver became a separate workflow from SouthwestArts. A Denver audience and pitch package was added. Site authority, construction compatibility, permitted use and funding still precede commercial offers or public invitations.
+
+The dated [Denver handoff](SESSION_STATE.md) records detailed research, artifacts, validation and unresolved evidence. The current proposal is not a venue agreement or approved event. Keep its financial model, schedules and permissions separate from Southwest Arts.
+
 ## Current scope and stopping point
 
 Initial discovery and the first follow-up remain dated in [the research package](Summer-2027-Fair-Research/README.md). The subsequent October 24 request explicitly authorizes the full [Common Altitude execution package](Common-Altitude-2027/README.md): creative/brand, marketing, business/PRD, proposed duration/program, partner/hiring plans, day/week calendar and finished pitch-deck artifacts. This supersedes the earlier research-and-wait restriction for document/artifact creation. It does **not** authorize actual offers, approvals, outreach, applications, bookings, hires, expenditures, signatures or public launch. Follow the new package's instructions and handoff. Proposed dates, room counts, budget and partners remain unvalidated. The project has no venue booking. Taos-only website v1 and November 1, 2026 project day one are unchanged.

@@ -2,9 +2,13 @@
 
 Read [the parent instructions](../AGENTS.md), [README.md](README.md) and [SESSION_STATE.md](SESSION_STATE.md). Research cut-off is **October 24, 2026**. The repository is public `Suede0619/taosarts`. Use anonymous founding-role descriptions. Actual participant mapping and source archives are in ignored `private/` and will not clone.
 
-**Successor stage:** the next user request explicitly authorized the full [Common Altitude proposal and deck package](../Common-Altitude-2027/README.md). Its instructions govern that new stage. This folder remains the completed earlier research snapshot. Its historical stop does not prohibit the now-authorized document/artifact work. Outreach/transactions still are not authorized.
+**Successor stage:** the October 24 instruction authorized the full [Common Altitude proposal and deck package](../Common-Altitude-2027/README.md). Its instructions govern that later stage. October 25 added a separate audience/pitch preparation package under `Denver/outreach/`. These successor documents do not change this folder's historical findings or authorize external action.
 
-The latest scope authorized rental/events verification, landlord deal sensitivities, pitch requirements, candidate/team research, compensation/seed analysis and naming, **then stop**. It did not authorize the actual deck, business plan/proposal, event date/duration selection, outreach, applications, hiring, spending or a venue offer. A later “continue” during the task meant finish this research stage.
+## Research-stage history
+
+Initial Denver discovery described the company, Atelier 111, its published creative activity, property acquisitions and redevelopment, existing High Fidelity events, and limits in the public evidence. The October 24 follow-up then verified rental and event context, compared possible venue economics, listed pitch evidence, researched candidate roles and examined compensation and seed funding. Its final output was research and sensitivities, not a priced event or accepted deal.
+
+This folder's original stop remains historically accurate: it did not authorize a deck, business plan, selected event date/duration, outreach, applications, hires, spending or venue offer. A later instruction authorized the separate Common Altitude artifact stage. Read that folder for the resulting proposal. The October 25 outreach package only drafts audience-specific approaches. Sending and other transactions still require authority.
 
 Preserve distinctions: art GMV vs organizer revenue vs distributable cash. Existing High Fidelity events vs unverified Energy Center events. Reported construction vs issued permits. Sourced professional capability vs accepted role/availability. Charitable support vs commercial money. The parties have defined or agreed no 10–20% venue-share basis. The $0.5m/$3m/$8m GMV scenarios and costs lack demand studies and vendor quotes. The model prices no defined two-tower event. Protect artist balances and restricted funds.
 

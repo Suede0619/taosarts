@@ -9,6 +9,18 @@ This public document repository contains two workflows. Read the matching instru
 
 Read [SESSION_STATE.md](SESSION_STATE.md), [WRITING-GUIDE.md](WRITING-GUIDE.md) and [CONTRIBUTING.md](CONTRIBUTING.md). The user's latest scope and corrections control the task. Keep Denver work in `Denver/` and Southwest Arts work in `SouthwestArts/`. The internal team spans both projects and belongs in [TEAM/](TEAM/README.md). Read [TEAM/AGENTS.md](TEAM/AGENTS.md) for that work. Shared repository guidance and the review covering both workflows stay at the ART root. Do not merge the workflows' financial models, event approvals or website economics.
 
+## Project history and current split
+
+| Date | Development | Current meaning |
+|---|---|---|
+| October 19, 2026 | The repository began with Taos arts and festival research, planning ideas, historical financial illustrations and a website/business concept. | These are dated research and proposals. Unknown historical sales and attendance remain unknown. |
+| October 21 | Public writing was revised to remove participant attribution and use anonymous project roles. | Apply the anonymity and evidence rules to all public documents and prototype copy. |
+| October 23 | Strategy shifted to a year-round curated art and destination platform as the proposed core business, with shows and festivals supporting discovery and visits. | The regional platform remains a proposal. Taos is the only v1 region. Direct artist website sales carry zero Southwest Arts commission. |
+| October 24 | Denver research advanced into the separate Common Altitude event proposal, brand, plans, program, models and decks. | Denver planning has its own scope, model and approval gates. Proposed dates, venue, costs, funding and partnerships are unconfirmed. |
+| October 25 | Work was organized into separate Denver and SouthwestArts folders. Shared team records moved to TEAM. Southwest Arts added buyer-led service and audience/pitch exploration. | Continue each workflow from its own handoff. The website source remains an independent repository. The service pivot is for review, not an adopted business or production change. |
+
+This chronology explains how current scope developed. The dated [workspace handoff](SESSION_STATE.md) and each workflow handoff hold detailed deliverables, validation, open questions and corrections. Newer decisions supersede older proposals only where the documents say so.
+
 ## Repository boundaries
 
 The repository root is `ART/`, origin `https://github.com/Suede0619/taosarts.git`, branch `main`. The surrounding TAOS workspace is a separate repository with unrelated work. Check working directory, Git root, remotes, status and staged paths before Git mutations. Stage only intended public files. Existing public commit/push authorization persists. It does not include private records or unrelated parent-workspace changes.
