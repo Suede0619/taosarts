@@ -1,5 +1,9 @@
 # Southwest Arts handoff: October 25, 2026
 
+## November 7 private gallery-content intake
+
+A local intake contains four artist-profile messages and four attached work images. A private working catalog records supplied work metadata and concise editorial notes. One image carries a visible signature that conflicts with the artist named in its email; that association remains on hold. The messages do not document image/profile publication permission, seller authority, current availability, or confirmed buyer-facing pricing and shipping. Originals remain unchanged, and the intake folder is Git-ignored. No material was added to the public prototype.
+
 ## October 25 service pivot, audiences and Taos institutions
 
 Start with the [buyer-led collector/visit service proposal](planning/11-Website-Pivot-Collector-and-Visit-Service.md) and [outreach hub](outreach/README.md) for current pitch preparation. The recommendation changes the leading offer from a paid profile to a useful buyer request and funded service. Existing seller records remain authoritative. Hosts could fund service capacity; buyers could pay for separately scoped optional work. All prices, demand, staffing and commercial results remain unvalidated. Zero platform commission on direct-artist website sales and Taos-first scope remain controlling.

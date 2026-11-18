@@ -11,6 +11,9 @@ __pycache__/
 /sw-arts-website/
 /SouthwestArts/sw-arts-website/
 
+# Incoming gallery/artist profiles and artwork; retain locally until rights are cleared
+/SouthwestArts/website_content/
+
 # Shared team: publish anonymous guidance only
 /TEAM/*
 !/TEAM/README.md
