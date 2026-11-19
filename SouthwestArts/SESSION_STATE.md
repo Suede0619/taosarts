@@ -1,5 +1,11 @@
 # Southwest Arts handoff: October 25, 2026
 
+## November 19 interactive MVP scope
+
+The [interactive MVP scope](website-spec/09-V1-INTERACTIVE-MVP-SCOPE.md) defines one simulated same-day Taos itinerary, from homepage entry through an editable brief, map and list, stop swap and no-fit recovery. It assigns proposed design, implementation, local arts review and decision responsibilities. November 23–27 is the proposed work window, with review targeted for November 30. Confirm availability and handoffs at the scope discussion. The review covers usability and route logic before a separate decision on live data, AI or wider release.
+
+The document checks cover relative links, example route arithmetic, dates, anonymous wording and staged scope. The independent prototype is the implementation target for a later review build. Document baseline: `2831abc`.
+
 ## November 7 private gallery-content intake
 
 A local intake contains four artist-profile messages and four attached work images. A private working catalog records supplied work metadata and concise editorial notes. One image carries a visible signature that conflicts with the artist named in its email; that association remains on hold. The messages do not document image/profile publication permission, seller authority, current availability, or confirmed buyer-facing pricing and shipping. Originals remain unchanged, and the intake folder is Git-ignored. No material was added to the public prototype.
