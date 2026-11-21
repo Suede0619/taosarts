@@ -6,6 +6,10 @@ The [interactive MVP scope](website-spec/09-V1-INTERACTIVE-MVP-SCOPE.md) defines
 
 The document checks cover relative links, example route arithmetic, dates, anonymous wording and staged scope. The independent prototype is the implementation target for a later review build. Document baseline: `2831abc`.
 
+## November 18 European Cellars reference review
+
+Reviewed the public [wine catalog](https://www.europeancellars.com/our-wines/), [producer directory](https://www.europeancellars.com/producers/), one producer profile, one item detail, and the site's public sitemap. Added a [database-driven arts sitemap proposal](website-spec/09-DATABASE-DRIVEN-ARTS-SITEMAP.md) with linked catalog records, search and facets, artist/gallery/work profiles, designed and guided tours, visit planning, and publication safeguards. The proposal adapts information architecture only; it copies no text, images, code, or brand assets. Taos remains the only v1 region. Brand, cultural scope, production, and live services remain open decisions. The prototype and its data did not change.
+
 ## November 7 private gallery-content intake
 
 A local intake contains four artist-profile messages and four attached work images. A private working catalog records supplied work metadata and concise editorial notes. One image carries a visible signature that conflicts with the artist named in its email; that association remains on hold. The messages do not document image/profile publication permission, seller authority, current availability, or confirmed buyer-facing pricing and shipping. Originals remain unchanged, and the intake folder is Git-ignored. No material was added to the public prototype.

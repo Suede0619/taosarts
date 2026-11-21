@@ -35,6 +35,7 @@ GitHub is the source and prototype-hosting choice. The user excludes Sites hosti
 | [06. Data, technology and content](06-DATA-TECHNICAL-AND-CONTENT-SPEC.md) | Proposed stack, canonical records, imagery, editorial workflow, freshness and reliable operations. |
 | [07. Prototype and review plan](07-PROTOTYPE-AND-REVIEW-PLAN.md) | What the later prototype should show and how we will judge it before a production decision. |
 | [08. Collector growth and launch](08-COLLECTOR-GROWTH-AND-LAUNCH.md) | Legitimacy, remote collecting, visit service, acquisition experiments and practical launch capacity. |
+| [09. Database-driven arts sitemap](09-DATABASE-DRIVEN-ARTS-SITEMAP.md) | Proposed connected catalog, browse filters, artist/gallery/work pages, tours, visit planning, and permission-aware publishing. |
 | [Artists and sixty work candidates](research/01-TAOS-ARTISTS-AND-WORKS.md) | Six sourced records per proposed artist, asking prices where available, sizes, media and explicit gaps. |
 | [Ten experiences](research/02-TAOS-EXPERIENCES.md) | Practical costs, duration, access, review snapshots, travel assumptions and booking routes. |
 | [Twelve galleries](research/03-TAOS-GALLERIES.md) | Curatorial/recruitment rationale, programs, object examples, dated shows and source corrections. |
