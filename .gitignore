@@ -10,9 +10,11 @@ __pycache__/
 # Independent prototype repository, including older local checkout locations
 /sw-arts-website/
 /SouthwestArts/sw-arts-website/
+/SouthwestArts/artist_webform/
 
 # Incoming gallery/artist profiles and artwork; retain locally until rights are cleared
 /SouthwestArts/website_content/
+/SouthwestArts/ArtistsInvitational/
 
 # Shared team: publish anonymous guidance only
 /TEAM/*

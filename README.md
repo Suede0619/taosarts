@@ -5,11 +5,11 @@ This repository contains two workflows. Each has its own plans, research and ses
 | Workflow | Entry point | Contents |
 |---|---|---|
 | Denver Energy Center art festival | [Denver](Denver/README.md) | Venue and ownership research, summer 2027 feasibility, Common Altitude brand, business plan, program, operations and pitch decks. |
-| Southwest Arts | [SouthwestArts](SouthwestArts/README.md) | Southwest Arts shows, Taos research, platform strategy, business and funding plans, website specifications, website source checkout, financial model and working templates. |
+| ArtSouthwest | [ArtSouthwest](ArtSouthwest/README.md) | ArtSouthwest shows, Taos research, platform strategy, business and funding plans, website specifications, financial model and working templates. |
 
-The Denver proposal and Southwest Arts use separate budgets and assumptions. Their research dates, evidence limits and approval requirements remain in their documents.
+The Denver proposal and ArtSouthwest use separate budgets and assumptions. Their research dates, evidence limits and approval requirements remain in their documents.
 
-The October 25 [Southwest Arts pitch package](SouthwestArts/outreach/README.md) introduces the recommended buyer-led service pivot, personas, timing, a Taos arts directory and Art as Teacher research. [Denver's pitch package](Denver/outreach/README.md) covers the separate Energy Center audience and readiness gates. Both are preparation for review, with no outreach or production change.
+The October 25 [ArtSouthwest pitch package](ArtSouthwest/outreach/README.md) introduces the recommended buyer-led service pivot, personas, timing, a Taos arts directory and Art as Teacher research. [Denver's pitch package](Denver/outreach/README.md) covers the separate Energy Center audience and readiness gates. Both are preparation for review, with no outreach or production change.
 
 ## Shared team
 
@@ -26,8 +26,8 @@ The October 25 [Southwest Arts pitch package](SouthwestArts/outreach/README.md) 
 
 `ART/` is the independent public [Suede0619/taosarts](https://github.com/Suede0619/taosarts) repository. The surrounding TAOS workspace has its own Git history.
 
-The website checkout lives at `SouthwestArts/sw-arts-website/`. It remains the separate [Suede0619/sw-arts-website](https://github.com/Suede0619/sw-arts-website) repository, with its own commits and pull/push commands. ART ignores that checkout. Public documents contain anonymous research and proposals. Git excludes private sources, operational records and portfolios.
+The catalog checkout at `ArtSouthwest/ArtSouthwest-website/` uses the [sw-arts-website repository](https://github.com/Suede0619/sw-arts-website). The artist intake checkout at `ArtSouthwest/artist_webform/` uses the [asw_artist_webform repository](https://github.com/Suede0619/asw_artist_webform). ART ignores both checkouts. Public documents contain anonymous research and proposals. Git excludes private sources, operational records and portfolios.
 
 ## Other local checkouts
 
-Pulling this repository updates tracked documents. Git does not relocate ignored folders on other computers. Move an existing website checkout from `sw-arts-website/` to `SouthwestArts/sw-arts-website/` only after checking both locations. The same applies to local Southwest Arts source and operations archives. [The handoff](SESSION_STATE.md) records the folder changes. Both website checkout locations remain ignored.
+Pulling this repository updates tracked documents. Move an existing checkout or private archive into its new ArtSouthwest location after checking that the destination is free. [The handoff](SESSION_STATE.md) records the folder changes.

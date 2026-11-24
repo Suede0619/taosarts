@@ -6,11 +6,11 @@ The new [outreach package](outreach/README.md) contains 16 decision-role persona
 
 The package distinguishes social introductions, discovery meetings and later commercial asks. One relevant topic follows permission to explain; a companion is not an automatic presenter. Role boundaries and named accounts remain in ignored shared TEAM. No outreach, booking, application or public launch occurred.
 
-Validation covers all 16 persona/pitch matches, nine scripts of 55–62 words, active local document links, public anonymity, Git exclusions and whitespace. Southwest Arts has its own [outreach and service exploration](../SouthwestArts/outreach/README.md); do not merge its direct-artist website economics with Denver. The financial and presentation generators were not run because their inputs and copy did not change. Document baseline: `98b8b18`.
+Validation covers all 16 persona/pitch matches, nine scripts of 55–62 words, active local document links, public anonymity, Git exclusions and whitespace. Southwest Arts has its own [outreach and service exploration](../ArtSouthwest/outreach/README.md); do not merge its direct-artist website economics with Denver. The financial and presentation generators were not run because their inputs and copy did not change. Document baseline: `98b8b18`.
 
 ## October 25 workflow organization
 
-This folder contains the Denver Energy Center art festival workflow and its related venue, ownership, feasibility, Common Altitude and presentation work. Southwest Arts shows, platform and website work now live in the sibling [SouthwestArts folder](../SouthwestArts/README.md). Cross-workflow context links point there. Shared repository rules remain in [ART/AGENTS.md](../AGENTS.md).
+This folder contains the Denver Energy Center art festival workflow and its related venue, ownership, feasibility, Common Altitude and presentation work. Southwest Arts shows, platform and website work now live in the sibling [SouthwestArts folder](../ArtSouthwest/README.md). Cross-workflow context links point there. Shared repository rules remain in [ART/AGENTS.md](../AGENTS.md).
 
 Denver's plans, models, deck artifacts and private archives retain their existing locations and contents. Following the user's shared-team clarification, member folders and the single private operations register now live in [TEAM](../TEAM/README.md) across both projects. Locally, use `../TEAM/operations/README.md`. The October 24 workspace summaries below preserve the Denver portions of the former ART-wide handoff. No research refresh or change to event authority forms part of the reorganization.
 

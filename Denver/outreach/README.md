@@ -1,6 +1,6 @@
 # Denver Energy Center: audiences and pitching
 
-**October 25, 2026. Prepared for review.** This package concerns the Denver Energy Center / Common Altitude proposal. The [Southwest Arts package](../../SouthwestArts/outreach/README.md) covers the buyer-led service, Taos relationships and possible regional shows.
+**October 25, 2026. Prepared for review.** This package concerns the Denver Energy Center / Common Altitude proposal. The [Southwest Arts package](../../ArtSouthwest/outreach/README.md) covers the buyer-led service, Taos relationships and possible regional shows.
 
 | Document | Use |
 |---|---|

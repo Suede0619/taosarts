@@ -1,6 +1,6 @@
 # Shared team
 
-The internal team works across the [Denver Energy Center festival](../Denver/README.md) and [Southwest Arts](../SouthwestArts/README.md). Team membership, person material, meeting records and shared follow-through belong here.
+The internal team works across the [Denver Energy Center festival](../Denver/README.md) and [ArtSouthwest](../ArtSouthwest/README.md). Team membership, person material, meeting records and shared follow-through belong here.
 
 ## Folder organization
 

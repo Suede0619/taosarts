@@ -1,14 +1,18 @@
-# Arts workspace handoff: October 25, 2026
+# Arts workspace handoff
+
+## November 23 ArtSouthwest rename
+
+The public project documents live in [ArtSouthwest](ArtSouthwest/README.md). The catalog and artist intake keep their independent GitHub repositories. See the [ArtSouthwest handoff](ArtSouthwest/SESSION_STATE.md#november-23-naming-update) for the checkout paths and preview status.
 
 ## October 25 agent-history updates
 
-Added dated project histories to the root [agent instructions](AGENTS.md), [Southwest Arts](SouthwestArts/AGENTS.md), [Denver](Denver/AGENTS.md), the Common Altitude and summer research instructions, the website specification instructions, and [TEAM](TEAM/AGENTS.md). The histories trace early Taos research, the platform-first strategy and prototype, Denver's separate research and proposal stages, the October 25 workflow split, and shared-team organization. They distinguish historical proposals from current scope and approvals. No models, website source or private records changed. All seven AGENTS files have valid local links; `git diff --check` passes.
+Added dated project histories to the root [agent instructions](AGENTS.md), [Southwest Arts](ArtSouthwest/AGENTS.md), [Denver](Denver/AGENTS.md), the Common Altitude and summer research instructions, the website specification instructions, and [TEAM](TEAM/AGENTS.md). The histories trace early Taos research, the platform-first strategy and prototype, Denver's separate research and proposal stages, the October 25 workflow split, and shared-team organization. They distinguish historical proposals from current scope and approvals. No models, website source or private records changed. All seven AGENTS files have valid local links; `git diff --check` passes.
 
 ## October 25 audience and pitch package
 
-The [Southwest Arts outreach package](SouthwestArts/outreach/README.md) covers 23 decision roles, product-specific pitches, social and business timing, 11 audience-grouped thirty-second scripts, AI trust/environment questions and a 117-record Taos entity directory. The [recommended service pivot](SouthwestArts/planning/11-Website-Pivot-Collector-and-Visit-Service.md) makes a buyer's request the leading offer: prepare a useful brief, select permissioned work and arrange a seller-confirmed next step. It tests funded service delivery rather than selling directory positions. This is a proposal, not adopted pricing, a validated business or a production build.
+The [Southwest Arts outreach package](ArtSouthwest/outreach/README.md) covers 23 decision roles, product-specific pitches, social and business timing, 11 audience-grouped thirty-second scripts, AI trust/environment questions and a 117-record Taos entity directory. The [recommended service pivot](ArtSouthwest/planning/11-Website-Pivot-Collector-and-Visit-Service.md) makes a buyer's request the leading offer: prepare a useful brief, select permissioned work and arrange a seller-confirmed next step. It tests funded service delivery rather than selling directory positions. This is a proposal, not adopted pricing, a validated business or a production build.
 
-[Art as Teacher](SouthwestArts/research/05-Art-as-Teacher-Foundation-2026-10-25.md) has a separate first-party brief: founded in 2025, institution building now, first events planned for 2027. A possible contribution begins with its education/art mission and a small approved digital encounter. No funding, endorsement or partnership is established. The roster distinguishes first-party identities from network listings, conflicting/historical leads and supplied details; it is not an exhaustive census of active businesses.
+[Art as Teacher](ArtSouthwest/research/05-Art-as-Teacher-Foundation-2026-10-25.md) has a separate first-party brief: founded in 2025, institution building now, first events planned for 2027. A possible contribution begins with its education/art mission and a small approved digital encounter. No funding, endorsement or partnership is established. The roster distinguishes first-party identities from network listings, conflicting/historical leads and supplied details; it is not an exhaustive census of active businesses.
 
 The [Denver outreach package](Denver/outreach/README.md) separately covers 16 roles, readiness/timing and nine audience-grouped short pitches. Site authority, construction compatibility and a bounded feasibility process precede participation or sponsorship offers. Regional Southwest shows and Denver retain separate scope, budgets and approvals.
 
@@ -32,9 +36,9 @@ Validation covered 147 active Markdown files and 627 relative links, all resolvi
 
 ## Two workflows
 
-The user separated ART into two workflows on October 25. [Denver](Denver/README.md) holds the Energy Center art festival and all related research, Common Altitude plans, program, budgets and decks. [SouthwestArts](SouthwestArts/README.md) holds Southwest Arts shows, platform plans, Taos research and website work.
+The user separated ART into two workflows on October 25. [Denver](Denver/README.md) holds the Energy Center art festival and all related research, Common Altitude plans, program, budgets and decks. [SouthwestArts](ArtSouthwest/README.md) holds Southwest Arts shows, platform plans, Taos research and website work.
 
-Start with the matching [Denver instructions](Denver/AGENTS.md) and [handoff](Denver/SESSION_STATE.md), or [Southwest Arts instructions](SouthwestArts/AGENTS.md) and [handoff](SouthwestArts/SESSION_STATE.md). ART remains the public `Suede0619/taosarts` repository. Baseline before this reorganization: `a3f74a3193524b647f089d6f3b12edeaca57e001`.
+Start with the matching [Denver instructions](Denver/AGENTS.md) and [handoff](Denver/SESSION_STATE.md), or [Southwest Arts instructions](ArtSouthwest/AGENTS.md) and [handoff](ArtSouthwest/SESSION_STATE.md). ART remains the public `Suede0619/taosarts` repository. Baseline before this reorganization: `a3f74a3193524b647f089d6f3b12edeaca57e001`.
 
 ## Folder changes
 
