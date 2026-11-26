@@ -2,11 +2,11 @@
 
 ## November 25 full-width catalog backgrounds
 
-The Taos and Santa Fe catalog pages extend the green purpose band, light catalog sections and gray visit-planning band to both browser edges. Text, cards and images keep the shared 1600px grid. The live origin serves [catalog revision `267ed92`](https://github.com/Suede0619/sw-arts-website/commit/267ed92307c8263470ea38cef62d4167c824e823). Both city pages passed desktop and phone checks with JavaScript disabled. The artist form and curator desk returned HTTP 200 after the switch.
+The Taos and Santa Fe catalog pages extend the green purpose band, light catalog sections and gray visit-planning band to both browser edges. The visit-planning image now aligns with the experience cards and artist heading in the shared 1600px grid. Render serves [catalog revision `40e5d65`](https://github.com/Suede0619/sw-arts-website/commit/40e5d65991731d8395f418c64e19646863f45a67) after a manual deploy of the GitHub-verified intake revision `d4d56d7`. Both city pages passed desktop and phone checks with JavaScript disabled. The artist form and curator desk returned HTTP 200 after the switch.
 
 ## November 25 Render hosting cutover
 
-The catalog, artist form and curator desk now run on the same Render Node service in Ohio. Render deployed intake revision `c04c807`, which pins catalog revision `267ed92`. Three DNS-only Cloudflare CNAMEs point to Render. Each domain has a verified certificate and returned HTTP 200 from Render. The Mac is available for rollback through the previous tunnel configuration. The [deployment runbook](https://github.com/Suede0619/asw_artist_webform/blob/main/DEPLOYMENT.md#always-on-hosting) records the production setup.
+The catalog, artist form and curator desk now run on the same Render Node service in Ohio. The first deploy used intake revision `c04c807`, which pins catalog revision `267ed92`. Three DNS-only Cloudflare CNAMEs point to Render. Each domain has a verified certificate and returned HTTP 200 from Render. The Mac is available for rollback through the previous tunnel configuration. The [deployment runbook](https://github.com/Suede0619/asw_artist_webform/blob/main/DEPLOYMENT.md#always-on-hosting) records the production setup.
 
 Live verification opened the existing submission and its four private images. It also created a fictional application, four uploads and a callback. The curator published the fictional profile and three artworks, then paused them. The public profile and images came down, and verification removed the test data. One-time browser recovery also passed. Automated receipts and emailed artist links still need sender configuration.
 
