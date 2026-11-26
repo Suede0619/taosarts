@@ -1,5 +1,11 @@
 # ArtSouthwest handoff
 
+## November 25 Santa Fe restaurant photography
+
+The private source archive holds one selected photo from each of the ten Santa Fe restaurant websites. The selection pairs dishes from The Shed, Paper Dosa and La Boca with dining rooms, the Izanami exterior and the Santacafé courtyard. The archive includes originals, web copies, source links, credit evidence and a local preview of the catalog and each detail page. Chrome verified the card layout at desktop and phone widths.
+
+Publication permission remains open for the ten photos. The Santacafé file explicitly restricts third-party reuse. The La Choza gallery photo is 601 pixels wide. Request a larger original and the credit when clearing that image. The live catalog keeps its existing cards while the photos are in private review.
+
 ## November 25 full-width catalog backgrounds
 
 The Taos and Santa Fe catalog pages extend the green purpose band, light catalog sections and gray visit-planning band to both browser edges. The visit-planning image now aligns with the experience cards and artist heading in the shared 1600px grid. Render serves [catalog revision `40e5d65`](https://github.com/Suede0619/sw-arts-website/commit/40e5d65991731d8395f418c64e19646863f45a67) after a manual deploy of the GitHub-verified intake revision `d4d56d7`. Both city pages passed desktop and phone checks with JavaScript disabled. The artist form and curator desk returned HTTP 200 after the switch.
