@@ -1,12 +1,18 @@
 # ArtSouthwest handoff
 
+## November 25 Render hosting decision
+
+One paid Render web service will host the catalog, artist form and curator desk. The current Neon Postgres database and private image bucket will serve the new host. Render account access is pending. The [deployment runbook](https://github.com/Suede0619/asw_artist_webform/blob/main/DEPLOYMENT.md#always-on-hosting) identifies the build, secrets and cutover checks.
+
+All three live pages returned HTTP 200 over HTTPS before the move. Cloudflare still routes them to the Mac. The intake checkout holds a private DNS snapshot for rollback. After Render passes its health check, verify each custom domain and test the upload, private image and approval workflow before retiring the Mac origin.
+
 ## November 25 approved layouts and hosting preparation
 
 The [live catalog](https://artsouthwest.com/) uses the approved prototype’s split hero, collection grid, mission band, gallery rows, experience cards, hospitality cards and illustrated trip-planning section. Sections share a 1600px outer container. The server sends catalog content in the first HTML response and refreshes published artwork after an approval, sale or withdrawal. Browsing no longer depends on a browser catalog request. Public category and detail URLs support direct navigation. The GitHub Pages design reference remains available.
 
 Desktop and mobile verification covered 1920px, 390px and 320px views, city switching, food and lodging tabs, filtering, saved selections and the Taos planner. All nine home sections were 1600px wide at the 1920px viewport. Desktop browsing worked with JavaScript disabled. A curator pause removed the published page in the test branch, and republishing restored it. Live HTTPS tests preserved the existing submission, checked uploads and recovery, and removed the fictional verification records. Public samples returned their first byte in 0.28 to 0.47 seconds after the switch.
 
-The [hosting runbook](https://github.com/Suede0619/asw_artist_webform/blob/main/DEPLOYMENT.md#always-on-hosting) packages the three domains into one Render Node service and pins the catalog revision from GitHub. The packaged build ran locally with production settings and the private review API. The current Cloudflare tunnel still routes to the Mac. Remote deployment needs an authorized hosting workspace and compute plan. Replace the Cloudflare DNS targets only after a new origin starts successfully.
+The [hosting runbook](https://github.com/Suede0619/asw_artist_webform/blob/main/DEPLOYMENT.md#always-on-hosting) packages the three domains into one Render Node service and pins the catalog revision from GitHub. The packaged build ran locally with production settings and the private review API.
 
 ## November 25 live domains and Neon cutover
 
