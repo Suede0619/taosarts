@@ -1,5 +1,15 @@
 # ArtSouthwest handoff
 
+## November 26 Taos photos and venue detail copy
+
+The Taos experience, food and lodging grids and detail pages show 30 venue and landscape photographs. The images come from venue websites, visitor sources, a dining review and the Library of Congress. The Taos Pueblo listing uses an archival photograph. The private venue editorial archive records the source URLs, attribution leads and permission status. Each published image has its own listing reference and WebP fingerprint.
+
+All 60 experience, food and lodging detail pages in Taos and Santa Fe have two original paragraphs. The copy covers what distinguishes each place and details that help with a visit. The cards retain shorter descriptions, and the detail pages link to the official sites.
+
+Render serves intake revision `b3e075d` and [catalog revision `40acd10`](https://github.com/Suede0619/sw-arts-website/commit/40acd10a89fef6496e9c6b564b5eaaf288a9ec8a). The hosted build packaged 50 venue photos from Neon Object Storage. The catalog build, nine browser regression tests and intake GitHub workflow passed.
+
+Chrome verified all three live Taos grids and all 60 detail pages at 1920 and 390 pixels with JavaScript disabled. All 30 live Taos photo files matched the reviewed WebP fingerprints. The catalog, artist form and curator desk returned HTTP 200.
+
 ## November 25 temporary curator team access
 
 Render serves intake revision `ffc0392`. The curator desk supports temporary team sign-in through a private link paired with a password. Chrome verified sign-in and sign-out on the live curator desk and confirmed that the live artist upload page opens. The catalog and artist hosts do not accept the team credential.
