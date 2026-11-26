@@ -6,6 +6,8 @@ Use the [MVP1 scope](10-MVP1-WEBSITE-SCOPE.md) for the Taos and Santa Fe catalog
 
 **Current stage:** The project lead approved the prototype design and authorized building the production catalog. The website repository holds the existing preview and a separate build for the Taos and Santa Fe catalog. Use the release handoff for the current review, hosting and commerce gates. Project day one is November 1, 2026.
 
+Use the approved prototype’s varied page layouts for the live catalog. Keep the header, footer and major sections in a shared 1600px maximum-width container. Render the first page of each catalog view on the server. Verify on a wide desktop and a narrow phone and confirm that the browser can display catalog content from the initial HTML.
+
 ## Website history and status
 
 The early ArtSouthwest work proposed a Taos-first digital art and destination service, with research into artists, works, galleries, experiences, food and lodging. The October 24 website specification organized the work into review gates: specification, design review, prototype, prototype review, then production. The design prototype was built and published separately in `Suede0619/sw-arts-website`; GitHub Pages is a preview, not the final commercial host.

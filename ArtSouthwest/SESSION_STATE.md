@@ -1,5 +1,13 @@
 # ArtSouthwest handoff
 
+## November 25 approved layouts and hosting preparation
+
+The [live catalog](https://artsouthwest.com/) uses the approved prototype’s split hero, collection grid, mission band, gallery rows, experience cards, hospitality cards and illustrated trip-planning section. Sections share a 1600px outer container. The server sends catalog content in the first HTML response and refreshes published artwork after an approval, sale or withdrawal. Browsing no longer depends on a browser catalog request. Public category and detail URLs support direct navigation. The GitHub Pages design reference remains available.
+
+Desktop and mobile verification covered 1920px, 390px and 320px views, city switching, food and lodging tabs, filtering, saved selections and the Taos planner. All nine home sections were 1600px wide at the 1920px viewport. Desktop browsing worked with JavaScript disabled. A curator pause removed the published page in the test branch, and republishing restored it. Live HTTPS tests preserved the existing submission, checked uploads and recovery, and removed the fictional verification records. Public samples returned their first byte in 0.28 to 0.47 seconds after the switch.
+
+The [hosting runbook](https://github.com/Suede0619/asw_artist_webform/blob/main/DEPLOYMENT.md#always-on-hosting) packages the three domains into one Render Node service and pins the catalog revision from GitHub. The packaged build ran locally with production settings and the private review API. The current Cloudflare tunnel still routes to the Mac. Remote deployment needs an authorized hosting workspace and compute plan. Replace the Cloudflare DNS targets only after a new origin starts successfully.
+
 ## November 25 live domains and Neon cutover
 
 The catalog is live at [artsouthwest.com](https://artsouthwest.com/). Artists submit and update work at [artist.artsouthwest.com](https://artist.artsouthwest.com/?campaign=taos-artists). Staff approve submissions and handle callback requests at the [password-protected curator desk](https://curator.artsouthwest.com/). The old campaign link redirects to the artist form. An active session on the old form can transfer through a one-time link. Cloudflare forwards all three hosts to the Mac’s private Node origin. The [deployment guide](https://github.com/Suede0619/asw_artist_webform/blob/main/DEPLOYMENT.md) records configuration and verification procedures.
