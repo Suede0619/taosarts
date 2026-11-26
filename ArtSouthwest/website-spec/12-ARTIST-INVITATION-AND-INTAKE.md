@@ -8,9 +8,9 @@ Save each completed field and validated asset into a private canonical database 
 
 ## Implementation
 
-The [artist webform repository](https://github.com/Suede0619/asw_artist_webform) implements this intake with React, Vite and Express. Neon Postgres is the hosted migration target and a private Neon Object Storage bucket holds originals and previews. The live SQLite origin uses a local private disk until the migration is complete. The production catalog reads the approved publication feed. The application keeps payments and checkout outside intake.
+The [artist webform repository](https://github.com/Suede0619/asw_artist_webform) implements intake with React, Vite and Express. The [artist form](https://artist.artsouthwest.com/?campaign=taos-artists) stores submissions in Neon Postgres. A private Neon Object Storage bucket holds originals and previews. The [curator desk](https://curator.artsouthwest.com/) requires staff sign-in. The [public catalog](https://artsouthwest.com/) reads approved publications. The application keeps payments and checkout outside intake.
 
-The invitation opens the artist profile directly. The artist enters their email on the same page as the bio. The form checks the address format at final submission. Artists can return in the same browser or request a private link from their draft when transactional email is configured. The reviewer enables publication after confirming permissions, credits, seller routing, price and availability. The current rollout supports JPEG, PNG and WebP. Convert HEIC to JPEG for this release.
+The invitation opens the artist profile directly. The artist enters their email on the same page as the bio. The form checks the address format at final submission. The artist can return in the same browser or save a private link for one use within 180 days. Configure a transactional sender for verified-email sign-in and mailed receipts. Collectors can browse without accounts. The reviewer enables publication after confirming permissions, credits, seller routing, price and availability. The current rollout supports JPEG, PNG and WebP. Convert HEIC to JPEG for this release.
 
 ## Journey
 

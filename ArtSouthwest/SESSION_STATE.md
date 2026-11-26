@@ -1,5 +1,13 @@
 # ArtSouthwest handoff
 
+## November 25 live domains and Neon cutover
+
+The catalog is live at [artsouthwest.com](https://artsouthwest.com/). Artists submit and update work at [artist.artsouthwest.com](https://artist.artsouthwest.com/?campaign=taos-artists). Staff approve submissions and handle callback requests at the [password-protected curator desk](https://curator.artsouthwest.com/). The old campaign link redirects to the artist form. An active session on the old form can transfer through a one-time link. Cloudflare forwards all three hosts to the Mac’s private Node origin. The [deployment guide](https://github.com/Suede0619/asw_artist_webform/blob/main/DEPLOYMENT.md) records configuration and verification procedures.
+
+The cutover rotated the database password, took the final private SQLite snapshot and migrated one existing submission, four image records with their originals and previews, and one callback. The live form now writes to Neon Postgres and private Object Storage. The live test verified new intake, callbacks and uploads, role isolation, private previews, and one-time artist recovery. It removed the fictional records and files after checking them. Approval, publication and withdrawal also passed on a separate Neon branch.
+
+Collectors browse the site without accounts. Artists begin in the form and can save a private one-use link to return from another device within 180 days. Keep the same intake for new artwork and updates. Configure a verified transactional sender to support emailed sign-in links and receipts. Add named staff access as the curator group expands. The first campaign uses the artist host with the Taos campaign parameter. The existing letter and campaign artwork live in the ignored artist invitation folder. Send an internal Mailchimp test before the recipient campaign.
+
 ## November 25 catalog and intake release work
 
 The approved prototype design carries into a separate production build in the existing catalog repository. It serves at `/discover/` on a configured intake origin, reads approved artists, available works and previews from the catalog API, and includes 80 source-linked place records. The two cities each have ten galleries, ten experiences, ten food listings and ten stays. The place copy uses facts from the individual sites. Venue photo candidates and their source and rights records are in the private archive. The GitHub Pages preview continues to serve the original design prototype.

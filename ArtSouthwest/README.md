@@ -2,6 +2,8 @@
 
 The [artist invitation and intake brief](website-spec/12-ARTIST-INVITATION-AND-INTAKE.md) defines the Taos campaign, participation form and catalog publishing workflow. The [artist webform](https://github.com/Suede0619/asw_artist_webform) implements artist intake as a separate service.
 
+The [public catalog](https://artsouthwest.com/), [artist submission form](https://artist.artsouthwest.com/?campaign=taos-artists) and [curator desk](https://curator.artsouthwest.com/) use the same Neon-backed publishing workflow. The curator desk requires staff sign-in.
+
 The [MVP release roadmap](website-spec/11-MVP-RELEASE-ROADMAP.md) starts with 10 entries per catalog category in each of Taos and Santa Fe and an interactive Taos day planner. It assigns later features to staged releases.
 
 The [November 21 findings](research/07-Calendar-Editorial-and-Artist-Intake-2026-11-21.md) update the two-city plan with calendar and editorial tests, practical studio visit details and the first confirmed artist intake.

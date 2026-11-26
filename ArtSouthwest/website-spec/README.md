@@ -6,7 +6,7 @@ The [MVP release roadmap](11-MVP-RELEASE-ROADMAP.md) sets the current feature or
 
 The [November 21 findings](../research/07-Calendar-Editorial-and-Artist-Intake-2026-11-21.md) add an exhibition calendar, a short weekly roundup and group-friendly studio visit details for review. The [MVP1 scope](10-MVP1-WEBSITE-SCOPE.md) sets the sequence.
 
-**Current stage:** The project lead approved the prototype design. The website repository now holds a production catalog build for Taos and Santa Fe and the existing GitHub Pages prototype. Follow the [handoff](../SESSION_STATE.md) for live intake storage, staff review and launch status. Project day one is November 1, 2026.
+**Current stage:** The [Taos and Santa Fe catalog](https://artsouthwest.com/) is live. The [artist form](https://artist.artsouthwest.com/?campaign=taos-artists) and staff review use Neon. Follow the [handoff](../SESSION_STATE.md) for launch status. Project day one is November 1, 2026.
 
 The website's purpose is to sell art so artists can keep living and working in Taos. **October 23 strategic alignment:** the year-round platform is the proposed core business, with festivals supporting discovery, relationships and visits. Contemporary and a full range of art belong. Southwest describes geography. Start onboarding with the [current strategy and brand brief](../planning/10-Platform-First-Strategy-and-Brand-Brief.md). The proposed service combines an exceptional art catalog, thoughtful human/AI assistance, dependable buying and delivery, and a curated reason to visit. **MVP1 covers Taos and Santa Fe in the catalog.** The first itinerary review uses central Taos. The [MVP1 website scope](10-MVP1-WEBSITE-SCOPE.md) sets the current counts and work packages. The table below records the October recommendations.
 
@@ -26,7 +26,7 @@ GitHub is the source and prototype-hosting choice. The user excludes Sites hosti
 | Paid services | Founding proposals: gallery **$150/mo**, restaurant **$99/mo**, lodging **$199/mo**. Disclose paid profiles and preserve independent curation. |
 | Content | Ten artist candidates/six work records each, ten experiences, twelve gallery targets, eight restaurants and eight lodging properties. The research identifies candidates. The project has no partner agreements or ready-to-sell stock. |
 
-The project adopted **ArtSouthwest** on November 23, 2026. Use that spelling across the catalog, artist intake and campaign materials. Production hosting is planned at `artsouthwest.com`.
+The project adopted **ArtSouthwest** on November 23, 2026. Use that spelling across the catalog, artist intake and campaign materials.
 
 ## Document guide
 
