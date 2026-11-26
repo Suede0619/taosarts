@@ -4,9 +4,9 @@
 
 The private source archive holds ten official Santa Fe experience photos. The selection includes the O’Keeffe Museum exterior, the Plaza Building sculpture garden and Meow Wolf’s refrigerator doorway. The archive records the venue pages, photo sources, credits and permissions.
 
-The staged release adds twenty venue photos to the Santa Fe dining and experience pages, their detail pages and featured experiences. It follows the direction to publish without in-page credits while the team confirms permission. The hosted build packages the files from Neon Object Storage. Each photo has a separate listing reference so it can be removed. The local build verified all twenty photos and rendered both sets of listings and detail pages without credit labels.
+The live release adds twenty venue photos to the Santa Fe dining and experience pages, their detail pages and featured experiences. It follows the direction to publish without in-page credits while the team confirms permission. The hosted build packages the files from Neon Object Storage. Each photo has a separate listing reference so it can be removed.
 
-The photos are in Neon. Publishing the catalog commit and running the Render deployment remain pending. Automatic approval review stopped the GitHub push at its usage limit.
+Render serves intake revision `899faa7` and catalog revision `8600a8d`. Chrome loaded all twenty photos and detail pages at desktop and phone widths. The live WebP files matched the archived release fingerprints. The artist form and curator desk returned HTTP 200.
 
 ## November 25 Santa Fe restaurant photography
 
