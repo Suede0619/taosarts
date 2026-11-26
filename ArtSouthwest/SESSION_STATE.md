@@ -1,5 +1,37 @@
 # ArtSouthwest handoff
 
+## November 25 catalog and intake release work
+
+The approved prototype design carries into a separate production build in the existing catalog repository. It serves at `/discover/` on a configured intake origin, reads approved artists, available works and previews from the catalog API, and includes 80 source-linked place records. The two cities each have ten galleries, ten experiences, ten food listings and ten stays. The place copy uses facts from the individual sites. Venue photo candidates and their source and rights records are in the private archive. The GitHub Pages preview continues to serve the original design prototype.
+
+The Taos planner generates a timed proposal and can revise the route using a fixed list of stops. It flags hours, access and reservations for confirmation. The service can call an AI model for stop selection when the server has a model key. The integrated browser check used the suggested itinerary mode. The concierge’s design and live-model review remain open.
+
+The staff desk shows its storage backend and searches by reference, name or email. Staff can inspect the original submission details and private image previews. Artists can submit an update after publication. The previous version remains public until staff approve the update. The [intake runbook](https://github.com/Suede0619/asw_artist_webform/blob/main/DEPLOYMENT.md) describes the operator’s verification and approval steps.
+
+The live intake continues to accept submissions through the macOS origin and Cloudflare tunnel. The live SQLite database and its image files have a verified private snapshot. A one-day Neon branch verified the SQLite import twice using a fictional record, including byte comparisons of originals and display files. Tests verified the Neon form, staff sign-in, image privacy, approval, withdrawal and catalog display. The production transfer needs the database credential rotation and a short cutover window.
+
+Release order: complete the live migration, verify staff access and transactional email, and onboard the first ten artists per city while editorial clears venue images. Test the model-backed concierge with the interaction designer and confirm managed hosting before inviting the broader audience. The later onboarding agent should submit revisions through the same form API and staff queue. Extend the workflow to galleries, experiences, food and stays after testing the artist version. Tucson follows the two-city release.
+
+## November 25 Neon integration
+
+The intake app can use Neon Postgres and private Object Storage. The CLI deployed the services to the linked production branch. A separate local webform process tested saving drafts, private media access, submission, staff approval, catalog publication and withdrawal with fictional records. The public form still uses the existing SQLite and media store. The database credential needs rotation before moving real submissions. See the [intake source repository](https://github.com/Suede0619/asw_artist_webform) for the runtime and versioned schema.
+
+## November 25 catalog and onboarding direction
+
+The project lead approved the prototype designs for the finished website. The catalog launches with Taos and Santa Fe, with Tucson planned third. The [intake specification](website-spec/12-ARTIST-INVITATION-AND-INTAKE.md#form-and-agent-publication-workflow) records the shared form and agent workflow and human approval gate. The existing intake service produces an approved artist feed. The catalog connection and Neon migration remain pending. The prototype at GitHub Pages and the artist form at the custom domain both responded over HTTPS.
+
+## November 23 direct artist profile
+
+The live artist invitation opens the profile directly. Artists enter email alongside their bio and can save and resume in the same browser. The former start URL redirects to the profile. The local review desk holds submissions and callback requests. Email receipts and cross-device recovery require a transactional sender. Five API tests, two browser tests and desktop and mobile checks at the live address passed. The database upgrade preserved the callback queue. The [intake specification](website-spec/12-ARTIST-INVITATION-AND-INTAKE.md) records the updated flow.
+
+## November 23 live artist webform update
+
+The live artist form uses the Adobe Door photograph, the transparent ArtSouthwest wordmark and the approved invitation, callback and submission copy. The visible privacy links were removed. Artists grant website publication permission before submitting, and the staff desk handles catalog publication.
+
+The preview refreshed at its existing public HTTPS address. The served photo and wordmark match the approved files. Four API tests, two browser tests and desktop and mobile checks at the public address passed. The preview uses sample data and simulates email and callbacks.
+
+The webform serves Lato for body text and controls and Cormorant Garamond for headings. The shorter “Show your work with ArtSouthwest” title uses 70% of the prior type size. Chrome verified the rendered fonts and heading size on both desktop and mobile at the public address.
+
 ## November 23 naming update
 
 The project adopted **ArtSouthwest**. Its folder is `ART/ArtSouthwest/`. The independent catalog checkout is `ArtSouthwest-website/`, and the intake service is `artist_webform/`. The plans, both website codebases, campaign copy and ten temporary logo options use the new name. The invitation pack contains the revised logos and the original ten editorial photos.

@@ -8,9 +8,9 @@ Save each completed field and validated asset into a private canonical database 
 
 ## Implementation
 
-The [artist webform repository](https://github.com/Suede0619/asw_artist_webform) implements this intake. React and Vite provide the interface. An Express service creates and migrates an embedded SQLite database and stores private originals and processed images on the same durable disk. No separate database service is needed for the pilot. Deploy a single service on a private persistent volume behind HTTPS. The future site reads the approved catalog feed. The application keeps sales and checkout outside intake.
+The [artist webform repository](https://github.com/Suede0619/asw_artist_webform) implements this intake with React, Vite and Express. Neon Postgres is the hosted migration target and a private Neon Object Storage bucket holds originals and previews. The live SQLite origin uses a local private disk until the migration is complete. The production catalog reads the approved publication feed. The application keeps payments and checkout outside intake.
 
-Email verifies the artist’s address before they enter the profile form. Local preview writes private email files. Production uses a transactional SMTP sender. The reviewer enables publication after confirming permissions, credits, seller routing, price and availability. The current rollout supports JPEG, PNG and WebP. Convert HEIC to JPEG for this release.
+The invitation opens the artist profile directly. The artist enters their email on the same page as the bio. The form checks the address format at final submission. Artists can return in the same browser or request a private link from their draft when transactional email is configured. The reviewer enables publication after confirming permissions, credits, seller routing, price and availability. The current rollout supports JPEG, PNG and WebP. Convert HEIC to JPEG for this release.
 
 ## Journey
 
@@ -19,15 +19,15 @@ flowchart TD
     A["Mailchimp invitation"] -->|"See the invitation"| B["Branded page with terms and checklist"]
     B -->|"Request a call"| C["Name, phone and permission to call"]
     C --> D["Save callback, queue owner and confirm"]
-    B -->|"Start my submission"| E["Profile and portrait"]
+    B -->|"Start my submission"| E["Artist profile with email, bio and portrait"]
     E --> F["Three to five available artworks"]
     F --> G{"Images and required fields valid?"}
     G -->|"Needs changes"| F
     G -->|"Ready"| H["Review details, permissions and terms"]
-    H --> I["Submit and send receipt"]
+    H --> I["Submit and show receipt"]
     E --> J["Save private draft"]
     F --> J
-    J -->|"Resume securely"| E
+    J -->|"Return in the same browser"| E
     I --> K["Editor and seller review"]
     K -->|"Corrections needed"| J
     K -->|"Approval"| L["Publish cleared catalog fields"]
@@ -39,10 +39,10 @@ flowchart TD
 |---|---|---|
 | 1. Invitation | Explain the art-first guide, the first edition, commission, materials and what happens after submission. Show **Start my submission** and a quieter **Request a call**. | Record the selected path. No form account is needed to read the invitation. |
 | 2. Callback | Ask for name, phone, permission to call, and optional best time or question. | Store the request, display confirmation and assign it once to a monitored queue. A callback grants contact permission for this request. |
-| 3. Artist profile | Collect email first for draft recovery. Show progress, labeled fields and the portrait upload. | A secure draft exists after the artist supplies contact information. Validated edits save promptly and show their save state. |
+| 3. Artist profile | Collect email alongside the bio, contact details and portrait. Show progress and labeled fields. | Create a private draft when the artist opens the profile. Save edits as they work and allow them to continue in the same browser. |
 | 4. Work submissions | Use repeatable work cards with one image minimum. Show work count and a quick preview. | Between three and five complete, available works with valid images. The artist can add, remove, reorder and edit work cards. |
-| 5. Review | Summarize what may appear publicly, what stays private and what the 20% covers. Let the artist correct each section. | Record acknowledgments and their version. Confirm the artist can submit each work and identify any representing gallery or rights restriction. |
-| 6. Receipt and editorial review | Give a reference number and an email receipt. Let the artist report a sale, correction or withdrawal. | Queue for editorial review with status and owner. An approved catalog record appears only after the publication check. |
+| 5. Review | Summarize what may appear publicly, what stays private and what the 20% covers. Let the artist correct each section. | Check the email format at submission. Record acknowledgments and their version. Confirm authority to submit each work and identify any representation or rights restriction. |
+| 6. Receipt and editorial review | Show a reference number and send a receipt when email is configured. Let the artist report a sale, correction or withdrawal. | Queue for editorial review with status and owner. An approved catalog record appears only after the publication check. |
 
 Mobile is the primary acceptance surface. Use an ordinary file-picker control, visible field labels, keyboard operation, inline errors and an error summary. Retain completed fields when an upload fails. Support a secure email resume link, expiry, reissue and progress through the draft. The submitting artist can review, reopen an authorized change request or withdraw. Define retention, deletion, backup and who can recover draft data before launch.
 
@@ -66,21 +66,29 @@ Support JPEG, PNG and WebP. Support HEIC on iPhone only if the server can decode
 
 | Data | Purpose | Access pattern |
 |---|---|---|
-| Application and profile versions | Draft ID, campaign, status, timestamp, private contact, profile fields and changes. | Artist with an expiring resume link and assigned staff. |
+| Application and profile versions | Draft ID, campaign, status, timestamp, private contact, profile fields and changes. | Artist with a browser session or an expiring resume link, and assigned staff. |
 | Works and media | Linked work IDs, assets, availability, price, provenance, review status and publication fields. | Draft access for artist and staff. Website reads only approved versions and media. |
 | Permissions and decisions | Permission type, scope, version, evidence, reviewer and time. | Staff record approval, restriction, change or withdrawal with an audit history. |
 | Callback and notification queue | Contact request, assigned owner, status, receipt and retry record. | Staff queue and transactional delivery only. |
 | Public catalog view | Current published profile, work and asset fields. | Read-only access from the future website. Exclude private email, phone, drafts, originals, internal notes and rights evidence. |
 
-Save field updates as the artist progresses through an authenticated draft. Use a stable submission ID, idempotent save and final-submit operations, and version checks for concurrent edits. Show save failures and offer retry without clearing the form. Final submission checks the latest persisted fields and accepted uploads, records the submitted version, and enqueues a single receipt and review task. Give automated notifications a retry limit and a staff alert for repeated failures. An editor approves the public snapshot. A later correction creates a reviewed version. An urgent sale or withdrawal can suspend the public entry without deleting the private history.
+Save field updates as the artist progresses through an authenticated draft. Use a stable submission ID, idempotent save and final-submit operations, and version checks for concurrent edits. Show save failures and offer retry without clearing the form. Final submission checks the latest persisted fields and accepted uploads, records the submitted version and queues it for review. Queue one receipt when transactional email is configured. Give automated notifications a retry limit and a staff alert for repeated failures. An editor approves the public snapshot. A later correction creates a reviewed version. An urgent sale or withdrawal can suspend the public entry without deleting the private history.
 
 Automated pipeline for launch. Form to canonical records and private object storage, then review queue, then approved publication state, then site read. The release needs a production-capable backend and access controls. The current static prototype can demonstrate the journey using fictional records. See the [technical specification](06-DATA-TECHNICAL-AND-CONTENT-SPEC.md) for the catalog integration boundary. Use Mailchimp for the permissioned invitation and audience preferences. Use transactional messages for draft links and receipts. Do not push contact details or uploaded assets into a public repository.
+
+## Form and agent publication workflow
+
+The artist form and a future invitation-linked onboarding agent use the same drafts, upload validation, permissions and review queue. The agent guides contributors through required fields and uses the form's upload and consent controls. For an existing listing, the invitation grants edit access to that listing and opens a proposed revision. The contributor reviews the proposed public content before submitting.
+
+Staff approve a specific revision. The service records the decision, exposes approved fields and image derivatives through the public catalog, and refreshes affected pages automatically. Originals and private contact details stay in staff storage. For ordinary edits, the last approved revision remains visible during review. Keep the existing immediate removal controls for sold work and withdrawals.
+
+First connect the approved artist feed and private media to the catalog. Then pilot guided artist and artwork additions and updates. Extend the same review workflow to galleries, experiences, food and lodging with category-specific fields. The visitor concierge reads published catalog records and generates itineraries. Its tools have read access to approved visitor information.
 
 ## Release acceptance
 
 - A recipient can reach the branded HTTPS page from a Mailchimp test message, read the offer with images off, and choose either path.
 - One callback submission creates one queue item. A repeated send or a refresh does not create a duplicate. The owner can acknowledge, complete or close it.
-- An artist can complete the form on a phone, leave and resume from another device, replace one failed image and submit three to five works. A second submission click retains one application and one receipt.
+- An artist can open the profile on a phone, enter email with the bio, replace one failed image and submit three to five works. Save and exit returns to the saved step in the same browser. With email delivery configured, a private link also opens the draft on another device. A second submission click retains one application and one receipt.
 - The database records submitted text, assets, commission acknowledgment and permissions against the correct profile and works. A reviewer can request one correction and then approve the new version.
 - A public request cannot retrieve a draft, contact field, upload token, original media or unapproved work. A withdrawal or sold status updates public output. Track how long the update takes.
 - An operator can review stuck uploads, unprocessed notifications and stale applications without needing a spreadsheet export. A tested backup restores required records and their media references.
@@ -96,3 +104,9 @@ The campaign policy is **20% on completed artwork sales through ArtSouthwest**. 
 5. **Reuse the intake.** Add gallery and other city workflows after artist intake proves the review queue, permissions and catalog feed. Add live inventory or checkout through the [staged release roadmap](11-MVP-RELEASE-ROADMAP.md).
 
 The catalog builder owns implementation and automated checks. The city lead owns the invitation relationship and approves the callback coverage. Editorial owns content and asset review, and the project lead owns the live release decision.
+
+## How staff verify and publish submissions
+
+The artist receives a reference when submitting. Staff open the private review desk, search by that reference and review the profile, portrait, work photos, prices, availability and permission. Staff confirm clearance and choose **Publish**. The website reads the resulting public version on its next catalog request. Artist email, phone, internal notes and original images remain private. An artist’s sale report or withdrawal removes the affected work or profile from the public catalog.
+
+Neon Postgres holds the submissions and media metadata. Private Neon Object Storage holds the original files and previews. Use the review desk for normal operations. For a technical check, compare `applications`, `assets` and `publications` in Neon Console on the branch the form is using. See the [deployment runbook](https://github.com/Suede0619/asw_artist_webform/blob/main/DEPLOYMENT.md).

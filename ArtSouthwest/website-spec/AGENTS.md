@@ -1,10 +1,10 @@
 # ArtSouthwest website: specification and review boundary
 
-The [artist intake service](https://github.com/Suede0619/asw_artist_webform) has an independent checkout at `../artist_webform/`. Its React interface and SQLite backend are separate from the static catalog prototype. Keep intake data and configuration out of either public repository.
+The [artist intake service](https://github.com/Suede0619/asw_artist_webform) has an independent checkout at `../artist_webform/`. It supports Neon Postgres and private Object Storage and exposes an approved-only catalog feed. See the [ArtSouthwest handoff](../SESSION_STATE.md) for current deployment status. Keep intake data and configuration out of both public repositories.
 
 Use the [MVP1 scope](10-MVP1-WEBSITE-SCOPE.md) for the Taos and Santa Fe catalog, first Taos itinerary and editorial preview priorities. Read the October history below in its original context.
 
-**Current stage:** A design prototype and live preview exist in the separate `sw-arts-website` repository. The provisional Audo #11 direction is for review. Production and live transactions still require a later approval. Project day one is November 1, 2026. The earlier sections document the specification review sequence. They do not revoke prototype authority.
+**Current stage:** The project lead approved the prototype design and authorized building the production catalog. The website repository holds the existing preview and a separate build for the Taos and Santa Fe catalog. Use the release handoff for the current review, hosting and commerce gates. Project day one is November 1, 2026.
 
 ## Website history and status
 
@@ -14,7 +14,7 @@ The earlier website proposal assumed zero commission on direct artist sales. Tha
 
 No live checkout, seller account, booking flow, catalog partnership or commercial hosting decision is approved by this history. Follow the handoff for the latest runtime verification and open decisions.
 
-Required sequence: **written specification then review then UI/design prototype then prototype review then production website**. The user authorized the prototype and live preview in the separate sw-arts-website repository. Review the prototype before production. Do not connect live Stripe/seller/booking flows or treat the provisional design as finalized. Domain registration or spending requires its actual authority. Keep all public prose, role assignments, data and prototype copy anonymous under the publication standard in the parent AGENTS.md. The business association in the HOUSE of FIRE listing is the sole participant-name exception.
+Maintain the reviewed design while building the production website. Live payment and booking flows require seller terms and separate operational setup. Domain registration and spending require their own authority. Keep all public prose, role assignments, data and prototype copy anonymous under the publication standard in the parent AGENTS.md. The business association in the HOUSE of FIRE listing is the sole participant-name exception.
 
 Use ArtSouthwest as the project name. The regional taxonomy remains a future expansion proposal. The Atomic design-system choice is a recommendation awaiting the user's decision.
 

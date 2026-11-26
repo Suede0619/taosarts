@@ -38,6 +38,10 @@ Git ignores `private/` at every depth. The ArtSouthwest source archive is at `Ar
 
 For named team work across either project, read [the operating method](TEAM/OPERATING-METHOD.md), then local `TEAM/INDEX.local.md` and `TEAM/operations/README.md` if available. One private people register and activity log remain authoritative across both workflows. Member folders link to these registers. Moving folders creates no new commitments or permission to send messages.
 
+## Timesheet
+
+Automatically update `ART/private/TIMESHEET.md` before ending any ART task. Log work from all three repositories, including a partial result when a task ends at a blocker. Record the work date in America/Denver, the workstream, the task, the hours and the evidence. Use reported hours when supplied. Label estimated project-lead time and exclude unattended build, generation and deployment time. Group related entries, reconcile daily and workstream totals, and keep the timesheet Git-ignored.
+
 ## Authority and verification
 
 Preparing proposals and decks does not authorize outreach, applications, bookings, hires, spending, signatures or public launch. The ArtSouthwest prototype has its own existing publication authority. Production review, seller permissions, commerce and hosting decisions remain separate. Keep its selected GitHub source repository. Do not publish it through Sites.

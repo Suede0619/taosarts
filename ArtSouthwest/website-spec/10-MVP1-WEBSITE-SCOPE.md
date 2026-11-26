@@ -8,6 +8,10 @@ The two city leads build their shortlists in parallel. The editorial lead turns 
 
 ## Preview priorities
 
+The production catalog build is in `ArtSouthwest-website/production/`. It uses the approved prototype’s visual design and publishes available artwork from the intake service’s approved feed. The place catalog starts with ten records per city in each of the four non-artist categories. Review these listings and clear the associated media while onboarding the ten artists per city. The first Taos itinerary build supports date, start time, duration, interests, transport and a revised route. Verify hosted AI access and visit information before releasing the concierge as live AI.
+
+The project lead approved the existing prototype designs as the visual baseline for the finished website. Taos and Santa Fe launch with artists, galleries, experiences, food and lodging. Tucson is the third planned city. The first itinerary checkpoint remains the central Taos route described in the interactive scope.
+
 The two-city site is a working preview for prospective partners and funders. **First review:** complete both curated catalogs, prepare the first confirmed artist profile for clearance and demonstrate the scripted Taos itinerary. Track artist agreement, cleared profile, cleared work images and current seller details as separate milestones. The confirmed profile stays out of the release count until it clears the applicable checks.
 
 **After the core review:** if an editor can maintain it, add a calendar demonstration with one exhibition and linked timed opening per city, plus one curated roundup that links back to the site. Track venue and artist approvals before sharing. Use gallery sharing as an acquisition test when a venue opts in. Keep recurring email, gallery self-service uploads, public AI access and monetization for later decisions.
