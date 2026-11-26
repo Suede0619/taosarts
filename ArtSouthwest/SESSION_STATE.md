@@ -1,5 +1,13 @@
 # ArtSouthwest handoff
 
+## November 26 venue photos and detail page spacing
+
+The audit found ten missing lodging photos in Santa Fe and the illustrated visit-planning panel on each city homepage. The release uses property photos on the Santa Fe lodging cards and their detail pages. The homepage panels show the Couse-Sharp garden in Taos and the New Mexico Museum of Art sculpture courtyard in Santa Fe. The private photo audit records the sources and pending permissions.
+
+The shared detail layout adds an eight-pixel gap above the first paragraph after the location label. All 80 gallery, experience, restaurant and lodging detail routes use this layout. Render serves intake revision `b57c831` and [catalog revision `95ad1a6`](https://github.com/Suede0619/sw-arts-website/commit/95ad1a6a563a767aff4d44cca49a70aa8ca403a6). The hosted build packaged 60 venue photos from Neon. The catalog build, static checks and intake GitHub workflow passed.
+
+Production verification covered 69 home, category and venue detail routes and matched all 60 venue photo fingerprints. Chrome checked the updated photos, homepage margins and detail spacing at 1920 and 390 pixels with JavaScript disabled.
+
 ## November 26 Taos photos and venue detail copy
 
 The Taos experience, food and lodging grids and detail pages show 30 venue and landscape photographs. The images come from venue websites, visitor sources, a dining review and the Library of Congress. The Taos Pueblo listing uses an archival photograph. The private venue editorial archive records the source URLs, attribution leads and permission status. Each published image has its own listing reference and WebP fingerprint.
