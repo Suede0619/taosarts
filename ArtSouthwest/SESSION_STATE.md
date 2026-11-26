@@ -1,10 +1,18 @@
 # ArtSouthwest handoff
 
+## November 25 Santa Fe venue photo release
+
+The private source archive holds ten official Santa Fe experience photos. The selection includes the O’Keeffe Museum exterior, the Plaza Building sculpture garden and Meow Wolf’s refrigerator doorway. The archive records the venue pages, photo sources, credits and permissions.
+
+The staged release adds twenty venue photos to the Santa Fe dining and experience pages, their detail pages and featured experiences. It follows the direction to publish without in-page credits while the team confirms permission. The hosted build packages the files from Neon Object Storage. Each photo has a separate listing reference so it can be removed. The local build verified all twenty photos and rendered both sets of listings and detail pages without credit labels.
+
+The photos are in Neon. Publishing the catalog commit and running the Render deployment remain pending. Automatic approval review stopped the GitHub push at its usage limit.
+
 ## November 25 Santa Fe restaurant photography
 
 The private source archive holds one selected photo from each of the ten Santa Fe restaurant websites. The selection pairs dishes from The Shed, Paper Dosa and La Boca with dining rooms, the Izanami exterior and the Santacafé courtyard. The archive includes originals, web copies, source links, credit evidence and a local preview of the catalog and each detail page. Chrome verified the card layout at desktop and phone widths.
 
-Publication permission remains open for the ten photos. The Santacafé file explicitly restricts third-party reuse. The La Choza gallery photo is 601 pixels wide. Request a larger original and the credit when clearing that image. The live catalog keeps its existing cards while the photos are in private review.
+Publication permission remains open for the ten photos. The Santacafé file explicitly restricts third-party reuse. The La Choza gallery photo is 601 pixels wide. Request a larger original when clearing that image. The later venue photo release records the updated publishing decision.
 
 ## November 25 full-width catalog backgrounds
 
