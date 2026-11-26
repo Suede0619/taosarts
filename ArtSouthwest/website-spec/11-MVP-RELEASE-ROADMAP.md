@@ -54,11 +54,13 @@ Track cleared catalog entries by category and city, usable planner completions, 
 
 ## MVP2 calendar, stories and repeat visits
 
-**Sprint A** adds one exhibition run and separately timed opening per city as the working example. Link each opening to its show, venue and relevant artist records. Include local start and end times, status, sources, checked dates, an editor and a correction path. Support shareable links, city views and clear handling of schedule changes, cancellations and expired records. Keep editing with staff.
+**Sprint A** adds seven-day Taos and Santa Fe calendars with exhibitions, timed openings and events. A daily worker pulls from official sources and queues candidates for editorial approval. Venues and other contributors can submit a listing and a photo through a public form. Staff approves the entries and photos in the curator desk. The live calendar rolls past events off automatically and keeps their detail links available.
 
-**Sprint B** adds one curated roundup and one artist story tied to those records. Test an optional studio process clip with artist approval, captioning and a transcript. Compare what visitors learn from the story with the effort of producing it. Test venue sharing if the venue opts in. Introduce recurring editorial email only with a named owner, an opt-in list, unsubscribe handling and a reliable publishing cadence. Treat another publisher’s audience as their own.
+**Sprint B** automatically assembles a Thursday roundup from the approved calendar and artist catalog. Staff previews and approves the issue in the curator desk. Mailchimp handles the opt-in audience, delivery, unsubscribes and reports. The website keeps a copy of each sent issue. A studio clip remains a later editorial option if the artist clears it and we can include captions and a transcript.
 
-**Review gate.** The editor can publish, correct and retire an entry, readers can distinguish a show’s run from its opening and the team can maintain the work over consecutive editions. Measure event and story clicks, return visits, approved partner shares and edit time. The [November meeting findings](../research/07-Calendar-Editorial-and-Artist-Intake-2026-11-21.md) give the evidence and limits behind this phase.
+**Later sponsorship pilot.** The MVP2 branch includes an advertiser form, curator approval, one paid slot per issue and Stripe Checkout. Turn it on after the unsponsored roundup has a stable cadence and the team validates pricing, fulfillment and refund terms. Keep calendar selection independent of sponsorship. The [MVP2 scope](https://github.com/Suede0619/asw_artist_webform/blob/mvp2/editorial-calendar/MVP2-EDITORIAL-SCOPE.md) covers the workflows and staging requirements.
+
+**Review gate.** Rehearse discovery and approval in both cities over consecutive issues. Verify photo permissions, canceled and moved events, newsletter consent, sender authentication and delivery to an internal audience. Track link clicks, return visits and edit time. [November meeting findings](../research/07-Calendar-Editorial-and-Artist-Intake-2026-11-21.md)
 
 ## MVP3 actionable visits and a planner for both cities
 

@@ -1,5 +1,15 @@
 # ArtSouthwest handoff
 
+## November 26 MVP2 editorial feature branches
+
+The Taos and Santa Fe calendars show seven days of approved exhibitions, openings and events. A daily worker checks Harwood events, Harwood exhibitions and SITE SANTA FE exhibitions. It can rank and summarize candidates with an OpenAI key. The public form and discovery worker feed one curator approval queue. Images stay private through approval. Past events leave the rolling list and retain their detail links.
+
+ArtSouthwest Weekly generates HTML and plain text from approved listings and published artist profiles. Mailchimp handles the opt-in audience, sending and reports. The sponsorship branch flow adds one approved and paid placement per issue, with a private applicant status link, Stripe Checkout and payment status in the curator desk. Provider sending and payments remain gated on the feature branches.
+
+Both builds passed. The intake suite passed 11 tests, the existing browser suites passed 11 tests, and Chrome verified the new form, private photo, approval, published listing and newsletter preview against local SQLite and Postgres. The Postgres migrations ran twice. Mailchimp and Stripe tests used simulated responses. The release gate is a staging rehearsal with separate Neon storage, a connected Mailchimp test audience, test-only Stripe credentials and source coverage in both cities.
+
+The live three-domain service remains on the venue release below. [Feature scope and staging settings](https://github.com/Suede0619/asw_artist_webform/blob/mvp2/editorial-calendar/MVP2-EDITORIAL-SCOPE.md) · [Public catalog branch](https://github.com/Suede0619/sw-arts-website/tree/mvp2/editorial-calendar) · [Intake and curator branch](https://github.com/Suede0619/asw_artist_webform/tree/mvp2/editorial-calendar)
+
 ## November 26 venue photos and detail page spacing
 
 The audit found ten missing lodging photos in Santa Fe and the illustrated visit-planning panel on each city homepage. The release uses property photos on the Santa Fe lodging cards and their detail pages. The homepage panels show the Couse-Sharp garden in Taos and the New Mexico Museum of Art sculpture courtyard in Santa Fe. The private photo audit records the sources and pending permissions.
