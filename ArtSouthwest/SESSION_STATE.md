@@ -4,11 +4,11 @@
 
 The Taos and Santa Fe catalog pages extend the green purpose band, light catalog sections and gray visit-planning band to both browser edges. Text, cards and images keep the shared 1600px grid. The live origin serves [catalog revision `267ed92`](https://github.com/Suede0619/sw-arts-website/commit/267ed92307c8263470ea38cef62d4167c824e823). Both city pages passed desktop and phone checks with JavaScript disabled. The artist form and curator desk returned HTTP 200 after the switch.
 
-## November 25 Render hosting decision
+## November 25 Render hosting cutover
 
-One paid Render web service will host the catalog, artist form and curator desk. The current Neon Postgres database and private image bucket will serve the new host. Render account access is pending. The [deployment runbook](https://github.com/Suede0619/asw_artist_webform/blob/main/DEPLOYMENT.md#always-on-hosting) identifies the build, secrets and cutover checks.
+The catalog, artist form and curator desk now run on the same Render Node service in Ohio. Render deployed intake revision `c04c807`, which pins catalog revision `267ed92`. Three DNS-only Cloudflare CNAMEs point to Render. Each domain has a verified certificate and returned HTTP 200 from Render. The Mac is available for rollback through the previous tunnel configuration. The [deployment runbook](https://github.com/Suede0619/asw_artist_webform/blob/main/DEPLOYMENT.md#always-on-hosting) records the production setup.
 
-All three live pages returned HTTP 200 over HTTPS before the move. Cloudflare still routes them to the Mac. The intake checkout holds a private DNS snapshot for rollback. After Render passes its health check, verify each custom domain and test the upload, private image and approval workflow before retiring the Mac origin.
+Live verification opened the existing submission and its four private images. It also created a fictional application, four uploads and a callback. The curator published the fictional profile and three artworks, then paused them. The public profile and images came down, and verification removed the test data. One-time browser recovery also passed. Automated receipts and emailed artist links still need sender configuration.
 
 ## November 25 approved layouts and hosting preparation
 
@@ -20,7 +20,7 @@ The [hosting runbook](https://github.com/Suede0619/asw_artist_webform/blob/main/
 
 ## November 25 live domains and Neon cutover
 
-The catalog is live at [artsouthwest.com](https://artsouthwest.com/). Artists submit and update work at [artist.artsouthwest.com](https://artist.artsouthwest.com/?campaign=taos-artists). Staff approve submissions and handle callback requests at the [password-protected curator desk](https://curator.artsouthwest.com/). The old campaign link redirects to the artist form. An active session on the old form can transfer through a one-time link. Cloudflare forwards all three hosts to the Mac’s private Node origin. The [deployment guide](https://github.com/Suede0619/asw_artist_webform/blob/main/DEPLOYMENT.md) records configuration and verification procedures.
+The catalog is live at [artsouthwest.com](https://artsouthwest.com/). Artists submit and update work at [artist.artsouthwest.com](https://artist.artsouthwest.com/?campaign=taos-artists). Staff approve submissions and handle callback requests at the [password-protected curator desk](https://curator.artsouthwest.com/). The old campaign link redirects to the artist form. An active session on the old form can transfer through a one-time link. At the Neon cutover, Cloudflare forwarded all three hosts to the Mac’s private Node origin. The later Render cutover moved hosting while keeping the Neon data. The [deployment guide](https://github.com/Suede0619/asw_artist_webform/blob/main/DEPLOYMENT.md) records configuration and verification procedures.
 
 The cutover rotated the database password, took the final private SQLite snapshot and migrated one existing submission, four image records with their originals and previews, and one callback. The live form now writes to Neon Postgres and private Object Storage. The live test verified new intake, callbacks and uploads, role isolation, private previews, and one-time artist recovery. It removed the fictional records and files after checking them. Approval, publication and withdrawal also passed on a separate Neon branch.
 
