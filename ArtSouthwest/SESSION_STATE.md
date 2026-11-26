@@ -1,5 +1,9 @@
 # ArtSouthwest handoff
 
+## November 25 full-width catalog backgrounds
+
+The Taos and Santa Fe catalog pages extend the green purpose band, light catalog sections and gray visit-planning band to both browser edges. Text, cards and images keep the shared 1600px grid. The live origin serves [catalog revision `267ed92`](https://github.com/Suede0619/sw-arts-website/commit/267ed92307c8263470ea38cef62d4167c824e823). Both city pages passed desktop and phone checks with JavaScript disabled. The artist form and curator desk returned HTTP 200 after the switch.
+
 ## November 25 Render hosting decision
 
 One paid Render web service will host the catalog, artist form and curator desk. The current Neon Postgres database and private image bucket will serve the new host. Render account access is pending. The [deployment runbook](https://github.com/Suede0619/asw_artist_webform/blob/main/DEPLOYMENT.md#always-on-hosting) identifies the build, secrets and cutover checks.
