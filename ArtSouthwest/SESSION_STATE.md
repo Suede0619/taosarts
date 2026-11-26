@@ -1,5 +1,11 @@
 # ArtSouthwest handoff
 
+## November 25 temporary curator team access
+
+Render serves intake revision `ffc0392`. The curator desk supports temporary team sign-in through a private link paired with a password. Chrome verified sign-in and sign-out on the live curator desk and confirmed that the live artist upload page opens. The catalog and artist hosts do not accept the team credential.
+
+To retire team access, remove `REVIEWER_TEAM_ACCESS` from Render and redeploy. Existing sessions expire within eight hours. See the [intake deployment runbook](https://github.com/Suede0619/asw_artist_webform/blob/main/DEPLOYMENT.md).
+
 ## November 25 Santa Fe venue photo release
 
 The private source archive holds ten official Santa Fe experience photos. The selection includes the O’Keeffe Museum exterior, the Plaza Building sculpture garden and Meow Wolf’s refrigerator doorway. The archive records the venue pages, photo sources, credits and permissions.
