@@ -25,6 +25,8 @@ Releases are gates, not calendar promises. Catalog intake and interaction design
 
 ## MVP1 catalog and day planner
 
+The live catalog has 80 venue listings, with 10 galleries, experiences, food and lodging entries in each city. Artist counts depend on the approved feed. The live Taos planner uses verified regular and seasonal schedules and estimated central-Taos travel times. See the [release audit](../SESSION_STATE.md#november-26-mvp1-and-mvp2-release-audit) for the current artist count, provider configuration and verification record.
+
 ### Catalog using the existing prototype
 
 Retain the existing visual direction, catalog cards, browse controls and artist, artwork and place detail patterns. Add a clear city switch and show the active city on every listing and detail view. Keep links between artists, their works and authorized galleries or sellers. Give the visitor a useful next step, such as seeing the official venue page or finding the permitted inquiry route. The existing prototype is the design reference. Demo checkout and other simulated actions do not define the release scope.
@@ -44,7 +46,7 @@ Start from the available [artist cohort](data/artist-cohort.csv), [artwork leads
 
 ### Interactive AI day planner
 
-The first supported route is central Taos. A visitor supplies a starting point, time window and interest, sees a short ordered list and map, and can request a swap. The planner explains why each stop fits, distinguishes a published schedule from availability, and offers a shorter plan or explains the conflict if nothing fits. Entry from Santa Fe clearly identifies that the first planner covers Taos and offers the Santa Fe catalog.
+The first supported route is central Taos. A visitor supplies a starting landmark, time window and interest, sees up to three ordered stops with times and a directions link, and can swap a single stop. The planner explains why each stop fits, distinguishes published hours from availability, and preserves the existing itinerary if a swap cannot fit. Entry from Santa Fe identifies Taos as the planner’s coverage and links to the Santa Fe catalog.
 
 - **Design checkpoint.** Use the scripted flow and fictional fixtures to review prompts, editable assumptions, result layout, swaps, and recovery from closed or uncertain stops. Try a mixed-interest group scenario and a keyboard-only walkthrough. The interaction designer proposes the conversation and result. The builder implements the agreed behavior.
 - **Bounded AI checkpoint.** After agreeing a test budget and approved server-side setup, evaluate a model on real language input. Let it interpret the visitor’s request and explain a result from allowed records. Keep route selection, time and order limits, record IDs and availability rules under application control. Use confirmed sources or clearly labeled fixtures. Offer form controls on timeout, invalid output or failure. Keep secrets server-side. Request no precise location or account for this test.

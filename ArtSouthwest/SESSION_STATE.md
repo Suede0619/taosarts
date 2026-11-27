@@ -1,5 +1,23 @@
 # ArtSouthwest handoff
 
+## November 26 MVP1 and MVP2 release audit
+
+| Area | Result |
+|---|---|
+| MVP1 venue catalog | 80 listings. Taos and Santa Fe each have 10 galleries, experiences, food listings and stays. The audit corrected the 192 at The Blake link and added reachable contact options for Café Pasqual’s and the Inger Jirby Gallery. Venue photo permission checks remain open. |
+| MVP1 artist catalog and intake | The public feed returned zero approved artists and zero works against the target of 20 artist profiles. Intake, staff review and publication passed with fictional data. The catalog recognizes the approved Taos-area locations and routes gallery-represented works to a matching gallery listing. Private gallery contact details stay in review. |
+| MVP1 Taos planner | Added starting landmarks, published and seasonal hours, estimated travel and opening waits, a directions link and individual swaps. The local test rejected past start times and checked closed days, holiday exceptions and model fallback. The live model and transactional artist email require deployment credentials and an internal test. |
+| MVP2 calendar | The feature branches have a verified public upload and image review flow, staff schedule corrections, automatic rolling dates and a retained detail page for canceled events. The seed uses the Harwood and SITE SANTA FE sources. |
+| MVP2 newsletter and sponsorship | A delivery journal freezes the approved content and reconciles Mailchimp after an interrupted send. Stripe reconciliation recovers expired checkouts and flags missed paid placements for refund review. Local provider simulations passed. The release requires a staging audience and Stripe test credentials before sending or accepting payment. |
+
+The catalog and intake builds passed. Local testing covered 15 tests on the combined MVP2 branch, 11 existing Chrome regressions, and focused planner and calendar browser flows. A disposable Postgres cluster applied all three migrations twice and verified next-day newsletter recovery without a duplicate send. Source checks used the venues’ published visitor information. [Harwood hours](https://harwoodmuseum.org/visit/) · [Fechin House hours](https://www.taosartmuseum.org/admission-tickets.html) · [Couse-Sharp tour and gallery schedule](https://couse-sharp.org/tour)
+
+Render serves intake revision `ce2667f` with catalog revision `dd7e0ac`. All 80 public venue detail pages, their 60 venue photos and the three domain health checks returned HTTP 200. The live planner returned three stops and a map link in suggested mode. Email recovery showed that a sender has yet to be connected. The MVP2 catalog branch is at `9d6d6b9` and the intake branch is at `bc4d0c9`. [GitHub verification](https://github.com/Suede0619/asw_artist_webform/actions/runs/45947726766)
+
+The release also corrected the public privacy copy to reflect the current draft cleanup workflow. Neon backup, restore and retention scheduling remain operational gates. The private Mailchimp invitation draft now points to the live artist form and the designated replies inbox. The campaign requires sender verification and audience permission.
+
+[MVP1 catalog](https://artsouthwest.com/) · [Taos planner](https://artsouthwest.com/plan) · [MVP2 scope and staging checklist](https://github.com/Suede0619/asw_artist_webform/blob/mvp2/editorial-calendar/MVP2-EDITORIAL-SCOPE.md)
+
 ## November 26 artist forms and catalog typography
 
 The artist invitation, submission steps, callback, resume, receipt and curator pages share the catalog’s cream palette, forest-green actions and 1,600-pixel content grid. The invitation uses an open split layout with its adobe studio photo. The submission flow uses aligned input groups, more space around photo uploads and a responsive step navigator.

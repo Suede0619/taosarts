@@ -6,6 +6,8 @@ The [public catalog](https://artsouthwest.com/), [artist submission form](https:
 
 The [MVP release roadmap](website-spec/11-MVP-RELEASE-ROADMAP.md) starts with 10 entries per catalog category in each of Taos and Santa Fe and an interactive Taos day planner. It assigns later features to staged releases.
 
+The [release audit](SESSION_STATE.md#november-26-mvp1-and-mvp2-release-audit) records the verified venue counts, artist publishing status, live planner mode and MVP2 staging requirements.
+
 The [November 21 findings](research/07-Calendar-Editorial-and-Artist-Intake-2026-11-21.md) update the two-city plan with calendar and editorial tests, practical studio visit details and the first confirmed artist intake.
 
 A collection of anonymous foundational documents, research, ideas and proposed plans to help Taos artists sell art, remain in the community and reach a wider public. The current direction is a year-round curated art and destination platform as the core business, with festivals and events supporting discovery, relationships and visits. The [MVP1 website scope](website-spec/10-MVP1-WEBSITE-SCOPE.md) pairs Taos and Santa Fe catalogs with a first Taos itinerary prototype. Public documents assign responsibilities by role and omit personal attribution.
@@ -40,7 +42,7 @@ The separate [Denver Energy Center art festival workflow](../Denver/README.md) h
 |---|---|
 | [Platform strategy and starter brand brief](planning/10-Platform-First-Strategy-and-Brand-Brief.md) | Short current onboarding brief: platform-first direction, inclusive full-spectrum art, Taos v1, correct listing illustration and a brand scope to agree before work. |
 | [People, meetings and commitments. Operating method](../TEAM/OPERATING-METHOD.md) | One private people register and central activity log. Public foundations remain anonymous. Named records, correspondence and NDA portfolios are local-only, outside public Git. |
-| [ArtSouthwest website. Specification and prototype review](website-spec/README.md) | Taos-first spec, provisional Atomic design, zero direct-artist commission and researched candidates. **[Prototype source](https://github.com/Suede0619/sw-arts-website) implemented. [GitHub Pages preview](https://suede0619.github.io/sw-arts-website/) status in [the handoff](SESSION_STATE.md). Review before production.** |
+| [ArtSouthwest website. Specification and prototype review](website-spec/README.md) | Two-city release scope, Taos planner, artist intake and the approved design reference. [Catalog source](https://github.com/Suede0619/sw-arts-website) · [Design preview](https://suede0619.github.io/sw-arts-website/) |
 | [Foundations and ideas](PROJECT-FOUNDATIONS.md) | Anonymous concept brief covering artist livelihoods, a selective guide, referral networks, education, AI, funding and unresolved decisions. |
 | [PRD and business plan](planning/01-PRD-and-Business-Plan-2027.md) | Mission, audiences, offers, business model, outcomes, governance, and launch conditions. |
 | [Financial model and targets](planning/02-Financial-Model-and-Targets.md) | $1m / $3m / $5m art-sales scenarios, artist shares, operating budget, break-even and cash risk. |
@@ -57,7 +59,7 @@ Public sources establish the festival's history and an organizational financial 
 
 The older commission-bearing financial illustration models **$3m completed art value**, with a proposed **$1.98m artist share before production costs/tax**, **$579,000 operating income**, and **$485,000 operating expenses**. These are assumptions to test. The low case has a deficit. Even an annually profitable case can run short of cash before festival sales arrive. Artist balances cannot finance operations.
 
-The newer website specification requires **zero ArtSouthwest commission on direct artist sales** and separately addresses funding payment fees. Its economics supersede the older website assumptions. The older illustration above is not the current website budget or an approved consolidated forecast. The separate `sw-arts-website` repository publishes the design prototype. Production selling still requires a further review. Audo #11 remains a provisional prototype direction. The brand decision stays open.
+The current artist intake discloses a **20% commission on completed artwork sales through ArtSouthwest**. The live catalog refers inquiries to the approved seller. Checkout, artist payouts and fulfillment need their own release review. Keep the historical illustration separate from the platform budget. [Artist intake scope](website-spec/12-ARTIST-INVITATION-AND-INTAKE.md) · [Commerce scope](website-spec/05-COMMERCE-PRICING-AND-OPERATIONS.md)
 
 **Deadline status as of October 24:** the New Mexico Arts conditional advance-review deadline of **October 23, 2026, 11:59pm Mountain has passed**. Authorized-applicant eligibility and submission status remain unknown. The previously researched FY28 request is $5,000, with eligibility, match, public-program and reimbursement conditions. The published final deadline is December 18. This is separate from Denver funding. [Funding plan and official links](planning/07-Funding-and-Sponsorship-Plan.md).
 
