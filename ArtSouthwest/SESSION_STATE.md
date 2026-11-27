@@ -1,5 +1,13 @@
 # ArtSouthwest handoff
 
+## November 26 artist forms and catalog typography
+
+The artist invitation, submission steps, callback, resume, receipt and curator pages share the catalog’s cream palette, forest-green actions and 1,600-pixel content grid. The invitation uses an open split layout with its adobe studio photo. The submission flow uses aligned input groups, more space around photo uploads and a responsive step navigator.
+
+The production catalog sets a 14-pixel minimum for interface text, including captions, location labels, breadcrumbs and navigation. The homepage section links wrap on narrow screens. The MVP2 event and sponsor forms, curator controls and newsletter preview carry the same type minimum on their feature branches.
+
+Render serves the [intake revision `aeb3d67`](https://github.com/Suede0619/asw_artist_webform/commit/aeb3d6780e686ac8f78bf988c9200da279a5cd46) and [catalog revision `3b9a4c4`](https://github.com/Suede0619/sw-arts-website/commit/3b9a4c4e70ec9a6287d3271d4c07b4b577938b3a). Both builds and the intake GitHub workflow passed. Local Chrome verified 337 route and display states at 320, 390 and 1920 pixels, all artist onboarding steps with fictional images, and 15 MVP2 calendar and form states. Chrome also checked 28 live views at 390 and 1440 pixels, matching stylesheet fingerprints and confirming HTTP 200 health checks on all three domains.
+
 ## November 26 MVP2 editorial feature branches
 
 The Taos and Santa Fe calendars show seven days of approved exhibitions, openings and events. A daily worker checks Harwood events, Harwood exhibitions and SITE SANTA FE exhibitions. It can rank and summarize candidates with an OpenAI key. The public form and discovery worker feed one curator approval queue. Images stay private through approval. Past events leave the rolling list and retain their detail links.
@@ -8,7 +16,7 @@ ArtSouthwest Weekly generates HTML and plain text from approved listings and pub
 
 Both builds passed. The intake suite passed 11 tests, the existing browser suites passed 11 tests, and Chrome verified the new form, private photo, approval, published listing and newsletter preview against local SQLite and Postgres. The Postgres migrations ran twice. Mailchimp and Stripe tests used simulated responses. The release gate is a staging rehearsal with separate Neon storage, a connected Mailchimp test audience, test-only Stripe credentials and source coverage in both cities.
 
-The live three-domain service remains on the venue release below. [Feature scope and staging settings](https://github.com/Suede0619/asw_artist_webform/blob/mvp2/editorial-calendar/MVP2-EDITORIAL-SCOPE.md) · [Public catalog branch](https://github.com/Suede0619/sw-arts-website/tree/mvp2/editorial-calendar) · [Intake and curator branch](https://github.com/Suede0619/asw_artist_webform/tree/mvp2/editorial-calendar)
+The MVP2 calendar, newsletter and sponsorship workflows remain in the feature branches. [Feature scope and staging settings](https://github.com/Suede0619/asw_artist_webform/blob/mvp2/editorial-calendar/MVP2-EDITORIAL-SCOPE.md) · [Public catalog branch](https://github.com/Suede0619/sw-arts-website/tree/mvp2/editorial-calendar) · [Intake and curator branch](https://github.com/Suede0619/asw_artist_webform/tree/mvp2/editorial-calendar)
 
 ## November 26 venue photos and detail page spacing
 
